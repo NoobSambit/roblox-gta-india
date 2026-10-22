@@ -1,0 +1,2132 @@
+{
+  "assetId": "kolkata.tier2.writers_building",
+  "label": "Writers' Building",
+  "units": "Roblox studs",
+  "front": "-Z",
+  "pivot": [
+    0,
+    0,
+    0
+  ],
+  "bounds": [
+    240.0,
+    68.725,
+    64.5
+  ],
+  "palette": {
+    "Ivory": [
+      0.88,
+      0.86,
+      0.75,
+      1
+    ],
+    "White": [
+      0.96,
+      0.95,
+      0.88,
+      1
+    ],
+    "Red": [
+      0.47,
+      0.065,
+      0.038,
+      1
+    ],
+    "RedLight": [
+      0.62,
+      0.13,
+      0.075,
+      1
+    ],
+    "Shadow": [
+      0.21,
+      0.24,
+      0.22,
+      1
+    ],
+    "Glass": [
+      0.035,
+      0.095,
+      0.1,
+      1
+    ],
+    "Green": [
+      0.035,
+      0.18,
+      0.085,
+      1
+    ],
+    "GreenLight": [
+      0.065,
+      0.27,
+      0.13,
+      1
+    ],
+    "Slate": [
+      0.105,
+      0.145,
+      0.16,
+      1
+    ],
+    "Gold": [
+      0.66,
+      0.43,
+      0.12,
+      1
+    ],
+    "Stone": [
+      0.48,
+      0.47,
+      0.4,
+      1
+    ],
+    "Court": [
+      0.57,
+      0.52,
+      0.42,
+      1
+    ],
+    "Grass": [
+      0.18,
+      0.34,
+      0.16,
+      1
+    ],
+    "Wood": [
+      0.24,
+      0.12,
+      0.055,
+      1
+    ],
+    "Saffron": [
+      0.94,
+      0.29,
+      0.035,
+      1
+    ],
+    "Blue": [
+      0.015,
+      0.07,
+      0.28,
+      1
+    ]
+  },
+  "objects": [
+    {
+      "name": "WB_MainEnvelope__Red",
+      "meshKey": "MainEnvelope__Red",
+      "position": [
+        0,
+        26.5,
+        0
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "WB_StoneBase__Stone",
+      "meshKey": "StoneBase__Stone",
+      "position": [
+        0,
+        1,
+        0
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "WB_CorniceBands__Ivory",
+      "meshKey": "CorniceBands__Ivory",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "WB_StreetBay_-1_0__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_0__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_0__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_0__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_0__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_1__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_1__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_1__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_1__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_1__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_2__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_2__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_2__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_2__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_2__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_3__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_3__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_3__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_3__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_3__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_4__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_4__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_4__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_4__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_4__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_5__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_5__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_5__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_5__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_5__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_6__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_6__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_6__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_6__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_6__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_7__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_7__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_7__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_7__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_7__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_8__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_8__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_8__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_8__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_-1_8__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_EndBay_-1_0__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -118.02,
+        0,
+        -17.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_0__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -118.02,
+        0,
+        -17.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_0__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -118.02,
+        0,
+        -17.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_0__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -118.02,
+        0,
+        -17.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_0__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -118.02,
+        0,
+        -17.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_1__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_1__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_1__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_1__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_1__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_2__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_2__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_2__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_2__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_2__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_3__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        -118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_3__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        -118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_3__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        -118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_3__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        -118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_-1_3__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        -118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_StreetBay_1_0__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_0__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_0__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_0__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_0__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        32.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_1__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_1__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_1__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_1__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_1__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        41.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_2__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_2__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_2__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_2__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_2__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        51.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_3__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_3__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_3__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_3__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_3__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        60.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_4__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_4__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_4__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_4__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_4__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        70.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_5__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_5__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_5__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_5__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_5__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        79.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_6__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_6__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_6__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_6__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_6__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        89.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_7__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_7__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_7__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_7__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_7__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        98.5,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_8__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_8__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_8__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_8__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_StreetBay_1_8__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        108.0,
+        0,
+        -28.02
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_EndBay_1_0__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        118.02,
+        0,
+        -17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_0__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        118.02,
+        0,
+        -17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_0__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        118.02,
+        0,
+        -17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_0__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        118.02,
+        0,
+        -17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_0__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        118.02,
+        0,
+        -17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_1__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_1__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_1__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_1__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_1__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        118.02,
+        0,
+        -5.800000000000001
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_2__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_2__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_2__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_2__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_2__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        118.02,
+        0,
+        5.399999999999999
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_3__Glass",
+      "meshKey": "ThreeStoreyBay__Glass",
+      "position": [
+        118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_3__Ivory",
+      "meshKey": "ThreeStoreyBay__Ivory",
+      "position": [
+        118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_3__Green",
+      "meshKey": "ThreeStoreyBay__Green",
+      "position": [
+        118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_3__GreenLight",
+      "meshKey": "ThreeStoreyBay__GreenLight",
+      "position": [
+        118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_EndBay_1_3__RedLight",
+      "meshKey": "ThreeStoreyBay__RedLight",
+      "position": [
+        118.02,
+        0,
+        16.599999999999994
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "WB_CentralPortico__Glass",
+      "meshKey": "CentralPortico__Glass",
+      "position": [
+        0,
+        0,
+        -28
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_CentralPortico__Ivory",
+      "meshKey": "CentralPortico__Ivory",
+      "position": [
+        0,
+        0,
+        -28
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_CentralPortico__Green",
+      "meshKey": "CentralPortico__Green",
+      "position": [
+        0,
+        0,
+        -28
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_CentralPortico__GreenLight",
+      "meshKey": "CentralPortico__GreenLight",
+      "position": [
+        0,
+        0,
+        -28
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_CentralPortico__Red",
+      "meshKey": "CentralPortico__Red",
+      "position": [
+        0,
+        0,
+        -28
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_CentralPortico__Gold",
+      "meshKey": "CentralPortico__Gold",
+      "position": [
+        0,
+        0,
+        -28
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "WB_RoofSculpture_-1__RedLight",
+      "meshKey": "RoofSculpture_-1__RedLight",
+      "position": [
+        -70,
+        54.5,
+        -26
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "WB_RoofSculpture_-1__Ivory",
+      "meshKey": "RoofSculpture_-1__Ivory",
+      "position": [
+        -70,
+        54.5,
+        -26
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "WB_RoofSculpture_1__RedLight",
+      "meshKey": "RoofSculpture_1__RedLight",
+      "position": [
+        70,
+        54.5,
+        -26
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "WB_RoofSculpture_1__Ivory",
+      "meshKey": "RoofSculpture_1__Ivory",
+      "position": [
+        70,
+        54.5,
+        -26
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "WB_MansardRoof__Slate",
+      "meshKey": "MansardRoof__Slate",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "WB_DormersAndCornice__Ivory",
+      "meshKey": "DormersAndCornice__Ivory",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "WB_DormersAndCornice__Red",
+      "meshKey": "DormersAndCornice__Red",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "WB_DormersAndCornice__Glass",
+      "meshKey": "DormersAndCornice__Glass",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "WB_RearWindow_0__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -102.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_0__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -102.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_1__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -86.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_1__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -86.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_2__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -70.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_2__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -70.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_3__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -54.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_3__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -54.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_4__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -38.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_4__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -38.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_5__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -22.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_5__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -22.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_6__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -6.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_6__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -6.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_7__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        10.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_7__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        10.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_8__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        26.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_8__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        26.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_9__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        42.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_9__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        42.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_10__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        58.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_10__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        58.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_11__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        74.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_11__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        74.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_12__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        90.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_RearWindow_12__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        90.0,
+        0,
+        28.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "WB_Foundation__Stone",
+      "meshKey": "Foundation__Stone",
+      "position": [
+        0,
+        0.25,
+        0
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    },
+    {
+      "name": "WB_PorticoFooting__Stone",
+      "meshKey": "PorticoFooting__Stone",
+      "position": [
+        0,
+        0.25,
+        -30
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    }
+  ],
+  "collisionBoxes": [
+    {
+      "name": "MainEnvelope",
+      "position": [
+        0,
+        26.5,
+        0
+      ],
+      "size": [
+        236,
+        53,
+        56
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "StoneBase",
+      "position": [
+        0,
+        1,
+        0
+      ],
+      "size": [
+        238,
+        2,
+        58
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "Foundation",
+      "position": [
+        0,
+        0.25,
+        0
+      ],
+      "size": [
+        240,
+        0.8,
+        60
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "PorticoFooting",
+      "position": [
+        0,
+        0.25,
+        -30
+      ],
+      "size": [
+        58,
+        0.8,
+        9
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    }
+  ],
+  "meshes": {
+    "WB_RoofSculpture_-1__RedLight": 12,
+    "WB_RearWindow__Ivory": 252,
+    "WB_PorticoFooting__Stone": 12,
+    "WB_CorniceBands__Ivory": 144,
+    "WB_CentralPortico__Ivory": 3888,
+    "WB_CentralPortico__Green": 120,
+    "WB_CentralPortico__GreenLight": 240,
+    "WB_MansardRoof__Slate": 10,
+    "WB_DormersAndCornice__Red": 228,
+    "WB_DormersAndCornice__Glass": 228,
+    "WB_RoofSculpture_-1__Ivory": 288,
+    "WB_RoofSculpture_1__Ivory": 288,
+    "WB_ThreeStoreyBay__Ivory": 504,
+    "WB_ThreeStoreyBay__Green": 72,
+    "WB_CentralPortico__Glass": 540,
+    "WB_ThreeStoreyBay__RedLight": 24,
+    "WB_MainEnvelope__Red": 12,
+    "WB_ThreeStoreyBay__Glass": 108,
+    "WB_DormersAndCornice__Ivory": 2280,
+    "WB_RearWindow__Glass": 36,
+    "WB_StoneBase__Stone": 12,
+    "WB_CentralPortico__Gold": 48,
+    "WB_RoofSculpture_1__RedLight": 12,
+    "WB_Foundation__Stone": 12,
+    "WB_ThreeStoreyBay__GreenLight": 144,
+    "WB_CentralPortico__Red": 80
+  },
+  "notes": "Exterior asset; no full rooms. No runtime generator. Clone repeated MeshKeys with shared mesh IDs during later integration."
+}

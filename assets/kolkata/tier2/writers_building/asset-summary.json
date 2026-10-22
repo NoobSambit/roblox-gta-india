@@ -1,0 +1,20 @@
+{
+  "building": "Writers' Building",
+  "path": "assets\\kolkata\\tier2\\writers_building",
+  "source": "WB_writers_building.blend",
+  "fbx": "exports\\WB_writers_building_Roblox.fbx",
+  "meshObjects": 175,
+  "uniqueMeshes": 26,
+  "triangles": 34350,
+  "largestMeshTriangles": 3888,
+  "boundsStuds": [
+    240.0,
+    68.725,
+    64.5
+  ],
+  "collisionBoxes": 4,
+  "sourceBytes": 197782,
+  "exportBytes": 769484,
+  "sourceSaved": true,
+  "exportSucceeded": true
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "building": "writers_building",
+    "index": 1,
+    "title": "File:Facade of Writers Building - Central Kolkata.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Facade_of_Writers_Building_-_Central_Kolkata.jpg",
+    "path": "artifacts\\references\\tier2\\writers_building\\01.jpg",
+    "usage": "Reference only; see source for photographer and licence. Not incorporated into game assets."
+  },
+  {
+    "building": "writers_building",
+    "index": 2,
+    "title": "File:Writer's Building (14839686585).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Writer's_Building_(14839686585).jpg",
+    "path": "artifacts\\references\\tier2\\writers_building\\02.jpg",
+    "usage": "Reference only; see source for photographer and licence. Not incorporated into game assets."
+  },
+  {
+    "building": "writers_building",
+    "index": 3,
+    "title": "File:Red brick wall of the Writers' Building, Kolkata 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_brick_wall_of_the_Writers'_Building,_Kolkata_02.jpg",
+    "path": "artifacts\\references\\tier2\\writers_building\\03.jpg",
+    "usage": "Reference only; see source for photographer and licence. Not incorporated into game assets."
+  },
+  {
+    "building": "writers_building",
+    "index": 4,
+    "title": "File:Writers Building Kolkata, Former East India Company Headquarter.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Writers_Building_Kolkata,_Former_East_India_Company_Headquarter.jpg",
+    "path": "artifacts\\references\\tier2\\writers_building\\04.jpg",
+    "usage": "Reference only; see source for photographer and licence. Not incorporated into game assets."
+  },
+  {
+    "building": "writers_building",
+    "index": 5,
+    "title": "File:Writer's Building 05.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Writer's_Building_05.jpg",
+    "path": "artifacts\\references\\tier2\\writers_building\\05.jpg",
+    "usage": "Reference only; see source for photographer and licence. Not incorporated into game assets."
+  }
+]
