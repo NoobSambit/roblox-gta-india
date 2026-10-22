@@ -1,0 +1,3765 @@
+{
+  "assetId": "kolkata.tier2.jorasanko_thakur_bari",
+  "label": "Jorasanko Thakur Bari",
+  "units": "Roblox studs",
+  "front": "-Z",
+  "pivot": [
+    0,
+    0,
+    0
+  ],
+  "bounds": [
+    134.0,
+    38.4,
+    114.0
+  ],
+  "palette": {
+    "Ivory": [
+      0.88,
+      0.86,
+      0.75,
+      1
+    ],
+    "White": [
+      0.96,
+      0.95,
+      0.88,
+      1
+    ],
+    "Red": [
+      0.47,
+      0.065,
+      0.038,
+      1
+    ],
+    "RedLight": [
+      0.62,
+      0.13,
+      0.075,
+      1
+    ],
+    "Shadow": [
+      0.21,
+      0.24,
+      0.22,
+      1
+    ],
+    "Glass": [
+      0.035,
+      0.095,
+      0.1,
+      1
+    ],
+    "Green": [
+      0.035,
+      0.18,
+      0.085,
+      1
+    ],
+    "GreenLight": [
+      0.065,
+      0.27,
+      0.13,
+      1
+    ],
+    "Slate": [
+      0.105,
+      0.145,
+      0.16,
+      1
+    ],
+    "Gold": [
+      0.66,
+      0.43,
+      0.12,
+      1
+    ],
+    "Stone": [
+      0.48,
+      0.47,
+      0.4,
+      1
+    ],
+    "Court": [
+      0.57,
+      0.52,
+      0.42,
+      1
+    ],
+    "Grass": [
+      0.18,
+      0.34,
+      0.16,
+      1
+    ],
+    "Wood": [
+      0.24,
+      0.12,
+      0.055,
+      1
+    ],
+    "Saffron": [
+      0.94,
+      0.29,
+      0.035,
+      1
+    ],
+    "Blue": [
+      0.015,
+      0.07,
+      0.28,
+      1
+    ]
+  },
+  "objects": [
+    {
+      "name": "JTB_SideWing_-1__Red",
+      "meshKey": "SideWing_-1__Red",
+      "position": [
+        -57,
+        18,
+        0
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "JTB_EntranceWing_-1__Red",
+      "meshKey": "EntranceWing_-1__Red",
+      "position": [
+        -30,
+        18,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "JTB_SideWing_1__Red",
+      "meshKey": "SideWing_1__Red",
+      "position": [
+        57,
+        18,
+        0
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "JTB_EntranceWing_1__Red",
+      "meshKey": "EntranceWing_1__Red",
+      "position": [
+        30,
+        18,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "JTB_RearWing__Red",
+      "meshKey": "RearWing__Red",
+      "position": [
+        0,
+        18,
+        48
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "JTB_WhiteCourtLining_-1__White",
+      "meshKey": "WhiteCourtLining_-1__White",
+      "position": [
+        -47.85,
+        18,
+        0
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_WhiteCourtLining_1__White",
+      "meshKey": "WhiteCourtLining_1__White",
+      "position": [
+        47.85,
+        18,
+        0
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_WhiteRearLining__White",
+      "meshKey": "WhiteRearLining__White",
+      "position": [
+        0,
+        18,
+        39.85
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtyardPaving__Court",
+      "meshKey": "CourtyardPaving__Court",
+      "position": [
+        0,
+        0.1,
+        0
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "JTB_CourtyardLawn__Grass",
+      "meshKey": "CourtyardLawn__Grass",
+      "position": [
+        0,
+        0.19,
+        -13
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_FrontBay_-1_0__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -11,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_0__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -11,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_0__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -11,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_0__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -11,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_1__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -20,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_1__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -20,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_1__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -20,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_1__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -20,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_2__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -29,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_2__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -29,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_2__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -29,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_2__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -29,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_3__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -38,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_3__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -38,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_3__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -38,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_3__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -38,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_4__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -47,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_4__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -47,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_4__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -47,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_-1_4__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -47,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_OuterSide_-1_0__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        -44.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_0__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        -44.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_0__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        -44.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_0__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        -44.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_1__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        -34.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_1__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        -34.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_1__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        -34.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_1__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        -34.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_2__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        -25.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_2__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        -25.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_2__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        -25.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_2__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        -25.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_3__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        -15.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_3__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        -15.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_3__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        -15.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_3__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        -15.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_4__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        -6.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_4__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        -6.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_4__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        -6.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_4__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        -6.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_5__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        3.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_5__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        3.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_5__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        3.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_5__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        3.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_6__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        13.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_6__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        13.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_6__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        13.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_6__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        13.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_7__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        22.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_7__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        22.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_7__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        22.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_7__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        22.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_8__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        32.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_8__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        32.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_8__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        32.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_8__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        32.0
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_9__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        -66.03,
+        0,
+        41.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_9__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        -66.03,
+        0,
+        41.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_9__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        -66.03,
+        0,
+        41.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_-1_9__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        -66.03,
+        0,
+        41.5
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_FrontBay_1_0__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        11,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_0__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        11,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_0__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        11,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_0__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        11,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_1__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        20,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_1__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        20,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_1__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        20,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_1__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        20,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_2__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        29,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_2__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        29,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_2__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        29,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_2__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        29,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_3__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        38,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_3__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        38,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_3__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        38,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_3__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        38,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_4__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        47,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_4__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        47,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_4__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        47,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_FrontBay_1_4__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        47,
+        0,
+        -56.03
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_OuterSide_1_0__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        -44.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_0__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        -44.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_0__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        -44.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_0__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        -44.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_1__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        -34.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_1__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        -34.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_1__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        -34.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_1__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        -34.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_2__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        -25.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_2__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        -25.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_2__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        -25.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_2__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        -25.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_3__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        -15.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_3__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        -15.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_3__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        -15.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_3__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        -15.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_4__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        -6.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_4__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        -6.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_4__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        -6.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_4__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        -6.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_5__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        3.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_5__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        3.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_5__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        3.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_5__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        3.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_6__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        13.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_6__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        13.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_6__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        13.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_6__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        13.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_7__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        22.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_7__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        22.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_7__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        22.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_7__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        22.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_8__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        32.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_8__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        32.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_8__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        32.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_8__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        32.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_9__Glass",
+      "meshKey": "RedShutterBay__Glass",
+      "position": [
+        66.03,
+        0,
+        41.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_9__Ivory",
+      "meshKey": "RedShutterBay__Ivory",
+      "position": [
+        66.03,
+        0,
+        41.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_9__Green",
+      "meshKey": "RedShutterBay__Green",
+      "position": [
+        66.03,
+        0,
+        41.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_OuterSide_1_9__GreenLight",
+      "meshKey": "RedShutterBay__GreenLight",
+      "position": [
+        66.03,
+        0,
+        41.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "JTB_SideCornice_-1__Ivory",
+      "meshKey": "SideCornice_-1__Ivory",
+      "position": [
+        -57,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "JTB_SideCornice_1__Ivory",
+      "meshKey": "SideCornice_1__Ivory",
+      "position": [
+        57,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "JTB_CrossCornice_-48__Ivory",
+      "meshKey": "CrossCornice_-48__Ivory",
+      "position": [
+        0,
+        0,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "JTB_CrossCornice_48__Ivory",
+      "meshKey": "CrossCornice_48__Ivory",
+      "position": [
+        0,
+        0,
+        48
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "JTB_GalleryFloor_-1__Ivory",
+      "meshKey": "GalleryFloor_-1__Ivory",
+      "position": [
+        -44.5,
+        0.6,
+        0
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_GalleryUpper_-1__Ivory",
+      "meshKey": "GalleryUpper_-1__Ivory",
+      "position": [
+        -44.5,
+        18,
+        0
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_GalleryFloor_1__Ivory",
+      "meshKey": "GalleryFloor_1__Ivory",
+      "position": [
+        44.5,
+        0.6,
+        0
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_GalleryUpper_1__Ivory",
+      "meshKey": "GalleryUpper_1__Ivory",
+      "position": [
+        44.5,
+        18,
+        0
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearGalleryFloor__Ivory",
+      "meshKey": "RearGalleryFloor__Ivory",
+      "position": [
+        0,
+        0.6,
+        36.5
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearGalleryUpper__Ivory",
+      "meshKey": "RearGalleryUpper__Ivory",
+      "position": [
+        0,
+        18,
+        36.5
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_0__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -41,
+        0,
+        -33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_0__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -41,
+        0,
+        -33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_0__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -41,
+        0,
+        -33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_0__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -41,
+        0,
+        -33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_0__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -41,
+        0,
+        -33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_1__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -41,
+        0,
+        -23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_1__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -41,
+        0,
+        -23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_1__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -41,
+        0,
+        -23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_1__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -41,
+        0,
+        -23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_1__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -41,
+        0,
+        -23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_2__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -41,
+        0,
+        -14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_2__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -41,
+        0,
+        -14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_2__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -41,
+        0,
+        -14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_2__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -41,
+        0,
+        -14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_2__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -41,
+        0,
+        -14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_3__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -41,
+        0,
+        -4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_3__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -41,
+        0,
+        -4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_3__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -41,
+        0,
+        -4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_3__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -41,
+        0,
+        -4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_3__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -41,
+        0,
+        -4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_4__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -41,
+        0,
+        4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_4__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -41,
+        0,
+        4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_4__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -41,
+        0,
+        4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_4__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -41,
+        0,
+        4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_4__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -41,
+        0,
+        4.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_5__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -41,
+        0,
+        14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_5__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -41,
+        0,
+        14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_5__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -41,
+        0,
+        14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_5__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -41,
+        0,
+        14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_5__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -41,
+        0,
+        14.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_6__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -41,
+        0,
+        23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_6__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -41,
+        0,
+        23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_6__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -41,
+        0,
+        23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_6__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -41,
+        0,
+        23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_6__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -41,
+        0,
+        23.75
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_7__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -41,
+        0,
+        33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_7__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -41,
+        0,
+        33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_7__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -41,
+        0,
+        33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_7__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -41,
+        0,
+        33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_-1_7__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -41,
+        0,
+        33.25
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_0__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        41,
+        0,
+        -33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_0__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        41,
+        0,
+        -33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_0__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        41,
+        0,
+        -33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_0__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        41,
+        0,
+        -33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_0__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        41,
+        0,
+        -33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_1__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        41,
+        0,
+        -23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_1__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        41,
+        0,
+        -23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_1__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        41,
+        0,
+        -23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_1__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        41,
+        0,
+        -23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_1__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        41,
+        0,
+        -23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_2__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        41,
+        0,
+        -14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_2__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        41,
+        0,
+        -14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_2__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        41,
+        0,
+        -14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_2__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        41,
+        0,
+        -14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_2__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        41,
+        0,
+        -14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_3__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        41,
+        0,
+        -4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_3__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        41,
+        0,
+        -4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_3__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        41,
+        0,
+        -4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_3__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        41,
+        0,
+        -4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_3__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        41,
+        0,
+        -4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_4__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        41,
+        0,
+        4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_4__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        41,
+        0,
+        4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_4__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        41,
+        0,
+        4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_4__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        41,
+        0,
+        4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_4__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        41,
+        0,
+        4.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_5__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        41,
+        0,
+        14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_5__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        41,
+        0,
+        14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_5__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        41,
+        0,
+        14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_5__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        41,
+        0,
+        14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_5__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        41,
+        0,
+        14.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_6__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        41,
+        0,
+        23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_6__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        41,
+        0,
+        23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_6__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        41,
+        0,
+        23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_6__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        41,
+        0,
+        23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_6__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        41,
+        0,
+        23.75
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_7__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        41,
+        0,
+        33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_7__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        41,
+        0,
+        33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_7__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        41,
+        0,
+        33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_7__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        41,
+        0,
+        33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_CourtSide_1_7__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        41,
+        0,
+        33.25
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_0__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_0__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_0__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_0__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_0__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_1__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_1__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_1__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_1__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_1__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_2__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_2__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_2__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_2__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_2__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_3__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        -9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_3__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        -9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_3__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        -9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_3__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        -9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_3__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        -9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_4__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        0.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_4__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        0.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_4__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        0.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_4__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        0.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_4__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        0.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_5__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_5__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_5__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_5__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_5__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        9.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_6__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_6__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_6__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_6__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_6__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        19.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_7__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_7__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_7__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_7__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_7__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        28.5,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_8__White",
+      "meshKey": "InnerGalleryBay__White",
+      "position": [
+        38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_8__Ivory",
+      "meshKey": "InnerGalleryBay__Ivory",
+      "position": [
+        38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_8__Glass",
+      "meshKey": "InnerGalleryBay__Glass",
+      "position": [
+        38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_8__Green",
+      "meshKey": "InnerGalleryBay__Green",
+      "position": [
+        38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_RearCourt_8__GreenLight",
+      "meshKey": "InnerGalleryBay__GreenLight",
+      "position": [
+        38.0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_ThakurDalanArcade__White",
+      "meshKey": "ThakurDalanArcade__White",
+      "position": [
+        0,
+        0,
+        31
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_DalanStep_0__Ivory",
+      "meshKey": "DalanStep_0__Ivory",
+      "position": [
+        0,
+        0.2,
+        26.0
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_DalanStep_1__Ivory",
+      "meshKey": "DalanStep_1__Ivory",
+      "position": [
+        0,
+        0.4,
+        27.3
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_DalanStep_2__Ivory",
+      "meshKey": "DalanStep_2__Ivory",
+      "position": [
+        0,
+        0.6000000000000001,
+        28.6
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_OpenEntrancePassage__Ivory",
+      "meshKey": "OpenEntrancePassage__Ivory",
+      "position": [
+        0,
+        0,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_OpenEntrancePassage__Red",
+      "meshKey": "OpenEntrancePassage__Red",
+      "position": [
+        0,
+        0,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_OpenEntrancePassage__Glass",
+      "meshKey": "OpenEntrancePassage__Glass",
+      "position": [
+        0,
+        0,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_OpenEntrancePassage__Green",
+      "meshKey": "OpenEntrancePassage__Green",
+      "position": [
+        0,
+        0,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_OpenEntrancePassage__GreenLight",
+      "meshKey": "OpenEntrancePassage__GreenLight",
+      "position": [
+        0,
+        0,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "JTB_EntranceThreshold__Court",
+      "meshKey": "EntranceThreshold__Court",
+      "position": [
+        0,
+        0.1,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Courtyard"
+    },
+    {
+      "name": "JTB_StreetParapet__Ivory",
+      "meshKey": "StreetParapet__Ivory",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "JTB_RearWindow_0__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -49.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_0__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -49.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_1__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -35.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_1__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -35.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_2__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -21.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_2__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -21.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_3__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -7.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_3__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -7.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_4__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        7.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_4__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        7.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_5__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        21.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_5__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        21.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_6__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        35.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_6__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        35.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_7__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        49.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_RearWindow_7__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        49.0,
+        0,
+        56.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "JTB_SideFoundation_-1__Stone",
+      "meshKey": "SideFoundation_-1__Stone",
+      "position": [
+        -57,
+        0.25,
+        0
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    },
+    {
+      "name": "JTB_EntranceFoundation_-1__Stone",
+      "meshKey": "EntranceFoundation_-1__Stone",
+      "position": [
+        -30,
+        0.25,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    },
+    {
+      "name": "JTB_SideFoundation_1__Stone",
+      "meshKey": "SideFoundation_1__Stone",
+      "position": [
+        57,
+        0.25,
+        0
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    },
+    {
+      "name": "JTB_EntranceFoundation_1__Stone",
+      "meshKey": "EntranceFoundation_1__Stone",
+      "position": [
+        30,
+        0.25,
+        -48
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    },
+    {
+      "name": "JTB_RearFoundation__Stone",
+      "meshKey": "RearFoundation__Stone",
+      "position": [
+        0,
+        0.25,
+        48
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    }
+  ],
+  "collisionBoxes": [
+    {
+      "name": "SideWing_-1",
+      "position": [
+        -57,
+        18,
+        0
+      ],
+      "size": [
+        18,
+        36,
+        112
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceWing_-1",
+      "position": [
+        -30,
+        18,
+        -48
+      ],
+      "size": [
+        48,
+        36,
+        16
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "SideWing_1",
+      "position": [
+        57,
+        18,
+        0
+      ],
+      "size": [
+        18,
+        36,
+        112
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceWing_1",
+      "position": [
+        30,
+        18,
+        -48
+      ],
+      "size": [
+        48,
+        36,
+        16
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "RearWing",
+      "position": [
+        0,
+        18,
+        48
+      ],
+      "size": [
+        96,
+        36,
+        16
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "CourtyardPaving",
+      "position": [
+        0,
+        0.1,
+        0
+      ],
+      "size": [
+        96,
+        0.2,
+        80
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "GalleryFloor_-1",
+      "position": [
+        -44.5,
+        0.6,
+        0
+      ],
+      "size": [
+        7,
+        1.2,
+        80
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "GalleryUpper_-1",
+      "position": [
+        -44.5,
+        18,
+        0
+      ],
+      "size": [
+        7,
+        0.75,
+        80
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "GalleryFloor_1",
+      "position": [
+        44.5,
+        0.6,
+        0
+      ],
+      "size": [
+        7,
+        1.2,
+        80
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "GalleryUpper_1",
+      "position": [
+        44.5,
+        18,
+        0
+      ],
+      "size": [
+        7,
+        0.75,
+        80
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "RearGalleryFloor",
+      "position": [
+        0,
+        0.6,
+        36.5
+      ],
+      "size": [
+        89,
+        1.2,
+        7
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "RearGalleryUpper",
+      "position": [
+        0,
+        18,
+        36.5
+      ],
+      "size": [
+        89,
+        0.75,
+        7
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "DalanStep_0",
+      "position": [
+        0,
+        0.2,
+        26.0
+      ],
+      "size": [
+        43,
+        0.4,
+        1.5
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "DalanStep_1",
+      "position": [
+        0,
+        0.4,
+        27.3
+      ],
+      "size": [
+        43,
+        0.8,
+        1.5
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "DalanStep_2",
+      "position": [
+        0,
+        0.6000000000000001,
+        28.6
+      ],
+      "size": [
+        43,
+        1.2000000000000002,
+        1.5
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceLintel",
+      "position": [
+        0,
+        14.7,
+        -48
+      ],
+      "size": [
+        12,
+        7.5,
+        16
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceThreshold",
+      "position": [
+        0,
+        0.1,
+        -48
+      ],
+      "size": [
+        12,
+        0.2,
+        16
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "SideFoundation_-1",
+      "position": [
+        -57,
+        0.25,
+        0
+      ],
+      "size": [
+        20,
+        0.8,
+        114
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceFoundation_-1",
+      "position": [
+        -30,
+        0.25,
+        -48
+      ],
+      "size": [
+        48,
+        0.8,
+        18
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "SideFoundation_1",
+      "position": [
+        57,
+        0.25,
+        0
+      ],
+      "size": [
+        20,
+        0.8,
+        114
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceFoundation_1",
+      "position": [
+        30,
+        0.25,
+        -48
+      ],
+      "size": [
+        48,
+        0.8,
+        18
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "RearFoundation",
+      "position": [
+        0,
+        0.25,
+        48
+      ],
+      "size": [
+        98,
+        0.8,
+        18
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    }
+  ],
+  "meshes": {
+    "JTB_SideWing_1__Red": 12,
+    "JTB_SideCornice_1__Ivory": 48,
+    "JTB_GalleryFloor_-1__Ivory": 12,
+    "JTB_InnerGalleryBay__White": 578,
+    "JTB_DalanStep_2__Ivory": 12,
+    "JTB_SideFoundation_1__Stone": 12,
+    "JTB_WhiteCourtLining_-1__White": 12,
+    "JTB_RedShutterBay__GreenLight": 96,
+    "JTB_GalleryUpper_1__Ivory": 12,
+    "JTB_OpenEntrancePassage__Green": 24,
+    "JTB_StreetParapet__Ivory": 144,
+    "JTB_RearWindow__Glass": 24,
+    "JTB_EntranceFoundation_-1__Stone": 12,
+    "JTB_EntranceWing_-1__Red": 12,
+    "JTB_WhiteCourtLining_1__White": 12,
+    "JTB_GalleryUpper_-1__Ivory": 12,
+    "JTB_InnerGalleryBay__GreenLight": 96,
+    "JTB_DalanStep_0__Ivory": 12,
+    "JTB_DalanStep_1__Ivory": 12,
+    "JTB_OpenEntrancePassage__Red": 24,
+    "JTB_RearWindow__Ivory": 168,
+    "JTB_CourtyardPaving__Court": 12,
+    "JTB_RedShutterBay__Ivory": 272,
+    "JTB_CrossCornice_48__Ivory": 36,
+    "JTB_RearWing__Red": 12,
+    "JTB_RearGalleryUpper__Ivory": 12,
+    "JTB_ThakurDalanArcade__White": 1516,
+    "JTB_OpenEntrancePassage__Glass": 48,
+    "JTB_OpenEntrancePassage__GreenLight": 48,
+    "JTB_EntranceThreshold__Court": 12,
+    "JTB_RearFoundation__Stone": 12,
+    "JTB_WhiteRearLining__White": 12,
+    "JTB_RedShutterBay__Green": 48,
+    "JTB_SideCornice_-1__Ivory": 48,
+    "JTB_SideWing_-1__Red": 12,
+    "JTB_GalleryFloor_1__Ivory": 12,
+    "JTB_RearGalleryFloor__Ivory": 12,
+    "JTB_InnerGalleryBay__Ivory": 412,
+    "JTB_InnerGalleryBay__Green": 48,
+    "JTB_EntranceWing_1__Red": 12,
+    "JTB_CourtyardLawn__Grass": 12,
+    "JTB_RedShutterBay__Glass": 60,
+    "JTB_CrossCornice_-48__Ivory": 36,
+    "JTB_InnerGalleryBay__Glass": 60,
+    "JTB_OpenEntrancePassage__Ivory": 260,
+    "JTB_EntranceFoundation_1__Stone": 12,
+    "JTB_SideFoundation_-1__Stone": 12
+  },
+  "notes": "Exterior asset; no full rooms. No runtime generator. Clone repeated MeshKeys with shared mesh IDs during later integration."
+}

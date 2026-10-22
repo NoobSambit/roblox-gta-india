@@ -1,0 +1,20 @@
+{
+  "building": "Jorasanko Thakur Bari",
+  "path": "assets\\kolkata\\tier2\\jorasanko_thakur_bari",
+  "source": "JTB_jorasanko_thakur_bari.blend",
+  "fbx": "exports\\JTB_jorasanko_thakur_bari_Roblox.fbx",
+  "meshObjects": 297,
+  "uniqueMeshes": 47,
+  "triangles": 48198,
+  "largestMeshTriangles": 1516,
+  "boundsStuds": [
+    134.0,
+    38.4,
+    114.0
+  ],
+  "collisionBoxes": 22,
+  "sourceBytes": 168698,
+  "exportBytes": 1236652,
+  "sourceSaved": true,
+  "exportSucceeded": true
+}
