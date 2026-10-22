@@ -1,0 +1,20 @@
+{
+  "building": "General Post Office",
+  "path": "assets\\kolkata\\tier2\\gpo",
+  "source": "GPO_gpo.blend",
+  "fbx": "exports\\GPO_gpo_Roblox.fbx",
+  "meshObjects": 148,
+  "uniqueMeshes": 31,
+  "triangles": 21698,
+  "largestMeshTriangles": 3548,
+  "boundsStuds": [
+    154.0,
+    86.15,
+    137.0
+  ],
+  "collisionBoxes": 9,
+  "sourceBytes": 194104,
+  "exportBytes": 630300,
+  "sourceSaved": true,
+  "exportSucceeded": true
+}

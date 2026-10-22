@@ -1,0 +1,44 @@
+[
+  {
+    "building": "gpo",
+    "index": "alt-1",
+    "title": "File:long colonnaded frontage",
+    "url": "https://assets.telegraphindia.com/telegraph/2024/Mar/1709811899_the-magic-of-elegant-corinthian-pillars.jpg",
+    "page": "https://www.telegraphindia.com/my-kolkata/places/250-years-of-calcutta-general-post-office-gpo-at-dalhousie-square-a-postcard-from-the-past/cid/2005391",
+    "path": "artifacts\\references\\tier2\\gpo\\alt-01.jpg",
+    "usage": "Reference only; photographer/source retain rights. No photo is incorporated in exported assets."
+  },
+  {
+    "building": "gpo",
+    "index": "alt-2",
+    "title": "File:corner dome and return",
+    "url": "https://assets.telegraphindia.com/telegraph/2024/Mar/1709812068_grand-dome-of-gpo-built-in-1868.jpg",
+    "page": "https://www.telegraphindia.com/my-kolkata/places/250-years-of-calcutta-general-post-office-gpo-at-dalhousie-square-a-postcard-from-the-past/cid/2005391",
+    "path": "artifacts\\references\\tier2\\gpo\\alt-02.jpg",
+    "usage": "Reference only; photographer/source retain rights. No photo is incorporated in exported assets."
+  },
+  {
+    "building": "gpo",
+    "index": 1,
+    "title": "File:General Post Office - 9 Netaji Subash Road - Eastern View - Kolkata 2016-06-02 4336.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:General_Post_Office_-_9_Netaji_Subash_Road_-_Eastern_View_-_Kolkata_2016-06-02_4336.JPG",
+    "path": "artifacts\\references\\tier2\\gpo\\01.jpg",
+    "usage": "Reference only; see source for photographer and licence. Not incorporated into game assets."
+  },
+  {
+    "building": "gpo",
+    "index": 2,
+    "title": "File:Calcutta GPO 2010-08-29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Calcutta_GPO_2010-08-29.jpg",
+    "path": "artifacts\\references\\tier2\\gpo\\02.jpg",
+    "usage": "Reference only; see source for photographer and licence. Not incorporated into game assets."
+  },
+  {
+    "building": "gpo",
+    "index": 4,
+    "title": "File:Dome of General Post Office,Kolkata.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dome_of_General_Post_Office,Kolkata.jpg",
+    "path": "artifacts\\references\\tier2\\gpo\\04.jpg",
+    "usage": "Reference only; see source for photographer and licence. Not incorporated into game assets."
+  }
+]
