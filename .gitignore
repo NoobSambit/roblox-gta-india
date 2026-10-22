@@ -1,0 +1,29 @@
+# Installed agent packages and machine-local configuration
+.agents/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
+
+# Blender/Python caches and automatic backups
+__pycache__/
+*.py[cod]
+*.blend[0-9]*
+*.blend@
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Local recovery sessions; authored milestone models remain tracked
+artifacts/recovery/
+
+# Downloaded third-party photos are local reference material only.
+# Retain provenance and reference manifests for reproducibility.
+artifacts/references/**
+!artifacts/references/**/
+!artifacts/references/**/*.json
+!artifacts/references/**/*.md

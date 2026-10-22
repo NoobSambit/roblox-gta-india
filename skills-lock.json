@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "skills": {
+    "roblox-analytics-liveops": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-analytics-liveops/SKILL.md",
+      "computedHash": "136f3fffc18de52c02cf18f28392f90a324eaa48d36e33ccd87bbc95c8d3d06b"
+    },
+    "roblox-architecture": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-architecture/SKILL.md",
+      "computedHash": "b922f511c589984e3aa1613bd601aed29e13cbe74891e1c2340ebe3ca65406be"
+    },
+    "roblox-audio": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-audio/SKILL.md",
+      "computedHash": "f20b615070f6f27ae0bad97d02eac883af14bda66db8feb13035c72dae136a69"
+    },
+    "roblox-characters-animation": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-characters-animation/SKILL.md",
+      "computedHash": "ee96b7f551fcf11ac42775ab2b7f8742223660419fe6687d4fc5bb60172abf68"
+    },
+    "roblox-code-review": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-code-review/SKILL.md",
+      "computedHash": "7ee7172b8204ac03a27b90755310231fda45c634ea7f1783a54037ea7652e23f"
+    },
+    "roblox-data-stores": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-data-stores/SKILL.md",
+      "computedHash": "dbea962e44e5a17346855f7be26329bec1cde04d4eb569fcc4e7a4634031bf58"
+    },
+    "roblox-game-systems": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-game-systems/SKILL.md",
+      "computedHash": "d29257006fd1959f2931ea0bf95f36f00d1e49d3ad8377ceb04ffec8f9b2cc30"
+    },
+    "roblox-input": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-input/SKILL.md",
+      "computedHash": "ab23590879b85cfe9ef667aa286631acec3a89ac1bbe22d41a0c505607794303"
+    },
+    "roblox-luau": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-luau/SKILL.md",
+      "computedHash": "61b3c9e36d8698e21585adc3a1b7b891fda9f7c5f2cfba1a28f5ed8a56c464f3"
+    },
+    "roblox-monetization": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-monetization/SKILL.md",
+      "computedHash": "60db2f8fc7a17ebc54b993ebbe2d6c2917204f5754fc2d0b70b111bd5801220d"
+    },
+    "roblox-networking": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-networking/SKILL.md",
+      "computedHash": "4f4c5db667d6652f2dad8f857f69d1e84b3462de026218ce7157833ce3aff340"
+    },
+    "roblox-npc-ai": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-npc-ai/SKILL.md",
+      "computedHash": "22ecf8c3b817418f4be8fa7586316b3102a39cca2e32f08cc351d406bcd4b5da"
+    },
+    "roblox-open-cloud": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-open-cloud/SKILL.md",
+      "computedHash": "082d9ff9ab8077fed97e1d097b9f42693c021dc987a3df03eb3b5995b3478346"
+    },
+    "roblox-performance": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-performance/SKILL.md",
+      "computedHash": "554e07d6cd1f9f420856cce28170bf2349f589d85139cd17d14001b9510a830f"
+    },
+    "roblox-physics": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-physics/SKILL.md",
+      "computedHash": "0b89be00df01c7f76d54df8c6d56a1175f905aee497ed55cd80fb41fbe797965"
+    },
+    "roblox-security": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-security/SKILL.md",
+      "computedHash": "a5315614a39e80ed765459f8115b9462e209a0bbd71ff8f7304339305c079813"
+    },
+    "roblox-studio-mcp": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-studio-mcp/SKILL.md",
+      "computedHash": "4798071cbc74f52e1494c8ee6a9761a327ef1a93c66470396f0188a9d59ff453"
+    },
+    "roblox-teleport-matchmaking": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-teleport-matchmaking/SKILL.md",
+      "computedHash": "589d927aced061a7d339e428e0eda06fe7bd54edbd735f4634be24ad27dcc567"
+    },
+    "roblox-testing": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-testing/SKILL.md",
+      "computedHash": "5c620a550162af9c4133bea2bc5ec7e43c747c1d47479786ece79b2c661dac9d"
+    },
+    "roblox-text-chat": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-text-chat/SKILL.md",
+      "computedHash": "e156a831f71898698faa05c56c35303502ba0f58acd2adcf8b63855363de8b6e"
+    },
+    "roblox-tooling": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-tooling/SKILL.md",
+      "computedHash": "3bccab7f297e3200a4551c9d559aec245087fec3b3dda9ea1db68cd8f123db79"
+    },
+    "roblox-ui": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-ui/SKILL.md",
+      "computedHash": "1b4909b35976ee0c931b7f6471e7a3995ff0f761f73a4af4de390fb1e135bcfd"
+    },
+    "roblox-world-building": {
+      "source": "EL4CTEO/roblox-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-world-building/SKILL.md",
+      "computedHash": "666310dd7cca8edd6e45fab3f7f5456519f79321a0984a07e97a3722709d7ee4"
+    }
+  }
+}
