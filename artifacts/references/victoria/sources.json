@@ -1,0 +1,218 @@
+[
+  {
+    "id": "01-north-elevation",
+    "url": "https://victoriamemorial-cal.org/media/2024/04/Victoria-Memorial-Hall-Kolkata.jpg",
+    "description": "Official Memorial; broad portal elevation, cornice and tower proportions",
+    "path": "artifacts\\references\\victoria\\01-north-elevation.jpg",
+    "dimensions": [
+      1600,
+      651
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "02-side-elevation",
+    "url": "https://s7ap1.scene7.com/is/image/incredibleindia/victoria-memorial-kolkata-west-bengal-tri-hero?qlt=82",
+    "description": "Incredible India tourism; curved colonnade and corner pavilion",
+    "path": "artifacts\\references\\victoria\\02-side-elevation.jpg",
+    "dimensions": [
+      1280,
+      720
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "03-south-approach",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/A_view_of_Victoria_memorial_hall_from_South_gate%2C_Kolkata_04.jpg",
+    "description": "Commons; photographed south approach, lawns and water",
+    "path": "artifacts\\references\\victoria\\03-south-approach.jpg",
+    "dimensions": [
+      3264,
+      1468
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "04-rear-elevation",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kolkata_Victoria_Memorial_Garden_IMG_20181214_100636.jpg",
+    "description": "Commons; rear elevation and accessible terrace",
+    "path": "artifacts\\references\\victoria\\04-rear-elevation.jpg",
+    "dimensions": [
+      4096,
+      2304
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "05-west-colonnade",
+    "url": "https://www.free-photos.biz/images/architecture/memorials/victoria_memorial__kolkata_-_west_facade_02.jpg",
+    "description": "Photograph labelled west facade; curved colonnade",
+    "path": "artifacts\\references\\victoria\\05-west-colonnade.jpg",
+    "dimensions": [
+      3792,
+      2628
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "06-east-quadrangle",
+    "url": "https://victoriamemorial-cal.org/media/2024/05/IMG_7597-1.jpg",
+    "description": "Official Memorial; Eastern Quadrangle",
+    "path": "artifacts\\references\\victoria\\06-east-quadrangle.jpg",
+    "dimensions": [
+      774,
+      1032
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "07-dome-detail",
+    "url": "https://victoriamemorial-cal.org/media/2024/05/DSC_9942.jpg",
+    "description": "Official Memorial; drum, chhatris, dome and Angel of Victory",
+    "path": "artifacts\\references\\victoria\\07-dome-detail.jpg",
+    "dimensions": [
+      1036,
+      691
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "08-aerial-massing",
+    "url": "https://mxp-media.ilnmedia.com/media/content/2016/Feb/waking-up-with-kolkata-aerial-view-video980-1454999682.jpg",
+    "description": "Sandip De aerial, reproduced in MensXP; roof and campus massing",
+    "path": "artifacts\\references\\victoria\\08-aerial-massing.jpg",
+    "dimensions": [
+      980,
+      457
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "09-queens-hall",
+    "url": "https://victoriamemorial-cal.org/media/2024/05/IMG_7658.png",
+    "description": "Official Memorial; Queen's Hall column and arch arrangement",
+    "path": "artifacts\\references\\victoria\\09-queens-hall.jpg",
+    "dimensions": [
+      932,
+      699
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "10-inner-dome",
+    "url": "https://victoriamemorial-cal.org/media/2024/05/IMG_7656.jpg",
+    "description": "Official Memorial; interior dome, clerestory and radial ceiling",
+    "path": "artifacts\\references\\victoria\\10-inner-dome.jpg",
+    "dimensions": [
+      1032,
+      774
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "11-entrance-hall",
+    "url": "https://victoriamemorial-cal.org/media/2024/05/IMG_7662.png",
+    "description": "Official Memorial; Entrance Hall vaults and circulation",
+    "path": "artifacts\\references\\victoria\\11-entrance-hall.jpg",
+    "dimensions": [
+      932,
+      699
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "12-prince-hall",
+    "url": "https://victoriamemorial-cal.org/media/2024/05/IMG_7649.png",
+    "description": "Official Memorial; Prince Hall gallery spatial proportions",
+    "path": "artifacts\\references\\victoria\\12-prince-hall.jpg",
+    "dimensions": [
+      932,
+      699
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "13-rotunda-floor",
+    "url": "https://victoriamemorial-cal.org/media/2024/05/IMG_7657.jpg",
+    "description": "Official Memorial; radial floor pattern and statue setting",
+    "path": "artifacts\\references\\victoria\\13-rotunda-floor.jpg",
+    "dimensions": [
+      1032,
+      774
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "14-rotunda-gallery",
+    "url": "https://victoriamemorial-cal.org/media/2024/05/IMG_7659.jpg",
+    "description": "Official Memorial; upper gallery and rotunda detail",
+    "path": "artifacts\\references\\victoria\\14-rotunda-gallery.jpg",
+    "dimensions": [
+      1032,
+      774
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "15-north-cardinal",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Back_side_facade_of_Victoria_Memorial_Hall_%2CKolkata.JPG",
+    "description": "Commons North-side category; photographer Winniekapoor123V; CC BY-SA 3.0",
+    "path": "artifacts\\references\\victoria\\15-north-cardinal.jpg",
+    "dimensions": [
+      1984,
+      1488
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "16-south-cardinal",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Victoria_Memorial%2C_Kolkata_India_Facade_from_the_Southern_End.jpg",
+    "description": "Commons; Anupam Roy Bardhan, processed by PawelMM; CC BY-SA 3.0 option",
+    "path": "artifacts\\references\\victoria\\16-south-cardinal.jpg",
+    "dimensions": [
+      2816,
+      2112
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "17-east-cardinal",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Looking_into_the_Mirror.jpg",
+    "description": "Commons East-side category; see original file page for attribution and licence",
+    "path": "artifacts\\references\\victoria\\17-east-cardinal.jpg",
+    "dimensions": [
+      4286,
+      2829
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  },
+  {
+    "id": "18-west-cardinal",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Victoria_Memorial%2C_Kolkata_-_West_facade_02.jpg",
+    "description": "Commons West-side category; see original file page for attribution and licence",
+    "path": "artifacts\\references\\victoria\\18-west-cardinal.jpg",
+    "dimensions": [
+      3792,
+      2628
+    ],
+    "status": "downloaded",
+    "usage": "Reference only; not a game texture or distributed asset. Rights remain with source."
+  }
+]

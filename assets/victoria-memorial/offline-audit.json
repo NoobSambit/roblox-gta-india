@@ -1,0 +1,52 @@
+{
+  "scope": "Offline authoring checks only; Studio import, actual collision, streaming and performance pending",
+  "unique_meshes": 54,
+  "unique_triangles": 34442,
+  "largest_unique_mesh": 4288,
+  "module_triangles": {
+    "FacadeBay": 456,
+    "GalleryDoorBay": 432,
+    "CornerTower": 5724,
+    "CentralDome": 4254,
+    "AngelOfVictory": 656,
+    "DomeDrum": 5664,
+    "RotundaRoofRing": 256,
+    "Chhatri": 2154,
+    "GrandPortal": 1920,
+    "RotundaSideFacade": 676,
+    "EntryRoofCupola": 670,
+    "GateLion": 584,
+    "CurvedColonnade": 4320,
+    "RotundaArcade": 952,
+    "InteriorDome": 2108,
+    "InnerClerestoryBay": 372,
+    "RotundaInnerLining": 704,
+    "RotundaInlay": 224,
+    "QueensHallFigure": 420,
+    "GalleryVault": 480,
+    "GardenPalm": 88,
+    "GardenTree": 224,
+    "CourtyardInlay_-1": 552,
+    "CourtyardInlay_1": 552
+  },
+  "inward_normal_checks": {
+    "InteriorDome__DomeBlue": "inward",
+    "RotundaInnerLining__Marble": "inward"
+  },
+  "tower_attic_backing_distances": {
+    "north": 25.0,
+    "south": 25.0,
+    "east": 25.0,
+    "west": 25.0
+  },
+  "box_clearance": {
+    "north-to-south-interior": "clear in authored box envelope",
+    "east-side-escape": "clear in authored box envelope",
+    "west-side-escape": "clear in authored box envelope",
+    "gallery-door--1--1": "clear in authored box envelope",
+    "gallery-door--1-1": "clear in authored box envelope",
+    "gallery-door-1--1": "clear in authored box envelope",
+    "gallery-door-1-1": "clear in authored box envelope"
+  },
+  "errors": []
+}

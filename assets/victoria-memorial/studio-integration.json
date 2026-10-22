@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-22",
+  "site": {
+    "1": 820,
+    "2": 0,
+    "3": 0
+  },
+  "yawDegrees": 90,
+  "assetId": "landmark.kolkata.victoria-memorial",
+  "meshAssets": {
+    "CornerTower__Glazing": "rbxassetid://70931936997157",
+    "DomeDrum__Marble": "rbxassetid://83262381092366",
+    "CourtyardInlay_1__FloorDark": "rbxassetid://95033632550167",
+    "Chhatri__Marble": "rbxassetid://91857855318196",
+    "GalleryVault__Trim": "rbxassetid://75783761765963",
+    "InnerClerestoryBay__Trim": "rbxassetid://133259396768903",
+    "RotundaArcade__Marble": "rbxassetid://72119030762759",
+    "GalleryDoorBay__Glazing": "rbxassetid://80429704076288",
+    "CornerTower__Marble": "rbxassetid://71865579612013",
+    "EntryRoofCupola__Marble": "rbxassetid://123600996770436",
+    "CourtyardInlay_-1__FloorDark": "rbxassetid://72353529705684",
+    "CornerTower__StoneShadow": "rbxassetid://113403732102700",
+    "DomeDrum__Glazing": "rbxassetid://89669937431618",
+    "RotundaSideFacade__StoneShadow": "rbxassetid://82925034652171",
+    "RotundaArcade__Trim": "rbxassetid://134314175916265",
+    "RotundaSideFacade__Trim": "rbxassetid://132667887601676",
+    "InteriorDome__Gilt": "rbxassetid://81413760188715",
+    "GardenTree__Leaf": "rbxassetid://107197141248112",
+    "GardenTree__LeafLight": "rbxassetid://133504731591382",
+    "GateLion__Marble": "rbxassetid://73366871212787",
+    "CurvedColonnade__Marble": "rbxassetid://80965774790222",
+    "CurvedColonnade__Trim": "rbxassetid://116843176423999",
+    "GrandPortal__Marble": "rbxassetid://98090411804496",
+    "FacadeBay__StoneShadow": "rbxassetid://98260341253477",
+    "GardenPalm__Leaf": "rbxassetid://98545666574978",
+    "GalleryDoorBay__StoneShadow": "rbxassetid://114466061151999",
+    "EntryRoofCupola__Glazing": "rbxassetid://134234438416199",
+    "CentralDome__Marble": "rbxassetid://128764715411927",
+    "FacadeBay__Glazing": "rbxassetid://87016558336463",
+    "GardenPalm__Bark": "rbxassetid://83833091155011",
+    "CornerTower__Trim": "rbxassetid://140708419156006",
+    "RotundaInlay__FloorDark": "rbxassetid://104499192742656",
+    "GardenPalm__LeafLight": "rbxassetid://79105982401894",
+    "InteriorDome__Marble": "rbxassetid://73601451853984",
+    "GrandPortal__Trim": "rbxassetid://133272974483454",
+    "GateLion__Trim": "rbxassetid://115633337875550",
+    "FacadeBay__Trim": "rbxassetid://140267086590977",
+    "RotundaInnerLining__Marble": "rbxassetid://134701779130080",
+    "RotundaSideFacade__Glazing": "rbxassetid://92432912463577",
+    "GardenTree__Bark": "rbxassetid://112808395868376",
+    "RotundaRoofRing__Marble": "rbxassetid://79223680664650",
+    "InnerClerestoryBay__WindowLight": "rbxassetid://137223294545048",
+    "QueensHallFigure__Gilt": "rbxassetid://110158647015675",
+    "GalleryVault__Marble": "rbxassetid://138839441314570",
+    "InteriorDome__DomeBlue": "rbxassetid://74873849914233",
+    "GrandPortal__Glazing": "rbxassetid://113082748087226",
+    "DomeDrum__StoneShadow": "rbxassetid://102738193505963",
+    "GalleryDoorBay__Trim": "rbxassetid://82420593348015",
+    "QueensHallFigure__Trim": "rbxassetid://108631329353035",
+    "Chhatri__Trim": "rbxassetid://120316137004136",
+    "RotundaInnerLining__Trim": "rbxassetid://120147886353952",
+    "DomeDrum__Trim": "rbxassetid://134568540740615",
+    "CentralDome__Trim": "rbxassetid://82184621201089",
+    "AngelOfVictory__Bronze": "rbxassetid://120168197480845"
+  },
+  "location": "Workspace.World.Cities.Kolkata.Districts.Maidan.VictoriaMemorial",
+  "desktop": {
+    "totalClientMemoryMb": 3358.13671875,
+    "p95FrameMs": 17.908399924635887,
+    "environment": "Studio local desktop client, one player, approach view",
+    "traversal": {
+      "1": {
+        "target": "719, 10, 0",
+        "floor": "SmoothPlastic",
+        "reached": false,
+        "actual": "722.341064453125, 9.554876327514648, 0.07943786680698395"
+      },
+      "2": {
+        "target": "810, 10, -10",
+        "floor": "SmoothPlastic",
+        "reached": true,
+        "actual": "808.9891967773438, 10.554876327514648, -9.883699417114258"
+      }
+    },
+    "samples": 182,
+    "render": {
+      "Name": "TriangleComposition",
+      "Children": {
+        "1": {
+          "Name": "Opaque",
+          "Sizes": {
+            "Drawcalls": 65,
+            "Triangles": 81244
+          }
+        }
+      },
+      "Sizes": {
+        "Drawcalls": 65,
+        "Triangles": 81244
+      }
+    },
+    "averageFps": 60.36621596099951
+  },
+  "phoneEmulation": {
+    "render": {
+      "Name": "TriangleComposition",
+      "Children": {
+        "1": {
+          "Name": "Opaque",
+          "Sizes": {
+            "Drawcalls": 70,
+            "Triangles": 98716
+          }
+        }
+      },
+      "Sizes": {
+        "Drawcalls": 70,
+        "Triangles": 98716
+      }
+    },
+    "editorRendererQuality": "Enum.QualityLevel.Automatic",
+    "device": "iPhone 17 Pro landscape emulation on desktop",
+    "samples": 121,
+    "desktopHostFps": 60.30385567901865,
+    "requestedGraphics": "Enum.SavedQualitySetting.Automatic",
+    "qualityPreferenceSet": false,
+    "viewport": "750, 381",
+    "preferenceRestored": false,
+    "p95FrameMs": 18.203100189566612,
+    "qualityError": "The current thread cannot set 'render quality level' (lacking capability RobloxScript)"
+  },
+  "recoveryFile": "artifacts/VictoriaMemorial-Task002.rbxm",
+  "recoveryBytes": 217269,
+  "limits": [
+    "Desktop Studio measurements only; actual phone hardware not tested",
+    "Graphics-level writes rejected by Studio capabilities; phone-emulated run remained Automatic",
+    "Whole-client memory reading includes Studio and existing map; not isolated landmark memory",
+    "Only entrance stairs and central-hall traversal checked; no exhaustive route or multiplayer suite"
+  ]
+}

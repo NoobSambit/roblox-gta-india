@@ -1,0 +1,46 @@
+[
+  {
+    "file": "VictoriaMemorial_Architecture.fbx",
+    "source_objects": 392,
+    "imported_objects": 392,
+    "source_triangles": 106738,
+    "imported_triangles": 106738,
+    "max_bounds_error_blender_units": 1.7357015167362988e-05,
+    "missing_material_objects": [],
+    "positive_scales": true,
+    "passed": true
+  },
+  {
+    "file": "VictoriaMemorial_MeshLibrary.fbx",
+    "source_objects": 54,
+    "imported_objects": 54,
+    "source_triangles": 34442,
+    "imported_triangles": 34442,
+    "max_bounds_error_blender_units": 1.298897677770583e-05,
+    "missing_material_objects": [],
+    "positive_scales": true,
+    "passed": true
+  },
+  {
+    "file": "VictoriaMemorial_Grounds.fbx",
+    "source_objects": 466,
+    "imported_objects": 466,
+    "source_triangles": 10712,
+    "imported_triangles": 10712,
+    "max_bounds_error_blender_units": 2.5272369384765625e-05,
+    "missing_material_objects": [],
+    "positive_scales": true,
+    "passed": true
+  },
+  {
+    "file": "VictoriaMemorial_Collision.fbx",
+    "source_objects": 58,
+    "imported_objects": 58,
+    "source_triangles": 696,
+    "imported_triangles": 696,
+    "max_bounds_error_blender_units": 1.52587890625e-05,
+    "missing_material_objects": [],
+    "positive_scales": true,
+    "passed": true
+  }
+]

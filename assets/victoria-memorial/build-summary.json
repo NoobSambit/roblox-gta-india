@@ -1,0 +1,10 @@
+{
+  "unique_meshes": 54,
+  "module_types": 24,
+  "mesh_instances": 350,
+  "unique_triangles": 34442,
+  "instanced_triangles": 111354,
+  "native_primitives": 566,
+  "markers": 8,
+  "architecture_bounds": "~272 x 143 x 246 studs, Y up; grounds 594 x 614 studs"
+}
