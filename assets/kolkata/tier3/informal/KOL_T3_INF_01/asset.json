@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_INF_01",
+  "family": "informal",
+  "ref": [
+    "informal",
+    5
+  ],
+  "name": "Blue masonry sheet-roof home",
+  "width": 18,
+  "depth": 19,
+  "floors": 1,
+  "paint": "DustBlue",
+  "recipe": "inf_blue_sheet",
+  "features": "Compact blue masonry, opaque shutter, low corrugated sheet roof and small supported awning; debris and exaggerated wear omitted.",
+  "reference": {
+    "assetId": "KOL_T3_INF_01",
+    "category": "informal",
+    "sourcePage": "https://www.chriscrews.com/photos/tiljala-bustee-kolkata-india/",
+    "photoUrl": "https://www.chriscrews.com/wp-content/gallery/tiljala-bustee-kolkata-india/Tiljala-Bustee-Visit-46.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\informal\\05.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Compact blue masonry, opaque shutter, low corrugated sheet roof and small supported awning; debris and exaggerated wear omitted.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 19.7,
+    "height": 11.25,
+    "depth": 23.2
+  },
+  "boundsMinStuds": [
+    -9.85,
+    0.0,
+    -12.700000000000001
+  ],
+  "boundsMaxStuds": [
+    9.85,
+    11.25,
+    10.5
+  ],
+  "triangles": 332,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_DustBlue",
+    "T3_Roof",
+    "T3_Dark"
+  ],
+  "textures": [],
+  "source": "informal/KOL_T3_INF_01/KOL_T3_INF_01.blend",
+  "export": "informal/KOL_T3_INF_01/KOL_T3_INF_01.fbx",
+  "meshKeys": [
+    "KOL_T3_INF_01__Trim",
+    "KOL_T3_INF_01__Body",
+    "KOL_T3_INF_01__Roof",
+    "KOL_T3_INF_01__Dark"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

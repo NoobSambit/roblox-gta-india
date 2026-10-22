@@ -1,0 +1,60 @@
+{
+  "id": "KOL_T3_MIX_02",
+  "family": "mixed_use",
+  "ref": [
+    "mixed",
+    2
+  ],
+  "name": "Twin-crown shop gallery",
+  "width": 34,
+  "depth": 29,
+  "floors": 4,
+  "paint": "Rose",
+  "recipe": "mix_twin_crown",
+  "features": "Two roof parapet crowns, two shop bays and paired upper balconies; source complex reduced to one building.",
+  "reference": {
+    "assetId": "KOL_T3_MIX_02",
+    "category": "mixed_use",
+    "sourcePage": "https://houssed.com/kolkata/bhawani-group/bhawani-complex-133781",
+    "photoUrl": "https://imgcdn.houssed.com/assets/Files/Projects/133781/Project%20Image/5151-1748073696.webp",
+    "localPhoto": "artifacts\\references\\tier3\\mixed\\02.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Two roof parapet crowns, two shop bays and paired upper balconies; source complex reduced to one building.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 34.74,
+    "height": 52.525,
+    "depth": 32.22
+  },
+  "boundsMinStuds": [
+    -17.37,
+    0.0,
+    -17.35
+  ],
+  "boundsMaxStuds": [
+    17.37,
+    52.525,
+    14.87
+  ],
+  "triangles": 1104,
+  "meshGroups": 5,
+  "materials": [
+    "T3_Trim",
+    "T3_Rose",
+    "T3_Dark",
+    "T3_Roof",
+    "T3_Clay"
+  ],
+  "textures": [],
+  "source": "mixed_use/KOL_T3_MIX_02/KOL_T3_MIX_02.blend",
+  "export": "mixed_use/KOL_T3_MIX_02/KOL_T3_MIX_02.fbx",
+  "meshKeys": [
+    "KOL_T3_MIX_02__Trim",
+    "KOL_T3_MIX_02__Body",
+    "KOL_T3_MIX_02__Dark",
+    "KOL_T3_MIX_02__Roof",
+    "KOL_T3_MIX_02__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

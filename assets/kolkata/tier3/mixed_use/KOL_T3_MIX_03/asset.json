@@ -1,0 +1,60 @@
+{
+  "id": "KOL_T3_MIX_03",
+  "family": "mixed_use",
+  "ref": [
+    "mixed",
+    4
+  ],
+  "name": "Cream shutter-front block",
+  "width": 28,
+  "depth": 28,
+  "floors": 3,
+  "paint": "Cream",
+  "recipe": "mix_vertical_stripe",
+  "features": "Large closed shutters, vertical accent strip and a narrow upper residential balcony.",
+  "reference": {
+    "assetId": "KOL_T3_MIX_03",
+    "category": "mixed_use",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMall_Enclave_-_Dum_Dum_-_Kolkata_2012-04-22_2098.JPG",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Mall_Enclave_-_Dum_Dum_-_Kolkata_2012-04-22_2098.JPG",
+    "localPhoto": "artifacts\\references\\tier3\\mixed\\04.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Large closed shutters, vertical accent strip and a narrow upper residential balcony.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 28.74,
+    "height": 38.15,
+    "depth": 31.32
+  },
+  "boundsMinStuds": [
+    -14.370000000000001,
+    0.0,
+    -16.95
+  ],
+  "boundsMaxStuds": [
+    14.370000000000001,
+    38.150000000000006,
+    14.37
+  ],
+  "triangles": 648,
+  "meshGroups": 5,
+  "materials": [
+    "T3_Trim",
+    "T3_Cream",
+    "T3_Dark",
+    "T3_Roof",
+    "T3_BlueAccent"
+  ],
+  "textures": [],
+  "source": "mixed_use/KOL_T3_MIX_03/KOL_T3_MIX_03.blend",
+  "export": "mixed_use/KOL_T3_MIX_03/KOL_T3_MIX_03.fbx",
+  "meshKeys": [
+    "KOL_T3_MIX_03__Trim",
+    "KOL_T3_MIX_03__Body",
+    "KOL_T3_MIX_03__Dark",
+    "KOL_T3_MIX_03__Roof",
+    "KOL_T3_MIX_03__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_INF_03",
+  "family": "informal",
+  "ref": [
+    "informal",
+    1
+  ],
+  "name": "Low plaster home with roof extension",
+  "width": 22,
+  "depth": 18,
+  "floors": 1,
+  "paint": "Plaster",
+  "recipe": "inf_roof_extension",
+  "features": "Low plaster masonry and staggered sheet-roof extension, inspired by the foreground units in the Kolkata housing photograph.",
+  "reference": {
+    "assetId": "KOL_T3_INF_03",
+    "category": "informal",
+    "sourcePage": "https://www.anandabazar.com/west-bengal/kolkata/kmc-election-2021-many-elections-came-and-went-but-slum-area-are-still-in-the-darkness/cid/1318957",
+    "photoUrl": "https://assets.telegraphindia.com/abp/2021/Dec/1639705366_kol-basti.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\informal\\01.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Low plaster masonry and staggered sheet-roof extension, inspired by the foreground units in the Kolkata housing photograph.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 23.21,
+    "height": 11.615,
+    "depth": 20.2
+  },
+  "boundsMinStuds": [
+    -11.55,
+    0.0,
+    -10.200000000000001
+  ],
+  "boundsMaxStuds": [
+    11.66,
+    11.614999999999998,
+    10.0
+  ],
+  "triangles": 384,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Plaster",
+    "T3_Trim",
+    "T3_Roof",
+    "T3_Dark"
+  ],
+  "textures": [],
+  "source": "informal/KOL_T3_INF_03/KOL_T3_INF_03.blend",
+  "export": "informal/KOL_T3_INF_03/KOL_T3_INF_03.fbx",
+  "meshKeys": [
+    "KOL_T3_INF_03__Body",
+    "KOL_T3_INF_03__Trim",
+    "KOL_T3_INF_03__Roof",
+    "KOL_T3_INF_03__Dark"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

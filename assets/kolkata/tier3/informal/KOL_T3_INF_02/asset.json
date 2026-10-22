@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_INF_02",
+  "family": "informal",
+  "ref": [
+    "informal",
+    4
+  ],
+  "name": "Brick home with upper room",
+  "width": 20,
+  "depth": 23,
+  "floors": 2,
+  "paint": "Brick",
+  "recipe": "inf_upper_room",
+  "features": "Modest mixed-height brick construction, small upper room and simple low roof, inspired by individual masonry units in the photographed Tiljala lane.",
+  "reference": {
+    "assetId": "KOL_T3_INF_02",
+    "category": "informal",
+    "sourcePage": "https://d-arch.ide.go.jp/photo_archive/India/children/chapter_5/40_V_038_001.html",
+    "photoUrl": "https://d-arch.ide.go.jp/photo_archive/India/children/chapter_5/image/40_V_038_001.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\informal\\04.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Modest mixed-height brick construction, small upper room and simple low roof, inspired by individual masonry units in the photographed Tiljala lane.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 21.0,
+    "height": 21.38,
+    "depth": 26.95
+  },
+  "boundsMinStuds": [
+    -10.6,
+    0.0,
+    -14.700000000000001
+  ],
+  "boundsMaxStuds": [
+    10.4,
+    21.380000000000003,
+    12.25
+  ],
+  "triangles": 420,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Brick",
+    "T3_Roof",
+    "T3_Dark"
+  ],
+  "textures": [],
+  "source": "informal/KOL_T3_INF_02/KOL_T3_INF_02.blend",
+  "export": "informal/KOL_T3_INF_02/KOL_T3_INF_02.fbx",
+  "meshKeys": [
+    "KOL_T3_INF_02__Trim",
+    "KOL_T3_INF_02__Body",
+    "KOL_T3_INF_02__Roof",
+    "KOL_T3_INF_02__Dark"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "KOL_T3_MIX_01",
+  "family": "mixed_use",
+  "ref": [
+    "mixed",
+    1
+  ],
+  "name": "Peach corner shop apartments",
+  "width": 27,
+  "depth": 30,
+  "floors": 4,
+  "paint": "Peach",
+  "recipe": "mix_corner",
+  "features": "Angled corner, closed ground-floor shutters, blank sign panels and compact upper windows.",
+  "reference": {
+    "assetId": "KOL_T3_MIX_01",
+    "category": "mixed_use",
+    "sourcePage": "https://www.realestateindia.com/property-detail/3bkh-flats-apartments-for-sale-in-chinar-park-kolkata-1470-sq-ft-62-lac-1108463.htm",
+    "photoUrl": "https://dynamic.realestateindia.com/prop_images/2774922/1108463_6.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\mixed\\01.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Angled corner, closed ground-floor shutters, blank sign panels and compact upper windows.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 27.74,
+    "height": 50.15,
+    "depth": 33.22
+  },
+  "boundsMinStuds": [
+    -13.870000000000001,
+    0.0,
+    -17.85
+  ],
+  "boundsMaxStuds": [
+    13.870000000000001,
+    50.150000000000006,
+    15.37
+  ],
+  "triangles": 880,
+  "meshGroups": 5,
+  "materials": [
+    "T3_Trim",
+    "T3_Peach",
+    "T3_Dark",
+    "T3_Roof",
+    "T3_Clay"
+  ],
+  "textures": [],
+  "source": "mixed_use/KOL_T3_MIX_01/KOL_T3_MIX_01.blend",
+  "export": "mixed_use/KOL_T3_MIX_01/KOL_T3_MIX_01.fbx",
+  "meshKeys": [
+    "KOL_T3_MIX_01__Trim",
+    "KOL_T3_MIX_01__Body",
+    "KOL_T3_MIX_01__Dark",
+    "KOL_T3_MIX_01__Roof",
+    "KOL_T3_MIX_01__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

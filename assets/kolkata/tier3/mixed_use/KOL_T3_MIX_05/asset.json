@@ -1,0 +1,60 @@
+{
+  "id": "KOL_T3_MIX_05",
+  "family": "mixed_use",
+  "ref": [
+    "mixed",
+    10
+  ],
+  "name": "White corner balcony shops",
+  "width": 30,
+  "depth": 32,
+  "floors": 5,
+  "paint": "Plaster",
+  "recipe": "mix_corner_balconies",
+  "features": "Corner balcony stack, blue side accent and two closed storefronts under blank signboards.",
+  "reference": {
+    "assetId": "KOL_T3_MIX_05",
+    "category": "mixed_use",
+    "sourcePage": "https://housing.com/buy-sam-kunj-by-swaraj-homes-builders-developer-in-keshtopur-kolkata-pid-89741",
+    "photoUrl": "https://is1-3.housingcdn.com/4f2250e8/04349ed0a15a3cd0299b72c898734fde/v0/fs/sam_kunj-keshtopur-kolkata-swaraj_homes_builders_%26_developer.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\mixed\\10.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Corner balcony stack, blue side accent and two closed storefronts under blank signboards.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 33.42,
+    "height": 62.15,
+    "depth": 35.42
+  },
+  "boundsMinStuds": [
+    -15.370000000000001,
+    0.0,
+    -19.05
+  ],
+  "boundsMaxStuds": [
+    18.05,
+    62.150000000000006,
+    16.37
+  ],
+  "triangles": 1320,
+  "meshGroups": 5,
+  "materials": [
+    "T3_Trim",
+    "T3_Plaster",
+    "T3_Dark",
+    "T3_Roof",
+    "T3_BlueAccent"
+  ],
+  "textures": [],
+  "source": "mixed_use/KOL_T3_MIX_05/KOL_T3_MIX_05.blend",
+  "export": "mixed_use/KOL_T3_MIX_05/KOL_T3_MIX_05.fbx",
+  "meshKeys": [
+    "KOL_T3_MIX_05__Trim",
+    "KOL_T3_MIX_05__Body",
+    "KOL_T3_MIX_05__Dark",
+    "KOL_T3_MIX_05__Roof",
+    "KOL_T3_MIX_05__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}
