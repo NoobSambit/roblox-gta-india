@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_MOD_06",
+  "family": "modern",
+  "ref": [
+    "modern",
+    5
+  ],
+  "name": "Broad sand balcony building",
+  "width": 34,
+  "depth": 31,
+  "floors": 4,
+  "paint": "Sand",
+  "recipe": "mod_wide_balconies",
+  "features": "Broad shallow balconies and strong horizontal slab bands; grilles reduced to solid parapets.",
+  "reference": {
+    "assetId": "KOL_T3_MOD_06",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-ganapati-enclave-by-ganapati-group-in-kalighat-kolkata-pid-218690",
+    "photoUrl": "https://housing-images.n7net.in/4f2250e8/6506f62c4fd65d40faca592e896754ff/v0/large/ganapati_enclave-kalighat-kolkata-ganapati_group.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\05.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Broad shallow balconies and strong horizontal slab bands; grilles reduced to solid parapets.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 35.0,
+    "height": 50.15,
+    "depth": 34.02
+  },
+  "boundsMinStuds": [
+    -17.5,
+    0.0,
+    -18.15
+  ],
+  "boundsMaxStuds": [
+    17.5,
+    50.150000000000006,
+    15.87
+  ],
+  "triangles": 840,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Sand",
+    "T3_Dark",
+    "T3_Clay"
+  ],
+  "textures": [],
+  "source": "modern/KOL_T3_MOD_06/KOL_T3_MOD_06.blend",
+  "export": "modern/KOL_T3_MOD_06/KOL_T3_MOD_06.fbx",
+  "meshKeys": [
+    "KOL_T3_MOD_06__Trim",
+    "KOL_T3_MOD_06__Body",
+    "KOL_T3_MOD_06__Dark",
+    "KOL_T3_MOD_06__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

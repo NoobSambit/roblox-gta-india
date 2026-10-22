@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_MOD_05",
+  "family": "modern",
+  "ref": [
+    "modern",
+    4
+  ],
+  "name": "Beige clipped-corner apartments",
+  "width": 24,
+  "depth": 30,
+  "floors": 5,
+  "paint": "Sand",
+  "recipe": "mod_chamfer_corner",
+  "features": "Angled corner balconies, offset side windows and a simple concrete cap.",
+  "reference": {
+    "assetId": "KOL_T3_MOD_05",
+    "category": "modern",
+    "sourcePage": "https://www.bengalfilmarchive.com/iconic-address-details.php?i=MjEy",
+    "photoUrl": "https://www.bengalfilmarchive.com/images/iconic-address/mrinal%20padmapukur2.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\04.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Angled corner balconies, offset side windows and a simple concrete cap.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 24.74,
+    "height": 62.15,
+    "depth": 33.12
+  },
+  "boundsMinStuds": [
+    -12.370000000000001,
+    0.0,
+    -17.75
+  ],
+  "boundsMaxStuds": [
+    12.370000000000001,
+    62.150000000000006,
+    15.37
+  ],
+  "triangles": 964,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Sand",
+    "T3_Dark",
+    "T3_Clay"
+  ],
+  "textures": [],
+  "source": "modern/KOL_T3_MOD_05/KOL_T3_MOD_05.blend",
+  "export": "modern/KOL_T3_MOD_05/KOL_T3_MOD_05.fbx",
+  "meshKeys": [
+    "KOL_T3_MOD_05__Trim",
+    "KOL_T3_MOD_05__Body",
+    "KOL_T3_MOD_05__Dark",
+    "KOL_T3_MOD_05__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

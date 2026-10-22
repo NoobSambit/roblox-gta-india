@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_MOD_03",
+  "family": "modern",
+  "ref": [
+    "modern",
+    2
+  ],
+  "name": "Narrow peach service spine",
+  "width": 21,
+  "depth": 32,
+  "floors": 5,
+  "paint": "Peach",
+  "recipe": "mod_service_spine",
+  "features": "Narrow stacked corner balconies and vertical service/window strip; high-rise source compressed to five floors.",
+  "reference": {
+    "assetId": "KOL_T3_MOD_03",
+    "category": "modern",
+    "sourcePage": "https://housing.com/rent/19772529-850-sqft-2-bhk-apartment-on-rent-in-kaikhali-kolkata",
+    "photoUrl": "https://is1-3.housingcdn.com/01c16c28/53ee2af4b55a0155dad3061624281e5f/v0/fs/2_bhk_apartment-for-rent-kaikhali-Kolkata-building.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\02.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Narrow stacked corner balconies and vertical service/window strip; high-rise source compressed to five floors.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 21.74,
+    "height": 62.15,
+    "depth": 35.62
+  },
+  "boundsMinStuds": [
+    -10.870000000000001,
+    0.0,
+    -19.25
+  ],
+  "boundsMaxStuds": [
+    10.870000000000001,
+    62.150000000000006,
+    16.37
+  ],
+  "triangles": 816,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Peach",
+    "T3_Dark",
+    "T3_Clay"
+  ],
+  "textures": [],
+  "source": "modern/KOL_T3_MOD_03/KOL_T3_MOD_03.blend",
+  "export": "modern/KOL_T3_MOD_03/KOL_T3_MOD_03.fbx",
+  "meshKeys": [
+    "KOL_T3_MOD_03__Trim",
+    "KOL_T3_MOD_03__Body",
+    "KOL_T3_MOD_03__Dark",
+    "KOL_T3_MOD_03__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "KOL_T3_MOD_08",
+  "family": "modern",
+  "ref": [
+    "modern",
+    11
+  ],
+  "name": "Grey asymmetric apartment stack",
+  "width": 30,
+  "depth": 33,
+  "floors": 4,
+  "paint": "Grey",
+  "recipe": "mod_offset_boxes",
+  "features": "Offset box balconies, grey/white concrete planes and a small rooftop tank silhouette.",
+  "reference": {
+    "assetId": "KOL_T3_MOD_08",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-vikas-krishna-kutir-by-vikas-builders-in-keshtopur-kolkata-pid-228034",
+    "photoUrl": "https://housing-images.n7net.in/4f2250e8/ad4d89d5986c34754d5c29fe4e944700/v0/large/vikas_krishna_kutir-keshtopur-kolkata-vikas_builders.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\11.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Offset box balconies, grey/white concrete planes and a small rooftop tank silhouette.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 30.74,
+    "height": 54.75,
+    "depth": 37.12
+  },
+  "boundsMinStuds": [
+    -15.370000000000001,
+    0.0,
+    -20.25
+  ],
+  "boundsMaxStuds": [
+    15.370000000000001,
+    54.75,
+    16.87
+  ],
+  "triangles": 868,
+  "meshGroups": 3,
+  "materials": [
+    "T3_Trim",
+    "T3_Grey",
+    "T3_Dark"
+  ],
+  "textures": [],
+  "source": "modern/KOL_T3_MOD_08/KOL_T3_MOD_08.blend",
+  "export": "modern/KOL_T3_MOD_08/KOL_T3_MOD_08.fbx",
+  "meshKeys": [
+    "KOL_T3_MOD_08__Trim",
+    "KOL_T3_MOD_08__Body",
+    "KOL_T3_MOD_08__Dark"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

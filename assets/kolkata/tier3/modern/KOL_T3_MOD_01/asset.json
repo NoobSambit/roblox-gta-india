@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_MOD_01",
+  "family": "modern",
+  "ref": [
+    "extraModern",
+    3
+  ],
+  "name": "Compact pink concrete house",
+  "width": 23,
+  "depth": 27,
+  "floors": 2,
+  "paint": "Peach",
+  "recipe": "mod_small_house",
+  "features": "Flat concrete roof, one solid balcony, offset upper block and bold rectangular awning.",
+  "reference": {
+    "assetId": "KOL_T3_MOD_01",
+    "category": "modern",
+    "sourcePage": "https://www.realestateindia.com/projects/aashay-homes-by-aashay-realty-pvt-ltd-in-amtala-kolkata-pjid-41575/",
+    "photoUrl": "https://dyimg2.realestateindia.com/proj_images/project41575/projGal-17-770x400.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\extraModern\\03.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Flat concrete roof, one solid balcony, offset upper block and bold rectangular awning.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 23.83,
+    "height": 28.1,
+    "depth": 31.02
+  },
+  "boundsMinStuds": [
+    -11.870000000000001,
+    0.0,
+    -17.15
+  ],
+  "boundsMaxStuds": [
+    11.959999999999999,
+    28.099999999999998,
+    13.87
+  ],
+  "triangles": 396,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Peach",
+    "T3_Dark",
+    "T3_Clay"
+  ],
+  "textures": [],
+  "source": "modern/KOL_T3_MOD_01/KOL_T3_MOD_01.blend",
+  "export": "modern/KOL_T3_MOD_01/KOL_T3_MOD_01.fbx",
+  "meshKeys": [
+    "KOL_T3_MOD_01__Trim",
+    "KOL_T3_MOD_01__Body",
+    "KOL_T3_MOD_01__Dark",
+    "KOL_T3_MOD_01__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

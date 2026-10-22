@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_MOD_04",
+  "family": "modern",
+  "ref": [
+    "modern",
+    3
+  ],
+  "name": "Brick twin balcony block",
+  "width": 36,
+  "depth": 34,
+  "floors": 6,
+  "paint": "Brick",
+  "recipe": "mod_twin_balconies",
+  "features": "Two balcony stacks, central bay and flat roofline; broad apartment source compressed to a reusable six-storey block.",
+  "reference": {
+    "assetId": "KOL_T3_MOD_04",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-new-projects-in-shyam-bazar-kolkata-srpid-AB0P67122rhpkfpmx2qu",
+    "photoUrl": "https://is1-3.housingcdn.com/4f2250e8/053d27e101dde6b219239266bf492313/v0/fs/sree_krishna_apartment-shyam_bazar-kolkata-reputed_builder.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\03.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Two balcony stacks, central bay and flat roofline; broad apartment source compressed to a reusable six-storey block.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 36.74,
+    "height": 74.15,
+    "depth": 37.92
+  },
+  "boundsMinStuds": [
+    -18.37,
+    0.0,
+    -20.55
+  ],
+  "boundsMaxStuds": [
+    18.37,
+    74.14999999999999,
+    17.37
+  ],
+  "triangles": 1416,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Brick",
+    "T3_Dark",
+    "T3_Clay"
+  ],
+  "textures": [],
+  "source": "modern/KOL_T3_MOD_04/KOL_T3_MOD_04.blend",
+  "export": "modern/KOL_T3_MOD_04/KOL_T3_MOD_04.fbx",
+  "meshKeys": [
+    "KOL_T3_MOD_04__Trim",
+    "KOL_T3_MOD_04__Body",
+    "KOL_T3_MOD_04__Dark",
+    "KOL_T3_MOD_04__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

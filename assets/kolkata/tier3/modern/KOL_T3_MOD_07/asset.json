@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_MOD_07",
+  "family": "modern",
+  "ref": [
+    "modern",
+    9
+  ],
+  "name": "Yellow alternating bay block",
+  "width": 29,
+  "depth": 29,
+  "floors": 5,
+  "paint": "Ochre",
+  "recipe": "mod_alternating_bays",
+  "features": "Alternating projecting balcony/window bays and dark red horizontal accents.",
+  "reference": {
+    "assetId": "KOL_T3_MOD_07",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-mani-maniam-by-mani-group-in-ballygunge-kolkata-pid-89721",
+    "photoUrl": "https://housing-images.n7net.in/4f2250e8/c97d890fd5bb83ef09a00e347b49d09a/v0/large/mani_maniam-ballygunge-kolkata-mani_group.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\09.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Alternating projecting balcony/window bays and dark red horizontal accents.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 29.74,
+    "height": 62.15,
+    "depth": 33.12
+  },
+  "boundsMinStuds": [
+    -14.870000000000001,
+    0.0,
+    -18.25
+  ],
+  "boundsMaxStuds": [
+    14.870000000000001,
+    62.150000000000006,
+    14.87
+  ],
+  "triangles": 1044,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Ochre",
+    "T3_Dark",
+    "T3_Clay"
+  ],
+  "textures": [],
+  "source": "modern/KOL_T3_MOD_07/KOL_T3_MOD_07.blend",
+  "export": "modern/KOL_T3_MOD_07/KOL_T3_MOD_07.fbx",
+  "meshKeys": [
+    "KOL_T3_MOD_07__Trim",
+    "KOL_T3_MOD_07__Body",
+    "KOL_T3_MOD_07__Dark",
+    "KOL_T3_MOD_07__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

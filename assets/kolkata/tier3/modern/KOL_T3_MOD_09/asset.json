@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_MOD_09",
+  "family": "modern",
+  "ref": [
+    "extraModern",
+    9
+  ],
+  "name": "Narrow blue terrace home",
+  "width": 19,
+  "depth": 29,
+  "floors": 2,
+  "paint": "DustBlue",
+  "recipe": "mod_tall_fin",
+  "features": "Compact two-storey frontage, tall side fin, slim balcony and flat terrace.",
+  "reference": {
+    "assetId": "KOL_T3_MOD_09",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-house-in-joka-kolkata-for-sale-srpid-M2P2ynx0bzmc6er7aea",
+    "photoUrl": "https://is1-2.housingcdn.com/01c16c28/05a0283debea0f3c3ab7a550c38c4c0d/v0/fs/3_bhk_independent_house-for-sale-joka-Kolkata-others.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\extraModern\\09.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Compact two-storey frontage, tall side fin, slim balcony and flat terrace.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 19.74,
+    "height": 26.15,
+    "depth": 33.02
+  },
+  "boundsMinStuds": [
+    -9.870000000000001,
+    0.0,
+    -18.15
+  ],
+  "boundsMaxStuds": [
+    9.870000000000001,
+    26.150000000000002,
+    14.87
+  ],
+  "triangles": 384,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_DustBlue",
+    "T3_Dark",
+    "T3_BlueAccent"
+  ],
+  "textures": [],
+  "source": "modern/KOL_T3_MOD_09/KOL_T3_MOD_09.blend",
+  "export": "modern/KOL_T3_MOD_09/KOL_T3_MOD_09.fbx",
+  "meshKeys": [
+    "KOL_T3_MOD_09__Trim",
+    "KOL_T3_MOD_09__Body",
+    "KOL_T3_MOD_09__Dark",
+    "KOL_T3_MOD_09__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

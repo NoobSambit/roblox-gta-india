@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_MOD_02",
+  "family": "modern",
+  "ref": [
+    "modern",
+    1
+  ],
+  "name": "Stacked cream balcony block",
+  "width": 26,
+  "depth": 31,
+  "floors": 4,
+  "paint": "Cream",
+  "recipe": "mod_stacked_left",
+  "features": "Stepped left balconies, horizontal accent strips and contrasting side service wall.",
+  "reference": {
+    "assetId": "KOL_T3_MOD_02",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-sun-enclave-apartment-by-swaraj-homes-builders-developer-in-keshtopur-kolkata-pid-89739",
+    "photoUrl": "https://housing-images.n7net.in/4f2250e8/b2ba75f0aa20b776fe0b1bc75dad381a/v0/large/sun_enclave_apartment-keshtopur-kolkata-swaraj_homes_builders_%26_developer.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\01.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Stepped left balconies, horizontal accent strips and contrasting side service wall.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 26.74,
+    "height": 50.15,
+    "depth": 34.62
+  },
+  "boundsMinStuds": [
+    -13.370000000000001,
+    0.0,
+    -18.75
+  ],
+  "boundsMaxStuds": [
+    13.370000000000001,
+    50.150000000000006,
+    15.87
+  ],
+  "triangles": 660,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Cream",
+    "T3_Dark",
+    "T3_Clay"
+  ],
+  "textures": [],
+  "source": "modern/KOL_T3_MOD_02/KOL_T3_MOD_02.blend",
+  "export": "modern/KOL_T3_MOD_02/KOL_T3_MOD_02.fbx",
+  "meshKeys": [
+    "KOL_T3_MOD_02__Trim",
+    "KOL_T3_MOD_02__Body",
+    "KOL_T3_MOD_02__Dark",
+    "KOL_T3_MOD_02__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}
