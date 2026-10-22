@@ -1,0 +1,272 @@
+[
+  {
+    "assetId": "KOL_T3_OLD_01",
+    "category": "old_kolkata",
+    "sourcePage": "https://in.pinterest.com/pin/old-calcutta-houses--50172983341576965/",
+    "photoUrl": "https://i.pinimg.com/originals/17/9b/6a/179b6aec799873a382c5506b3a0369b9.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\01.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Narrow red facade, tall shutters, single projecting balcony and modest cornice.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_OLD_02",
+    "category": "old_kolkata",
+    "sourcePage": "https://thoughtfultanya.medium.com/why-is-the-indian-city-kolkata-popularly-addressed-as-the-city-of-joy-6db47992bf26",
+    "photoUrl": "https://miro.medium.com/v2/resize%3Afit%3A1400/1%2ACTO7KQcZ6XunSQeVB4muPA.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\02.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Offset stacked balconies and green shutters; ornate photographed lattice becomes two plain rails.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_OLD_03",
+    "category": "old_kolkata",
+    "sourcePage": "https://www.airbnb.co.in/rooms/46523139",
+    "photoUrl": "https://a0.muscache.com/im/pictures/b3b1a8e9-cbc5-4fb1-8155-321f79d50085.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\03.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Broad cream verandah, slender rectangular posts, green shutters and shallow projecting roof.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_OLD_04",
+    "category": "old_kolkata",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AOld_house%2C_North_Kolkata_%285261927935%29.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Old_house%2C_North_Kolkata_%285261927935%29.jpg/960px-Old_house%2C_North_Kolkata_%285261927935%29.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\04.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Vertically stacked corner bay, compressed to a three-sided projection rather than a dense curved screen.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_OLD_05",
+    "category": "old_kolkata",
+    "sourcePage": "https://www.tripoto.com/kolkata/trips/a-rendezvous-with-a-part-of-north-kolkata-1468",
+    "photoUrl": "https://static2.tripoto.com/media/filter/tst/img/8782/TripDocument/dscn0683.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\06.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Red masonry, recessed-looking verandah band and continuous upper rails; floor count adapted for density.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_OLD_06",
+    "category": "old_kolkata",
+    "sourcePage": "https://nimsaw.com/2010/03/24/house-on-the-apurba-mitter-road/",
+    "photoUrl": "https://nimsaw.com/wp-content/uploads/2010/03/2de0d-apm_color.jpg?crop=1&h=800&w=1200",
+    "localPhoto": "artifacts\\references\\tier3\\old\\07.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Ochre plaster, corner balconies and deep eaves; carved screens omitted.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_OLD_07",
+    "category": "old_kolkata",
+    "sourcePage": "https://kolkatacurry.blogspot.com/2018/04/balconies-and-terraces-of-kolkata-2.html",
+    "photoUrl": "https://3.bp.blogspot.com/-c9Ot-s02q34/Ws3N2tY1zQI/AAAAAAAAFCU/rAs5YTX0g7MO5NH1BppywvUm-KJBOiGvACK4BGAYYCw/s1600/DSC_7625.JPG",
+    "localPhoto": "artifacts\\references\\tier3\\old\\08.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Corner verandah and cream cornice; ornate pierced infill simplified to open horizontal rails.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_OLD_08",
+    "category": "old_kolkata",
+    "sourcePage": "https://www.tripopola.com/location/kolkata/pathuriaghata-khelat-ghose-bari/14294",
+    "photoUrl": "https://d3gw4aml0lneeh.cloudfront.net/assets/locations/14294/DmhA0MbTT2j7.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\09.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Projecting shuttered bay and stepped parapet inspired by the photographed residential facade.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_OLD_09",
+    "category": "old_kolkata",
+    "sourcePage": "https://www.monographmag.com/post/the-grand-houses-of-north-calcutta",
+    "photoUrl": "https://static.wixstatic.com/media/fa7631_81dd0bf81f014f7abbe8c25975b15aee~mv2.jpeg/v1/fill/w_1000%2Ch_666%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/fa7631_81dd0bf81f014f7abbe8c25975b15aee~mv2.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\10.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Two-storey red frontage, tall plaster pilasters and deep sill/cornice bands; no palace-scale ornament.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_OLD_10",
+    "category": "old_kolkata",
+    "sourcePage": "https://seemore4less.wordpress.com/2020/06/15/kolkata-part-three/",
+    "photoUrl": "https://seemore4less.wordpress.com/wp-content/uploads/2020/06/kolkata-india-075.jpg?w=1024",
+    "localPhoto": "artifacts\\references\\tier3\\old\\05.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Original narrow residential interpretation of the photographed red-and-green gallery language, with a setback terrace; not a landmark replica.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MOD_01",
+    "category": "modern",
+    "sourcePage": "https://www.realestateindia.com/projects/aashay-homes-by-aashay-realty-pvt-ltd-in-amtala-kolkata-pjid-41575/",
+    "photoUrl": "https://dyimg2.realestateindia.com/proj_images/project41575/projGal-17-770x400.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\extraModern\\03.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Flat concrete roof, one solid balcony, offset upper block and bold rectangular awning.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MOD_02",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-sun-enclave-apartment-by-swaraj-homes-builders-developer-in-keshtopur-kolkata-pid-89739",
+    "photoUrl": "https://housing-images.n7net.in/4f2250e8/b2ba75f0aa20b776fe0b1bc75dad381a/v0/large/sun_enclave_apartment-keshtopur-kolkata-swaraj_homes_builders_%26_developer.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\01.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Stepped left balconies, horizontal accent strips and contrasting side service wall.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MOD_03",
+    "category": "modern",
+    "sourcePage": "https://housing.com/rent/19772529-850-sqft-2-bhk-apartment-on-rent-in-kaikhali-kolkata",
+    "photoUrl": "https://is1-3.housingcdn.com/01c16c28/53ee2af4b55a0155dad3061624281e5f/v0/fs/2_bhk_apartment-for-rent-kaikhali-Kolkata-building.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\02.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Narrow stacked corner balconies and vertical service/window strip; high-rise source compressed to five floors.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MOD_04",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-new-projects-in-shyam-bazar-kolkata-srpid-AB0P67122rhpkfpmx2qu",
+    "photoUrl": "https://is1-3.housingcdn.com/4f2250e8/053d27e101dde6b219239266bf492313/v0/fs/sree_krishna_apartment-shyam_bazar-kolkata-reputed_builder.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\03.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Two balcony stacks, central bay and flat roofline; broad apartment source compressed to a reusable six-storey block.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MOD_05",
+    "category": "modern",
+    "sourcePage": "https://www.bengalfilmarchive.com/iconic-address-details.php?i=MjEy",
+    "photoUrl": "https://www.bengalfilmarchive.com/images/iconic-address/mrinal%20padmapukur2.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\04.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Angled corner balconies, offset side windows and a simple concrete cap.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MOD_06",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-ganapati-enclave-by-ganapati-group-in-kalighat-kolkata-pid-218690",
+    "photoUrl": "https://housing-images.n7net.in/4f2250e8/6506f62c4fd65d40faca592e896754ff/v0/large/ganapati_enclave-kalighat-kolkata-ganapati_group.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\05.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Broad shallow balconies and strong horizontal slab bands; grilles reduced to solid parapets.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MOD_07",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-mani-maniam-by-mani-group-in-ballygunge-kolkata-pid-89721",
+    "photoUrl": "https://housing-images.n7net.in/4f2250e8/c97d890fd5bb83ef09a00e347b49d09a/v0/large/mani_maniam-ballygunge-kolkata-mani_group.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\09.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Alternating projecting balcony/window bays and dark red horizontal accents.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MOD_08",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-vikas-krishna-kutir-by-vikas-builders-in-keshtopur-kolkata-pid-228034",
+    "photoUrl": "https://housing-images.n7net.in/4f2250e8/ad4d89d5986c34754d5c29fe4e944700/v0/large/vikas_krishna_kutir-keshtopur-kolkata-vikas_builders.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\modern\\11.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Offset box balconies, grey/white concrete planes and a small rooftop tank silhouette.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MOD_09",
+    "category": "modern",
+    "sourcePage": "https://housing.com/buy-house-in-joka-kolkata-for-sale-srpid-M2P2ynx0bzmc6er7aea",
+    "photoUrl": "https://is1-2.housingcdn.com/01c16c28/05a0283debea0f3c3ab7a550c38c4c0d/v0/fs/3_bhk_independent_house-for-sale-joka-Kolkata-others.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\extraModern\\09.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Compact two-storey frontage, tall side fin, slim balcony and flat terrace.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MIX_01",
+    "category": "mixed_use",
+    "sourcePage": "https://www.realestateindia.com/property-detail/3bkh-flats-apartments-for-sale-in-chinar-park-kolkata-1470-sq-ft-62-lac-1108463.htm",
+    "photoUrl": "https://dynamic.realestateindia.com/prop_images/2774922/1108463_6.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\mixed\\01.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Angled corner, closed ground-floor shutters, blank sign panels and compact upper windows.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MIX_02",
+    "category": "mixed_use",
+    "sourcePage": "https://houssed.com/kolkata/bhawani-group/bhawani-complex-133781",
+    "photoUrl": "https://imgcdn.houssed.com/assets/Files/Projects/133781/Project%20Image/5151-1748073696.webp",
+    "localPhoto": "artifacts\\references\\tier3\\mixed\\02.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Two roof parapet crowns, two shop bays and paired upper balconies; source complex reduced to one building.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MIX_03",
+    "category": "mixed_use",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMall_Enclave_-_Dum_Dum_-_Kolkata_2012-04-22_2098.JPG",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Mall_Enclave_-_Dum_Dum_-_Kolkata_2012-04-22_2098.JPG",
+    "localPhoto": "artifacts\\references\\tier3\\mixed\\04.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Large closed shutters, vertical accent strip and a narrow upper residential balcony.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MIX_04",
+    "category": "mixed_use",
+    "sourcePage": "https://bag2bag.in/hotels/kolkata/beleghata/hotel-dream-world-beleghata",
+    "photoUrl": "https://static-img.bag2bag.in/property-images/img-949x449/kolkata/hotel-dream-world-beleghata/1748437215883.webp?format=webp&quality=90",
+    "localPhoto": "artifacts\\references\\tier3\\mixed\\05.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Three different-width shopfronts and blank sign surfaces, with offset windows above.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_MIX_05",
+    "category": "mixed_use",
+    "sourcePage": "https://housing.com/buy-sam-kunj-by-swaraj-homes-builders-developer-in-keshtopur-kolkata-pid-89741",
+    "photoUrl": "https://is1-3.housingcdn.com/4f2250e8/04349ed0a15a3cd0299b72c898734fde/v0/fs/sam_kunj-keshtopur-kolkata-swaraj_homes_builders_%26_developer.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\mixed\\10.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Corner balcony stack, blue side accent and two closed storefronts under blank signboards.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_INF_01",
+    "category": "informal",
+    "sourcePage": "https://www.chriscrews.com/photos/tiljala-bustee-kolkata-india/",
+    "photoUrl": "https://www.chriscrews.com/wp-content/gallery/tiljala-bustee-kolkata-india/Tiljala-Bustee-Visit-46.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\informal\\05.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Compact blue masonry, opaque shutter, low corrugated sheet roof and small supported awning; debris and exaggerated wear omitted.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_INF_02",
+    "category": "informal",
+    "sourcePage": "https://d-arch.ide.go.jp/photo_archive/India/children/chapter_5/40_V_038_001.html",
+    "photoUrl": "https://d-arch.ide.go.jp/photo_archive/India/children/chapter_5/image/40_V_038_001.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\informal\\04.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Modest mixed-height brick construction, small upper room and simple low roof, inspired by individual masonry units in the photographed Tiljala lane.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  {
+    "assetId": "KOL_T3_INF_03",
+    "category": "informal",
+    "sourcePage": "https://www.anandabazar.com/west-bengal/kolkata/kmc-election-2021-many-elections-came-and-went-but-slum-area-are-still-in-the-darkness/cid/1318957",
+    "photoUrl": "https://assets.telegraphindia.com/abp/2021/Dec/1639705366_kol-basti.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\informal\\01.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Low plaster masonry and staggered sheet-roof extension, inspired by the foreground units in the Kolkata housing photograph.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  }
+]

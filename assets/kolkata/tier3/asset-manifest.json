@@ -1,0 +1,1576 @@
+[
+  {
+    "id": "KOL_T3_INF_01",
+    "family": "informal",
+    "ref": [
+      "informal",
+      5
+    ],
+    "name": "Blue masonry sheet-roof home",
+    "width": 18,
+    "depth": 19,
+    "floors": 1,
+    "paint": "DustBlue",
+    "recipe": "inf_blue_sheet",
+    "features": "Compact blue masonry, opaque shutter, low corrugated sheet roof and small supported awning; debris and exaggerated wear omitted.",
+    "reference": {
+      "assetId": "KOL_T3_INF_01",
+      "category": "informal",
+      "sourcePage": "https://www.chriscrews.com/photos/tiljala-bustee-kolkata-india/",
+      "photoUrl": "https://www.chriscrews.com/wp-content/gallery/tiljala-bustee-kolkata-india/Tiljala-Bustee-Visit-46.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\informal\\05.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Compact blue masonry, opaque shutter, low corrugated sheet roof and small supported awning; debris and exaggerated wear omitted.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 19.7,
+      "height": 11.25,
+      "depth": 23.2
+    },
+    "boundsMinStuds": [
+      -9.85,
+      0.0,
+      -12.700000000000001
+    ],
+    "boundsMaxStuds": [
+      9.85,
+      11.25,
+      10.5
+    ],
+    "triangles": 332,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_DustBlue",
+      "T3_Roof",
+      "T3_Dark"
+    ],
+    "textures": [],
+    "source": "informal/KOL_T3_INF_01/KOL_T3_INF_01.blend",
+    "export": "informal/KOL_T3_INF_01/KOL_T3_INF_01.fbx",
+    "meshKeys": [
+      "KOL_T3_INF_01__Trim",
+      "KOL_T3_INF_01__Body",
+      "KOL_T3_INF_01__Roof",
+      "KOL_T3_INF_01__Dark"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_INF_02",
+    "family": "informal",
+    "ref": [
+      "informal",
+      4
+    ],
+    "name": "Brick home with upper room",
+    "width": 20,
+    "depth": 23,
+    "floors": 2,
+    "paint": "Brick",
+    "recipe": "inf_upper_room",
+    "features": "Modest mixed-height brick construction, small upper room and simple low roof, inspired by individual masonry units in the photographed Tiljala lane.",
+    "reference": {
+      "assetId": "KOL_T3_INF_02",
+      "category": "informal",
+      "sourcePage": "https://d-arch.ide.go.jp/photo_archive/India/children/chapter_5/40_V_038_001.html",
+      "photoUrl": "https://d-arch.ide.go.jp/photo_archive/India/children/chapter_5/image/40_V_038_001.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\informal\\04.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Modest mixed-height brick construction, small upper room and simple low roof, inspired by individual masonry units in the photographed Tiljala lane.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 21.0,
+      "height": 21.38,
+      "depth": 26.95
+    },
+    "boundsMinStuds": [
+      -10.6,
+      0.0,
+      -14.700000000000001
+    ],
+    "boundsMaxStuds": [
+      10.4,
+      21.380000000000003,
+      12.25
+    ],
+    "triangles": 420,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Brick",
+      "T3_Roof",
+      "T3_Dark"
+    ],
+    "textures": [],
+    "source": "informal/KOL_T3_INF_02/KOL_T3_INF_02.blend",
+    "export": "informal/KOL_T3_INF_02/KOL_T3_INF_02.fbx",
+    "meshKeys": [
+      "KOL_T3_INF_02__Trim",
+      "KOL_T3_INF_02__Body",
+      "KOL_T3_INF_02__Roof",
+      "KOL_T3_INF_02__Dark"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_INF_03",
+    "family": "informal",
+    "ref": [
+      "informal",
+      1
+    ],
+    "name": "Low plaster home with roof extension",
+    "width": 22,
+    "depth": 18,
+    "floors": 1,
+    "paint": "Plaster",
+    "recipe": "inf_roof_extension",
+    "features": "Low plaster masonry and staggered sheet-roof extension, inspired by the foreground units in the Kolkata housing photograph.",
+    "reference": {
+      "assetId": "KOL_T3_INF_03",
+      "category": "informal",
+      "sourcePage": "https://www.anandabazar.com/west-bengal/kolkata/kmc-election-2021-many-elections-came-and-went-but-slum-area-are-still-in-the-darkness/cid/1318957",
+      "photoUrl": "https://assets.telegraphindia.com/abp/2021/Dec/1639705366_kol-basti.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\informal\\01.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Low plaster masonry and staggered sheet-roof extension, inspired by the foreground units in the Kolkata housing photograph.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 23.21,
+      "height": 11.615,
+      "depth": 20.2
+    },
+    "boundsMinStuds": [
+      -11.55,
+      0.0,
+      -10.200000000000001
+    ],
+    "boundsMaxStuds": [
+      11.66,
+      11.614999999999998,
+      10.0
+    ],
+    "triangles": 384,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Plaster",
+      "T3_Trim",
+      "T3_Roof",
+      "T3_Dark"
+    ],
+    "textures": [],
+    "source": "informal/KOL_T3_INF_03/KOL_T3_INF_03.blend",
+    "export": "informal/KOL_T3_INF_03/KOL_T3_INF_03.fbx",
+    "meshKeys": [
+      "KOL_T3_INF_03__Body",
+      "KOL_T3_INF_03__Trim",
+      "KOL_T3_INF_03__Roof",
+      "KOL_T3_INF_03__Dark"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MIX_01",
+    "family": "mixed_use",
+    "ref": [
+      "mixed",
+      1
+    ],
+    "name": "Peach corner shop apartments",
+    "width": 27,
+    "depth": 30,
+    "floors": 4,
+    "paint": "Peach",
+    "recipe": "mix_corner",
+    "features": "Angled corner, closed ground-floor shutters, blank sign panels and compact upper windows.",
+    "reference": {
+      "assetId": "KOL_T3_MIX_01",
+      "category": "mixed_use",
+      "sourcePage": "https://www.realestateindia.com/property-detail/3bkh-flats-apartments-for-sale-in-chinar-park-kolkata-1470-sq-ft-62-lac-1108463.htm",
+      "photoUrl": "https://dynamic.realestateindia.com/prop_images/2774922/1108463_6.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\mixed\\01.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Angled corner, closed ground-floor shutters, blank sign panels and compact upper windows.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 27.74,
+      "height": 50.15,
+      "depth": 33.22
+    },
+    "boundsMinStuds": [
+      -13.870000000000001,
+      0.0,
+      -17.85
+    ],
+    "boundsMaxStuds": [
+      13.870000000000001,
+      50.150000000000006,
+      15.37
+    ],
+    "triangles": 880,
+    "meshGroups": 5,
+    "materials": [
+      "T3_Trim",
+      "T3_Peach",
+      "T3_Dark",
+      "T3_Roof",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "mixed_use/KOL_T3_MIX_01/KOL_T3_MIX_01.blend",
+    "export": "mixed_use/KOL_T3_MIX_01/KOL_T3_MIX_01.fbx",
+    "meshKeys": [
+      "KOL_T3_MIX_01__Trim",
+      "KOL_T3_MIX_01__Body",
+      "KOL_T3_MIX_01__Dark",
+      "KOL_T3_MIX_01__Roof",
+      "KOL_T3_MIX_01__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MIX_02",
+    "family": "mixed_use",
+    "ref": [
+      "mixed",
+      2
+    ],
+    "name": "Twin-crown shop gallery",
+    "width": 34,
+    "depth": 29,
+    "floors": 4,
+    "paint": "Rose",
+    "recipe": "mix_twin_crown",
+    "features": "Two roof parapet crowns, two shop bays and paired upper balconies; source complex reduced to one building.",
+    "reference": {
+      "assetId": "KOL_T3_MIX_02",
+      "category": "mixed_use",
+      "sourcePage": "https://houssed.com/kolkata/bhawani-group/bhawani-complex-133781",
+      "photoUrl": "https://imgcdn.houssed.com/assets/Files/Projects/133781/Project%20Image/5151-1748073696.webp",
+      "localPhoto": "artifacts\\references\\tier3\\mixed\\02.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Two roof parapet crowns, two shop bays and paired upper balconies; source complex reduced to one building.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 34.74,
+      "height": 52.525,
+      "depth": 32.22
+    },
+    "boundsMinStuds": [
+      -17.37,
+      0.0,
+      -17.35
+    ],
+    "boundsMaxStuds": [
+      17.37,
+      52.525,
+      14.87
+    ],
+    "triangles": 1104,
+    "meshGroups": 5,
+    "materials": [
+      "T3_Trim",
+      "T3_Rose",
+      "T3_Dark",
+      "T3_Roof",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "mixed_use/KOL_T3_MIX_02/KOL_T3_MIX_02.blend",
+    "export": "mixed_use/KOL_T3_MIX_02/KOL_T3_MIX_02.fbx",
+    "meshKeys": [
+      "KOL_T3_MIX_02__Trim",
+      "KOL_T3_MIX_02__Body",
+      "KOL_T3_MIX_02__Dark",
+      "KOL_T3_MIX_02__Roof",
+      "KOL_T3_MIX_02__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MIX_03",
+    "family": "mixed_use",
+    "ref": [
+      "mixed",
+      4
+    ],
+    "name": "Cream shutter-front block",
+    "width": 28,
+    "depth": 28,
+    "floors": 3,
+    "paint": "Cream",
+    "recipe": "mix_vertical_stripe",
+    "features": "Large closed shutters, vertical accent strip and a narrow upper residential balcony.",
+    "reference": {
+      "assetId": "KOL_T3_MIX_03",
+      "category": "mixed_use",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMall_Enclave_-_Dum_Dum_-_Kolkata_2012-04-22_2098.JPG",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Mall_Enclave_-_Dum_Dum_-_Kolkata_2012-04-22_2098.JPG",
+      "localPhoto": "artifacts\\references\\tier3\\mixed\\04.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Large closed shutters, vertical accent strip and a narrow upper residential balcony.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 28.74,
+      "height": 38.15,
+      "depth": 31.32
+    },
+    "boundsMinStuds": [
+      -14.370000000000001,
+      0.0,
+      -16.95
+    ],
+    "boundsMaxStuds": [
+      14.370000000000001,
+      38.150000000000006,
+      14.37
+    ],
+    "triangles": 648,
+    "meshGroups": 5,
+    "materials": [
+      "T3_Trim",
+      "T3_Cream",
+      "T3_Dark",
+      "T3_Roof",
+      "T3_BlueAccent"
+    ],
+    "textures": [],
+    "source": "mixed_use/KOL_T3_MIX_03/KOL_T3_MIX_03.blend",
+    "export": "mixed_use/KOL_T3_MIX_03/KOL_T3_MIX_03.fbx",
+    "meshKeys": [
+      "KOL_T3_MIX_03__Trim",
+      "KOL_T3_MIX_03__Body",
+      "KOL_T3_MIX_03__Dark",
+      "KOL_T3_MIX_03__Roof",
+      "KOL_T3_MIX_03__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MIX_04",
+    "family": "mixed_use",
+    "ref": [
+      "mixed",
+      5
+    ],
+    "name": "Three-shop white walkup",
+    "width": 32,
+    "depth": 25,
+    "floors": 3,
+    "paint": "Plaster",
+    "recipe": "mix_three_shops",
+    "features": "Three different-width shopfronts and blank sign surfaces, with offset windows above.",
+    "reference": {
+      "assetId": "KOL_T3_MIX_04",
+      "category": "mixed_use",
+      "sourcePage": "https://bag2bag.in/hotels/kolkata/beleghata/hotel-dream-world-beleghata",
+      "photoUrl": "https://static-img.bag2bag.in/property-images/img-949x449/kolkata/hotel-dream-world-beleghata/1748437215883.webp?format=webp&quality=90",
+      "localPhoto": "artifacts\\references\\tier3\\mixed\\05.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Three different-width shopfronts and blank sign surfaces, with offset windows above.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 32.74,
+      "height": 38.15,
+      "depth": 27.82
+    },
+    "boundsMinStuds": [
+      -16.37,
+      0.0,
+      -14.95
+    ],
+    "boundsMaxStuds": [
+      16.37,
+      38.150000000000006,
+      12.87
+    ],
+    "triangles": 732,
+    "meshGroups": 5,
+    "materials": [
+      "T3_Trim",
+      "T3_Plaster",
+      "T3_Dark",
+      "T3_Roof",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "mixed_use/KOL_T3_MIX_04/KOL_T3_MIX_04.blend",
+    "export": "mixed_use/KOL_T3_MIX_04/KOL_T3_MIX_04.fbx",
+    "meshKeys": [
+      "KOL_T3_MIX_04__Trim",
+      "KOL_T3_MIX_04__Body",
+      "KOL_T3_MIX_04__Dark",
+      "KOL_T3_MIX_04__Roof",
+      "KOL_T3_MIX_04__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MIX_05",
+    "family": "mixed_use",
+    "ref": [
+      "mixed",
+      10
+    ],
+    "name": "White corner balcony shops",
+    "width": 30,
+    "depth": 32,
+    "floors": 5,
+    "paint": "Plaster",
+    "recipe": "mix_corner_balconies",
+    "features": "Corner balcony stack, blue side accent and two closed storefronts under blank signboards.",
+    "reference": {
+      "assetId": "KOL_T3_MIX_05",
+      "category": "mixed_use",
+      "sourcePage": "https://housing.com/buy-sam-kunj-by-swaraj-homes-builders-developer-in-keshtopur-kolkata-pid-89741",
+      "photoUrl": "https://is1-3.housingcdn.com/4f2250e8/04349ed0a15a3cd0299b72c898734fde/v0/fs/sam_kunj-keshtopur-kolkata-swaraj_homes_builders_%26_developer.jpeg",
+      "localPhoto": "artifacts\\references\\tier3\\mixed\\10.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Corner balcony stack, blue side accent and two closed storefronts under blank signboards.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 33.42,
+      "height": 62.15,
+      "depth": 35.42
+    },
+    "boundsMinStuds": [
+      -15.370000000000001,
+      0.0,
+      -19.05
+    ],
+    "boundsMaxStuds": [
+      18.05,
+      62.150000000000006,
+      16.37
+    ],
+    "triangles": 1320,
+    "meshGroups": 5,
+    "materials": [
+      "T3_Trim",
+      "T3_Plaster",
+      "T3_Dark",
+      "T3_Roof",
+      "T3_BlueAccent"
+    ],
+    "textures": [],
+    "source": "mixed_use/KOL_T3_MIX_05/KOL_T3_MIX_05.blend",
+    "export": "mixed_use/KOL_T3_MIX_05/KOL_T3_MIX_05.fbx",
+    "meshKeys": [
+      "KOL_T3_MIX_05__Trim",
+      "KOL_T3_MIX_05__Body",
+      "KOL_T3_MIX_05__Dark",
+      "KOL_T3_MIX_05__Roof",
+      "KOL_T3_MIX_05__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MOD_01",
+    "family": "modern",
+    "ref": [
+      "extraModern",
+      3
+    ],
+    "name": "Compact pink concrete house",
+    "width": 23,
+    "depth": 27,
+    "floors": 2,
+    "paint": "Peach",
+    "recipe": "mod_small_house",
+    "features": "Flat concrete roof, one solid balcony, offset upper block and bold rectangular awning.",
+    "reference": {
+      "assetId": "KOL_T3_MOD_01",
+      "category": "modern",
+      "sourcePage": "https://www.realestateindia.com/projects/aashay-homes-by-aashay-realty-pvt-ltd-in-amtala-kolkata-pjid-41575/",
+      "photoUrl": "https://dyimg2.realestateindia.com/proj_images/project41575/projGal-17-770x400.jpeg",
+      "localPhoto": "artifacts\\references\\tier3\\extraModern\\03.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Flat concrete roof, one solid balcony, offset upper block and bold rectangular awning.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 23.83,
+      "height": 28.1,
+      "depth": 31.02
+    },
+    "boundsMinStuds": [
+      -11.870000000000001,
+      0.0,
+      -17.15
+    ],
+    "boundsMaxStuds": [
+      11.959999999999999,
+      28.099999999999998,
+      13.87
+    ],
+    "triangles": 396,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Peach",
+      "T3_Dark",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "modern/KOL_T3_MOD_01/KOL_T3_MOD_01.blend",
+    "export": "modern/KOL_T3_MOD_01/KOL_T3_MOD_01.fbx",
+    "meshKeys": [
+      "KOL_T3_MOD_01__Trim",
+      "KOL_T3_MOD_01__Body",
+      "KOL_T3_MOD_01__Dark",
+      "KOL_T3_MOD_01__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MOD_02",
+    "family": "modern",
+    "ref": [
+      "modern",
+      1
+    ],
+    "name": "Stacked cream balcony block",
+    "width": 26,
+    "depth": 31,
+    "floors": 4,
+    "paint": "Cream",
+    "recipe": "mod_stacked_left",
+    "features": "Stepped left balconies, horizontal accent strips and contrasting side service wall.",
+    "reference": {
+      "assetId": "KOL_T3_MOD_02",
+      "category": "modern",
+      "sourcePage": "https://housing.com/buy-sun-enclave-apartment-by-swaraj-homes-builders-developer-in-keshtopur-kolkata-pid-89739",
+      "photoUrl": "https://housing-images.n7net.in/4f2250e8/b2ba75f0aa20b776fe0b1bc75dad381a/v0/large/sun_enclave_apartment-keshtopur-kolkata-swaraj_homes_builders_%26_developer.jpeg",
+      "localPhoto": "artifacts\\references\\tier3\\modern\\01.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Stepped left balconies, horizontal accent strips and contrasting side service wall.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 26.74,
+      "height": 50.15,
+      "depth": 34.62
+    },
+    "boundsMinStuds": [
+      -13.370000000000001,
+      0.0,
+      -18.75
+    ],
+    "boundsMaxStuds": [
+      13.370000000000001,
+      50.150000000000006,
+      15.87
+    ],
+    "triangles": 660,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Cream",
+      "T3_Dark",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "modern/KOL_T3_MOD_02/KOL_T3_MOD_02.blend",
+    "export": "modern/KOL_T3_MOD_02/KOL_T3_MOD_02.fbx",
+    "meshKeys": [
+      "KOL_T3_MOD_02__Trim",
+      "KOL_T3_MOD_02__Body",
+      "KOL_T3_MOD_02__Dark",
+      "KOL_T3_MOD_02__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MOD_03",
+    "family": "modern",
+    "ref": [
+      "modern",
+      2
+    ],
+    "name": "Narrow peach service spine",
+    "width": 21,
+    "depth": 32,
+    "floors": 5,
+    "paint": "Peach",
+    "recipe": "mod_service_spine",
+    "features": "Narrow stacked corner balconies and vertical service/window strip; high-rise source compressed to five floors.",
+    "reference": {
+      "assetId": "KOL_T3_MOD_03",
+      "category": "modern",
+      "sourcePage": "https://housing.com/rent/19772529-850-sqft-2-bhk-apartment-on-rent-in-kaikhali-kolkata",
+      "photoUrl": "https://is1-3.housingcdn.com/01c16c28/53ee2af4b55a0155dad3061624281e5f/v0/fs/2_bhk_apartment-for-rent-kaikhali-Kolkata-building.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\modern\\02.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Narrow stacked corner balconies and vertical service/window strip; high-rise source compressed to five floors.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 21.74,
+      "height": 62.15,
+      "depth": 35.62
+    },
+    "boundsMinStuds": [
+      -10.870000000000001,
+      0.0,
+      -19.25
+    ],
+    "boundsMaxStuds": [
+      10.870000000000001,
+      62.150000000000006,
+      16.37
+    ],
+    "triangles": 816,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Peach",
+      "T3_Dark",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "modern/KOL_T3_MOD_03/KOL_T3_MOD_03.blend",
+    "export": "modern/KOL_T3_MOD_03/KOL_T3_MOD_03.fbx",
+    "meshKeys": [
+      "KOL_T3_MOD_03__Trim",
+      "KOL_T3_MOD_03__Body",
+      "KOL_T3_MOD_03__Dark",
+      "KOL_T3_MOD_03__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MOD_04",
+    "family": "modern",
+    "ref": [
+      "modern",
+      3
+    ],
+    "name": "Brick twin balcony block",
+    "width": 36,
+    "depth": 34,
+    "floors": 6,
+    "paint": "Brick",
+    "recipe": "mod_twin_balconies",
+    "features": "Two balcony stacks, central bay and flat roofline; broad apartment source compressed to a reusable six-storey block.",
+    "reference": {
+      "assetId": "KOL_T3_MOD_04",
+      "category": "modern",
+      "sourcePage": "https://housing.com/buy-new-projects-in-shyam-bazar-kolkata-srpid-AB0P67122rhpkfpmx2qu",
+      "photoUrl": "https://is1-3.housingcdn.com/4f2250e8/053d27e101dde6b219239266bf492313/v0/fs/sree_krishna_apartment-shyam_bazar-kolkata-reputed_builder.jpeg",
+      "localPhoto": "artifacts\\references\\tier3\\modern\\03.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Two balcony stacks, central bay and flat roofline; broad apartment source compressed to a reusable six-storey block.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 36.74,
+      "height": 74.15,
+      "depth": 37.92
+    },
+    "boundsMinStuds": [
+      -18.37,
+      0.0,
+      -20.55
+    ],
+    "boundsMaxStuds": [
+      18.37,
+      74.14999999999999,
+      17.37
+    ],
+    "triangles": 1416,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Brick",
+      "T3_Dark",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "modern/KOL_T3_MOD_04/KOL_T3_MOD_04.blend",
+    "export": "modern/KOL_T3_MOD_04/KOL_T3_MOD_04.fbx",
+    "meshKeys": [
+      "KOL_T3_MOD_04__Trim",
+      "KOL_T3_MOD_04__Body",
+      "KOL_T3_MOD_04__Dark",
+      "KOL_T3_MOD_04__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MOD_05",
+    "family": "modern",
+    "ref": [
+      "modern",
+      4
+    ],
+    "name": "Beige clipped-corner apartments",
+    "width": 24,
+    "depth": 30,
+    "floors": 5,
+    "paint": "Sand",
+    "recipe": "mod_chamfer_corner",
+    "features": "Angled corner balconies, offset side windows and a simple concrete cap.",
+    "reference": {
+      "assetId": "KOL_T3_MOD_05",
+      "category": "modern",
+      "sourcePage": "https://www.bengalfilmarchive.com/iconic-address-details.php?i=MjEy",
+      "photoUrl": "https://www.bengalfilmarchive.com/images/iconic-address/mrinal%20padmapukur2.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\modern\\04.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Angled corner balconies, offset side windows and a simple concrete cap.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 24.74,
+      "height": 62.15,
+      "depth": 33.12
+    },
+    "boundsMinStuds": [
+      -12.370000000000001,
+      0.0,
+      -17.75
+    ],
+    "boundsMaxStuds": [
+      12.370000000000001,
+      62.150000000000006,
+      15.37
+    ],
+    "triangles": 964,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Sand",
+      "T3_Dark",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "modern/KOL_T3_MOD_05/KOL_T3_MOD_05.blend",
+    "export": "modern/KOL_T3_MOD_05/KOL_T3_MOD_05.fbx",
+    "meshKeys": [
+      "KOL_T3_MOD_05__Trim",
+      "KOL_T3_MOD_05__Body",
+      "KOL_T3_MOD_05__Dark",
+      "KOL_T3_MOD_05__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MOD_06",
+    "family": "modern",
+    "ref": [
+      "modern",
+      5
+    ],
+    "name": "Broad sand balcony building",
+    "width": 34,
+    "depth": 31,
+    "floors": 4,
+    "paint": "Sand",
+    "recipe": "mod_wide_balconies",
+    "features": "Broad shallow balconies and strong horizontal slab bands; grilles reduced to solid parapets.",
+    "reference": {
+      "assetId": "KOL_T3_MOD_06",
+      "category": "modern",
+      "sourcePage": "https://housing.com/buy-ganapati-enclave-by-ganapati-group-in-kalighat-kolkata-pid-218690",
+      "photoUrl": "https://housing-images.n7net.in/4f2250e8/6506f62c4fd65d40faca592e896754ff/v0/large/ganapati_enclave-kalighat-kolkata-ganapati_group.jpeg",
+      "localPhoto": "artifacts\\references\\tier3\\modern\\05.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Broad shallow balconies and strong horizontal slab bands; grilles reduced to solid parapets.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 35.0,
+      "height": 50.15,
+      "depth": 34.02
+    },
+    "boundsMinStuds": [
+      -17.5,
+      0.0,
+      -18.15
+    ],
+    "boundsMaxStuds": [
+      17.5,
+      50.150000000000006,
+      15.87
+    ],
+    "triangles": 840,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Sand",
+      "T3_Dark",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "modern/KOL_T3_MOD_06/KOL_T3_MOD_06.blend",
+    "export": "modern/KOL_T3_MOD_06/KOL_T3_MOD_06.fbx",
+    "meshKeys": [
+      "KOL_T3_MOD_06__Trim",
+      "KOL_T3_MOD_06__Body",
+      "KOL_T3_MOD_06__Dark",
+      "KOL_T3_MOD_06__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MOD_07",
+    "family": "modern",
+    "ref": [
+      "modern",
+      9
+    ],
+    "name": "Yellow alternating bay block",
+    "width": 29,
+    "depth": 29,
+    "floors": 5,
+    "paint": "Ochre",
+    "recipe": "mod_alternating_bays",
+    "features": "Alternating projecting balcony/window bays and dark red horizontal accents.",
+    "reference": {
+      "assetId": "KOL_T3_MOD_07",
+      "category": "modern",
+      "sourcePage": "https://housing.com/buy-mani-maniam-by-mani-group-in-ballygunge-kolkata-pid-89721",
+      "photoUrl": "https://housing-images.n7net.in/4f2250e8/c97d890fd5bb83ef09a00e347b49d09a/v0/large/mani_maniam-ballygunge-kolkata-mani_group.jpeg",
+      "localPhoto": "artifacts\\references\\tier3\\modern\\09.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Alternating projecting balcony/window bays and dark red horizontal accents.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 29.74,
+      "height": 62.15,
+      "depth": 33.12
+    },
+    "boundsMinStuds": [
+      -14.870000000000001,
+      0.0,
+      -18.25
+    ],
+    "boundsMaxStuds": [
+      14.870000000000001,
+      62.150000000000006,
+      14.87
+    ],
+    "triangles": 1044,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Ochre",
+      "T3_Dark",
+      "T3_Clay"
+    ],
+    "textures": [],
+    "source": "modern/KOL_T3_MOD_07/KOL_T3_MOD_07.blend",
+    "export": "modern/KOL_T3_MOD_07/KOL_T3_MOD_07.fbx",
+    "meshKeys": [
+      "KOL_T3_MOD_07__Trim",
+      "KOL_T3_MOD_07__Body",
+      "KOL_T3_MOD_07__Dark",
+      "KOL_T3_MOD_07__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MOD_08",
+    "family": "modern",
+    "ref": [
+      "modern",
+      11
+    ],
+    "name": "Grey asymmetric apartment stack",
+    "width": 30,
+    "depth": 33,
+    "floors": 4,
+    "paint": "Grey",
+    "recipe": "mod_offset_boxes",
+    "features": "Offset box balconies, grey/white concrete planes and a small rooftop tank silhouette.",
+    "reference": {
+      "assetId": "KOL_T3_MOD_08",
+      "category": "modern",
+      "sourcePage": "https://housing.com/buy-vikas-krishna-kutir-by-vikas-builders-in-keshtopur-kolkata-pid-228034",
+      "photoUrl": "https://housing-images.n7net.in/4f2250e8/ad4d89d5986c34754d5c29fe4e944700/v0/large/vikas_krishna_kutir-keshtopur-kolkata-vikas_builders.jpeg",
+      "localPhoto": "artifacts\\references\\tier3\\modern\\11.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Offset box balconies, grey/white concrete planes and a small rooftop tank silhouette.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 30.74,
+      "height": 54.75,
+      "depth": 37.12
+    },
+    "boundsMinStuds": [
+      -15.370000000000001,
+      0.0,
+      -20.25
+    ],
+    "boundsMaxStuds": [
+      15.370000000000001,
+      54.75,
+      16.87
+    ],
+    "triangles": 868,
+    "meshGroups": 3,
+    "materials": [
+      "T3_Trim",
+      "T3_Grey",
+      "T3_Dark"
+    ],
+    "textures": [],
+    "source": "modern/KOL_T3_MOD_08/KOL_T3_MOD_08.blend",
+    "export": "modern/KOL_T3_MOD_08/KOL_T3_MOD_08.fbx",
+    "meshKeys": [
+      "KOL_T3_MOD_08__Trim",
+      "KOL_T3_MOD_08__Body",
+      "KOL_T3_MOD_08__Dark"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_MOD_09",
+    "family": "modern",
+    "ref": [
+      "extraModern",
+      9
+    ],
+    "name": "Narrow blue terrace home",
+    "width": 19,
+    "depth": 29,
+    "floors": 2,
+    "paint": "DustBlue",
+    "recipe": "mod_tall_fin",
+    "features": "Compact two-storey frontage, tall side fin, slim balcony and flat terrace.",
+    "reference": {
+      "assetId": "KOL_T3_MOD_09",
+      "category": "modern",
+      "sourcePage": "https://housing.com/buy-house-in-joka-kolkata-for-sale-srpid-M2P2ynx0bzmc6er7aea",
+      "photoUrl": "https://is1-2.housingcdn.com/01c16c28/05a0283debea0f3c3ab7a550c38c4c0d/v0/fs/3_bhk_independent_house-for-sale-joka-Kolkata-others.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\extraModern\\09.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Compact two-storey frontage, tall side fin, slim balcony and flat terrace.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 19.74,
+      "height": 26.15,
+      "depth": 33.02
+    },
+    "boundsMinStuds": [
+      -9.870000000000001,
+      0.0,
+      -18.15
+    ],
+    "boundsMaxStuds": [
+      9.870000000000001,
+      26.150000000000002,
+      14.87
+    ],
+    "triangles": 384,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_DustBlue",
+      "T3_Dark",
+      "T3_BlueAccent"
+    ],
+    "textures": [],
+    "source": "modern/KOL_T3_MOD_09/KOL_T3_MOD_09.blend",
+    "export": "modern/KOL_T3_MOD_09/KOL_T3_MOD_09.fbx",
+    "meshKeys": [
+      "KOL_T3_MOD_09__Trim",
+      "KOL_T3_MOD_09__Body",
+      "KOL_T3_MOD_09__Dark",
+      "KOL_T3_MOD_09__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_01",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      1
+    ],
+    "name": "Red shutter bay house",
+    "width": 19,
+    "depth": 27,
+    "floors": 2,
+    "paint": "Oxide",
+    "recipe": "old_center_balcony",
+    "features": "Narrow red facade, tall shutters, single projecting balcony and modest cornice.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_01",
+      "category": "old_kolkata",
+      "sourcePage": "https://in.pinterest.com/pin/old-calcutta-houses--50172983341576965/",
+      "photoUrl": "https://i.pinimg.com/originals/17/9b/6a/179b6aec799873a382c5506b3a0369b9.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\old\\01.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Narrow red facade, tall shutters, single projecting balcony and modest cornice.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 20.5,
+      "height": 25.9,
+      "depth": 30.72
+    },
+    "boundsMinStuds": [
+      -10.25,
+      0.0,
+      -16.85
+    ],
+    "boundsMaxStuds": [
+      10.25,
+      25.900000000000002,
+      13.87
+    ],
+    "triangles": 632,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Oxide",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_01/KOL_T3_OLD_01.blend",
+    "export": "old_kolkata/KOL_T3_OLD_01/KOL_T3_OLD_01.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_01__Trim",
+      "KOL_T3_OLD_01__Body",
+      "KOL_T3_OLD_01__Dark",
+      "KOL_T3_OLD_01__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_02",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      2
+    ],
+    "name": "Stacked side verandahs",
+    "width": 23,
+    "depth": 30,
+    "floors": 3,
+    "paint": "BlueGrey",
+    "recipe": "old_offset_verandahs",
+    "features": "Offset stacked balconies and green shutters; ornate photographed lattice becomes two plain rails.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_02",
+      "category": "old_kolkata",
+      "sourcePage": "https://thoughtfultanya.medium.com/why-is-the-indian-city-kolkata-popularly-addressed-as-the-city-of-joy-6db47992bf26",
+      "photoUrl": "https://miro.medium.com/v2/resize%3Afit%3A1400/1%2ACTO7KQcZ6XunSQeVB4muPA.jpeg",
+      "localPhoto": "artifacts\\references\\tier3\\old\\02.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Offset stacked balconies and green shutters; ornate photographed lattice becomes two plain rails.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 23.74,
+      "height": 37.9,
+      "depth": 34.17
+    },
+    "boundsMinStuds": [
+      -11.870000000000001,
+      0.0,
+      -18.8
+    ],
+    "boundsMaxStuds": [
+      11.870000000000001,
+      37.900000000000006,
+      15.37
+    ],
+    "triangles": 828,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_BlueGrey",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_02/KOL_T3_OLD_02.blend",
+    "export": "old_kolkata/KOL_T3_OLD_02/KOL_T3_OLD_02.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_02__Trim",
+      "KOL_T3_OLD_02__Body",
+      "KOL_T3_OLD_02__Dark",
+      "KOL_T3_OLD_02__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_03",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      3
+    ],
+    "name": "Cream screened verandah",
+    "width": 28,
+    "depth": 25,
+    "floors": 3,
+    "paint": "Cream",
+    "recipe": "old_screen_verandah",
+    "features": "Broad cream verandah, slender rectangular posts, green shutters and shallow projecting roof.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_03",
+      "category": "old_kolkata",
+      "sourcePage": "https://www.airbnb.co.in/rooms/46523139",
+      "photoUrl": "https://a0.muscache.com/im/pictures/b3b1a8e9-cbc5-4fb1-8155-321f79d50085.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\old\\03.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Broad cream verandah, slender rectangular posts, green shutters and shallow projecting roof.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 30.0,
+      "height": 37.9,
+      "depth": 29.37
+    },
+    "boundsMinStuds": [
+      -15.0,
+      0.0,
+      -16.5
+    ],
+    "boundsMaxStuds": [
+      15.0,
+      37.900000000000006,
+      12.87
+    ],
+    "triangles": 1032,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Cream",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_03/KOL_T3_OLD_03.blend",
+    "export": "old_kolkata/KOL_T3_OLD_03/KOL_T3_OLD_03.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_03__Trim",
+      "KOL_T3_OLD_03__Body",
+      "KOL_T3_OLD_03__Dark",
+      "KOL_T3_OLD_03__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_04",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      4
+    ],
+    "name": "Narrow polygon bay house",
+    "width": 18,
+    "depth": 28,
+    "floors": 4,
+    "paint": "BlueGrey",
+    "recipe": "old_polygon_bay",
+    "features": "Vertically stacked corner bay, compressed to a three-sided projection rather than a dense curved screen.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_04",
+      "category": "old_kolkata",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AOld_house%2C_North_Kolkata_%285261927935%29.jpg",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Old_house%2C_North_Kolkata_%285261927935%29.jpg/960px-Old_house%2C_North_Kolkata_%285261927935%29.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\old\\04.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Vertically stacked corner bay, compressed to a three-sided projection rather than a dense curved screen.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 18.74,
+      "height": 49.9,
+      "depth": 32.84
+    },
+    "boundsMinStuds": [
+      -9.370000000000001,
+      0.0,
+      -18.47
+    ],
+    "boundsMaxStuds": [
+      9.370000000000001,
+      49.900000000000006,
+      14.37
+    ],
+    "triangles": 844,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_BlueGrey",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_04/KOL_T3_OLD_04.blend",
+    "export": "old_kolkata/KOL_T3_OLD_04/KOL_T3_OLD_04.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_04__Trim",
+      "KOL_T3_OLD_04__Body",
+      "KOL_T3_OLD_04__Dark",
+      "KOL_T3_OLD_04__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_05",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      6
+    ],
+    "name": "Red gallery row house",
+    "width": 30,
+    "depth": 29,
+    "floors": 4,
+    "paint": "Brick",
+    "recipe": "old_long_gallery",
+    "features": "Red masonry, recessed-looking verandah band and continuous upper rails; floor count adapted for density.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_05",
+      "category": "old_kolkata",
+      "sourcePage": "https://www.tripoto.com/kolkata/trips/a-rendezvous-with-a-part-of-north-kolkata-1468",
+      "photoUrl": "https://static2.tripoto.com/media/filter/tst/img/8782/TripDocument/dscn0683.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\old\\06.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Red masonry, recessed-looking verandah band and continuous upper rails; floor count adapted for density.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 31.5,
+      "height": 49.9,
+      "depth": 32.62
+    },
+    "boundsMinStuds": [
+      -15.75,
+      0.0,
+      -17.75
+    ],
+    "boundsMaxStuds": [
+      15.75,
+      49.900000000000006,
+      14.87
+    ],
+    "triangles": 1380,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Brick",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_05/KOL_T3_OLD_05.blend",
+    "export": "old_kolkata/KOL_T3_OLD_05/KOL_T3_OLD_05.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_05__Trim",
+      "KOL_T3_OLD_05__Body",
+      "KOL_T3_OLD_05__Dark",
+      "KOL_T3_OLD_05__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_06",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      7
+    ],
+    "name": "Ochre corner balconies",
+    "width": 24,
+    "depth": 25,
+    "floors": 2,
+    "paint": "Ochre",
+    "recipe": "old_corner_balcony",
+    "features": "Ochre plaster, corner balconies and deep eaves; carved screens omitted.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_06",
+      "category": "old_kolkata",
+      "sourcePage": "https://nimsaw.com/2010/03/24/house-on-the-apurba-mitter-road/",
+      "photoUrl": "https://nimsaw.com/wp-content/uploads/2010/03/2de0d-apm_color.jpg?crop=1&h=800&w=1200",
+      "localPhoto": "artifacts\\references\\tier3\\old\\07.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Ochre plaster, corner balconies and deep eaves; carved screens omitted.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 27.97,
+      "height": 25.9,
+      "depth": 29.12
+    },
+    "boundsMinStuds": [
+      -12.370000000000001,
+      0.0,
+      -16.25
+    ],
+    "boundsMaxStuds": [
+      15.600000000000001,
+      25.900000000000002,
+      12.87
+    ],
+    "triangles": 768,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Ochre",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_06/KOL_T3_OLD_06.blend",
+    "export": "old_kolkata/KOL_T3_OLD_06/KOL_T3_OLD_06.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_06__Trim",
+      "KOL_T3_OLD_06__Body",
+      "KOL_T3_OLD_06__Dark",
+      "KOL_T3_OLD_06__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_07",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      8
+    ],
+    "name": "Chamfered cream verandah",
+    "width": 29,
+    "depth": 30,
+    "floors": 3,
+    "paint": "Cream",
+    "recipe": "old_wrap_corner",
+    "features": "Corner verandah and cream cornice; ornate pierced infill simplified to open horizontal rails.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_07",
+      "category": "old_kolkata",
+      "sourcePage": "https://kolkatacurry.blogspot.com/2018/04/balconies-and-terraces-of-kolkata-2.html",
+      "photoUrl": "https://3.bp.blogspot.com/-c9Ot-s02q34/Ws3N2tY1zQI/AAAAAAAAFCU/rAs5YTX0g7MO5NH1BppywvUm-KJBOiGvACK4BGAYYCw/s1600/DSC_7625.JPG",
+      "localPhoto": "artifacts\\references\\tier3\\old\\08.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Corner verandah and cream cornice; ornate pierced infill simplified to open horizontal rails.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 33.08,
+      "height": 37.9,
+      "depth": 33.98
+    },
+    "boundsMinStuds": [
+      -15.14,
+      0.0,
+      -18.439999999999998
+    ],
+    "boundsMaxStuds": [
+      17.939999999999998,
+      37.900000000000006,
+      15.540000000000001
+    ],
+    "triangles": 1128,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Cream",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_07/KOL_T3_OLD_07.blend",
+    "export": "old_kolkata/KOL_T3_OLD_07/KOL_T3_OLD_07.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_07__Trim",
+      "KOL_T3_OLD_07__Body",
+      "KOL_T3_OLD_07__Dark",
+      "KOL_T3_OLD_07__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_08",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      9
+    ],
+    "name": "Blue projecting window house",
+    "width": 25,
+    "depth": 28,
+    "floors": 3,
+    "paint": "DustBlue",
+    "recipe": "old_enclosed_bay",
+    "features": "Projecting shuttered bay and stepped parapet inspired by the photographed residential facade.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_08",
+      "category": "old_kolkata",
+      "sourcePage": "https://www.tripopola.com/location/kolkata/pathuriaghata-khelat-ghose-bari/14294",
+      "photoUrl": "https://d3gw4aml0lneeh.cloudfront.net/assets/locations/14294/DmhA0MbTT2j7.jpg",
+      "localPhoto": "artifacts\\references\\tier3\\old\\09.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Projecting shuttered bay and stepped parapet inspired by the photographed residential facade.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 25.74,
+      "height": 40.225,
+      "depth": 31.87
+    },
+    "boundsMinStuds": [
+      -12.870000000000001,
+      0.0,
+      -17.5
+    ],
+    "boundsMaxStuds": [
+      12.870000000000001,
+      40.224999999999994,
+      14.37
+    ],
+    "triangles": 792,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_DustBlue",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_08/KOL_T3_OLD_08.blend",
+    "export": "old_kolkata/KOL_T3_OLD_08/KOL_T3_OLD_08.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_08__Trim",
+      "KOL_T3_OLD_08__Body",
+      "KOL_T3_OLD_08__Dark",
+      "KOL_T3_OLD_08__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_09",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      10
+    ],
+    "name": "Oxide pilaster house",
+    "width": 34,
+    "depth": 25,
+    "floors": 2,
+    "paint": "Oxide",
+    "recipe": "old_pilasters",
+    "features": "Two-storey red frontage, tall plaster pilasters and deep sill/cornice bands; no palace-scale ornament.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_09",
+      "category": "old_kolkata",
+      "sourcePage": "https://www.monographmag.com/post/the-grand-houses-of-north-calcutta",
+      "photoUrl": "https://static.wixstatic.com/media/fa7631_81dd0bf81f014f7abbe8c25975b15aee~mv2.jpeg/v1/fill/w_1000%2Ch_666%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/fa7631_81dd0bf81f014f7abbe8c25975b15aee~mv2.jpeg",
+      "localPhoto": "artifacts\\references\\tier3\\old\\10.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Two-storey red frontage, tall plaster pilasters and deep sill/cornice bands; no palace-scale ornament.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 35.5,
+      "height": 25.9,
+      "depth": 26.72
+    },
+    "boundsMinStuds": [
+      -17.75,
+      0.0,
+      -13.85
+    ],
+    "boundsMaxStuds": [
+      17.75,
+      25.900000000000002,
+      12.87
+    ],
+    "triangles": 720,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Oxide",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_09/KOL_T3_OLD_09.blend",
+    "export": "old_kolkata/KOL_T3_OLD_09/KOL_T3_OLD_09.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_09__Trim",
+      "KOL_T3_OLD_09__Body",
+      "KOL_T3_OLD_09__Dark",
+      "KOL_T3_OLD_09__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  },
+  {
+    "id": "KOL_T3_OLD_10",
+    "family": "old_kolkata",
+    "ref": [
+      "old",
+      5
+    ],
+    "name": "Red green-shutter terrace",
+    "width": 32,
+    "depth": 27,
+    "floors": 3,
+    "paint": "Brick",
+    "recipe": "old_terrace_gallery",
+    "features": "Original narrow residential interpretation of the photographed red-and-green gallery language, with a setback terrace; not a landmark replica.",
+    "reference": {
+      "assetId": "KOL_T3_OLD_10",
+      "category": "old_kolkata",
+      "sourcePage": "https://seemore4less.wordpress.com/2020/06/15/kolkata-part-three/",
+      "photoUrl": "https://seemore4less.wordpress.com/wp-content/uploads/2020/06/kolkata-india-075.jpg?w=1024",
+      "localPhoto": "artifacts\\references\\tier3\\old\\05.jpg",
+      "photographExamined": true,
+      "observedFeatures": "Original narrow residential interpretation of the photographed red-and-green gallery language, with a setback terrace; not a landmark replica.",
+      "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+    },
+    "dimensionsStuds": {
+      "width": 32.74,
+      "height": 43.15,
+      "depth": 30.52
+    },
+    "boundsMinStuds": [
+      -16.37,
+      0.0,
+      -16.65
+    ],
+    "boundsMaxStuds": [
+      16.37,
+      43.15,
+      13.87
+    ],
+    "triangles": 1140,
+    "meshGroups": 4,
+    "materials": [
+      "T3_Trim",
+      "T3_Brick",
+      "T3_Dark",
+      "T3_Green"
+    ],
+    "textures": [],
+    "source": "old_kolkata/KOL_T3_OLD_10/KOL_T3_OLD_10.blend",
+    "export": "old_kolkata/KOL_T3_OLD_10/KOL_T3_OLD_10.fbx",
+    "meshKeys": [
+      "KOL_T3_OLD_10__Trim",
+      "KOL_T3_OLD_10__Body",
+      "KOL_T3_OLD_10__Dark",
+      "KOL_T3_OLD_10__Accent"
+    ],
+    "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+  }
+]
