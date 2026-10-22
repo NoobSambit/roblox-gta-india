@@ -1,0 +1,1556 @@
+{
+  "assetId": "kolkata.tier2.town_hall",
+  "label": "Kolkata Town Hall",
+  "units": "Roblox studs",
+  "front": "-Z",
+  "pivot": [
+    0,
+    0,
+    0
+  ],
+  "bounds": [
+    95.0,
+    52.65,
+    96.9
+  ],
+  "palette": {
+    "Ivory": [
+      0.88,
+      0.86,
+      0.75,
+      1
+    ],
+    "White": [
+      0.96,
+      0.95,
+      0.88,
+      1
+    ],
+    "Red": [
+      0.47,
+      0.065,
+      0.038,
+      1
+    ],
+    "RedLight": [
+      0.62,
+      0.13,
+      0.075,
+      1
+    ],
+    "Shadow": [
+      0.21,
+      0.24,
+      0.22,
+      1
+    ],
+    "Glass": [
+      0.035,
+      0.095,
+      0.1,
+      1
+    ],
+    "Green": [
+      0.035,
+      0.18,
+      0.085,
+      1
+    ],
+    "GreenLight": [
+      0.065,
+      0.27,
+      0.13,
+      1
+    ],
+    "Slate": [
+      0.105,
+      0.145,
+      0.16,
+      1
+    ],
+    "Gold": [
+      0.66,
+      0.43,
+      0.12,
+      1
+    ],
+    "Stone": [
+      0.48,
+      0.47,
+      0.4,
+      1
+    ],
+    "Court": [
+      0.57,
+      0.52,
+      0.42,
+      1
+    ],
+    "Grass": [
+      0.18,
+      0.34,
+      0.16,
+      1
+    ],
+    "Wood": [
+      0.24,
+      0.12,
+      0.055,
+      1
+    ],
+    "Saffron": [
+      0.94,
+      0.29,
+      0.035,
+      1
+    ],
+    "Blue": [
+      0.015,
+      0.07,
+      0.28,
+      1
+    ]
+  },
+  "objects": [
+    {
+      "name": "TH_MainEnvelope__White",
+      "meshKey": "MainEnvelope__White",
+      "position": [
+        0,
+        20,
+        2
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_PorticoLanding__Stone",
+      "meshKey": "PorticoLanding__Stone",
+      "position": [
+        0,
+        2.5,
+        -36
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_EntranceStep_0__Stone",
+      "meshKey": "EntranceStep_0__Stone",
+      "position": [
+        0,
+        0.25,
+        -62.0
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_EntranceStep_1__Stone",
+      "meshKey": "EntranceStep_1__Stone",
+      "position": [
+        0,
+        0.5,
+        -60.1
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_EntranceStep_2__Stone",
+      "meshKey": "EntranceStep_2__Stone",
+      "position": [
+        0,
+        0.75,
+        -58.2
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_EntranceStep_3__Stone",
+      "meshKey": "EntranceStep_3__Stone",
+      "position": [
+        0,
+        1.0,
+        -56.3
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_EntranceStep_4__Stone",
+      "meshKey": "EntranceStep_4__Stone",
+      "position": [
+        0,
+        1.25,
+        -54.4
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_EntranceStep_5__Stone",
+      "meshKey": "EntranceStep_5__Stone",
+      "position": [
+        0,
+        1.5,
+        -52.5
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_EntranceStep_6__Stone",
+      "meshKey": "EntranceStep_6__Stone",
+      "position": [
+        0,
+        1.75,
+        -50.6
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_EntranceStep_7__Stone",
+      "meshKey": "EntranceStep_7__Stone",
+      "position": [
+        0,
+        2.0,
+        -48.7
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_EntranceStep_8__Stone",
+      "meshKey": "EntranceStep_8__Stone",
+      "position": [
+        0,
+        2.25,
+        -46.8
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "TH_CorniceBands__White",
+      "meshKey": "CorniceBands__White",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "TH_SixColumnPortico__White",
+      "meshKey": "SixColumnPortico__White",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_SixColumnPortico__Ivory",
+      "meshKey": "SixColumnPortico__Ivory",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_0__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        -34,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_0__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        -34,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_0__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        -34,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_0__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        -34,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_1__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        -22,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_1__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        -22,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_1__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        -22,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_1__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        -22,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_2__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        -11,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_2__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        -11,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_2__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        -11,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_2__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        -11,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_3__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        0,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_3__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        0,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_3__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        0,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_3__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        0,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_4__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        11,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_4__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        11,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_4__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        11,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_4__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        11,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_5__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        22,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_5__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        22,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_5__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        22,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_5__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        22,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_6__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        34,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_6__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        34,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_6__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        34,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_FrontBay_6__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        34,
+        0,
+        -28.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "TH_SideBay_-1_0__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        -46.04,
+        0,
+        -18
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_0__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        -46.04,
+        0,
+        -18
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_0__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        -46.04,
+        0,
+        -18
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_0__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        -46.04,
+        0,
+        -18
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_1__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        -46.04,
+        0,
+        -7
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_1__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        -46.04,
+        0,
+        -7
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_1__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        -46.04,
+        0,
+        -7
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_1__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        -46.04,
+        0,
+        -7
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_2__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        -46.04,
+        0,
+        4
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_2__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        -46.04,
+        0,
+        4
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_2__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        -46.04,
+        0,
+        4
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_2__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        -46.04,
+        0,
+        4
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_3__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        -46.04,
+        0,
+        15
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_3__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        -46.04,
+        0,
+        15
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_3__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        -46.04,
+        0,
+        15
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_3__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        -46.04,
+        0,
+        15
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_4__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        -46.04,
+        0,
+        26
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_4__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        -46.04,
+        0,
+        26
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_4__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        -46.04,
+        0,
+        26
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_-1_4__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        -46.04,
+        0,
+        26
+      ],
+      "yaw": 1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_0__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        46.04,
+        0,
+        -18
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_0__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        46.04,
+        0,
+        -18
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_0__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        46.04,
+        0,
+        -18
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_0__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        46.04,
+        0,
+        -18
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_1__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        46.04,
+        0,
+        -7
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_1__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        46.04,
+        0,
+        -7
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_1__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        46.04,
+        0,
+        -7
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_1__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        46.04,
+        0,
+        -7
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_2__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        46.04,
+        0,
+        4
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_2__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        46.04,
+        0,
+        4
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_2__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        46.04,
+        0,
+        4
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_2__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        46.04,
+        0,
+        4
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_3__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        46.04,
+        0,
+        15
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_3__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        46.04,
+        0,
+        15
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_3__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        46.04,
+        0,
+        15
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_3__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        46.04,
+        0,
+        15
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_4__Glass",
+      "meshKey": "HallWindowBay__Glass",
+      "position": [
+        46.04,
+        0,
+        26
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_4__White",
+      "meshKey": "HallWindowBay__White",
+      "position": [
+        46.04,
+        0,
+        26
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_4__Green",
+      "meshKey": "HallWindowBay__Green",
+      "position": [
+        46.04,
+        0,
+        26
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_SideBay_1_4__GreenLight",
+      "meshKey": "HallWindowBay__GreenLight",
+      "position": [
+        46.04,
+        0,
+        26
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "TH_RoofBalustradeAndFlag__Ivory",
+      "meshKey": "RoofBalustradeAndFlag__Ivory",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "TH_RoofBalustradeAndFlag__White",
+      "meshKey": "RoofBalustradeAndFlag__White",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "TH_RoofBalustradeAndFlag__Slate",
+      "meshKey": "RoofBalustradeAndFlag__Slate",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "TH_RoofBalustradeAndFlag__Saffron",
+      "meshKey": "RoofBalustradeAndFlag__Saffron",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "TH_RoofBalustradeAndFlag__Green",
+      "meshKey": "RoofBalustradeAndFlag__Green",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "TH_RoofBalustradeAndFlag__Blue",
+      "meshKey": "RoofBalustradeAndFlag__Blue",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "TH_RearWindow_0__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -33.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_0__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -33.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_1__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -20.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_1__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -20.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_2__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -7.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_2__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -7.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_3__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        6.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_3__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        6.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_4__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        19.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_4__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        19.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_5__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        32.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_RearWindow_5__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        32.0,
+        0,
+        32.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "TH_Foundation__Stone",
+      "meshKey": "Foundation__Stone",
+      "position": [
+        0,
+        0.25,
+        2
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    },
+    {
+      "name": "TH_PorticoFooting__Stone",
+      "meshKey": "PorticoFooting__Stone",
+      "position": [
+        0,
+        0.25,
+        -35
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    }
+  ],
+  "collisionBoxes": [
+    {
+      "name": "MainEnvelope",
+      "position": [
+        0,
+        20,
+        2
+      ],
+      "size": [
+        92,
+        40,
+        60
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "PorticoLanding",
+      "position": [
+        0,
+        2.5,
+        -36
+      ],
+      "size": [
+        75,
+        5,
+        19
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceStep_0",
+      "position": [
+        0,
+        0.25,
+        -62.0
+      ],
+      "size": [
+        75,
+        0.5,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceStep_1",
+      "position": [
+        0,
+        0.5,
+        -60.1
+      ],
+      "size": [
+        75,
+        1.0,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceStep_2",
+      "position": [
+        0,
+        0.75,
+        -58.2
+      ],
+      "size": [
+        75,
+        1.5,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceStep_3",
+      "position": [
+        0,
+        1.0,
+        -56.3
+      ],
+      "size": [
+        75,
+        2.0,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceStep_4",
+      "position": [
+        0,
+        1.25,
+        -54.4
+      ],
+      "size": [
+        75,
+        2.5,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceStep_5",
+      "position": [
+        0,
+        1.5,
+        -52.5
+      ],
+      "size": [
+        75,
+        3.0,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceStep_6",
+      "position": [
+        0,
+        1.75,
+        -50.6
+      ],
+      "size": [
+        75,
+        3.5,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceStep_7",
+      "position": [
+        0,
+        2.0,
+        -48.7
+      ],
+      "size": [
+        75,
+        4.0,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "EntranceStep_8",
+      "position": [
+        0,
+        2.25,
+        -46.8
+      ],
+      "size": [
+        75,
+        4.5,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        -28,
+        19,
+        -42
+      ],
+      "size": [
+        2.8,
+        28,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        -16.8,
+        19,
+        -42
+      ],
+      "size": [
+        2.8,
+        28,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        -5.6,
+        19,
+        -42
+      ],
+      "size": [
+        2.8,
+        28,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        5.6,
+        19,
+        -42
+      ],
+      "size": [
+        2.8,
+        28,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        16.8,
+        19,
+        -42
+      ],
+      "size": [
+        2.8,
+        28,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        28,
+        19,
+        -42
+      ],
+      "size": [
+        2.8,
+        28,
+        2.8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "Foundation",
+      "position": [
+        0,
+        0.25,
+        2
+      ],
+      "size": [
+        95,
+        0.8,
+        63
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "PorticoFooting",
+      "position": [
+        0,
+        0.25,
+        -35
+      ],
+      "size": [
+        79,
+        0.8,
+        23
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    }
+  ],
+  "meshes": {
+    "TH_EntranceStep_0__Stone": 12,
+    "TH_EntranceStep_5__Stone": 12,
+    "TH_SixColumnPortico__White": 1296,
+    "TH_RoofBalustradeAndFlag__Slate": 20,
+    "TH_EntranceStep_3__Stone": 12,
+    "TH_EntranceStep_4__Stone": 12,
+    "TH_EntranceStep_8__Stone": 12,
+    "TH_HallWindowBay__Glass": 60,
+    "TH_RoofBalustradeAndFlag__Ivory": 584,
+    "TH_PorticoLanding__Stone": 12,
+    "TH_CorniceBands__White": 108,
+    "TH_HallWindowBay__Green": 48,
+    "TH_RoofBalustradeAndFlag__Saffron": 12,
+    "TH_PorticoFooting__Stone": 12,
+    "TH_HallWindowBay__White": 224,
+    "TH_EntranceStep_2__Stone": 12,
+    "TH_RoofBalustradeAndFlag__Blue": 44,
+    "TH_RearWindow__Ivory": 168,
+    "TH_EntranceStep_7__Stone": 12,
+    "TH_SixColumnPortico__Ivory": 360,
+    "TH_MainEnvelope__White": 12,
+    "TH_RoofBalustradeAndFlag__White": 72,
+    "TH_Foundation__Stone": 12,
+    "TH_EntranceStep_1__Stone": 12,
+    "TH_EntranceStep_6__Stone": 12,
+    "TH_HallWindowBay__GreenLight": 96,
+    "TH_RoofBalustradeAndFlag__Green": 12,
+    "TH_RearWindow__Glass": 24
+  },
+  "notes": "Exterior asset; no full rooms. No runtime generator. Clone repeated MeshKeys with shared mesh IDs during later integration."
+}

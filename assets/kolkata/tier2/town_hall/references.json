@@ -1,0 +1,29 @@
+[
+  {
+    "building": "town_hall",
+    "index": "alt-1",
+    "title": "File:portico and return",
+    "url": "https://static.toiimg.com/thumb/36440070/1024px-Town_Hall_-_Kolkata_2011-12-18_0337.jpg?height=900&width=1200",
+    "page": "https://timesofindia.indiatimes.com/travel/things-to-do/town-hall/articleshow/36440040.cms",
+    "path": "artifacts\\references\\tier2\\town_hall\\alt-01.jpg",
+    "usage": "Reference only; photographer/source retain rights. No photo is incorporated in exported assets."
+  },
+  {
+    "building": "town_hall",
+    "index": "alt-2",
+    "title": "File:frontal elevation",
+    "url": "https://s7ap1.scene7.com/is/image/incredibleindia/kolkata-town-hall-kolkata-wb-attr-nearby?qlt=82",
+    "page": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata/science-city",
+    "path": "artifacts\\references\\tier2\\town_hall\\alt-02.jpg",
+    "usage": "Reference only; photographer/source retain rights. No photo is incorporated in exported assets."
+  },
+  {
+    "building": "town_hall",
+    "index": "alt-3",
+    "title": "File:street perspective",
+    "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/98/01/c7/img20171225145913-largejpg.jpg?h=1200&s=1&w=1200",
+    "page": "https://www.tripadvisor.com/Attraction_Review-g304558-d3705566-Reviews-Town_Hall-Kolkata_Calcutta_Kolkata_District_West_Bengal.html",
+    "path": "artifacts\\references\\tier2\\town_hall\\alt-03.jpg",
+    "usage": "Reference only; photographer/source retain rights. No photo is incorporated in exported assets."
+  }
+]

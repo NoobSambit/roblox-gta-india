@@ -1,0 +1,20 @@
+{
+  "building": "Kolkata Town Hall",
+  "path": "assets\\kolkata\\tier2\\town_hall",
+  "source": "TH_town_hall.blend",
+  "fbx": "exports\\TH_town_hall_Roblox.fbx",
+  "meshObjects": 102,
+  "uniqueMeshes": 28,
+  "triangles": 11092,
+  "largestMeshTriangles": 1296,
+  "boundsStuds": [
+    95.0,
+    52.65,
+    96.9
+  ],
+  "collisionBoxes": 19,
+  "sourceBytes": 132649,
+  "exportBytes": 378556,
+  "sourceSaved": true,
+  "exportSucceeded": true
+}
