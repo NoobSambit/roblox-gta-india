@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_OLD_07",
+  "family": "old_kolkata",
+  "ref": [
+    "old",
+    8
+  ],
+  "name": "Chamfered cream verandah",
+  "width": 29,
+  "depth": 30,
+  "floors": 3,
+  "paint": "Cream",
+  "recipe": "old_wrap_corner",
+  "features": "Corner verandah and cream cornice; ornate pierced infill simplified to open horizontal rails.",
+  "reference": {
+    "assetId": "KOL_T3_OLD_07",
+    "category": "old_kolkata",
+    "sourcePage": "https://kolkatacurry.blogspot.com/2018/04/balconies-and-terraces-of-kolkata-2.html",
+    "photoUrl": "https://3.bp.blogspot.com/-c9Ot-s02q34/Ws3N2tY1zQI/AAAAAAAAFCU/rAs5YTX0g7MO5NH1BppywvUm-KJBOiGvACK4BGAYYCw/s1600/DSC_7625.JPG",
+    "localPhoto": "artifacts\\references\\tier3\\old\\08.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Corner verandah and cream cornice; ornate pierced infill simplified to open horizontal rails.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 33.08,
+    "height": 37.9,
+    "depth": 33.98
+  },
+  "boundsMinStuds": [
+    -15.14,
+    0.0,
+    -18.439999999999998
+  ],
+  "boundsMaxStuds": [
+    17.939999999999998,
+    37.900000000000006,
+    15.540000000000001
+  ],
+  "triangles": 1128,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Cream",
+    "T3_Dark",
+    "T3_Green"
+  ],
+  "textures": [],
+  "source": "old_kolkata/KOL_T3_OLD_07/KOL_T3_OLD_07.blend",
+  "export": "old_kolkata/KOL_T3_OLD_07/KOL_T3_OLD_07.fbx",
+  "meshKeys": [
+    "KOL_T3_OLD_07__Trim",
+    "KOL_T3_OLD_07__Body",
+    "KOL_T3_OLD_07__Dark",
+    "KOL_T3_OLD_07__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

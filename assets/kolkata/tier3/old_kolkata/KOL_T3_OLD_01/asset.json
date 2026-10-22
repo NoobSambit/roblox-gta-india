@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_OLD_01",
+  "family": "old_kolkata",
+  "ref": [
+    "old",
+    1
+  ],
+  "name": "Red shutter bay house",
+  "width": 19,
+  "depth": 27,
+  "floors": 2,
+  "paint": "Oxide",
+  "recipe": "old_center_balcony",
+  "features": "Narrow red facade, tall shutters, single projecting balcony and modest cornice.",
+  "reference": {
+    "assetId": "KOL_T3_OLD_01",
+    "category": "old_kolkata",
+    "sourcePage": "https://in.pinterest.com/pin/old-calcutta-houses--50172983341576965/",
+    "photoUrl": "https://i.pinimg.com/originals/17/9b/6a/179b6aec799873a382c5506b3a0369b9.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\01.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Narrow red facade, tall shutters, single projecting balcony and modest cornice.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 20.5,
+    "height": 25.9,
+    "depth": 30.72
+  },
+  "boundsMinStuds": [
+    -10.25,
+    0.0,
+    -16.85
+  ],
+  "boundsMaxStuds": [
+    10.25,
+    25.900000000000002,
+    13.87
+  ],
+  "triangles": 632,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Oxide",
+    "T3_Dark",
+    "T3_Green"
+  ],
+  "textures": [],
+  "source": "old_kolkata/KOL_T3_OLD_01/KOL_T3_OLD_01.blend",
+  "export": "old_kolkata/KOL_T3_OLD_01/KOL_T3_OLD_01.fbx",
+  "meshKeys": [
+    "KOL_T3_OLD_01__Trim",
+    "KOL_T3_OLD_01__Body",
+    "KOL_T3_OLD_01__Dark",
+    "KOL_T3_OLD_01__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

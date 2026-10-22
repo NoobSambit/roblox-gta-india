@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_OLD_09",
+  "family": "old_kolkata",
+  "ref": [
+    "old",
+    10
+  ],
+  "name": "Oxide pilaster house",
+  "width": 34,
+  "depth": 25,
+  "floors": 2,
+  "paint": "Oxide",
+  "recipe": "old_pilasters",
+  "features": "Two-storey red frontage, tall plaster pilasters and deep sill/cornice bands; no palace-scale ornament.",
+  "reference": {
+    "assetId": "KOL_T3_OLD_09",
+    "category": "old_kolkata",
+    "sourcePage": "https://www.monographmag.com/post/the-grand-houses-of-north-calcutta",
+    "photoUrl": "https://static.wixstatic.com/media/fa7631_81dd0bf81f014f7abbe8c25975b15aee~mv2.jpeg/v1/fill/w_1000%2Ch_666%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/fa7631_81dd0bf81f014f7abbe8c25975b15aee~mv2.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\10.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Two-storey red frontage, tall plaster pilasters and deep sill/cornice bands; no palace-scale ornament.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 35.5,
+    "height": 25.9,
+    "depth": 26.72
+  },
+  "boundsMinStuds": [
+    -17.75,
+    0.0,
+    -13.85
+  ],
+  "boundsMaxStuds": [
+    17.75,
+    25.900000000000002,
+    12.87
+  ],
+  "triangles": 720,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Oxide",
+    "T3_Dark",
+    "T3_Green"
+  ],
+  "textures": [],
+  "source": "old_kolkata/KOL_T3_OLD_09/KOL_T3_OLD_09.blend",
+  "export": "old_kolkata/KOL_T3_OLD_09/KOL_T3_OLD_09.fbx",
+  "meshKeys": [
+    "KOL_T3_OLD_09__Trim",
+    "KOL_T3_OLD_09__Body",
+    "KOL_T3_OLD_09__Dark",
+    "KOL_T3_OLD_09__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

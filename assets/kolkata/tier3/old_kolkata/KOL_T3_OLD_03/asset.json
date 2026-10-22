@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_OLD_03",
+  "family": "old_kolkata",
+  "ref": [
+    "old",
+    3
+  ],
+  "name": "Cream screened verandah",
+  "width": 28,
+  "depth": 25,
+  "floors": 3,
+  "paint": "Cream",
+  "recipe": "old_screen_verandah",
+  "features": "Broad cream verandah, slender rectangular posts, green shutters and shallow projecting roof.",
+  "reference": {
+    "assetId": "KOL_T3_OLD_03",
+    "category": "old_kolkata",
+    "sourcePage": "https://www.airbnb.co.in/rooms/46523139",
+    "photoUrl": "https://a0.muscache.com/im/pictures/b3b1a8e9-cbc5-4fb1-8155-321f79d50085.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\03.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Broad cream verandah, slender rectangular posts, green shutters and shallow projecting roof.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 30.0,
+    "height": 37.9,
+    "depth": 29.37
+  },
+  "boundsMinStuds": [
+    -15.0,
+    0.0,
+    -16.5
+  ],
+  "boundsMaxStuds": [
+    15.0,
+    37.900000000000006,
+    12.87
+  ],
+  "triangles": 1032,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Cream",
+    "T3_Dark",
+    "T3_Green"
+  ],
+  "textures": [],
+  "source": "old_kolkata/KOL_T3_OLD_03/KOL_T3_OLD_03.blend",
+  "export": "old_kolkata/KOL_T3_OLD_03/KOL_T3_OLD_03.fbx",
+  "meshKeys": [
+    "KOL_T3_OLD_03__Trim",
+    "KOL_T3_OLD_03__Body",
+    "KOL_T3_OLD_03__Dark",
+    "KOL_T3_OLD_03__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_OLD_10",
+  "family": "old_kolkata",
+  "ref": [
+    "old",
+    5
+  ],
+  "name": "Red green-shutter terrace",
+  "width": 32,
+  "depth": 27,
+  "floors": 3,
+  "paint": "Brick",
+  "recipe": "old_terrace_gallery",
+  "features": "Original narrow residential interpretation of the photographed red-and-green gallery language, with a setback terrace; not a landmark replica.",
+  "reference": {
+    "assetId": "KOL_T3_OLD_10",
+    "category": "old_kolkata",
+    "sourcePage": "https://seemore4less.wordpress.com/2020/06/15/kolkata-part-three/",
+    "photoUrl": "https://seemore4less.wordpress.com/wp-content/uploads/2020/06/kolkata-india-075.jpg?w=1024",
+    "localPhoto": "artifacts\\references\\tier3\\old\\05.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Original narrow residential interpretation of the photographed red-and-green gallery language, with a setback terrace; not a landmark replica.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 32.74,
+    "height": 43.15,
+    "depth": 30.52
+  },
+  "boundsMinStuds": [
+    -16.37,
+    0.0,
+    -16.65
+  ],
+  "boundsMaxStuds": [
+    16.37,
+    43.15,
+    13.87
+  ],
+  "triangles": 1140,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Brick",
+    "T3_Dark",
+    "T3_Green"
+  ],
+  "textures": [],
+  "source": "old_kolkata/KOL_T3_OLD_10/KOL_T3_OLD_10.blend",
+  "export": "old_kolkata/KOL_T3_OLD_10/KOL_T3_OLD_10.fbx",
+  "meshKeys": [
+    "KOL_T3_OLD_10__Trim",
+    "KOL_T3_OLD_10__Body",
+    "KOL_T3_OLD_10__Dark",
+    "KOL_T3_OLD_10__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

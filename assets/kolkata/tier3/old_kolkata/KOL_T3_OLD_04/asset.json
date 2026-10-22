@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_OLD_04",
+  "family": "old_kolkata",
+  "ref": [
+    "old",
+    4
+  ],
+  "name": "Narrow polygon bay house",
+  "width": 18,
+  "depth": 28,
+  "floors": 4,
+  "paint": "BlueGrey",
+  "recipe": "old_polygon_bay",
+  "features": "Vertically stacked corner bay, compressed to a three-sided projection rather than a dense curved screen.",
+  "reference": {
+    "assetId": "KOL_T3_OLD_04",
+    "category": "old_kolkata",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AOld_house%2C_North_Kolkata_%285261927935%29.jpg",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Old_house%2C_North_Kolkata_%285261927935%29.jpg/960px-Old_house%2C_North_Kolkata_%285261927935%29.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\04.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Vertically stacked corner bay, compressed to a three-sided projection rather than a dense curved screen.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 18.74,
+    "height": 49.9,
+    "depth": 32.84
+  },
+  "boundsMinStuds": [
+    -9.370000000000001,
+    0.0,
+    -18.47
+  ],
+  "boundsMaxStuds": [
+    9.370000000000001,
+    49.900000000000006,
+    14.37
+  ],
+  "triangles": 844,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_BlueGrey",
+    "T3_Dark",
+    "T3_Green"
+  ],
+  "textures": [],
+  "source": "old_kolkata/KOL_T3_OLD_04/KOL_T3_OLD_04.blend",
+  "export": "old_kolkata/KOL_T3_OLD_04/KOL_T3_OLD_04.fbx",
+  "meshKeys": [
+    "KOL_T3_OLD_04__Trim",
+    "KOL_T3_OLD_04__Body",
+    "KOL_T3_OLD_04__Dark",
+    "KOL_T3_OLD_04__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

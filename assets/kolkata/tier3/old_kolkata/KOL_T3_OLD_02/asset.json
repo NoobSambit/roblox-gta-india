@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_OLD_02",
+  "family": "old_kolkata",
+  "ref": [
+    "old",
+    2
+  ],
+  "name": "Stacked side verandahs",
+  "width": 23,
+  "depth": 30,
+  "floors": 3,
+  "paint": "BlueGrey",
+  "recipe": "old_offset_verandahs",
+  "features": "Offset stacked balconies and green shutters; ornate photographed lattice becomes two plain rails.",
+  "reference": {
+    "assetId": "KOL_T3_OLD_02",
+    "category": "old_kolkata",
+    "sourcePage": "https://thoughtfultanya.medium.com/why-is-the-indian-city-kolkata-popularly-addressed-as-the-city-of-joy-6db47992bf26",
+    "photoUrl": "https://miro.medium.com/v2/resize%3Afit%3A1400/1%2ACTO7KQcZ6XunSQeVB4muPA.jpeg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\02.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Offset stacked balconies and green shutters; ornate photographed lattice becomes two plain rails.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 23.74,
+    "height": 37.9,
+    "depth": 34.17
+  },
+  "boundsMinStuds": [
+    -11.870000000000001,
+    0.0,
+    -18.8
+  ],
+  "boundsMaxStuds": [
+    11.870000000000001,
+    37.900000000000006,
+    15.37
+  ],
+  "triangles": 828,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_BlueGrey",
+    "T3_Dark",
+    "T3_Green"
+  ],
+  "textures": [],
+  "source": "old_kolkata/KOL_T3_OLD_02/KOL_T3_OLD_02.blend",
+  "export": "old_kolkata/KOL_T3_OLD_02/KOL_T3_OLD_02.fbx",
+  "meshKeys": [
+    "KOL_T3_OLD_02__Trim",
+    "KOL_T3_OLD_02__Body",
+    "KOL_T3_OLD_02__Dark",
+    "KOL_T3_OLD_02__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

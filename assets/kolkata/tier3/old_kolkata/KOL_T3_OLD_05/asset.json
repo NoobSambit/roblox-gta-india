@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_OLD_05",
+  "family": "old_kolkata",
+  "ref": [
+    "old",
+    6
+  ],
+  "name": "Red gallery row house",
+  "width": 30,
+  "depth": 29,
+  "floors": 4,
+  "paint": "Brick",
+  "recipe": "old_long_gallery",
+  "features": "Red masonry, recessed-looking verandah band and continuous upper rails; floor count adapted for density.",
+  "reference": {
+    "assetId": "KOL_T3_OLD_05",
+    "category": "old_kolkata",
+    "sourcePage": "https://www.tripoto.com/kolkata/trips/a-rendezvous-with-a-part-of-north-kolkata-1468",
+    "photoUrl": "https://static2.tripoto.com/media/filter/tst/img/8782/TripDocument/dscn0683.jpg",
+    "localPhoto": "artifacts\\references\\tier3\\old\\06.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Red masonry, recessed-looking verandah band and continuous upper rails; floor count adapted for density.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 31.5,
+    "height": 49.9,
+    "depth": 32.62
+  },
+  "boundsMinStuds": [
+    -15.75,
+    0.0,
+    -17.75
+  ],
+  "boundsMaxStuds": [
+    15.75,
+    49.900000000000006,
+    14.87
+  ],
+  "triangles": 1380,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Brick",
+    "T3_Dark",
+    "T3_Green"
+  ],
+  "textures": [],
+  "source": "old_kolkata/KOL_T3_OLD_05/KOL_T3_OLD_05.blend",
+  "export": "old_kolkata/KOL_T3_OLD_05/KOL_T3_OLD_05.fbx",
+  "meshKeys": [
+    "KOL_T3_OLD_05__Trim",
+    "KOL_T3_OLD_05__Body",
+    "KOL_T3_OLD_05__Dark",
+    "KOL_T3_OLD_05__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}

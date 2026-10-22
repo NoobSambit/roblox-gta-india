@@ -1,0 +1,58 @@
+{
+  "id": "KOL_T3_OLD_06",
+  "family": "old_kolkata",
+  "ref": [
+    "old",
+    7
+  ],
+  "name": "Ochre corner balconies",
+  "width": 24,
+  "depth": 25,
+  "floors": 2,
+  "paint": "Ochre",
+  "recipe": "old_corner_balcony",
+  "features": "Ochre plaster, corner balconies and deep eaves; carved screens omitted.",
+  "reference": {
+    "assetId": "KOL_T3_OLD_06",
+    "category": "old_kolkata",
+    "sourcePage": "https://nimsaw.com/2010/03/24/house-on-the-apurba-mitter-road/",
+    "photoUrl": "https://nimsaw.com/wp-content/uploads/2010/03/2de0d-apm_color.jpg?crop=1&h=800&w=1200",
+    "localPhoto": "artifacts\\references\\tier3\\old\\07.jpg",
+    "photographExamined": true,
+    "observedFeatures": "Ochre plaster, corner balconies and deep eaves; carved screens omitted.",
+    "usage": "Reference only. No photographic pixels, signage or copyrighted texture content are incorporated."
+  },
+  "dimensionsStuds": {
+    "width": 27.97,
+    "height": 25.9,
+    "depth": 29.12
+  },
+  "boundsMinStuds": [
+    -12.370000000000001,
+    0.0,
+    -16.25
+  ],
+  "boundsMaxStuds": [
+    15.600000000000001,
+    25.900000000000002,
+    12.87
+  ],
+  "triangles": 768,
+  "meshGroups": 4,
+  "materials": [
+    "T3_Trim",
+    "T3_Ochre",
+    "T3_Dark",
+    "T3_Green"
+  ],
+  "textures": [],
+  "source": "old_kolkata/KOL_T3_OLD_06/KOL_T3_OLD_06.blend",
+  "export": "old_kolkata/KOL_T3_OLD_06/KOL_T3_OLD_06.fbx",
+  "meshKeys": [
+    "KOL_T3_OLD_06__Trim",
+    "KOL_T3_OLD_06__Body",
+    "KOL_T3_OLD_06__Dark",
+    "KOL_T3_OLD_06__Accent"
+  ],
+  "limits": "Exterior only. Simplified side/rear faces. Collision and Studio placement deferred to assembly milestone."
+}
