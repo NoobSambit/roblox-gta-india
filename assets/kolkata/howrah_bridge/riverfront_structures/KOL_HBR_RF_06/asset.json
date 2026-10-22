@@ -1,0 +1,123 @@
+{
+  "assetId": "KOL_HBR_RF_06",
+  "name": "Retaining return 32",
+  "category": "riverfront_structures",
+  "dimensionsStuds": {
+    "width": 33.15,
+    "height": 19.6,
+    "depth": 7.0
+  },
+  "boundsMinStuds": [
+    -16.575,
+    -2.0,
+    -3.5
+  ],
+  "boundsMaxStuds": [
+    16.575,
+    17.6,
+    3.5
+  ],
+  "assembledTriangles": 908,
+  "uniqueGeometryTriangles": 496,
+  "largestMeshTriangles": 400,
+  "meshInstances": 7,
+  "uniqueMeshes": 5,
+  "materials": [
+    "HBR_Blue",
+    "HBR_Concrete",
+    "HBR_Stone",
+    "HBR_White"
+  ],
+  "textures": [],
+  "source": "riverfront_structures/KOL_HBR_RF_06/KOL_HBR_RF_06.blend",
+  "export": "riverfront_structures/KOL_HBR_RF_06/KOL_HBR_RF_06.fbx",
+  "references": [
+    "ghat_open_2",
+    "ghat_open_4",
+    "props_11"
+  ],
+  "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_RF_06__ReturnWall__Stone",
+      "meshKey": "KOL_HBR_RF_06__ReturnWall__Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RetainingWall"
+    },
+    {
+      "name": "KOL_HBR_RF_06__ReturnWall__Concrete",
+      "meshKey": "KOL_HBR_RF_06__ReturnWall__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RetainingWall"
+    },
+    {
+      "name": "KOL_HBR_RF_06__Balustrade16__White",
+      "meshKey": "KOL_HBR_RF_06__Balustrade16__White",
+      "translationStuds": [
+        -8.0,
+        13.5,
+        0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Boundary"
+    },
+    {
+      "name": "KOL_HBR_RF_06__Balustrade16__Blue",
+      "meshKey": "KOL_HBR_RF_06__Balustrade16__Blue",
+      "translationStuds": [
+        -8.0,
+        13.5,
+        0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Boundary"
+    },
+    {
+      "name": "KOL_HBR_RF_06__Balustrade16__White.001",
+      "meshKey": "KOL_HBR_RF_06__Balustrade16__White",
+      "translationStuds": [
+        8.0,
+        13.5,
+        0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Boundary"
+    },
+    {
+      "name": "KOL_HBR_RF_06__Balustrade16__Blue.001",
+      "meshKey": "KOL_HBR_RF_06__Balustrade16__Blue",
+      "translationStuds": [
+        8.0,
+        13.5,
+        0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Boundary"
+    },
+    {
+      "name": "KOL_HBR_RF_06__RailTerminal__White",
+      "meshKey": "KOL_HBR_RF_06__RailTerminal__White",
+      "translationStuds": [
+        16.0,
+        13.5,
+        0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "riverfront_structures/KOL_HBR_RF_06/preview.png"
+  ]
+}

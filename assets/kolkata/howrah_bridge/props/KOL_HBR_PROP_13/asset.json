@@ -1,0 +1,76 @@
+{
+  "assetId": "KOL_HBR_PROP_13",
+  "name": "Lifebuoy stand",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 2.06,
+    "height": 4.65,
+    "depth": 1.4
+  },
+  "boundsMinStuds": [
+    -1.03,
+    0.0,
+    -0.7
+  ],
+  "boundsMaxStuds": [
+    1.03,
+    4.65,
+    0.7
+  ],
+  "assembledTriangles": 144,
+  "uniqueGeometryTriangles": 144,
+  "largestMeshTriangles": 108,
+  "meshInstances": 3,
+  "uniqueMeshes": 3,
+  "materials": [
+    "HBR_Blue",
+    "HBR_Concrete",
+    "HBR_White"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_13/KOL_HBR_PROP_13.blend",
+  "export": "props/KOL_HBR_PROP_13/KOL_HBR_PROP_13.fbx",
+  "references": [
+    "boat_1"
+  ],
+  "collision": "Stand proxy only; no interaction implemented.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_13__Model__Concrete",
+      "meshKey": "KOL_HBR_PROP_13__Model__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_13__Model__Blue",
+      "meshKey": "KOL_HBR_PROP_13__Model__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_13__Model__White",
+      "meshKey": "KOL_HBR_PROP_13__Model__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_13/preview.png"
+  ]
+}

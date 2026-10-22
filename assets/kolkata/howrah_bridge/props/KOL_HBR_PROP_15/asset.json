@@ -1,0 +1,77 @@
+{
+  "assetId": "KOL_HBR_PROP_15",
+  "name": "Hooghly canopy rowboat",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 14.807,
+    "height": 6.68,
+    "depth": 28.158
+  },
+  "boundsMinStuds": [
+    -7.4035,
+    0.0,
+    -14.0788
+  ],
+  "boundsMaxStuds": [
+    7.4035,
+    6.68,
+    14.0788
+  ],
+  "assembledTriangles": 1176,
+  "uniqueGeometryTriangles": 1176,
+  "largestMeshTriangles": 796,
+  "meshInstances": 3,
+  "uniqueMeshes": 3,
+  "materials": [
+    "HBR_Canvas",
+    "HBR_DarkWood",
+    "HBR_Timber"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_15/KOL_HBR_PROP_15.blend",
+  "export": "props/KOL_HBR_PROP_15/KOL_HBR_PROP_15.fbx",
+  "references": [
+    "boat_2",
+    "boat_3"
+  ],
+  "collision": "Static prop. Hull boxes only; no boat controller or buoyancy.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_15__Model__DarkWood",
+      "meshKey": "KOL_HBR_PROP_15__Model__DarkWood",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_15__Model__Timber",
+      "meshKey": "KOL_HBR_PROP_15__Model__Timber",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_15__Model__Canvas",
+      "meshKey": "KOL_HBR_PROP_15__Model__Canvas",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_15/preview.png"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "assetId": "KOL_HBR_RF_07",
+  "name": "Small river landing connector",
+  "category": "riverfront_structures",
+  "dimensionsStuds": {
+    "width": 32.0,
+    "height": 4.6,
+    "depth": 16.0
+  },
+  "boundsMinStuds": [
+    -16.0,
+    -0.6,
+    -8.0
+  ],
+  "boundsMaxStuds": [
+    16.0,
+    4.0,
+    8.0
+  ],
+  "assembledTriangles": 264,
+  "uniqueGeometryTriangles": 264,
+  "largestMeshTriangles": 168,
+  "meshInstances": 3,
+  "uniqueMeshes": 3,
+  "materials": [
+    "HBR_Concrete",
+    "HBR_DarkSteel",
+    "HBR_Timber"
+  ],
+  "textures": [],
+  "source": "riverfront_structures/KOL_HBR_RF_07/KOL_HBR_RF_07.blend",
+  "export": "riverfront_structures/KOL_HBR_RF_07/KOL_HBR_RF_07.fbx",
+  "references": [
+    "boat_1",
+    "ghat_open_4"
+  ],
+  "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+  "sockets": {
+    "WaterLevel": {
+      "position": [
+        0,
+        0,
+        0
+      ]
+    },
+    "DeckTop": {
+      "position": [
+        0,
+        2.36,
+        0
+      ]
+    }
+  },
+  "assembly": [
+    {
+      "name": "KOL_HBR_RF_07__Landing__Concrete",
+      "meshKey": "KOL_HBR_RF_07__Landing__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Landing"
+    },
+    {
+      "name": "KOL_HBR_RF_07__Landing__DarkSteel",
+      "meshKey": "KOL_HBR_RF_07__Landing__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Landing"
+    },
+    {
+      "name": "KOL_HBR_RF_07__Landing__Timber",
+      "meshKey": "KOL_HBR_RF_07__Landing__Timber",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Landing"
+    }
+  ],
+  "previews": [
+    "riverfront_structures/KOL_HBR_RF_07/preview.png"
+  ]
+}

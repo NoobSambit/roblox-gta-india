@@ -1,0 +1,100 @@
+{
+  "assetId": "KOL_HBR_PROP_12",
+  "name": "Utility cabinet",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 2.5,
+    "height": 4.0,
+    "depth": 1.86
+  },
+  "boundsMinStuds": [
+    -1.25,
+    0.0,
+    -0.96
+  ],
+  "boundsMaxStuds": [
+    1.25,
+    4.0,
+    0.9
+  ],
+  "assembledTriangles": 108,
+  "uniqueGeometryTriangles": 108,
+  "largestMeshTriangles": 60,
+  "meshInstances": 5,
+  "uniqueMeshes": 5,
+  "materials": [
+    "HBR_Concrete",
+    "HBR_Cream",
+    "HBR_DarkSteel",
+    "HBR_Green",
+    "HBR_Roof"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_12/KOL_HBR_PROP_12.blend",
+  "export": "props/KOL_HBR_PROP_12/KOL_HBR_PROP_12.fbx",
+  "references": [
+    "road_06"
+  ],
+  "collision": "One box proxy.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_12__Model__Concrete",
+      "meshKey": "KOL_HBR_PROP_12__Model__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_12__Model__Roof",
+      "meshKey": "KOL_HBR_PROP_12__Model__Roof",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_12__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_12__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_12__Model__Green",
+      "meshKey": "KOL_HBR_PROP_12__Model__Green",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_12__Model__Cream",
+      "meshKey": "KOL_HBR_PROP_12__Model__Cream",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_12/preview.png"
+  ]
+}

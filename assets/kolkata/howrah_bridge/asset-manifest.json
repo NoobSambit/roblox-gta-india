@@ -1,0 +1,4194 @@
+[
+  {
+    "assetId": "KOL_HBR_CTX_01",
+    "name": "Small river service shed",
+    "category": "context",
+    "dimensionsStuds": {
+      "width": 24.0,
+      "height": 12.5,
+      "depth": 18.4
+    },
+    "boundsMinStuds": [
+      -12.0,
+      0.0,
+      -9.4
+    ],
+    "boundsMaxStuds": [
+      12.0,
+      12.5,
+      9.0
+    ],
+    "assembledTriangles": 132,
+    "uniqueGeometryTriangles": 132,
+    "largestMeshTriangles": 52,
+    "meshInstances": 5,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_Roof",
+      "HBR_White",
+      "HBR_Window"
+    ],
+    "textures": [],
+    "source": "context/KOL_HBR_CTX_01/KOL_HBR_CTX_01.blend",
+    "export": "context/KOL_HBR_CTX_01/KOL_HBR_CTX_01.fbx",
+    "references": [
+      "ghat_open_2",
+      "road_06"
+    ],
+    "collision": "Closed background shell: one box collider or noncollidable if inaccessible; no interior.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_CTX_01__Shell__Concrete",
+        "meshKey": "KOL_HBR_CTX_01__Shell__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_CTX_01__Shell__Roof",
+        "meshKey": "KOL_HBR_CTX_01__Shell__Roof",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_CTX_01__Shell__Blue",
+        "meshKey": "KOL_HBR_CTX_01__Shell__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_CTX_01__Shell__White",
+        "meshKey": "KOL_HBR_CTX_01__Shell__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_CTX_01__Shell__Window",
+        "meshKey": "KOL_HBR_CTX_01__Shell__Window",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "context/KOL_HBR_CTX_01/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_CTX_02",
+    "name": "Low river store shell",
+    "category": "context",
+    "dimensionsStuds": {
+      "width": 36.0,
+      "height": 14.5,
+      "depth": 22.4
+    },
+    "boundsMinStuds": [
+      -18.0,
+      0.0,
+      -11.4
+    ],
+    "boundsMaxStuds": [
+      18.0,
+      14.5,
+      11.0
+    ],
+    "assembledTriangles": 132,
+    "uniqueGeometryTriangles": 132,
+    "largestMeshTriangles": 52,
+    "meshInstances": 5,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_Roof",
+      "HBR_White",
+      "HBR_Window"
+    ],
+    "textures": [],
+    "source": "context/KOL_HBR_CTX_02/KOL_HBR_CTX_02.blend",
+    "export": "context/KOL_HBR_CTX_02/KOL_HBR_CTX_02.fbx",
+    "references": [
+      "ghat_open_2",
+      "road_06"
+    ],
+    "collision": "Closed background shell: one box collider or noncollidable if inaccessible; no interior.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_CTX_02__Shell__Concrete",
+        "meshKey": "KOL_HBR_CTX_02__Shell__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_CTX_02__Shell__Roof",
+        "meshKey": "KOL_HBR_CTX_02__Shell__Roof",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_CTX_02__Shell__Blue",
+        "meshKey": "KOL_HBR_CTX_02__Shell__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_CTX_02__Shell__White",
+        "meshKey": "KOL_HBR_CTX_02__Shell__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_CTX_02__Shell__Window",
+        "meshKey": "KOL_HBR_CTX_02__Shell__Window",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "context/KOL_HBR_CTX_02/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_GHAT",
+    "name": "Grand Kolkata Ganga Ghat \u2014 open public pavilion",
+    "category": "ghat",
+    "dimensionsStuds": {
+      "width": 149.0,
+      "height": 39.25,
+      "depth": 128.0
+    },
+    "boundsMinStuds": [
+      -74.5,
+      -1.6,
+      -62.0
+    ],
+    "boundsMaxStuds": [
+      74.5,
+      37.65,
+      66.0
+    ],
+    "assembledTriangles": 11936,
+    "uniqueGeometryTriangles": 7672,
+    "largestMeshTriangles": 1200,
+    "meshInstances": 51,
+    "uniqueMeshes": 30,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_Cream",
+      "HBR_Stone",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "ghat/KOL_HBR_GHAT/KOL_HBR_GHAT.blend",
+    "export": "ghat/KOL_HBR_GHAT/KOL_HBR_GHAT.fbx",
+    "references": [
+      "ghat_open_1",
+      "ghat_open_2",
+      "ghat_open_4",
+      "ghat_major_1",
+      "ghat_major_2",
+      "ghat_major_5",
+      "props_02",
+      "props_11"
+    ],
+    "collision": "Box platforms/shallow road apron, three wedge proxies over stairs, simple columns/walls. Disable collision on canopy/ribs/trim/balusters. Never hull across the open pavilion.",
+    "sockets": {
+      "WaterLevel": {
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LowestLanding": {
+        "position": [
+          0,
+          1,
+          -56
+        ]
+      },
+      "RoadEntrance": {
+        "position": [
+          0,
+          13.5,
+          66
+        ],
+        "yaw": 0
+      },
+      "StreetEmbedBottomY": 12.7,
+      "StreetSurfaceY": 13.5,
+      "UpperPromenade": {
+        "position": [
+          0,
+          13.5,
+          9
+        ]
+      },
+      "PromenadeLeft": {
+        "position": [
+          -74,
+          13.5,
+          12
+        ],
+        "yaw": -90
+      },
+      "PromenadeRight": {
+        "position": [
+          74,
+          13.5,
+          12
+        ],
+        "yaw": 90
+      }
+    },
+    "assembly": [
+      {
+        "name": "KOL_HBR_GHAT__RiverBankFoundation__Stone",
+        "meshKey": "KOL_HBR_GHAT__RiverBankFoundation__Stone",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "BankFoundation"
+      },
+      {
+        "name": "KOL_HBR_GHAT__RiverBankFoundation__Concrete",
+        "meshKey": "KOL_HBR_GHAT__RiverBankFoundation__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "BankFoundation"
+      },
+      {
+        "name": "KOL_HBR_GHAT__RiverBankFoundation__White",
+        "meshKey": "KOL_HBR_GHAT__RiverBankFoundation__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "BankFoundation"
+      },
+      {
+        "name": "KOL_HBR_GHAT__RiverBankFoundation__Blue",
+        "meshKey": "KOL_HBR_GHAT__RiverBankFoundation__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "BankFoundation"
+      },
+      {
+        "name": "KOL_HBR_GHAT__StreetApronFoundation__Concrete",
+        "meshKey": "KOL_HBR_GHAT__StreetApronFoundation__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadApron"
+      },
+      {
+        "name": "KOL_HBR_GHAT__StairFlight1__Stone",
+        "meshKey": "KOL_HBR_GHAT__StairFlight1__Stone",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Stairs"
+      },
+      {
+        "name": "KOL_HBR_GHAT__StairFlight1__Concrete",
+        "meshKey": "KOL_HBR_GHAT__StairFlight1__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Stairs"
+      },
+      {
+        "name": "KOL_HBR_GHAT__StairFlight2__Stone",
+        "meshKey": "KOL_HBR_GHAT__StairFlight2__Stone",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Stairs"
+      },
+      {
+        "name": "KOL_HBR_GHAT__StairFlight2__Concrete",
+        "meshKey": "KOL_HBR_GHAT__StairFlight2__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Stairs"
+      },
+      {
+        "name": "KOL_HBR_GHAT__StairFlight3__Stone",
+        "meshKey": "KOL_HBR_GHAT__StairFlight3__Stone",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Stairs"
+      },
+      {
+        "name": "KOL_HBR_GHAT__StairFlight3__Concrete",
+        "meshKey": "KOL_HBR_GHAT__StairFlight3__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Stairs"
+      },
+      {
+        "name": "KOL_HBR_GHAT__LandingsAndPublicFloor__Stone",
+        "meshKey": "KOL_HBR_GHAT__LandingsAndPublicFloor__Stone",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Platforms"
+      },
+      {
+        "name": "KOL_HBR_GHAT__LandingsAndPublicFloor__Concrete",
+        "meshKey": "KOL_HBR_GHAT__LandingsAndPublicFloor__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Platforms"
+      },
+      {
+        "name": "KOL_HBR_GHAT__MainPavilionColumns__White",
+        "meshKey": "KOL_HBR_GHAT__MainPavilionColumns__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Columns"
+      },
+      {
+        "name": "KOL_HBR_GHAT__MainPavilionColumns__Blue",
+        "meshKey": "KOL_HBR_GHAT__MainPavilionColumns__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Columns"
+      },
+      {
+        "name": "KOL_HBR_GHAT__TripleVaultShadePavilion__White",
+        "meshKey": "KOL_HBR_GHAT__TripleVaultShadePavilion__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__TripleVaultShadePavilion__Blue",
+        "meshKey": "KOL_HBR_GHAT__TripleVaultShadePavilion__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__TripleVaultShadePavilion__Cream",
+        "meshKey": "KOL_HBR_GHAT__TripleVaultShadePavilion__Cream",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__SideShadeCanopies__White",
+        "meshKey": "KOL_HBR_GHAT__SideShadeCanopies__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__SideShadeCanopies__Blue",
+        "meshKey": "KOL_HBR_GHAT__SideShadeCanopies__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__White",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+        "translationStuds": [
+          -73.0,
+          13.5,
+          12.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+        "translationStuds": [
+          -73.0,
+          13.5,
+          12.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__White.001",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+        "translationStuds": [
+          -73.0,
+          13.5,
+          28.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.001",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+        "translationStuds": [
+          -73.0,
+          13.5,
+          28.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__White.002",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+        "translationStuds": [
+          -73.0,
+          13.5,
+          44.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.002",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+        "translationStuds": [
+          -73.0,
+          13.5,
+          44.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__RailTerminal__White",
+        "meshKey": "KOL_HBR_GHAT__RailTerminal__White",
+        "translationStuds": [
+          -73.0,
+          13.5,
+          4.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__White",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+        "translationStuds": [
+          -56.0,
+          13.5,
+          64.800003
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+        "translationStuds": [
+          -56.0,
+          13.5,
+          64.800003
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__White.001",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+        "translationStuds": [
+          -73.5,
+          5.96,
+          -36.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.001",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+        "translationStuds": [
+          -73.5,
+          5.96,
+          -36.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__White.002",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+        "translationStuds": [
+          -73.5,
+          10.16,
+          -16.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.002",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+        "translationStuds": [
+          -73.5,
+          10.16,
+          -16.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__White.003",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+        "translationStuds": [
+          73.0,
+          13.5,
+          12.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.003",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+        "translationStuds": [
+          73.0,
+          13.5,
+          12.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__White.004",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+        "translationStuds": [
+          73.0,
+          13.5,
+          28.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.004",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+        "translationStuds": [
+          73.0,
+          13.5,
+          28.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__White.005",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+        "translationStuds": [
+          73.0,
+          13.5,
+          44.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.005",
+        "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+        "translationStuds": [
+          73.0,
+          13.5,
+          44.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__RailTerminal__White.001",
+        "meshKey": "KOL_HBR_GHAT__RailTerminal__White",
+        "translationStuds": [
+          73.0,
+          13.5,
+          4.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__White.003",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+        "translationStuds": [
+          56.0,
+          13.5,
+          64.800003
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.003",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+        "translationStuds": [
+          56.0,
+          13.5,
+          64.800003
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__White.004",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+        "translationStuds": [
+          73.5,
+          5.96,
+          -36.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.004",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+        "translationStuds": [
+          73.5,
+          5.96,
+          -36.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__White.005",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+        "translationStuds": [
+          73.5,
+          10.16,
+          -16.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.005",
+        "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+        "translationStuds": [
+          73.5,
+          10.16,
+          -16.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__RoadArrivalGateway__Concrete",
+        "meshKey": "KOL_HBR_GHAT__RoadArrivalGateway__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "EntrancePosts"
+      },
+      {
+        "name": "KOL_HBR_GHAT__RoadArrivalGateway__White",
+        "meshKey": "KOL_HBR_GHAT__RoadArrivalGateway__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "EntrancePosts"
+      },
+      {
+        "name": "KOL_HBR_GHAT__RoadArrivalGateway__Blue",
+        "meshKey": "KOL_HBR_GHAT__RoadArrivalGateway__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "EntrancePosts"
+      },
+      {
+        "name": "KOL_HBR_GHAT__IntegralSeatLedges__Concrete",
+        "meshKey": "KOL_HBR_GHAT__IntegralSeatLedges__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_GHAT__IntegralSeatLedges__White",
+        "meshKey": "KOL_HBR_GHAT__IntegralSeatLedges__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "ghat/KOL_HBR_GHAT/preview-road.png",
+      "ghat/KOL_HBR_GHAT/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_HOWRAH",
+    "name": "Howrah Bridge \u2014 assembled 28-bay cantilever",
+    "category": "bridge",
+    "dimensionsStuds": {
+      "width": 92.28,
+      "height": 117.41,
+      "depth": 902.0
+    },
+    "boundsMinStuds": [
+      -46.14,
+      27.9,
+      -451.0
+    ],
+    "boundsMaxStuds": [
+      46.14,
+      145.3097,
+      451.0
+    ],
+    "assembledTriangles": 40024,
+    "uniqueGeometryTriangles": 21708,
+    "largestMeshTriangles": 2112,
+    "meshInstances": 91,
+    "uniqueMeshes": 25,
+    "materials": [
+      "HBR_Asphalt",
+      "HBR_Concrete",
+      "HBR_DarkSteel",
+      "HBR_Steel",
+      "HBR_White",
+      "HBR_Yellow"
+    ],
+    "textures": [],
+    "source": "bridge/KOL_HBR_HOWRAH/KOL_HBR_HOWRAH.blend",
+    "export": "bridge/KOL_HBR_HOWRAH/KOL_HBR_HOWRAH.fbx",
+    "references": [
+      "side_01",
+      "side_02",
+      "side_04",
+      "side_08",
+      "road_01",
+      "road_06",
+      "road_07"
+    ],
+    "collision": "Native box deck and sidewalks; simple curb/outer-rail boxes; disable collision/touch on truss detail. Bank/approach bearings only, with no exposed river piers. No precise mesh collision.",
+    "sockets": {
+      "WaterLevel": {
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      "RoadNorth": {
+        "position": [
+          0,
+          32,
+          -448
+        ],
+        "yaw": 180
+      },
+      "RoadSouth": {
+        "position": [
+          0,
+          32,
+          448
+        ],
+        "yaw": 0
+      },
+      "SidewalkWidthStuds": 10,
+      "RoadWidthStuds": 60,
+      "MinimumOverheadStuds": 15
+    },
+    "assembly": [
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection1__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection1__Steel",
+        "translationStuds": [
+          -33.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection1__Steel.001",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection1__Steel",
+        "translationStuds": [
+          33.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Crossframes1__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__Crossframes1__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          -40.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.001",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          40.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          -46.0,
+          33.0,
+          -384.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.001",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          46.0,
+          33.0,
+          -384.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection2__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection2__Steel",
+        "translationStuds": [
+          -33.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection2__Steel.001",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection2__Steel",
+        "translationStuds": [
+          33.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Crossframes2__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__Crossframes2__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.001",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.001",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.001",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.001",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.001",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.002",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          -40.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.003",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          40.0,
+          0.0,
+          -320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.002",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          -46.0,
+          33.0,
+          -256.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.003",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          46.0,
+          33.0,
+          -256.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection3__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection3__Steel",
+        "translationStuds": [
+          -33.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection3__Steel.001",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection3__Steel",
+        "translationStuds": [
+          33.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Crossframes3__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__Crossframes3__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.002",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.002",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.002",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.002",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.002",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.004",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          -40.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.005",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          40.0,
+          0.0,
+          -192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.004",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          -46.0,
+          33.0,
+          -128.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.005",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          46.0,
+          33.0,
+          -128.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection4__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection4__Steel",
+        "translationStuds": [
+          -33.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection4__Steel.001",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection4__Steel",
+        "translationStuds": [
+          33.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Crossframes4__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__Crossframes4__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.003",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.003",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.003",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.003",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.003",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.006",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          -40.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.007",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          40.0,
+          0.0,
+          -64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.006",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          -46.0,
+          33.0,
+          -0.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.007",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          46.0,
+          33.0,
+          -0.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection5__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection5__Steel",
+        "translationStuds": [
+          -33.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection5__Steel.001",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection5__Steel",
+        "translationStuds": [
+          33.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Crossframes5__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__Crossframes5__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.004",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+        "translationStuds": [
+          0.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.004",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.004",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.004",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.004",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+        "translationStuds": [
+          0.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.008",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          -40.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.009",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          40.0,
+          0.0,
+          64.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.008",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          -46.0,
+          33.0,
+          128.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.009",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          46.0,
+          33.0,
+          128.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection6__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection6__Steel",
+        "translationStuds": [
+          -33.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection6__Steel.001",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection6__Steel",
+        "translationStuds": [
+          33.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Crossframes6__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__Crossframes6__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.005",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+        "translationStuds": [
+          0.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.005",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.005",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.005",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.005",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+        "translationStuds": [
+          0.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.010",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          -40.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.011",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          40.0,
+          0.0,
+          192.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.010",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          -46.0,
+          33.0,
+          256.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.011",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          46.0,
+          33.0,
+          256.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection7__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection7__Steel",
+        "translationStuds": [
+          -33.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__TrussSection7__Steel.001",
+        "meshKey": "KOL_HBR_HOWRAH__TrussSection7__Steel",
+        "translationStuds": [
+          33.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Crossframes7__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__Crossframes7__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.006",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+        "translationStuds": [
+          0.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.006",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.006",
+        "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.006",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.006",
+        "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+        "translationStuds": [
+          0.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.012",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          -40.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.013",
+        "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+        "translationStuds": [
+          40.0,
+          0.0,
+          320.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "PedestrianDeck"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.012",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          -46.0,
+          33.0,
+          384.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.013",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+        "translationStuds": [
+          46.0,
+          33.0,
+          384.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "OuterBarrier"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRailTerminal__DarkSteel",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRailTerminal__DarkSteel",
+        "translationStuds": [
+          -46.0,
+          33.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__OuterRailTerminal__DarkSteel.001",
+        "meshKey": "KOL_HBR_HOWRAH__OuterRailTerminal__DarkSteel",
+        "translationStuds": [
+          46.0,
+          33.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__EndUpright__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__EndUpright__Steel",
+        "translationStuds": [
+          -33.0,
+          0.0,
+          448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__EndUpright__Steel.001",
+        "meshKey": "KOL_HBR_HOWRAH__EndUpright__Steel",
+        "translationStuds": [
+          33.0,
+          0.0,
+          448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__EndCrossframe__Steel",
+        "meshKey": "KOL_HBR_HOWRAH__EndCrossframe__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__BankBearingShoes__DarkSteel",
+        "meshKey": "KOL_HBR_HOWRAH__BankBearingShoes__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_HOWRAH__BankBearingShoes__DarkSteel.001",
+        "meshKey": "KOL_HBR_HOWRAH__BankBearingShoes__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          448.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "bridge/KOL_HBR_HOWRAH/preview-road.png",
+      "bridge/KOL_HBR_HOWRAH/preview-side.png",
+      "bridge/KOL_HBR_HOWRAH/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_01",
+    "name": "Three-arm riverfront lamp",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 8.44,
+      "height": 19.05,
+      "depth": 1.44
+    },
+    "boundsMinStuds": [
+      -4.22,
+      0.0,
+      -0.72
+    ],
+    "boundsMaxStuds": [
+      4.22,
+      19.05,
+      0.72
+    ],
+    "assembledTriangles": 520,
+    "uniqueGeometryTriangles": 520,
+    "largestMeshTriangles": 228,
+    "meshInstances": 4,
+    "uniqueMeshes": 4,
+    "materials": [
+      "HBR_DarkSteel",
+      "HBR_Lamp",
+      "HBR_Steel",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_01/KOL_HBR_PROP_01.blend",
+    "export": "props/KOL_HBR_PROP_01/KOL_HBR_PROP_01.fbx",
+    "references": [
+      "props_02",
+      "props_11"
+    ],
+    "collision": "Native cylinder/box pole proxy only; lamps decorative; add unshadowed light later.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_01__Model__White",
+        "meshKey": "KOL_HBR_PROP_01__Model__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_01__Model__Steel",
+        "meshKey": "KOL_HBR_PROP_01__Model__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_01__Model__Lamp",
+        "meshKey": "KOL_HBR_PROP_01__Model__Lamp",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_01__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_01__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_01/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_02",
+    "name": "Single roadway lamp",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 5.1,
+      "height": 15.31,
+      "depth": 1.1
+    },
+    "boundsMinStuds": [
+      -0.55,
+      0.0,
+      -0.55
+    ],
+    "boundsMaxStuds": [
+      4.55,
+      15.31,
+      0.55
+    ],
+    "assembledTriangles": 120,
+    "uniqueGeometryTriangles": 120,
+    "largestMeshTriangles": 52,
+    "meshInstances": 4,
+    "uniqueMeshes": 4,
+    "materials": [
+      "HBR_Concrete",
+      "HBR_DarkSteel",
+      "HBR_Lamp",
+      "HBR_Steel"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_02/KOL_HBR_PROP_02.blend",
+    "export": "props/KOL_HBR_PROP_02/KOL_HBR_PROP_02.fbx",
+    "references": [
+      "road_06"
+    ],
+    "collision": "Simple pole box; decorative light head noncollidable.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_02__Model__Concrete",
+        "meshKey": "KOL_HBR_PROP_02__Model__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_02__Model__Steel",
+        "meshKey": "KOL_HBR_PROP_02__Model__Steel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_02__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_02__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_02__Model__Lamp",
+        "meshKey": "KOL_HBR_PROP_02__Model__Lamp",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_02/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_03",
+    "name": "Simple electric pole",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 5.0,
+      "height": 20.0,
+      "depth": 0.65
+    },
+    "boundsMinStuds": [
+      -2.5,
+      0.0,
+      -0.325
+    ],
+    "boundsMaxStuds": [
+      2.5,
+      20.0,
+      0.325
+    ],
+    "assembledTriangles": 240,
+    "uniqueGeometryTriangles": 240,
+    "largestMeshTriangles": 176,
+    "meshInstances": 4,
+    "uniqueMeshes": 4,
+    "materials": [
+      "HBR_Concrete",
+      "HBR_Cream",
+      "HBR_DarkSteel",
+      "HBR_Roof"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_03/KOL_HBR_PROP_03.blend",
+    "export": "props/KOL_HBR_PROP_03/KOL_HBR_PROP_03.fbx",
+    "references": [
+      "road_06"
+    ],
+    "collision": "Single pole proxy; insulators decorative; no wires/scripts.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_03__Model__Concrete",
+        "meshKey": "KOL_HBR_PROP_03__Model__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_03__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_03__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_03__Model__Cream",
+        "meshKey": "KOL_HBR_PROP_03__Model__Cream",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_03__Model__Roof",
+        "meshKey": "KOL_HBR_PROP_03__Model__Roof",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_03/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_04",
+    "name": "Blue-white balustrade 16",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 17.15,
+      "height": 4.1,
+      "depth": 1.2
+    },
+    "boundsMinStuds": [
+      -8.575,
+      0.0,
+      -0.6
+    ],
+    "boundsMaxStuds": [
+      8.575,
+      4.1,
+      0.6
+    ],
+    "assembledTriangles": 436,
+    "uniqueGeometryTriangles": 436,
+    "largestMeshTriangles": 424,
+    "meshInstances": 2,
+    "uniqueMeshes": 2,
+    "materials": [
+      "HBR_Blue",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_04/KOL_HBR_PROP_04.blend",
+    "export": "props/KOL_HBR_PROP_04/KOL_HBR_PROP_04.fbx",
+    "references": [
+      "props_11"
+    ],
+    "collision": "Continuous thin box barrier; disable collision on individual balusters.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_04__Model__White",
+        "meshKey": "KOL_HBR_PROP_04__Model__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_04__Model__Blue",
+        "meshKey": "KOL_HBR_PROP_04__Model__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_04/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_05",
+    "name": "Steel barrier 16",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 16.7,
+      "height": 3.58,
+      "depth": 0.7
+    },
+    "boundsMinStuds": [
+      -8.35,
+      0.0,
+      -0.35
+    ],
+    "boundsMaxStuds": [
+      8.35,
+      3.58,
+      0.35
+    ],
+    "assembledTriangles": 156,
+    "uniqueGeometryTriangles": 156,
+    "largestMeshTriangles": 156,
+    "meshInstances": 1,
+    "uniqueMeshes": 1,
+    "materials": [
+      "HBR_DarkSteel"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_05/KOL_HBR_PROP_05.blend",
+    "export": "props/KOL_HBR_PROP_05/KOL_HBR_PROP_05.fbx",
+    "references": [
+      "road_06"
+    ],
+    "collision": "Continuous thin box barrier, not each small bar.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_05__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_05__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_05/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_06",
+    "name": "Mooring bollard",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 2.3,
+      "height": 1.875,
+      "depth": 1.2
+    },
+    "boundsMinStuds": [
+      -1.15,
+      0.0,
+      -0.6
+    ],
+    "boundsMaxStuds": [
+      1.15,
+      1.875,
+      0.6
+    ],
+    "assembledTriangles": 72,
+    "uniqueGeometryTriangles": 72,
+    "largestMeshTriangles": 72,
+    "meshInstances": 1,
+    "uniqueMeshes": 1,
+    "materials": [
+      "HBR_DarkSteel"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_06/KOL_HBR_PROP_06.blend",
+    "export": "props/KOL_HBR_PROP_06/KOL_HBR_PROP_06.fbx",
+    "references": [
+      "boat_1"
+    ],
+    "collision": "One cylinder or box proxy.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_06__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_06__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_06/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_07",
+    "name": "Stone bollard",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 1.4,
+      "height": 3.0,
+      "depth": 1.4
+    },
+    "boundsMinStuds": [
+      -0.7,
+      0.0,
+      -0.7
+    ],
+    "boundsMaxStuds": [
+      0.7,
+      3.0,
+      0.7
+    ],
+    "assembledTriangles": 88,
+    "uniqueGeometryTriangles": 88,
+    "largestMeshTriangles": 60,
+    "meshInstances": 2,
+    "uniqueMeshes": 2,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_07/KOL_HBR_PROP_07.blend",
+    "export": "props/KOL_HBR_PROP_07/KOL_HBR_PROP_07.fbx",
+    "references": [
+      "props_02"
+    ],
+    "collision": "One cylinder or box proxy.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_07__Model__Concrete",
+        "meshKey": "KOL_HBR_PROP_07__Model__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_07__Model__Blue",
+        "meshKey": "KOL_HBR_PROP_07__Model__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_07/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_08",
+    "name": "Riverfront bench",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 6.0,
+      "height": 3.325,
+      "depth": 1.948
+    },
+    "boundsMinStuds": [
+      -3.0,
+      0.0,
+      -0.85
+    ],
+    "boundsMaxStuds": [
+      3.0,
+      3.325,
+      1.0979
+    ],
+    "assembledTriangles": 180,
+    "uniqueGeometryTriangles": 180,
+    "largestMeshTriangles": 96,
+    "meshInstances": 2,
+    "uniqueMeshes": 2,
+    "materials": [
+      "HBR_DarkSteel",
+      "HBR_Timber"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_08/KOL_HBR_PROP_08.blend",
+    "export": "props/KOL_HBR_PROP_08/KOL_HBR_PROP_08.fbx",
+    "references": [
+      "props_02"
+    ],
+    "collision": "Simple seat/back boxes; omit individual slat collision.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_08__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_08__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_08__Model__Timber",
+        "meshKey": "KOL_HBR_PROP_08__Model__Timber",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_08/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_09",
+    "name": "Litter bin",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 2.05,
+      "height": 3.2,
+      "depth": 1.688
+    },
+    "boundsMinStuds": [
+      -1.025,
+      0.0,
+      -0.88
+    ],
+    "boundsMaxStuds": [
+      1.025,
+      3.2,
+      0.8084
+    ],
+    "assembledTriangles": 168,
+    "uniqueGeometryTriangles": 168,
+    "largestMeshTriangles": 80,
+    "meshInstances": 3,
+    "uniqueMeshes": 3,
+    "materials": [
+      "HBR_DarkSteel",
+      "HBR_Green",
+      "HBR_Window"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_09/KOL_HBR_PROP_09.blend",
+    "export": "props/KOL_HBR_PROP_09/KOL_HBR_PROP_09.fbx",
+    "references": [
+      "props_02"
+    ],
+    "collision": "One box/hull proxy.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_09__Model__Green",
+        "meshKey": "KOL_HBR_PROP_09__Model__Green",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_09__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_09__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_09__Model__Window",
+        "meshKey": "KOL_HBR_PROP_09__Model__Window",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_09/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_10",
+    "name": "Blank wayfinding frame",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 5.3,
+      "height": 7.05,
+      "depth": 0.6
+    },
+    "boundsMinStuds": [
+      -2.65,
+      0.0,
+      -0.3
+    ],
+    "boundsMaxStuds": [
+      2.65,
+      7.05,
+      0.3
+    ],
+    "assembledTriangles": 88,
+    "uniqueGeometryTriangles": 88,
+    "largestMeshTriangles": 40,
+    "meshInstances": 4,
+    "uniqueMeshes": 4,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_DarkSteel",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_10/KOL_HBR_PROP_10.blend",
+    "export": "props/KOL_HBR_PROP_10/KOL_HBR_PROP_10.fbx",
+    "references": [
+      "ghat_open_1"
+    ],
+    "collision": "Posts and board boxes; blank surface for future authored signage.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_10__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_10__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_10__Model__Concrete",
+        "meshKey": "KOL_HBR_PROP_10__Model__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_10__Model__Blue",
+        "meshKey": "KOL_HBR_PROP_10__Model__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_10__Model__White",
+        "meshKey": "KOL_HBR_PROP_10__Model__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_10/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_11",
+    "name": "Compact vendor canopy",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 10.0,
+      "height": 9.6,
+      "depth": 7.0
+    },
+    "boundsMinStuds": [
+      -5.0,
+      0.0,
+      -3.5
+    ],
+    "boundsMaxStuds": [
+      5.0,
+      9.6,
+      3.5
+    ],
+    "assembledTriangles": 164,
+    "uniqueGeometryTriangles": 164,
+    "largestMeshTriangles": 108,
+    "meshInstances": 5,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Canvas",
+      "HBR_DarkSteel",
+      "HBR_Timber",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_11/KOL_HBR_PROP_11.blend",
+    "export": "props/KOL_HBR_PROP_11/KOL_HBR_PROP_11.fbx",
+    "references": [
+      "boat_1",
+      "ghat_open_2"
+    ],
+    "collision": "Posts/counter boxes only; canopy is decorative.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_11__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_11__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_11__Model__Canvas",
+        "meshKey": "KOL_HBR_PROP_11__Model__Canvas",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_11__Model__Blue",
+        "meshKey": "KOL_HBR_PROP_11__Model__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_11__Model__Timber",
+        "meshKey": "KOL_HBR_PROP_11__Model__Timber",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_11__Model__White",
+        "meshKey": "KOL_HBR_PROP_11__Model__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_11/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_12",
+    "name": "Utility cabinet",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 2.5,
+      "height": 4.0,
+      "depth": 1.86
+    },
+    "boundsMinStuds": [
+      -1.25,
+      0.0,
+      -0.96
+    ],
+    "boundsMaxStuds": [
+      1.25,
+      4.0,
+      0.9
+    ],
+    "assembledTriangles": 108,
+    "uniqueGeometryTriangles": 108,
+    "largestMeshTriangles": 60,
+    "meshInstances": 5,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Concrete",
+      "HBR_Cream",
+      "HBR_DarkSteel",
+      "HBR_Green",
+      "HBR_Roof"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_12/KOL_HBR_PROP_12.blend",
+    "export": "props/KOL_HBR_PROP_12/KOL_HBR_PROP_12.fbx",
+    "references": [
+      "road_06"
+    ],
+    "collision": "One box proxy.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_12__Model__Concrete",
+        "meshKey": "KOL_HBR_PROP_12__Model__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_12__Model__Roof",
+        "meshKey": "KOL_HBR_PROP_12__Model__Roof",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_12__Model__DarkSteel",
+        "meshKey": "KOL_HBR_PROP_12__Model__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_12__Model__Green",
+        "meshKey": "KOL_HBR_PROP_12__Model__Green",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_12__Model__Cream",
+        "meshKey": "KOL_HBR_PROP_12__Model__Cream",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_12/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_13",
+    "name": "Lifebuoy stand",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 2.06,
+      "height": 4.65,
+      "depth": 1.4
+    },
+    "boundsMinStuds": [
+      -1.03,
+      0.0,
+      -0.7
+    ],
+    "boundsMaxStuds": [
+      1.03,
+      4.65,
+      0.7
+    ],
+    "assembledTriangles": 144,
+    "uniqueGeometryTriangles": 144,
+    "largestMeshTriangles": 108,
+    "meshInstances": 3,
+    "uniqueMeshes": 3,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_13/KOL_HBR_PROP_13.blend",
+    "export": "props/KOL_HBR_PROP_13/KOL_HBR_PROP_13.fbx",
+    "references": [
+      "boat_1"
+    ],
+    "collision": "Stand proxy only; no interaction implemented.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_13__Model__Concrete",
+        "meshKey": "KOL_HBR_PROP_13__Model__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_13__Model__Blue",
+        "meshKey": "KOL_HBR_PROP_13__Model__Blue",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_13__Model__White",
+        "meshKey": "KOL_HBR_PROP_13__Model__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_13/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_14",
+    "name": "Hooghly open rowboat",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 14.807,
+      "height": 5.47,
+      "depth": 26.166
+    },
+    "boundsMinStuds": [
+      -7.4035,
+      0.0,
+      -13.083
+    ],
+    "boundsMaxStuds": [
+      7.4035,
+      5.4698,
+      13.083
+    ],
+    "assembledTriangles": 924,
+    "uniqueGeometryTriangles": 924,
+    "largestMeshTriangles": 612,
+    "meshInstances": 3,
+    "uniqueMeshes": 3,
+    "materials": [
+      "HBR_Canvas",
+      "HBR_DarkWood",
+      "HBR_Timber"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_14/KOL_HBR_PROP_14.blend",
+    "export": "props/KOL_HBR_PROP_14/KOL_HBR_PROP_14.fbx",
+    "references": [
+      "boat_1",
+      "boat_2"
+    ],
+    "collision": "Static prop. Use a few hull boxes; no buoyancy or detailed mesh collision.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_14__Model__DarkWood",
+        "meshKey": "KOL_HBR_PROP_14__Model__DarkWood",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_14__Model__Timber",
+        "meshKey": "KOL_HBR_PROP_14__Model__Timber",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_14__Model__Canvas",
+        "meshKey": "KOL_HBR_PROP_14__Model__Canvas",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_14/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_PROP_15",
+    "name": "Hooghly canopy rowboat",
+    "category": "props",
+    "dimensionsStuds": {
+      "width": 14.807,
+      "height": 6.68,
+      "depth": 28.158
+    },
+    "boundsMinStuds": [
+      -7.4035,
+      0.0,
+      -14.0788
+    ],
+    "boundsMaxStuds": [
+      7.4035,
+      6.68,
+      14.0788
+    ],
+    "assembledTriangles": 1176,
+    "uniqueGeometryTriangles": 1176,
+    "largestMeshTriangles": 796,
+    "meshInstances": 3,
+    "uniqueMeshes": 3,
+    "materials": [
+      "HBR_Canvas",
+      "HBR_DarkWood",
+      "HBR_Timber"
+    ],
+    "textures": [],
+    "source": "props/KOL_HBR_PROP_15/KOL_HBR_PROP_15.blend",
+    "export": "props/KOL_HBR_PROP_15/KOL_HBR_PROP_15.fbx",
+    "references": [
+      "boat_2",
+      "boat_3"
+    ],
+    "collision": "Static prop. Hull boxes only; no boat controller or buoyancy.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_PROP_15__Model__DarkWood",
+        "meshKey": "KOL_HBR_PROP_15__Model__DarkWood",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_15__Model__Timber",
+        "meshKey": "KOL_HBR_PROP_15__Model__Timber",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_PROP_15__Model__Canvas",
+        "meshKey": "KOL_HBR_PROP_15__Model__Canvas",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "props/KOL_HBR_PROP_15/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_RF_01",
+    "name": "Bridge approach ramp 128",
+    "category": "riverfront_structures",
+    "dimensionsStuds": {
+      "width": 92.25,
+      "height": 36.624,
+      "depth": 128.3
+    },
+    "boundsMinStuds": [
+      -46.125,
+      0.0,
+      -64.15
+    ],
+    "boundsMaxStuds": [
+      46.125,
+      36.6237,
+      64.15
+    ],
+    "assembledTriangles": 948,
+    "uniqueGeometryTriangles": 948,
+    "largestMeshTriangles": 480,
+    "meshInstances": 5,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Asphalt",
+      "HBR_Concrete",
+      "HBR_DarkSteel",
+      "HBR_White",
+      "HBR_Yellow"
+    ],
+    "textures": [],
+    "source": "riverfront_structures/KOL_HBR_RF_01/KOL_HBR_RF_01.blend",
+    "export": "riverfront_structures/KOL_HBR_RF_01/KOL_HBR_RF_01.fbx",
+    "references": [
+      "road_06",
+      "side_04"
+    ],
+    "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+    "sockets": {
+      "HighRoad": {
+        "position": [
+          0,
+          32,
+          -64
+        ]
+      },
+      "LowRoad": {
+        "position": [
+          0,
+          13.5,
+          64
+        ]
+      },
+      "WaterLevel": {
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "assembly": [
+      {
+        "name": "KOL_HBR_RF_01__Ramp__Asphalt",
+        "meshKey": "KOL_HBR_RF_01__Ramp__Asphalt",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadAndSidewalk"
+      },
+      {
+        "name": "KOL_HBR_RF_01__Ramp__Concrete",
+        "meshKey": "KOL_HBR_RF_01__Ramp__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadAndSidewalk"
+      },
+      {
+        "name": "KOL_HBR_RF_01__Ramp__DarkSteel",
+        "meshKey": "KOL_HBR_RF_01__Ramp__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadAndSidewalk"
+      },
+      {
+        "name": "KOL_HBR_RF_01__Ramp__White",
+        "meshKey": "KOL_HBR_RF_01__Ramp__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadAndSidewalk"
+      },
+      {
+        "name": "KOL_HBR_RF_01__Ramp__Yellow",
+        "meshKey": "KOL_HBR_RF_01__Ramp__Yellow",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadAndSidewalk"
+      }
+    ],
+    "previews": [
+      "riverfront_structures/KOL_HBR_RF_01/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_RF_02",
+    "name": "Straight embankment 64",
+    "category": "riverfront_structures",
+    "dimensionsStuds": {
+      "width": 65.15,
+      "height": 19.6,
+      "depth": 18.27
+    },
+    "boundsMinStuds": [
+      -32.575,
+      -2.0,
+      -8.27
+    ],
+    "boundsMaxStuds": [
+      32.575,
+      17.6,
+      10.0
+    ],
+    "assembledTriangles": 1732,
+    "uniqueGeometryTriangles": 496,
+    "largestMeshTriangles": 400,
+    "meshInstances": 11,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_Stone",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "riverfront_structures/KOL_HBR_RF_02/KOL_HBR_RF_02.blend",
+    "export": "riverfront_structures/KOL_HBR_RF_02/KOL_HBR_RF_02.fbx",
+    "references": [
+      "ghat_open_2",
+      "ghat_open_4",
+      "props_11"
+    ],
+    "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+    "sockets": {
+      "WaterLevel": {
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Left": {
+        "position": [
+          -32,
+          13.5,
+          1
+        ]
+      },
+      "Right": {
+        "position": [
+          32,
+          13.5,
+          1
+        ]
+      }
+    },
+    "assembly": [
+      {
+        "name": "KOL_HBR_RF_02__WallAndWalk__Stone",
+        "meshKey": "KOL_HBR_RF_02__WallAndWalk__Stone",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Embankment"
+      },
+      {
+        "name": "KOL_HBR_RF_02__WallAndWalk__Concrete",
+        "meshKey": "KOL_HBR_RF_02__WallAndWalk__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Embankment"
+      },
+      {
+        "name": "KOL_HBR_RF_02__Balustrade16__White",
+        "meshKey": "KOL_HBR_RF_02__Balustrade16__White",
+        "translationStuds": [
+          -24.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_02__Balustrade16__Blue",
+        "meshKey": "KOL_HBR_RF_02__Balustrade16__Blue",
+        "translationStuds": [
+          -24.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_02__Balustrade16__White.001",
+        "meshKey": "KOL_HBR_RF_02__Balustrade16__White",
+        "translationStuds": [
+          -8.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_02__Balustrade16__Blue.001",
+        "meshKey": "KOL_HBR_RF_02__Balustrade16__Blue",
+        "translationStuds": [
+          -8.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_02__Balustrade16__White.002",
+        "meshKey": "KOL_HBR_RF_02__Balustrade16__White",
+        "translationStuds": [
+          8.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_02__Balustrade16__Blue.002",
+        "meshKey": "KOL_HBR_RF_02__Balustrade16__Blue",
+        "translationStuds": [
+          8.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_02__Balustrade16__White.003",
+        "meshKey": "KOL_HBR_RF_02__Balustrade16__White",
+        "translationStuds": [
+          24.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_02__Balustrade16__Blue.003",
+        "meshKey": "KOL_HBR_RF_02__Balustrade16__Blue",
+        "translationStuds": [
+          24.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_02__RailTerminal__White",
+        "meshKey": "KOL_HBR_RF_02__RailTerminal__White",
+        "translationStuds": [
+          32.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "riverfront_structures/KOL_HBR_RF_02/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_RF_03",
+    "name": "Embankment corner 48",
+    "category": "riverfront_structures",
+    "dimensionsStuds": {
+      "width": 49.175,
+      "height": 19.6,
+      "depth": 49.175
+    },
+    "boundsMinStuds": [
+      -24.575,
+      -2.0,
+      -24.6
+    ],
+    "boundsMaxStuds": [
+      24.6,
+      17.6,
+      24.575
+    ],
+    "assembledTriangles": 2536,
+    "uniqueGeometryTriangles": 476,
+    "largestMeshTriangles": 400,
+    "meshInstances": 15,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_Stone",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "riverfront_structures/KOL_HBR_RF_03/KOL_HBR_RF_03.blend",
+    "export": "riverfront_structures/KOL_HBR_RF_03/KOL_HBR_RF_03.fbx",
+    "references": [
+      "ghat_open_2",
+      "ghat_open_4",
+      "props_11"
+    ],
+    "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+    "sockets": {
+      "WaterLevel": {
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      "In": {
+        "position": [
+          -24,
+          13.5,
+          -16
+        ]
+      },
+      "Out": {
+        "position": [
+          16,
+          13.5,
+          24
+        ]
+      }
+    },
+    "assembly": [
+      {
+        "name": "KOL_HBR_RF_03__CornerFoundation__Stone",
+        "meshKey": "KOL_HBR_RF_03__CornerFoundation__Stone",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Embankment"
+      },
+      {
+        "name": "KOL_HBR_RF_03__CornerFoundation__Concrete",
+        "meshKey": "KOL_HBR_RF_03__CornerFoundation__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Embankment"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__White",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__White",
+        "translationStuds": [
+          -16.0,
+          13.5,
+          -24.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__Blue",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__Blue",
+        "translationStuds": [
+          -16.0,
+          13.5,
+          -24.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__White.001",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__White",
+        "translationStuds": [
+          0.0,
+          13.5,
+          -24.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__Blue.001",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__Blue",
+        "translationStuds": [
+          0.0,
+          13.5,
+          -24.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__White.002",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__White",
+        "translationStuds": [
+          16.0,
+          13.5,
+          -24.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__Blue.002",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__Blue",
+        "translationStuds": [
+          16.0,
+          13.5,
+          -24.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__White.003",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__White",
+        "translationStuds": [
+          24.0,
+          13.5,
+          -16.0
+        ],
+        "yawRadians": -1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__Blue.003",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__Blue",
+        "translationStuds": [
+          24.0,
+          13.5,
+          -16.0
+        ],
+        "yawRadians": -1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__White.004",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__White",
+        "translationStuds": [
+          24.0,
+          13.5,
+          0.0
+        ],
+        "yawRadians": -1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__Blue.004",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__Blue",
+        "translationStuds": [
+          24.0,
+          13.5,
+          0.0
+        ],
+        "yawRadians": -1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__White.005",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__White",
+        "translationStuds": [
+          24.0,
+          13.5,
+          16.0
+        ],
+        "yawRadians": -1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__Balustrade16__Blue.005",
+        "meshKey": "KOL_HBR_RF_03__Balustrade16__Blue",
+        "translationStuds": [
+          24.0,
+          13.5,
+          16.0
+        ],
+        "yawRadians": -1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_03__RailTerminal__White",
+        "meshKey": "KOL_HBR_RF_03__RailTerminal__White",
+        "translationStuds": [
+          24.0,
+          13.5,
+          24.0
+        ],
+        "yawRadians": -1.570796,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "riverfront_structures/KOL_HBR_RF_03/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_RF_04",
+    "name": "Promenade connector 64",
+    "category": "riverfront_structures",
+    "dimensionsStuds": {
+      "width": 65.15,
+      "height": 5.2,
+      "depth": 16.0
+    },
+    "boundsMinStuds": [
+      -32.575,
+      12.4,
+      -8.0
+    ],
+    "boundsMaxStuds": [
+      32.575,
+      17.6,
+      8.0
+    ],
+    "assembledTriangles": 1696,
+    "uniqueGeometryTriangles": 460,
+    "largestMeshTriangles": 400,
+    "meshInstances": 11,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_Stone",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "riverfront_structures/KOL_HBR_RF_04/KOL_HBR_RF_04.blend",
+    "export": "riverfront_structures/KOL_HBR_RF_04/KOL_HBR_RF_04.fbx",
+    "references": [
+      "ghat_open_2",
+      "ghat_open_4",
+      "props_11"
+    ],
+    "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+    "sockets": {
+      "Left": {
+        "position": [
+          -32,
+          13.5,
+          0
+        ]
+      },
+      "Right": {
+        "position": [
+          32,
+          13.5,
+          0
+        ]
+      }
+    },
+    "assembly": [
+      {
+        "name": "KOL_HBR_RF_04__WalkSlab__Concrete",
+        "meshKey": "KOL_HBR_RF_04__WalkSlab__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Promenade"
+      },
+      {
+        "name": "KOL_HBR_RF_04__WalkSlab__Stone",
+        "meshKey": "KOL_HBR_RF_04__WalkSlab__Stone",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Promenade"
+      },
+      {
+        "name": "KOL_HBR_RF_04__Balustrade16__White",
+        "meshKey": "KOL_HBR_RF_04__Balustrade16__White",
+        "translationStuds": [
+          -24.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_04__Balustrade16__Blue",
+        "meshKey": "KOL_HBR_RF_04__Balustrade16__Blue",
+        "translationStuds": [
+          -24.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_04__Balustrade16__White.001",
+        "meshKey": "KOL_HBR_RF_04__Balustrade16__White",
+        "translationStuds": [
+          -8.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_04__Balustrade16__Blue.001",
+        "meshKey": "KOL_HBR_RF_04__Balustrade16__Blue",
+        "translationStuds": [
+          -8.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_04__Balustrade16__White.002",
+        "meshKey": "KOL_HBR_RF_04__Balustrade16__White",
+        "translationStuds": [
+          8.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_04__Balustrade16__Blue.002",
+        "meshKey": "KOL_HBR_RF_04__Balustrade16__Blue",
+        "translationStuds": [
+          8.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_04__Balustrade16__White.003",
+        "meshKey": "KOL_HBR_RF_04__Balustrade16__White",
+        "translationStuds": [
+          24.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_04__Balustrade16__Blue.003",
+        "meshKey": "KOL_HBR_RF_04__Balustrade16__Blue",
+        "translationStuds": [
+          24.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_04__RailTerminal__White",
+        "meshKey": "KOL_HBR_RF_04__RailTerminal__White",
+        "translationStuds": [
+          32.0,
+          13.5,
+          -7.4
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "riverfront_structures/KOL_HBR_RF_04/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_RF_05",
+    "name": "Ghat road arrival apron 64",
+    "category": "riverfront_structures",
+    "dimensionsStuds": {
+      "width": 64.0,
+      "height": 5.5,
+      "depth": 40.0
+    },
+    "boundsMinStuds": [
+      -32.0,
+      12.7,
+      -20.0
+    ],
+    "boundsMaxStuds": [
+      32.0,
+      18.2,
+      20.0
+    ],
+    "assembledTriangles": 980,
+    "uniqueGeometryTriangles": 544,
+    "largestMeshTriangles": 400,
+    "meshInstances": 8,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "riverfront_structures/KOL_HBR_RF_05/KOL_HBR_RF_05.blend",
+    "export": "riverfront_structures/KOL_HBR_RF_05/KOL_HBR_RF_05.fbx",
+    "references": [
+      "ghat_open_2",
+      "ghat_open_4",
+      "props_11"
+    ],
+    "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+    "sockets": {
+      "Road": {
+        "position": [
+          0,
+          13.5,
+          20
+        ]
+      },
+      "Ghat": {
+        "position": [
+          0,
+          13.5,
+          -20
+        ]
+      }
+    },
+    "assembly": [
+      {
+        "name": "KOL_HBR_RF_05__ApronAndLedges__Concrete",
+        "meshKey": "KOL_HBR_RF_05__ApronAndLedges__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadApron"
+      },
+      {
+        "name": "KOL_HBR_RF_05__ApronAndLedges__White",
+        "meshKey": "KOL_HBR_RF_05__ApronAndLedges__White",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RoadApron"
+      },
+      {
+        "name": "KOL_HBR_RF_05__Balustrade16__White",
+        "meshKey": "KOL_HBR_RF_05__Balustrade16__White",
+        "translationStuds": [
+          -31.0,
+          14.1,
+          0.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_05__Balustrade16__Blue",
+        "meshKey": "KOL_HBR_RF_05__Balustrade16__Blue",
+        "translationStuds": [
+          -31.0,
+          14.1,
+          0.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_05__RailTerminal__White",
+        "meshKey": "KOL_HBR_RF_05__RailTerminal__White",
+        "translationStuds": [
+          -31.0,
+          14.1,
+          -8.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      },
+      {
+        "name": "KOL_HBR_RF_05__Balustrade16__White.001",
+        "meshKey": "KOL_HBR_RF_05__Balustrade16__White",
+        "translationStuds": [
+          31.0,
+          14.1,
+          0.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_05__Balustrade16__Blue.001",
+        "meshKey": "KOL_HBR_RF_05__Balustrade16__Blue",
+        "translationStuds": [
+          31.0,
+          14.1,
+          0.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_05__RailTerminal__White.001",
+        "meshKey": "KOL_HBR_RF_05__RailTerminal__White",
+        "translationStuds": [
+          31.0,
+          14.1,
+          -8.0
+        ],
+        "yawRadians": 1.570796,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "riverfront_structures/KOL_HBR_RF_05/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_RF_06",
+    "name": "Retaining return 32",
+    "category": "riverfront_structures",
+    "dimensionsStuds": {
+      "width": 33.15,
+      "height": 19.6,
+      "depth": 7.0
+    },
+    "boundsMinStuds": [
+      -16.575,
+      -2.0,
+      -3.5
+    ],
+    "boundsMaxStuds": [
+      16.575,
+      17.6,
+      3.5
+    ],
+    "assembledTriangles": 908,
+    "uniqueGeometryTriangles": 496,
+    "largestMeshTriangles": 400,
+    "meshInstances": 7,
+    "uniqueMeshes": 5,
+    "materials": [
+      "HBR_Blue",
+      "HBR_Concrete",
+      "HBR_Stone",
+      "HBR_White"
+    ],
+    "textures": [],
+    "source": "riverfront_structures/KOL_HBR_RF_06/KOL_HBR_RF_06.blend",
+    "export": "riverfront_structures/KOL_HBR_RF_06/KOL_HBR_RF_06.fbx",
+    "references": [
+      "ghat_open_2",
+      "ghat_open_4",
+      "props_11"
+    ],
+    "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+    "sockets": {},
+    "assembly": [
+      {
+        "name": "KOL_HBR_RF_06__ReturnWall__Stone",
+        "meshKey": "KOL_HBR_RF_06__ReturnWall__Stone",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RetainingWall"
+      },
+      {
+        "name": "KOL_HBR_RF_06__ReturnWall__Concrete",
+        "meshKey": "KOL_HBR_RF_06__ReturnWall__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "RetainingWall"
+      },
+      {
+        "name": "KOL_HBR_RF_06__Balustrade16__White",
+        "meshKey": "KOL_HBR_RF_06__Balustrade16__White",
+        "translationStuds": [
+          -8.0,
+          13.5,
+          0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_06__Balustrade16__Blue",
+        "meshKey": "KOL_HBR_RF_06__Balustrade16__Blue",
+        "translationStuds": [
+          -8.0,
+          13.5,
+          0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_06__Balustrade16__White.001",
+        "meshKey": "KOL_HBR_RF_06__Balustrade16__White",
+        "translationStuds": [
+          8.0,
+          13.5,
+          0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_06__Balustrade16__Blue.001",
+        "meshKey": "KOL_HBR_RF_06__Balustrade16__Blue",
+        "translationStuds": [
+          8.0,
+          13.5,
+          0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Boundary"
+      },
+      {
+        "name": "KOL_HBR_RF_06__RailTerminal__White",
+        "meshKey": "KOL_HBR_RF_06__RailTerminal__White",
+        "translationStuds": [
+          16.0,
+          13.5,
+          0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Decoration"
+      }
+    ],
+    "previews": [
+      "riverfront_structures/KOL_HBR_RF_06/preview.png"
+    ]
+  },
+  {
+    "assetId": "KOL_HBR_RF_07",
+    "name": "Small river landing connector",
+    "category": "riverfront_structures",
+    "dimensionsStuds": {
+      "width": 32.0,
+      "height": 4.6,
+      "depth": 16.0
+    },
+    "boundsMinStuds": [
+      -16.0,
+      -0.6,
+      -8.0
+    ],
+    "boundsMaxStuds": [
+      16.0,
+      4.0,
+      8.0
+    ],
+    "assembledTriangles": 264,
+    "uniqueGeometryTriangles": 264,
+    "largestMeshTriangles": 168,
+    "meshInstances": 3,
+    "uniqueMeshes": 3,
+    "materials": [
+      "HBR_Concrete",
+      "HBR_DarkSteel",
+      "HBR_Timber"
+    ],
+    "textures": [],
+    "source": "riverfront_structures/KOL_HBR_RF_07/KOL_HBR_RF_07.blend",
+    "export": "riverfront_structures/KOL_HBR_RF_07/KOL_HBR_RF_07.fbx",
+    "references": [
+      "boat_1",
+      "ghat_open_4"
+    ],
+    "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+    "sockets": {
+      "WaterLevel": {
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      "DeckTop": {
+        "position": [
+          0,
+          2.36,
+          0
+        ]
+      }
+    },
+    "assembly": [
+      {
+        "name": "KOL_HBR_RF_07__Landing__Concrete",
+        "meshKey": "KOL_HBR_RF_07__Landing__Concrete",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Landing"
+      },
+      {
+        "name": "KOL_HBR_RF_07__Landing__DarkSteel",
+        "meshKey": "KOL_HBR_RF_07__Landing__DarkSteel",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Landing"
+      },
+      {
+        "name": "KOL_HBR_RF_07__Landing__Timber",
+        "meshKey": "KOL_HBR_RF_07__Landing__Timber",
+        "translationStuds": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "yawRadians": 0.0,
+        "collisionRole": "Landing"
+      }
+    ],
+    "previews": [
+      "riverfront_structures/KOL_HBR_RF_07/preview.png"
+    ]
+  }
+]

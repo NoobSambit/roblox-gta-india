@@ -1,0 +1,318 @@
+{
+  "assetCount": 26,
+  "counts": {
+    "bridge": 1,
+    "ghat": 1,
+    "riverfront_structures": 7,
+    "props": 15,
+    "context": 2
+  },
+  "assembledCategoryTriangles": {
+    "bridge": 40024,
+    "ghat": 11936,
+    "riverfront_structures": 9064,
+    "props": 4584,
+    "context": 264
+  },
+  "uniqueCategoryTriangles": {
+    "bridge": 21708,
+    "ghat": 7672,
+    "riverfront_structures": 3684,
+    "props": 4584,
+    "context": 264
+  },
+  "largestMeshTriangles": 2112,
+  "budgetExceedances": [],
+  "textureDependencies": 0,
+  "scope": "Source inventory, geometry/normals/transforms/scale, reference coverage, parsed FBX geometry/reuse/material bindings and final PNG inventory. No Studio import or in-game performance claims.",
+  "assets": [
+    {
+      "assetId": "KOL_HBR_CTX_01",
+      "status": "passed",
+      "assembledTriangles": 132,
+      "uniqueSourceTriangles": 132,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 5,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 52,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_CTX_02",
+      "status": "passed",
+      "assembledTriangles": 132,
+      "uniqueSourceTriangles": 132,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 5,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 52,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_GHAT",
+      "status": "passed",
+      "assembledTriangles": 11936,
+      "uniqueSourceTriangles": 7672,
+      "fbxUniqueGeometries": 30,
+      "fbxMeshInstances": 51,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 1200,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_HOWRAH",
+      "status": "passed",
+      "assembledTriangles": 40024,
+      "uniqueSourceTriangles": 21708,
+      "fbxUniqueGeometries": 25,
+      "fbxMeshInstances": 91,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 2112,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_01",
+      "status": "passed",
+      "assembledTriangles": 520,
+      "uniqueSourceTriangles": 520,
+      "fbxUniqueGeometries": 4,
+      "fbxMeshInstances": 4,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 228,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_02",
+      "status": "passed",
+      "assembledTriangles": 120,
+      "uniqueSourceTriangles": 120,
+      "fbxUniqueGeometries": 4,
+      "fbxMeshInstances": 4,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 52,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_03",
+      "status": "passed",
+      "assembledTriangles": 240,
+      "uniqueSourceTriangles": 240,
+      "fbxUniqueGeometries": 4,
+      "fbxMeshInstances": 4,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 176,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_04",
+      "status": "passed",
+      "assembledTriangles": 436,
+      "uniqueSourceTriangles": 436,
+      "fbxUniqueGeometries": 2,
+      "fbxMeshInstances": 2,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 424,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_05",
+      "status": "passed",
+      "assembledTriangles": 156,
+      "uniqueSourceTriangles": 156,
+      "fbxUniqueGeometries": 1,
+      "fbxMeshInstances": 1,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 156,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_06",
+      "status": "passed",
+      "assembledTriangles": 72,
+      "uniqueSourceTriangles": 72,
+      "fbxUniqueGeometries": 1,
+      "fbxMeshInstances": 1,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 72,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_07",
+      "status": "passed",
+      "assembledTriangles": 88,
+      "uniqueSourceTriangles": 88,
+      "fbxUniqueGeometries": 2,
+      "fbxMeshInstances": 2,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 60,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_08",
+      "status": "passed",
+      "assembledTriangles": 180,
+      "uniqueSourceTriangles": 180,
+      "fbxUniqueGeometries": 2,
+      "fbxMeshInstances": 2,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 96,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_09",
+      "status": "passed",
+      "assembledTriangles": 168,
+      "uniqueSourceTriangles": 168,
+      "fbxUniqueGeometries": 3,
+      "fbxMeshInstances": 3,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 80,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_10",
+      "status": "passed",
+      "assembledTriangles": 88,
+      "uniqueSourceTriangles": 88,
+      "fbxUniqueGeometries": 4,
+      "fbxMeshInstances": 4,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 40,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_11",
+      "status": "passed",
+      "assembledTriangles": 164,
+      "uniqueSourceTriangles": 164,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 5,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 108,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_12",
+      "status": "passed",
+      "assembledTriangles": 108,
+      "uniqueSourceTriangles": 108,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 5,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 60,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_13",
+      "status": "passed",
+      "assembledTriangles": 144,
+      "uniqueSourceTriangles": 144,
+      "fbxUniqueGeometries": 3,
+      "fbxMeshInstances": 3,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 108,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_14",
+      "status": "passed",
+      "assembledTriangles": 924,
+      "uniqueSourceTriangles": 924,
+      "fbxUniqueGeometries": 3,
+      "fbxMeshInstances": 3,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 612,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_PROP_15",
+      "status": "passed",
+      "assembledTriangles": 1176,
+      "uniqueSourceTriangles": 1176,
+      "fbxUniqueGeometries": 3,
+      "fbxMeshInstances": 3,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 796,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_RF_01",
+      "status": "passed",
+      "assembledTriangles": 948,
+      "uniqueSourceTriangles": 948,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 5,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 480,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_RF_02",
+      "status": "passed",
+      "assembledTriangles": 1732,
+      "uniqueSourceTriangles": 496,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 11,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 400,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_RF_03",
+      "status": "passed",
+      "assembledTriangles": 2536,
+      "uniqueSourceTriangles": 476,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 15,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 400,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_RF_04",
+      "status": "passed",
+      "assembledTriangles": 1696,
+      "uniqueSourceTriangles": 460,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 11,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 400,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_RF_05",
+      "status": "passed",
+      "assembledTriangles": 980,
+      "uniqueSourceTriangles": 544,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 8,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 400,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_RF_06",
+      "status": "passed",
+      "assembledTriangles": 908,
+      "uniqueSourceTriangles": 496,
+      "fbxUniqueGeometries": 5,
+      "fbxMeshInstances": 7,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 400,
+      "fbxVersion": 7400
+    },
+    {
+      "assetId": "KOL_HBR_RF_07",
+      "status": "passed",
+      "assembledTriangles": 264,
+      "uniqueSourceTriangles": 264,
+      "fbxUniqueGeometries": 3,
+      "fbxMeshInstances": 3,
+      "fbxMaterialBindings": "one palette material per mesh instance",
+      "largestMeshTriangles": 168,
+      "fbxVersion": 7400
+    }
+  ],
+  "sourceFilesReopenedAndPackaged": 26,
+  "masterSceneCount": 26
+}

@@ -1,0 +1,101 @@
+{
+  "assetId": "KOL_HBR_CTX_02",
+  "name": "Low river store shell",
+  "category": "context",
+  "dimensionsStuds": {
+    "width": 36.0,
+    "height": 14.5,
+    "depth": 22.4
+  },
+  "boundsMinStuds": [
+    -18.0,
+    0.0,
+    -11.4
+  ],
+  "boundsMaxStuds": [
+    18.0,
+    14.5,
+    11.0
+  ],
+  "assembledTriangles": 132,
+  "uniqueGeometryTriangles": 132,
+  "largestMeshTriangles": 52,
+  "meshInstances": 5,
+  "uniqueMeshes": 5,
+  "materials": [
+    "HBR_Blue",
+    "HBR_Concrete",
+    "HBR_Roof",
+    "HBR_White",
+    "HBR_Window"
+  ],
+  "textures": [],
+  "source": "context/KOL_HBR_CTX_02/KOL_HBR_CTX_02.blend",
+  "export": "context/KOL_HBR_CTX_02/KOL_HBR_CTX_02.fbx",
+  "references": [
+    "ghat_open_2",
+    "road_06"
+  ],
+  "collision": "Closed background shell: one box collider or noncollidable if inaccessible; no interior.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_CTX_02__Shell__Concrete",
+      "meshKey": "KOL_HBR_CTX_02__Shell__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_CTX_02__Shell__Roof",
+      "meshKey": "KOL_HBR_CTX_02__Shell__Roof",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_CTX_02__Shell__Blue",
+      "meshKey": "KOL_HBR_CTX_02__Shell__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_CTX_02__Shell__White",
+      "meshKey": "KOL_HBR_CTX_02__Shell__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_CTX_02__Shell__Window",
+      "meshKey": "KOL_HBR_CTX_02__Shell__Window",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "context/KOL_HBR_CTX_02/preview.png"
+  ]
+}

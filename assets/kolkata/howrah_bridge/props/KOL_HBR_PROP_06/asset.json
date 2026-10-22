@@ -1,0 +1,52 @@
+{
+  "assetId": "KOL_HBR_PROP_06",
+  "name": "Mooring bollard",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 2.3,
+    "height": 1.875,
+    "depth": 1.2
+  },
+  "boundsMinStuds": [
+    -1.15,
+    0.0,
+    -0.6
+  ],
+  "boundsMaxStuds": [
+    1.15,
+    1.875,
+    0.6
+  ],
+  "assembledTriangles": 72,
+  "uniqueGeometryTriangles": 72,
+  "largestMeshTriangles": 72,
+  "meshInstances": 1,
+  "uniqueMeshes": 1,
+  "materials": [
+    "HBR_DarkSteel"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_06/KOL_HBR_PROP_06.blend",
+  "export": "props/KOL_HBR_PROP_06/KOL_HBR_PROP_06.fbx",
+  "references": [
+    "boat_1"
+  ],
+  "collision": "One cylinder or box proxy.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_06__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_06__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_06/preview.png"
+  ]
+}

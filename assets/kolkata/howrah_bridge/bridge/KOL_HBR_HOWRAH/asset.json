@@ -1,0 +1,1082 @@
+{
+  "assetId": "KOL_HBR_HOWRAH",
+  "name": "Howrah Bridge \u2014 assembled 28-bay cantilever",
+  "category": "bridge",
+  "dimensionsStuds": {
+    "width": 92.28,
+    "height": 117.41,
+    "depth": 902.0
+  },
+  "boundsMinStuds": [
+    -46.14,
+    27.9,
+    -451.0
+  ],
+  "boundsMaxStuds": [
+    46.14,
+    145.3097,
+    451.0
+  ],
+  "assembledTriangles": 40024,
+  "uniqueGeometryTriangles": 21708,
+  "largestMeshTriangles": 2112,
+  "meshInstances": 91,
+  "uniqueMeshes": 25,
+  "materials": [
+    "HBR_Asphalt",
+    "HBR_Concrete",
+    "HBR_DarkSteel",
+    "HBR_Steel",
+    "HBR_White",
+    "HBR_Yellow"
+  ],
+  "textures": [],
+  "source": "bridge/KOL_HBR_HOWRAH/KOL_HBR_HOWRAH.blend",
+  "export": "bridge/KOL_HBR_HOWRAH/KOL_HBR_HOWRAH.fbx",
+  "references": [
+    "side_01",
+    "side_02",
+    "side_04",
+    "side_08",
+    "road_01",
+    "road_06",
+    "road_07"
+  ],
+  "collision": "Native box deck and sidewalks; simple curb/outer-rail boxes; disable collision/touch on truss detail. Bank/approach bearings only, with no exposed river piers. No precise mesh collision.",
+  "sockets": {
+    "WaterLevel": {
+      "position": [
+        0,
+        0,
+        0
+      ]
+    },
+    "RoadNorth": {
+      "position": [
+        0,
+        32,
+        -448
+      ],
+      "yaw": 180
+    },
+    "RoadSouth": {
+      "position": [
+        0,
+        32,
+        448
+      ],
+      "yaw": 0
+    },
+    "SidewalkWidthStuds": 10,
+    "RoadWidthStuds": 60,
+    "MinimumOverheadStuds": 15
+  },
+  "assembly": [
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection1__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection1__Steel",
+      "translationStuds": [
+        -33.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection1__Steel.001",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection1__Steel",
+      "translationStuds": [
+        33.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Crossframes1__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__Crossframes1__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        -40.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.001",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        40.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        -46.0,
+        33.0,
+        -384.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.001",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        46.0,
+        33.0,
+        -384.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection2__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection2__Steel",
+      "translationStuds": [
+        -33.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection2__Steel.001",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection2__Steel",
+      "translationStuds": [
+        33.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Crossframes2__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__Crossframes2__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.001",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.001",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.001",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.001",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.001",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.002",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        -40.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.003",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        40.0,
+        0.0,
+        -320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.002",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        -46.0,
+        33.0,
+        -256.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.003",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        46.0,
+        33.0,
+        -256.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection3__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection3__Steel",
+      "translationStuds": [
+        -33.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection3__Steel.001",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection3__Steel",
+      "translationStuds": [
+        33.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Crossframes3__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__Crossframes3__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.002",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.002",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.002",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.002",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.002",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.004",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        -40.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.005",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        40.0,
+        0.0,
+        -192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.004",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        -46.0,
+        33.0,
+        -128.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.005",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        46.0,
+        33.0,
+        -128.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection4__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection4__Steel",
+      "translationStuds": [
+        -33.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection4__Steel.001",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection4__Steel",
+      "translationStuds": [
+        33.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Crossframes4__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__Crossframes4__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.003",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.003",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.003",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.003",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.003",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.006",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        -40.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.007",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        40.0,
+        0.0,
+        -64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.006",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        -46.0,
+        33.0,
+        -0.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.007",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        46.0,
+        33.0,
+        -0.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection5__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection5__Steel",
+      "translationStuds": [
+        -33.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection5__Steel.001",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection5__Steel",
+      "translationStuds": [
+        33.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Crossframes5__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__Crossframes5__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.004",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+      "translationStuds": [
+        0.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.004",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.004",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.004",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.004",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+      "translationStuds": [
+        0.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.008",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        -40.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.009",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        40.0,
+        0.0,
+        64.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.008",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        -46.0,
+        33.0,
+        128.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.009",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        46.0,
+        33.0,
+        128.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection6__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection6__Steel",
+      "translationStuds": [
+        -33.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection6__Steel.001",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection6__Steel",
+      "translationStuds": [
+        33.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Crossframes6__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__Crossframes6__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.005",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+      "translationStuds": [
+        0.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.005",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.005",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.005",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.005",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+      "translationStuds": [
+        0.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.010",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        -40.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.011",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        40.0,
+        0.0,
+        192.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.010",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        -46.0,
+        33.0,
+        256.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.011",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        46.0,
+        33.0,
+        256.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection7__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection7__Steel",
+      "translationStuds": [
+        -33.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__TrussSection7__Steel.001",
+      "meshKey": "KOL_HBR_HOWRAH__TrussSection7__Steel",
+      "translationStuds": [
+        33.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Crossframes7__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__Crossframes7__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Asphalt.006",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Asphalt",
+      "translationStuds": [
+        0.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Steel.006",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__RoadSection128__Concrete.006",
+      "meshKey": "KOL_HBR_HOWRAH__RoadSection128__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__White.006",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow.006",
+      "meshKey": "KOL_HBR_HOWRAH__LaneMarkings128__Yellow",
+      "translationStuds": [
+        0.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.012",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        -40.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__Sidewalk128__Concrete.013",
+      "meshKey": "KOL_HBR_HOWRAH__Sidewalk128__Concrete",
+      "translationStuds": [
+        40.0,
+        0.0,
+        320.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "PedestrianDeck"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.012",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        -46.0,
+        33.0,
+        384.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel.013",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRail128__DarkSteel",
+      "translationStuds": [
+        46.0,
+        33.0,
+        384.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "OuterBarrier"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRailTerminal__DarkSteel",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRailTerminal__DarkSteel",
+      "translationStuds": [
+        -46.0,
+        33.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__OuterRailTerminal__DarkSteel.001",
+      "meshKey": "KOL_HBR_HOWRAH__OuterRailTerminal__DarkSteel",
+      "translationStuds": [
+        46.0,
+        33.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__EndUpright__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__EndUpright__Steel",
+      "translationStuds": [
+        -33.0,
+        0.0,
+        448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__EndUpright__Steel.001",
+      "meshKey": "KOL_HBR_HOWRAH__EndUpright__Steel",
+      "translationStuds": [
+        33.0,
+        0.0,
+        448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__EndCrossframe__Steel",
+      "meshKey": "KOL_HBR_HOWRAH__EndCrossframe__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__BankBearingShoes__DarkSteel",
+      "meshKey": "KOL_HBR_HOWRAH__BankBearingShoes__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_HOWRAH__BankBearingShoes__DarkSteel.001",
+      "meshKey": "KOL_HBR_HOWRAH__BankBearingShoes__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        448.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "bridge/KOL_HBR_HOWRAH/preview-road.png",
+    "bridge/KOL_HBR_HOWRAH/preview-side.png",
+    "bridge/KOL_HBR_HOWRAH/preview.png"
+  ]
+}

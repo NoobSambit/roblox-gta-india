@@ -1,0 +1,64 @@
+{
+  "assetId": "KOL_HBR_PROP_07",
+  "name": "Stone bollard",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 1.4,
+    "height": 3.0,
+    "depth": 1.4
+  },
+  "boundsMinStuds": [
+    -0.7,
+    0.0,
+    -0.7
+  ],
+  "boundsMaxStuds": [
+    0.7,
+    3.0,
+    0.7
+  ],
+  "assembledTriangles": 88,
+  "uniqueGeometryTriangles": 88,
+  "largestMeshTriangles": 60,
+  "meshInstances": 2,
+  "uniqueMeshes": 2,
+  "materials": [
+    "HBR_Blue",
+    "HBR_Concrete"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_07/KOL_HBR_PROP_07.blend",
+  "export": "props/KOL_HBR_PROP_07/KOL_HBR_PROP_07.fbx",
+  "references": [
+    "props_02"
+  ],
+  "collision": "One cylinder or box proxy.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_07__Model__Concrete",
+      "meshKey": "KOL_HBR_PROP_07__Model__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_07__Model__Blue",
+      "meshKey": "KOL_HBR_PROP_07__Model__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_07/preview.png"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "assetId": "KOL_HBR_PROP_03",
+  "name": "Simple electric pole",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 5.0,
+    "height": 20.0,
+    "depth": 0.65
+  },
+  "boundsMinStuds": [
+    -2.5,
+    0.0,
+    -0.325
+  ],
+  "boundsMaxStuds": [
+    2.5,
+    20.0,
+    0.325
+  ],
+  "assembledTriangles": 240,
+  "uniqueGeometryTriangles": 240,
+  "largestMeshTriangles": 176,
+  "meshInstances": 4,
+  "uniqueMeshes": 4,
+  "materials": [
+    "HBR_Concrete",
+    "HBR_Cream",
+    "HBR_DarkSteel",
+    "HBR_Roof"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_03/KOL_HBR_PROP_03.blend",
+  "export": "props/KOL_HBR_PROP_03/KOL_HBR_PROP_03.fbx",
+  "references": [
+    "road_06"
+  ],
+  "collision": "Single pole proxy; insulators decorative; no wires/scripts.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_03__Model__Concrete",
+      "meshKey": "KOL_HBR_PROP_03__Model__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_03__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_03__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_03__Model__Cream",
+      "meshKey": "KOL_HBR_PROP_03__Model__Cream",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_03__Model__Roof",
+      "meshKey": "KOL_HBR_PROP_03__Model__Roof",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_03/preview.png"
+  ]
+}

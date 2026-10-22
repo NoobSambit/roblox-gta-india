@@ -1,0 +1,89 @@
+{
+  "assetId": "KOL_HBR_PROP_01",
+  "name": "Three-arm riverfront lamp",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 8.44,
+    "height": 19.05,
+    "depth": 1.44
+  },
+  "boundsMinStuds": [
+    -4.22,
+    0.0,
+    -0.72
+  ],
+  "boundsMaxStuds": [
+    4.22,
+    19.05,
+    0.72
+  ],
+  "assembledTriangles": 520,
+  "uniqueGeometryTriangles": 520,
+  "largestMeshTriangles": 228,
+  "meshInstances": 4,
+  "uniqueMeshes": 4,
+  "materials": [
+    "HBR_DarkSteel",
+    "HBR_Lamp",
+    "HBR_Steel",
+    "HBR_White"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_01/KOL_HBR_PROP_01.blend",
+  "export": "props/KOL_HBR_PROP_01/KOL_HBR_PROP_01.fbx",
+  "references": [
+    "props_02",
+    "props_11"
+  ],
+  "collision": "Native cylinder/box pole proxy only; lamps decorative; add unshadowed light later.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_01__Model__White",
+      "meshKey": "KOL_HBR_PROP_01__Model__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_01__Model__Steel",
+      "meshKey": "KOL_HBR_PROP_01__Model__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_01__Model__Lamp",
+      "meshKey": "KOL_HBR_PROP_01__Model__Lamp",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_01__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_01__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_01/preview.png"
+  ]
+}

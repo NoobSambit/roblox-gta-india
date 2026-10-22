@@ -1,0 +1,77 @@
+{
+  "assetId": "KOL_HBR_PROP_14",
+  "name": "Hooghly open rowboat",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 14.807,
+    "height": 5.47,
+    "depth": 26.166
+  },
+  "boundsMinStuds": [
+    -7.4035,
+    0.0,
+    -13.083
+  ],
+  "boundsMaxStuds": [
+    7.4035,
+    5.4698,
+    13.083
+  ],
+  "assembledTriangles": 924,
+  "uniqueGeometryTriangles": 924,
+  "largestMeshTriangles": 612,
+  "meshInstances": 3,
+  "uniqueMeshes": 3,
+  "materials": [
+    "HBR_Canvas",
+    "HBR_DarkWood",
+    "HBR_Timber"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_14/KOL_HBR_PROP_14.blend",
+  "export": "props/KOL_HBR_PROP_14/KOL_HBR_PROP_14.fbx",
+  "references": [
+    "boat_1",
+    "boat_2"
+  ],
+  "collision": "Static prop. Use a few hull boxes; no buoyancy or detailed mesh collision.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_14__Model__DarkWood",
+      "meshKey": "KOL_HBR_PROP_14__Model__DarkWood",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_14__Model__Timber",
+      "meshKey": "KOL_HBR_PROP_14__Model__Timber",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_14__Model__Canvas",
+      "meshKey": "KOL_HBR_PROP_14__Model__Canvas",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_14/preview.png"
+  ]
+}

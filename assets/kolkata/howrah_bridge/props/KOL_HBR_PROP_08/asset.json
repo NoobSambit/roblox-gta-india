@@ -1,0 +1,64 @@
+{
+  "assetId": "KOL_HBR_PROP_08",
+  "name": "Riverfront bench",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 6.0,
+    "height": 3.325,
+    "depth": 1.948
+  },
+  "boundsMinStuds": [
+    -3.0,
+    0.0,
+    -0.85
+  ],
+  "boundsMaxStuds": [
+    3.0,
+    3.325,
+    1.0979
+  ],
+  "assembledTriangles": 180,
+  "uniqueGeometryTriangles": 180,
+  "largestMeshTriangles": 96,
+  "meshInstances": 2,
+  "uniqueMeshes": 2,
+  "materials": [
+    "HBR_DarkSteel",
+    "HBR_Timber"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_08/KOL_HBR_PROP_08.blend",
+  "export": "props/KOL_HBR_PROP_08/KOL_HBR_PROP_08.fbx",
+  "references": [
+    "props_02"
+  ],
+  "collision": "Simple seat/back boxes; omit individual slat collision.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_08__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_08__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_08__Model__Timber",
+      "meshKey": "KOL_HBR_PROP_08__Model__Timber",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_08/preview.png"
+  ]
+}

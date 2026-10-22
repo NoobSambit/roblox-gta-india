@@ -1,0 +1,662 @@
+{
+  "assetId": "KOL_HBR_GHAT",
+  "name": "Grand Kolkata Ganga Ghat \u2014 open public pavilion",
+  "category": "ghat",
+  "dimensionsStuds": {
+    "width": 149.0,
+    "height": 39.25,
+    "depth": 128.0
+  },
+  "boundsMinStuds": [
+    -74.5,
+    -1.6,
+    -62.0
+  ],
+  "boundsMaxStuds": [
+    74.5,
+    37.65,
+    66.0
+  ],
+  "assembledTriangles": 11936,
+  "uniqueGeometryTriangles": 7672,
+  "largestMeshTriangles": 1200,
+  "meshInstances": 51,
+  "uniqueMeshes": 30,
+  "materials": [
+    "HBR_Blue",
+    "HBR_Concrete",
+    "HBR_Cream",
+    "HBR_Stone",
+    "HBR_White"
+  ],
+  "textures": [],
+  "source": "ghat/KOL_HBR_GHAT/KOL_HBR_GHAT.blend",
+  "export": "ghat/KOL_HBR_GHAT/KOL_HBR_GHAT.fbx",
+  "references": [
+    "ghat_open_1",
+    "ghat_open_2",
+    "ghat_open_4",
+    "ghat_major_1",
+    "ghat_major_2",
+    "ghat_major_5",
+    "props_02",
+    "props_11"
+  ],
+  "collision": "Box platforms/shallow road apron, three wedge proxies over stairs, simple columns/walls. Disable collision on canopy/ribs/trim/balusters. Never hull across the open pavilion.",
+  "sockets": {
+    "WaterLevel": {
+      "position": [
+        0,
+        0,
+        0
+      ]
+    },
+    "LowestLanding": {
+      "position": [
+        0,
+        1,
+        -56
+      ]
+    },
+    "RoadEntrance": {
+      "position": [
+        0,
+        13.5,
+        66
+      ],
+      "yaw": 0
+    },
+    "StreetEmbedBottomY": 12.7,
+    "StreetSurfaceY": 13.5,
+    "UpperPromenade": {
+      "position": [
+        0,
+        13.5,
+        9
+      ]
+    },
+    "PromenadeLeft": {
+      "position": [
+        -74,
+        13.5,
+        12
+      ],
+      "yaw": -90
+    },
+    "PromenadeRight": {
+      "position": [
+        74,
+        13.5,
+        12
+      ],
+      "yaw": 90
+    }
+  },
+  "assembly": [
+    {
+      "name": "KOL_HBR_GHAT__RiverBankFoundation__Stone",
+      "meshKey": "KOL_HBR_GHAT__RiverBankFoundation__Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "BankFoundation"
+    },
+    {
+      "name": "KOL_HBR_GHAT__RiverBankFoundation__Concrete",
+      "meshKey": "KOL_HBR_GHAT__RiverBankFoundation__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "BankFoundation"
+    },
+    {
+      "name": "KOL_HBR_GHAT__RiverBankFoundation__White",
+      "meshKey": "KOL_HBR_GHAT__RiverBankFoundation__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "BankFoundation"
+    },
+    {
+      "name": "KOL_HBR_GHAT__RiverBankFoundation__Blue",
+      "meshKey": "KOL_HBR_GHAT__RiverBankFoundation__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "BankFoundation"
+    },
+    {
+      "name": "KOL_HBR_GHAT__StreetApronFoundation__Concrete",
+      "meshKey": "KOL_HBR_GHAT__StreetApronFoundation__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadApron"
+    },
+    {
+      "name": "KOL_HBR_GHAT__StairFlight1__Stone",
+      "meshKey": "KOL_HBR_GHAT__StairFlight1__Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Stairs"
+    },
+    {
+      "name": "KOL_HBR_GHAT__StairFlight1__Concrete",
+      "meshKey": "KOL_HBR_GHAT__StairFlight1__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Stairs"
+    },
+    {
+      "name": "KOL_HBR_GHAT__StairFlight2__Stone",
+      "meshKey": "KOL_HBR_GHAT__StairFlight2__Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Stairs"
+    },
+    {
+      "name": "KOL_HBR_GHAT__StairFlight2__Concrete",
+      "meshKey": "KOL_HBR_GHAT__StairFlight2__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Stairs"
+    },
+    {
+      "name": "KOL_HBR_GHAT__StairFlight3__Stone",
+      "meshKey": "KOL_HBR_GHAT__StairFlight3__Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Stairs"
+    },
+    {
+      "name": "KOL_HBR_GHAT__StairFlight3__Concrete",
+      "meshKey": "KOL_HBR_GHAT__StairFlight3__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Stairs"
+    },
+    {
+      "name": "KOL_HBR_GHAT__LandingsAndPublicFloor__Stone",
+      "meshKey": "KOL_HBR_GHAT__LandingsAndPublicFloor__Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Platforms"
+    },
+    {
+      "name": "KOL_HBR_GHAT__LandingsAndPublicFloor__Concrete",
+      "meshKey": "KOL_HBR_GHAT__LandingsAndPublicFloor__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Platforms"
+    },
+    {
+      "name": "KOL_HBR_GHAT__MainPavilionColumns__White",
+      "meshKey": "KOL_HBR_GHAT__MainPavilionColumns__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Columns"
+    },
+    {
+      "name": "KOL_HBR_GHAT__MainPavilionColumns__Blue",
+      "meshKey": "KOL_HBR_GHAT__MainPavilionColumns__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Columns"
+    },
+    {
+      "name": "KOL_HBR_GHAT__TripleVaultShadePavilion__White",
+      "meshKey": "KOL_HBR_GHAT__TripleVaultShadePavilion__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__TripleVaultShadePavilion__Blue",
+      "meshKey": "KOL_HBR_GHAT__TripleVaultShadePavilion__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__TripleVaultShadePavilion__Cream",
+      "meshKey": "KOL_HBR_GHAT__TripleVaultShadePavilion__Cream",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__SideShadeCanopies__White",
+      "meshKey": "KOL_HBR_GHAT__SideShadeCanopies__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__SideShadeCanopies__Blue",
+      "meshKey": "KOL_HBR_GHAT__SideShadeCanopies__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__White",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+      "translationStuds": [
+        -73.0,
+        13.5,
+        12.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+      "translationStuds": [
+        -73.0,
+        13.5,
+        12.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__White.001",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+      "translationStuds": [
+        -73.0,
+        13.5,
+        28.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.001",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+      "translationStuds": [
+        -73.0,
+        13.5,
+        28.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__White.002",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+      "translationStuds": [
+        -73.0,
+        13.5,
+        44.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.002",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+      "translationStuds": [
+        -73.0,
+        13.5,
+        44.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__RailTerminal__White",
+      "meshKey": "KOL_HBR_GHAT__RailTerminal__White",
+      "translationStuds": [
+        -73.0,
+        13.5,
+        4.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__White",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+      "translationStuds": [
+        -56.0,
+        13.5,
+        64.800003
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+      "translationStuds": [
+        -56.0,
+        13.5,
+        64.800003
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__White.001",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+      "translationStuds": [
+        -73.5,
+        5.96,
+        -36.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.001",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+      "translationStuds": [
+        -73.5,
+        5.96,
+        -36.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__White.002",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+      "translationStuds": [
+        -73.5,
+        10.16,
+        -16.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.002",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+      "translationStuds": [
+        -73.5,
+        10.16,
+        -16.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__White.003",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+      "translationStuds": [
+        73.0,
+        13.5,
+        12.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.003",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+      "translationStuds": [
+        73.0,
+        13.5,
+        12.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__White.004",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+      "translationStuds": [
+        73.0,
+        13.5,
+        28.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.004",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+      "translationStuds": [
+        73.0,
+        13.5,
+        28.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__White.005",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__White",
+      "translationStuds": [
+        73.0,
+        13.5,
+        44.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__PromenadeRail16__Blue.005",
+      "meshKey": "KOL_HBR_GHAT__PromenadeRail16__Blue",
+      "translationStuds": [
+        73.0,
+        13.5,
+        44.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__RailTerminal__White.001",
+      "meshKey": "KOL_HBR_GHAT__RailTerminal__White",
+      "translationStuds": [
+        73.0,
+        13.5,
+        4.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__White.003",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+      "translationStuds": [
+        56.0,
+        13.5,
+        64.800003
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.003",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+      "translationStuds": [
+        56.0,
+        13.5,
+        64.800003
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__White.004",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+      "translationStuds": [
+        73.5,
+        5.96,
+        -36.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.004",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+      "translationStuds": [
+        73.5,
+        5.96,
+        -36.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__White.005",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__White",
+      "translationStuds": [
+        73.5,
+        10.16,
+        -16.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__BoundaryRail16__Blue.005",
+      "meshKey": "KOL_HBR_GHAT__BoundaryRail16__Blue",
+      "translationStuds": [
+        73.5,
+        10.16,
+        -16.0
+      ],
+      "yawRadians": 1.570796,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__RoadArrivalGateway__Concrete",
+      "meshKey": "KOL_HBR_GHAT__RoadArrivalGateway__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "EntrancePosts"
+    },
+    {
+      "name": "KOL_HBR_GHAT__RoadArrivalGateway__White",
+      "meshKey": "KOL_HBR_GHAT__RoadArrivalGateway__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "EntrancePosts"
+    },
+    {
+      "name": "KOL_HBR_GHAT__RoadArrivalGateway__Blue",
+      "meshKey": "KOL_HBR_GHAT__RoadArrivalGateway__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "EntrancePosts"
+    },
+    {
+      "name": "KOL_HBR_GHAT__IntegralSeatLedges__Concrete",
+      "meshKey": "KOL_HBR_GHAT__IntegralSeatLedges__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_GHAT__IntegralSeatLedges__White",
+      "meshKey": "KOL_HBR_GHAT__IntegralSeatLedges__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "ghat/KOL_HBR_GHAT/preview-road.png",
+    "ghat/KOL_HBR_GHAT/preview.png"
+  ]
+}

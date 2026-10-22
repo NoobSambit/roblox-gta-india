@@ -1,0 +1,76 @@
+{
+  "assetId": "KOL_HBR_PROP_09",
+  "name": "Litter bin",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 2.05,
+    "height": 3.2,
+    "depth": 1.688
+  },
+  "boundsMinStuds": [
+    -1.025,
+    0.0,
+    -0.88
+  ],
+  "boundsMaxStuds": [
+    1.025,
+    3.2,
+    0.8084
+  ],
+  "assembledTriangles": 168,
+  "uniqueGeometryTriangles": 168,
+  "largestMeshTriangles": 80,
+  "meshInstances": 3,
+  "uniqueMeshes": 3,
+  "materials": [
+    "HBR_DarkSteel",
+    "HBR_Green",
+    "HBR_Window"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_09/KOL_HBR_PROP_09.blend",
+  "export": "props/KOL_HBR_PROP_09/KOL_HBR_PROP_09.fbx",
+  "references": [
+    "props_02"
+  ],
+  "collision": "One box/hull proxy.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_09__Model__Green",
+      "meshKey": "KOL_HBR_PROP_09__Model__Green",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_09__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_09__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_09__Model__Window",
+      "meshKey": "KOL_HBR_PROP_09__Model__Window",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_09/preview.png"
+  ]
+}

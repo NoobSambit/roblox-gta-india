@@ -1,0 +1,101 @@
+{
+  "assetId": "KOL_HBR_PROP_11",
+  "name": "Compact vendor canopy",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 10.0,
+    "height": 9.6,
+    "depth": 7.0
+  },
+  "boundsMinStuds": [
+    -5.0,
+    0.0,
+    -3.5
+  ],
+  "boundsMaxStuds": [
+    5.0,
+    9.6,
+    3.5
+  ],
+  "assembledTriangles": 164,
+  "uniqueGeometryTriangles": 164,
+  "largestMeshTriangles": 108,
+  "meshInstances": 5,
+  "uniqueMeshes": 5,
+  "materials": [
+    "HBR_Blue",
+    "HBR_Canvas",
+    "HBR_DarkSteel",
+    "HBR_Timber",
+    "HBR_White"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_11/KOL_HBR_PROP_11.blend",
+  "export": "props/KOL_HBR_PROP_11/KOL_HBR_PROP_11.fbx",
+  "references": [
+    "boat_1",
+    "ghat_open_2"
+  ],
+  "collision": "Posts/counter boxes only; canopy is decorative.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_11__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_11__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_11__Model__Canvas",
+      "meshKey": "KOL_HBR_PROP_11__Model__Canvas",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_11__Model__Blue",
+      "meshKey": "KOL_HBR_PROP_11__Model__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_11__Model__Timber",
+      "meshKey": "KOL_HBR_PROP_11__Model__Timber",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_11__Model__White",
+      "meshKey": "KOL_HBR_PROP_11__Model__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_11/preview.png"
+  ]
+}

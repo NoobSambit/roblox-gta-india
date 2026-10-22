@@ -1,0 +1,88 @@
+{
+  "assetId": "KOL_HBR_PROP_02",
+  "name": "Single roadway lamp",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 5.1,
+    "height": 15.31,
+    "depth": 1.1
+  },
+  "boundsMinStuds": [
+    -0.55,
+    0.0,
+    -0.55
+  ],
+  "boundsMaxStuds": [
+    4.55,
+    15.31,
+    0.55
+  ],
+  "assembledTriangles": 120,
+  "uniqueGeometryTriangles": 120,
+  "largestMeshTriangles": 52,
+  "meshInstances": 4,
+  "uniqueMeshes": 4,
+  "materials": [
+    "HBR_Concrete",
+    "HBR_DarkSteel",
+    "HBR_Lamp",
+    "HBR_Steel"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_02/KOL_HBR_PROP_02.blend",
+  "export": "props/KOL_HBR_PROP_02/KOL_HBR_PROP_02.fbx",
+  "references": [
+    "road_06"
+  ],
+  "collision": "Simple pole box; decorative light head noncollidable.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_02__Model__Concrete",
+      "meshKey": "KOL_HBR_PROP_02__Model__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_02__Model__Steel",
+      "meshKey": "KOL_HBR_PROP_02__Model__Steel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_02__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_02__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_02__Model__Lamp",
+      "meshKey": "KOL_HBR_PROP_02__Model__Lamp",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_02/preview.png"
+  ]
+}

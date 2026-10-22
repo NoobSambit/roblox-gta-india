@@ -1,0 +1,64 @@
+{
+  "assetId": "KOL_HBR_PROP_04",
+  "name": "Blue-white balustrade 16",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 17.15,
+    "height": 4.1,
+    "depth": 1.2
+  },
+  "boundsMinStuds": [
+    -8.575,
+    0.0,
+    -0.6
+  ],
+  "boundsMaxStuds": [
+    8.575,
+    4.1,
+    0.6
+  ],
+  "assembledTriangles": 436,
+  "uniqueGeometryTriangles": 436,
+  "largestMeshTriangles": 424,
+  "meshInstances": 2,
+  "uniqueMeshes": 2,
+  "materials": [
+    "HBR_Blue",
+    "HBR_White"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_04/KOL_HBR_PROP_04.blend",
+  "export": "props/KOL_HBR_PROP_04/KOL_HBR_PROP_04.fbx",
+  "references": [
+    "props_11"
+  ],
+  "collision": "Continuous thin box barrier; disable collision on individual balusters.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_04__Model__White",
+      "meshKey": "KOL_HBR_PROP_04__Model__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_04__Model__Blue",
+      "meshKey": "KOL_HBR_PROP_04__Model__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_04/preview.png"
+  ]
+}

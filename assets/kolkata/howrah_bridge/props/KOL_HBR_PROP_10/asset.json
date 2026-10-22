@@ -1,0 +1,88 @@
+{
+  "assetId": "KOL_HBR_PROP_10",
+  "name": "Blank wayfinding frame",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 5.3,
+    "height": 7.05,
+    "depth": 0.6
+  },
+  "boundsMinStuds": [
+    -2.65,
+    0.0,
+    -0.3
+  ],
+  "boundsMaxStuds": [
+    2.65,
+    7.05,
+    0.3
+  ],
+  "assembledTriangles": 88,
+  "uniqueGeometryTriangles": 88,
+  "largestMeshTriangles": 40,
+  "meshInstances": 4,
+  "uniqueMeshes": 4,
+  "materials": [
+    "HBR_Blue",
+    "HBR_Concrete",
+    "HBR_DarkSteel",
+    "HBR_White"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_10/KOL_HBR_PROP_10.blend",
+  "export": "props/KOL_HBR_PROP_10/KOL_HBR_PROP_10.fbx",
+  "references": [
+    "ghat_open_1"
+  ],
+  "collision": "Posts and board boxes; blank surface for future authored signage.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_10__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_10__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_10__Model__Concrete",
+      "meshKey": "KOL_HBR_PROP_10__Model__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_10__Model__Blue",
+      "meshKey": "KOL_HBR_PROP_10__Model__Blue",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    },
+    {
+      "name": "KOL_HBR_PROP_10__Model__White",
+      "meshKey": "KOL_HBR_PROP_10__Model__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_10/preview.png"
+  ]
+}

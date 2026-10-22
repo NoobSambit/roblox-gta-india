@@ -1,0 +1,123 @@
+{
+  "assetId": "KOL_HBR_RF_01",
+  "name": "Bridge approach ramp 128",
+  "category": "riverfront_structures",
+  "dimensionsStuds": {
+    "width": 92.25,
+    "height": 36.624,
+    "depth": 128.3
+  },
+  "boundsMinStuds": [
+    -46.125,
+    0.0,
+    -64.15
+  ],
+  "boundsMaxStuds": [
+    46.125,
+    36.6237,
+    64.15
+  ],
+  "assembledTriangles": 948,
+  "uniqueGeometryTriangles": 948,
+  "largestMeshTriangles": 480,
+  "meshInstances": 5,
+  "uniqueMeshes": 5,
+  "materials": [
+    "HBR_Asphalt",
+    "HBR_Concrete",
+    "HBR_DarkSteel",
+    "HBR_White",
+    "HBR_Yellow"
+  ],
+  "textures": [],
+  "source": "riverfront_structures/KOL_HBR_RF_01/KOL_HBR_RF_01.blend",
+  "export": "riverfront_structures/KOL_HBR_RF_01/KOL_HBR_RF_01.fbx",
+  "references": [
+    "road_06",
+    "side_04"
+  ],
+  "collision": "Simple box/wedge walkable proxies; continuous boundary boxes; decorative rail balusters and trim noncollidable. Align water/road sockets before placement.",
+  "sockets": {
+    "HighRoad": {
+      "position": [
+        0,
+        32,
+        -64
+      ]
+    },
+    "LowRoad": {
+      "position": [
+        0,
+        13.5,
+        64
+      ]
+    },
+    "WaterLevel": {
+      "position": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "assembly": [
+    {
+      "name": "KOL_HBR_RF_01__Ramp__Asphalt",
+      "meshKey": "KOL_HBR_RF_01__Ramp__Asphalt",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadAndSidewalk"
+    },
+    {
+      "name": "KOL_HBR_RF_01__Ramp__Concrete",
+      "meshKey": "KOL_HBR_RF_01__Ramp__Concrete",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadAndSidewalk"
+    },
+    {
+      "name": "KOL_HBR_RF_01__Ramp__DarkSteel",
+      "meshKey": "KOL_HBR_RF_01__Ramp__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadAndSidewalk"
+    },
+    {
+      "name": "KOL_HBR_RF_01__Ramp__White",
+      "meshKey": "KOL_HBR_RF_01__Ramp__White",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadAndSidewalk"
+    },
+    {
+      "name": "KOL_HBR_RF_01__Ramp__Yellow",
+      "meshKey": "KOL_HBR_RF_01__Ramp__Yellow",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "RoadAndSidewalk"
+    }
+  ],
+  "previews": [
+    "riverfront_structures/KOL_HBR_RF_01/preview.png"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "assetId": "KOL_HBR_PROP_05",
+  "name": "Steel barrier 16",
+  "category": "props",
+  "dimensionsStuds": {
+    "width": 16.7,
+    "height": 3.58,
+    "depth": 0.7
+  },
+  "boundsMinStuds": [
+    -8.35,
+    0.0,
+    -0.35
+  ],
+  "boundsMaxStuds": [
+    8.35,
+    3.58,
+    0.35
+  ],
+  "assembledTriangles": 156,
+  "uniqueGeometryTriangles": 156,
+  "largestMeshTriangles": 156,
+  "meshInstances": 1,
+  "uniqueMeshes": 1,
+  "materials": [
+    "HBR_DarkSteel"
+  ],
+  "textures": [],
+  "source": "props/KOL_HBR_PROP_05/KOL_HBR_PROP_05.blend",
+  "export": "props/KOL_HBR_PROP_05/KOL_HBR_PROP_05.fbx",
+  "references": [
+    "road_06"
+  ],
+  "collision": "Continuous thin box barrier, not each small bar.",
+  "sockets": {},
+  "assembly": [
+    {
+      "name": "KOL_HBR_PROP_05__Model__DarkSteel",
+      "meshKey": "KOL_HBR_PROP_05__Model__DarkSteel",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "yawRadians": 0.0,
+      "collisionRole": "Decoration"
+    }
+  ],
+  "previews": [
+    "props/KOL_HBR_PROP_05/preview.png"
+  ]
+}
