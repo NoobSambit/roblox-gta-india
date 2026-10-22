@@ -2,6 +2,13 @@
 
 Git remote: [roblox-gta-india](https://github.com/NoobSambit/roblox-gta-india). See [repository workflow](docs/repository-workflow.md) for source ownership, commits and asset tracking.
 
+Task 005's **Howrah Bridge and riverfront library** contains the modular bridge,
+one upgraded open Kolkata Ganga ghat, seven support/approach modules, fifteen
+props and two minimal context shells. Editable Blender sources, individual FBX
+exports, final PNGs and manifests are saved. See the [library and import notes](assets/kolkata/howrah_bridge/README.md)
+and [asset index](assets/kolkata/howrah_bridge/asset-index.md). No river water or
+Studio placement is included in this milestone.
+
 Task 004's **27 Tier 3 buildings** are saved as individual Blender sources and assembled FBX exports: 10 Old North Kolkata, 9 modern, 5 mixed-use and 3 informal residential. See the [library and import notes](assets/kolkata/tier3/README.md) and [asset index](assets/kolkata/tier3/asset-index.md). They have not been placed in Studio.
 
 Task 003's five **Tier 2 Kolkata buildings** are saved as an editable Blender library and assembled FBX exports. See the [asset library](assets/kolkata/tier2/README.md), [preview sheet](artifacts/review/tier2/library-review.jpg), and [Task 003 notes](docs/task-003-tier2.md). They have not been placed in Studio.

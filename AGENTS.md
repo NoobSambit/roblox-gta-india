@@ -83,6 +83,7 @@ For created or imported assets:
 - Keep static scenery anchored and reserve moving assemblies for objects that need motion. Define assembly structure deliberately.
 - Validate imported scale, normals, materials, collisions, and appearance in Roblox Studio. An export succeeding does not establish that an asset works in the game.
 - Preserve editable source assets and generation scripts when they are needed for reproducible maintenance, using the project's chosen asset workflow.
+- Save final original asset preview PNGs in the asset's folder and track them in Git. Keep downloaded photographic references separate from original renders; retain their source manifests without redistributing photos without permission.
 
 Design robbery interiors and interactive landmarks together with their approach routes, entrances, exits, pursuit paths, and surrounding streets. Avoid decorative construction that prevents the intended gameplay from working.
 

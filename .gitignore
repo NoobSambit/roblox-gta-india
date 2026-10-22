@@ -21,6 +21,9 @@ Thumbs.db
 # Local recovery sessions; authored milestone models remain tracked
 artifacts/recovery/
 
+# Task 005 photographic reference downloads (source URLs remain tracked)
+assets/kolkata/howrah_bridge/references/photos/
+
 # Downloaded third-party photos are local reference material only.
 # Retain provenance and reference manifests for reproducibility.
 artifacts/references/**

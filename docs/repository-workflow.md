@@ -7,6 +7,8 @@ an initial snapshot history, not a reconstruction of original development dates.
 
 - Track original source code, editable Blender assets, assembled exports,
   manifests, documentation and original review images.
+- Keep final original asset PNGs beside their assets and track them in Git;
+  downloaded photographic references stay separate and untracked.
 - Keep downloaded reference photographs, local recovery sessions, installed agent
   packages, credentials, caches and automatic backups out of Git. Reference URLs
   remain tracked. Ignoring files does not remove local copies.
@@ -25,3 +27,9 @@ files are recovery snapshots, not a complete current place backup.
 
 Reference-photo files are intentionally absent in a fresh clone. Consult the
 asset manifests and retrieval scripts before reference-dependent rebuilds.
+
+Task 005's 26-asset Howrah/riverfront delivery is approximately 22 MB, with its
+largest file about 1.4 MiB. It uses normal Git, includes final original PNGs and
+excludes the local `references/photos/` downloads. Recheck actual file sizes
+before adding larger binaries; GitHub warns above 50 MiB and blocks files above
+100 MiB. [Official guidance](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github).
