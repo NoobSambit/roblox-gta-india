@@ -1,0 +1,460 @@
+{
+  "fileCount": 56,
+  "counts": {
+    "tier2": 5,
+    "tier3": 27,
+    "context": 2,
+    "props": 15,
+    "riverfront_structures": 7
+  },
+  "assets": [
+    {
+      "assetId": "GPO_gpo_Roblox",
+      "category": "tier2",
+      "filename": "GPO_gpo_Roblox.fbx",
+      "canonicalExport": "assets/kolkata/tier2/gpo/exports/GPO_gpo_Roblox.fbx",
+      "bytes": 630300,
+      "sha256": "aaae1699de84e17adbdb527a10cfc03b7efd0f728b7196de3d1b86952579f39b"
+    },
+    {
+      "assetId": "JTB_jorasanko_thakur_bari_Roblox",
+      "category": "tier2",
+      "filename": "JTB_jorasanko_thakur_bari_Roblox.fbx",
+      "canonicalExport": "assets/kolkata/tier2/jorasanko_thakur_bari/exports/JTB_jorasanko_thakur_bari_Roblox.fbx",
+      "bytes": 1236652,
+      "sha256": "7cd88fbd2fe1fa6a90e2f71f236dbf3473c408698afd35e0d38950ed6d4572b5"
+    },
+    {
+      "assetId": "MET_metropolitan_building_Roblox",
+      "category": "tier2",
+      "filename": "MET_metropolitan_building_Roblox.fbx",
+      "canonicalExport": "assets/kolkata/tier2/metropolitan_building/exports/MET_metropolitan_building_Roblox.fbx",
+      "bytes": 883372,
+      "sha256": "32c7f47401225e9df9469b7332cb871a1b8146c5f96b40b13cdf4eec9a01f19a"
+    },
+    {
+      "assetId": "TH_town_hall_Roblox",
+      "category": "tier2",
+      "filename": "TH_town_hall_Roblox.fbx",
+      "canonicalExport": "assets/kolkata/tier2/town_hall/exports/TH_town_hall_Roblox.fbx",
+      "bytes": 378556,
+      "sha256": "5d557bd3efa3267db1dc0c87c137765bba9aff625bc18407c153c458c728cea9"
+    },
+    {
+      "assetId": "WB_writers_building_Roblox",
+      "category": "tier2",
+      "filename": "WB_writers_building_Roblox.fbx",
+      "canonicalExport": "assets/kolkata/tier2/writers_building/exports/WB_writers_building_Roblox.fbx",
+      "bytes": 769484,
+      "sha256": "6c445a6e759917f7503260b381172093c06c3d70d8d7d1d9e97f54406563db0c"
+    },
+    {
+      "assetId": "KOL_T3_INF_01",
+      "category": "tier3",
+      "filename": "KOL_T3_INF_01.fbx",
+      "canonicalExport": "assets/kolkata/tier3/informal/KOL_T3_INF_01/KOL_T3_INF_01.fbx",
+      "bytes": 29036,
+      "sha256": "9da8196a751025e3ddff252feef3c302ec751ff81b1a269b1877b6deeab35d04"
+    },
+    {
+      "assetId": "KOL_T3_INF_02",
+      "category": "tier3",
+      "filename": "KOL_T3_INF_02.fbx",
+      "canonicalExport": "assets/kolkata/tier3/informal/KOL_T3_INF_02/KOL_T3_INF_02.fbx",
+      "bytes": 29740,
+      "sha256": "02d8ac6a11d20117cc0a4b567ffc87c6dae53c3efeb04fe75772fdced033ca7f"
+    },
+    {
+      "assetId": "KOL_T3_INF_03",
+      "category": "tier3",
+      "filename": "KOL_T3_INF_03.fbx",
+      "canonicalExport": "assets/kolkata/tier3/informal/KOL_T3_INF_03/KOL_T3_INF_03.fbx",
+      "bytes": 29548,
+      "sha256": "ac6a48c3437f6eda99da46d16bbdb8e4da36140cddbe5d71697fa34d4fd36079"
+    },
+    {
+      "assetId": "KOL_T3_MIX_01",
+      "category": "tier3",
+      "filename": "KOL_T3_MIX_01.fbx",
+      "canonicalExport": "assets/kolkata/tier3/mixed_use/KOL_T3_MIX_01/KOL_T3_MIX_01.fbx",
+      "bytes": 36540,
+      "sha256": "018c277b20b4e900a9b9b1bad0755b396370a79c1c32bddbd749f91ea70c6e60"
+    },
+    {
+      "assetId": "KOL_T3_MIX_02",
+      "category": "tier3",
+      "filename": "KOL_T3_MIX_02.fbx",
+      "canonicalExport": "assets/kolkata/tier3/mixed_use/KOL_T3_MIX_02/KOL_T3_MIX_02.fbx",
+      "bytes": 37548,
+      "sha256": "cf9d5198a7837bb5c1d3c6761268732c3160e99f5658b132c7457c16e1c3810e"
+    },
+    {
+      "assetId": "KOL_T3_MIX_03",
+      "category": "tier3",
+      "filename": "KOL_T3_MIX_03.fbx",
+      "canonicalExport": "assets/kolkata/tier3/mixed_use/KOL_T3_MIX_03/KOL_T3_MIX_03.fbx",
+      "bytes": 34508,
+      "sha256": "fb898203a4efb2d09e57f331396de8e656d7296916acbae9a323929e2251f5fd"
+    },
+    {
+      "assetId": "KOL_T3_MIX_04",
+      "category": "tier3",
+      "filename": "KOL_T3_MIX_04.fbx",
+      "canonicalExport": "assets/kolkata/tier3/mixed_use/KOL_T3_MIX_04/KOL_T3_MIX_04.fbx",
+      "bytes": 35100,
+      "sha256": "1bc1e08f699a1c746f27dd8904e1c175969d6b1ef56243b704f51ba58d8b3811"
+    },
+    {
+      "assetId": "KOL_T3_MIX_05",
+      "category": "tier3",
+      "filename": "KOL_T3_MIX_05.fbx",
+      "canonicalExport": "assets/kolkata/tier3/mixed_use/KOL_T3_MIX_05/KOL_T3_MIX_05.fbx",
+      "bytes": 39132,
+      "sha256": "296396a44accc005a8613e6b30e193470c8913e5c7ba6a1ad41f1f47c9df53d7"
+    },
+    {
+      "assetId": "KOL_T3_MOD_01",
+      "category": "tier3",
+      "filename": "KOL_T3_MOD_01.fbx",
+      "canonicalExport": "assets/kolkata/tier3/modern/KOL_T3_MOD_01/KOL_T3_MOD_01.fbx",
+      "bytes": 29164,
+      "sha256": "bffebde4992482a49cc5d97f9a02b4c010d40ecf4879b57efdd6c8787b043af1"
+    },
+    {
+      "assetId": "KOL_T3_MOD_02",
+      "category": "tier3",
+      "filename": "KOL_T3_MOD_02.fbx",
+      "canonicalExport": "assets/kolkata/tier3/modern/KOL_T3_MOD_02/KOL_T3_MOD_02.fbx",
+      "bytes": 31004,
+      "sha256": "5da4d0ff5191578a76b62727996a8133804f4b75b646aee6028f5a9d15815ec2"
+    },
+    {
+      "assetId": "KOL_T3_MOD_03",
+      "category": "tier3",
+      "filename": "KOL_T3_MOD_03.fbx",
+      "canonicalExport": "assets/kolkata/tier3/modern/KOL_T3_MOD_03/KOL_T3_MOD_03.fbx",
+      "bytes": 32124,
+      "sha256": "0218e46326f8f4262c3fd85046be2803f3e0623f2b393c4c9560fb39e2786497"
+    },
+    {
+      "assetId": "KOL_T3_MOD_04",
+      "category": "tier3",
+      "filename": "KOL_T3_MOD_04.fbx",
+      "canonicalExport": "assets/kolkata/tier3/modern/KOL_T3_MOD_04/KOL_T3_MOD_04.fbx",
+      "bytes": 36028,
+      "sha256": "925e0ad64981ddb26bf203f5f05a441e1cb009cc4abe82eb662bc8c32ba43334"
+    },
+    {
+      "assetId": "KOL_T3_MOD_05",
+      "category": "tier3",
+      "filename": "KOL_T3_MOD_05.fbx",
+      "canonicalExport": "assets/kolkata/tier3/modern/KOL_T3_MOD_05/KOL_T3_MOD_05.fbx",
+      "bytes": 33548,
+      "sha256": "044907c6a3e2195cae44ac78ae977d3b46c8189a0a11380677d0ffb64339b697"
+    },
+    {
+      "assetId": "KOL_T3_MOD_06",
+      "category": "tier3",
+      "filename": "KOL_T3_MOD_06.fbx",
+      "canonicalExport": "assets/kolkata/tier3/modern/KOL_T3_MOD_06/KOL_T3_MOD_06.fbx",
+      "bytes": 32172,
+      "sha256": "e3d6e55bee8713be5dfdef3ab4a9f5cc9ad1b561b4121b0d457cea13d51185c8"
+    },
+    {
+      "assetId": "KOL_T3_MOD_07",
+      "category": "tier3",
+      "filename": "KOL_T3_MOD_07.fbx",
+      "canonicalExport": "assets/kolkata/tier3/modern/KOL_T3_MOD_07/KOL_T3_MOD_07.fbx",
+      "bytes": 33692,
+      "sha256": "7b5d0211fd2c01fee2ca7a3d701648122670926937b11d9807d1a59b54bca1fa"
+    },
+    {
+      "assetId": "KOL_T3_MOD_08",
+      "category": "tier3",
+      "filename": "KOL_T3_MOD_08.fbx",
+      "canonicalExport": "assets/kolkata/tier3/modern/KOL_T3_MOD_08/KOL_T3_MOD_08.fbx",
+      "bytes": 28956,
+      "sha256": "1a491397e0831bca762d3e1f4d5de442dd41a12fd1429561d733d9d563c0cbdb"
+    },
+    {
+      "assetId": "KOL_T3_MOD_09",
+      "category": "tier3",
+      "filename": "KOL_T3_MOD_09.fbx",
+      "canonicalExport": "assets/kolkata/tier3/modern/KOL_T3_MOD_09/KOL_T3_MOD_09.fbx",
+      "bytes": 29052,
+      "sha256": "cc2b3397b9746bb451f2a116610d1526fe4f1d2277ad21cc7ea929542d8c8673"
+    },
+    {
+      "assetId": "KOL_T3_OLD_01",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_01.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_01/KOL_T3_OLD_01.fbx",
+      "bytes": 31292,
+      "sha256": "5996994bcc02a997589b8cb5846e92eac41341c7ece1abdf985111ad710b0819"
+    },
+    {
+      "assetId": "KOL_T3_OLD_02",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_02.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_02/KOL_T3_OLD_02.fbx",
+      "bytes": 32364,
+      "sha256": "92d3363315d1af2cbd10285dc1dd14f7993ff6d18c1aa62e55747adca3a514a5"
+    },
+    {
+      "assetId": "KOL_T3_OLD_03",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_03.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_03/KOL_T3_OLD_03.fbx",
+      "bytes": 33612,
+      "sha256": "6dbf6e39bb98092100fa6c00f7c23138d65e74369196bd70073e69b488ba311f"
+    },
+    {
+      "assetId": "KOL_T3_OLD_04",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_04.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_04/KOL_T3_OLD_04.fbx",
+      "bytes": 32524,
+      "sha256": "d0a1e7e15b0c570198a3dfb439b272837fcdf10a3d19c09a0bd12175b52d0e0b"
+    },
+    {
+      "assetId": "KOL_T3_OLD_05",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_05.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_05/KOL_T3_OLD_05.fbx",
+      "bytes": 35916,
+      "sha256": "6751dda23034aefd93adf9abfe277b3e41296524dfcb12e7a4dd8155b481e603"
+    },
+    {
+      "assetId": "KOL_T3_OLD_06",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_06.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_06/KOL_T3_OLD_06.fbx",
+      "bytes": 31964,
+      "sha256": "4882af8116964309f95d24f679d4792746cc1d28712356d4ac99fedc7d3c5519"
+    },
+    {
+      "assetId": "KOL_T3_OLD_07",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_07.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_07/KOL_T3_OLD_07.fbx",
+      "bytes": 34604,
+      "sha256": "7bf2594fe94b305e564d8a25797bb759d3fb0515b3438eee7d79ce6e463ac96b"
+    },
+    {
+      "assetId": "KOL_T3_OLD_08",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_08.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_08/KOL_T3_OLD_08.fbx",
+      "bytes": 31964,
+      "sha256": "b18d86f1201046c098c2467750b01abb7397d5c79dc7a6100db2480dbce3b4ee"
+    },
+    {
+      "assetId": "KOL_T3_OLD_09",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_09.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_09/KOL_T3_OLD_09.fbx",
+      "bytes": 31948,
+      "sha256": "2055add1c7251b6cead3afa02c4e6af6d604d9d1e8cbc3df118e345e753787e2"
+    },
+    {
+      "assetId": "KOL_T3_OLD_10",
+      "category": "tier3",
+      "filename": "KOL_T3_OLD_10.fbx",
+      "canonicalExport": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_10/KOL_T3_OLD_10.fbx",
+      "bytes": 34316,
+      "sha256": "6cfaf04d492a8da79bcf8248af899a497d1569346c39c7bd016d230c51ac91a9"
+    },
+    {
+      "assetId": "KOL_HBR_CTX_01",
+      "category": "context",
+      "filename": "KOL_HBR_CTX_01.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/context/KOL_HBR_CTX_01/KOL_HBR_CTX_01.fbx",
+      "bytes": 30684,
+      "sha256": "8aa5a9ab4fb46342bfa98444a6c288b1c200a598679ba9485cf88eed72962674"
+    },
+    {
+      "assetId": "KOL_HBR_CTX_02",
+      "category": "context",
+      "filename": "KOL_HBR_CTX_02.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/context/KOL_HBR_CTX_02/KOL_HBR_CTX_02.fbx",
+      "bytes": 30684,
+      "sha256": "33aa4693dcd58ebdebb298b80f58ecd5a48f79b352a166d12cfcea2d3728471c"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_01",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_01.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_01/KOL_HBR_PROP_01.fbx",
+      "bytes": 32444,
+      "sha256": "fe8e644aa5a32f75b5bd01e63f2bd10f31bebaec8f2cb4b59b9db354d660e75b"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_02",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_02.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_02/KOL_HBR_PROP_02.fbx",
+      "bytes": 27484,
+      "sha256": "668d3c5c8dbd6fd692fd4fe5e528f39793a57c33447dcbd2bdde9b1bb5edf5ea"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_03",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_03.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_03/KOL_HBR_PROP_03.fbx",
+      "bytes": 28604,
+      "sha256": "a7ab62523e987e06eaa39506478e37ad1072c14fb3c04523c34f81b3f237f275"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_04",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_04.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_04/KOL_HBR_PROP_04.fbx",
+      "bytes": 23516,
+      "sha256": "cee377d621cbcb819c711348f6c8cecd41c95f822a07e559c0d5308f9ada54d4"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_05",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_05.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_05/KOL_HBR_PROP_05.fbx",
+      "bytes": 16316,
+      "sha256": "2dd89c3c33fc5e4a4c9e4132796c011b6cc44f2d91c46a750d29658f0f78d264"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_06",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_06.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_06/KOL_HBR_PROP_06.fbx",
+      "bytes": 16060,
+      "sha256": "fada3793fc833dd2de2918b804da341a99b48ff8ad992970e6b14317fb9c19a8"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_07",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_07.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_07/KOL_HBR_PROP_07.fbx",
+      "bytes": 19772,
+      "sha256": "722d7a24b12869c86ac4bb766ef9d1d0c53df8af65e19f81daa0aed228bf907d"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_08",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_08.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_08/KOL_HBR_PROP_08.fbx",
+      "bytes": 20188,
+      "sha256": "ced29ef395b11dd632f67c72b5f9140baa9214c39b4dc55afbd6dcb3aa876354"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_09",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_09.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_09/KOL_HBR_PROP_09.fbx",
+      "bytes": 24364,
+      "sha256": "6b35665dce834d4bd76008d563deae0514bab4e2ca4689aa147925817a52beec"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_10",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_10.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_10/KOL_HBR_PROP_10.fbx",
+      "bytes": 26828,
+      "sha256": "e18f8b07d065e8049ade913b23c472dc2cf6eff51bbd7b97fd652ac778b3f22a"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_11",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_11.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_11/KOL_HBR_PROP_11.fbx",
+      "bytes": 30828,
+      "sha256": "61b29ac1f5221a91cfb70a8a2b8a5cbbdb1dd90cf6f0303421b48f1f54759d6c"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_12",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_12.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_12/KOL_HBR_PROP_12.fbx",
+      "bytes": 30476,
+      "sha256": "9d3981be6b4dcb05ebdb6227c87df41afa0b919afe8ed47892649d87fddf9d04"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_13",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_13.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_13/KOL_HBR_PROP_13.fbx",
+      "bytes": 23852,
+      "sha256": "27b9f4b59c8533341b385aa4416c441129d90fc7e9a8bf2118e41ec81ba8a69a"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_14",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_14.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_14/KOL_HBR_PROP_14.fbx",
+      "bytes": 33980,
+      "sha256": "b3a7a78eb318d22ed931480b45c05cdd95ff97025f72a99a689ae2299d48e68b"
+    },
+    {
+      "assetId": "KOL_HBR_PROP_15",
+      "category": "props",
+      "filename": "KOL_HBR_PROP_15.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/props/KOL_HBR_PROP_15/KOL_HBR_PROP_15.fbx",
+      "bytes": 36876,
+      "sha256": "5889e9fe492be3840b1e887ad71f2bb1b49a79c8a142b0eefcf2aca5f949cd4e"
+    },
+    {
+      "assetId": "KOL_HBR_RF_01",
+      "category": "riverfront_structures",
+      "filename": "KOL_HBR_RF_01.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/riverfront_structures/KOL_HBR_RF_01/KOL_HBR_RF_01.fbx",
+      "bytes": 37100,
+      "sha256": "0b0bd7e8b480edaf87cb24491a39a9bc6c10d012011078196222f8557ef738d8"
+    },
+    {
+      "assetId": "KOL_HBR_RF_02",
+      "category": "riverfront_structures",
+      "filename": "KOL_HBR_RF_02.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/riverfront_structures/KOL_HBR_RF_02/KOL_HBR_RF_02.fbx",
+      "bytes": 39948,
+      "sha256": "2c56dcfff1ac933a5764121a9702bc177ce5dd83ad0052b57b913ea36cca8725"
+    },
+    {
+      "assetId": "KOL_HBR_RF_03",
+      "category": "riverfront_structures",
+      "filename": "KOL_HBR_RF_03.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/riverfront_structures/KOL_HBR_RF_03/KOL_HBR_RF_03.fbx",
+      "bytes": 43788,
+      "sha256": "1dd5b87f4dbce1b16076b00d66986924be3cc06bfa1e12faa4a73ee9d9aa6956"
+    },
+    {
+      "assetId": "KOL_HBR_RF_04",
+      "category": "riverfront_structures",
+      "filename": "KOL_HBR_RF_04.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/riverfront_structures/KOL_HBR_RF_04/KOL_HBR_RF_04.fbx",
+      "bytes": 39676,
+      "sha256": "6b427d11a94f2ac002a8aeb1e1d301d16483eb165e9076ed91de455fb175fc86"
+    },
+    {
+      "assetId": "KOL_HBR_RF_05",
+      "category": "riverfront_structures",
+      "filename": "KOL_HBR_RF_05.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/riverfront_structures/KOL_HBR_RF_05/KOL_HBR_RF_05.fbx",
+      "bytes": 36140,
+      "sha256": "bac0ba8607fd6ea50e976b1e5c47b410535bfb6314413e3d27379ee1ded44522"
+    },
+    {
+      "assetId": "KOL_HBR_RF_06",
+      "category": "riverfront_structures",
+      "filename": "KOL_HBR_RF_06.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/riverfront_structures/KOL_HBR_RF_06/KOL_HBR_RF_06.fbx",
+      "bytes": 36044,
+      "sha256": "affcbdfc16769229e2ea214a775002ff960fd455525e9f0516f0bd9619a429b9"
+    },
+    {
+      "assetId": "KOL_HBR_RF_07",
+      "category": "riverfront_structures",
+      "filename": "KOL_HBR_RF_07.fbx",
+      "canonicalExport": "assets/kolkata/howrah_bridge/riverfront_structures/KOL_HBR_RF_07/KOL_HBR_RF_07.fbx",
+      "bytes": 24700,
+      "sha256": "6c81d543330ccde6f6ef25849ff64ca97a33708490dc4c252136e3e7a057edb3"
+    }
+  ]
+}

@@ -2,6 +2,12 @@
 
 Git remote: [roblox-gta-india](https://github.com/NoobSambit/roblox-gta-india). See [repository workflow](docs/repository-workflow.md) for source ownership, commits and asset tracking.
 
+For the current bulk import, [exports/roblox_import](exports/roblox_import/README.md)
+contains **56 FBX files in one flat folder**: all five Tier 2 buildings, all 27
+Tier 3 buildings and 24 riverfront support/prop/context assets. Howrah Bridge
+and the main ghat remain in their own asset folders. These are convenience
+copies; canonical sources and exports remain under `assets/kolkata/`.
+
 Task 005's **Howrah Bridge and riverfront library** contains the modular bridge,
 one upgraded open Kolkata Ganga ghat, seven support/approach modules, fifteen
 props and two minimal context shells. Editable Blender sources, individual FBX
