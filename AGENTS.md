@@ -41,6 +41,7 @@ Respect higher-priority instructions and the user's current scope. Follow these 
 - Use Roblox Studio MCP, Blender, Blender Python, Rojo, Git, open-source libraries, asset-generation tools, or other suitable tools when available and useful. Select tools autonomously without mandating a particular framework, workflow, or dependency in advance.
 - Verify unfamiliar or version-sensitive APIs and tool capabilities against current authoritative documentation. Evaluate dependencies before adopting them.
 - Use version control when established or appropriate to the task. Keep changes reviewable, protect uncommitted user work, and avoid destructive history or file operations without clear authorisation.
+- Work only on the `main` Git branch. Do not create or switch to task branches or worktrees unless the user explicitly changes this instruction. Commit and push completed work on `main`.
 - Report what changed, the evidence supporting completion, and material limitations. Distinguish implemented behaviour from plans, placeholders, and unverified assumptions.
 
 ## 4. Roblox Architecture and Luau Coding Standards
