@@ -1,0 +1,102 @@
+[
+  {
+    "building": "Writers' Building",
+    "path": "assets\\kolkata\\tier2\\writers_building",
+    "source": "WB_writers_building.blend",
+    "fbx": "exports\\WB_writers_building_Roblox.fbx",
+    "meshObjects": 175,
+    "uniqueMeshes": 26,
+    "triangles": 34350,
+    "largestMeshTriangles": 3888,
+    "boundsStuds": [
+      240.0,
+      68.725,
+      64.5
+    ],
+    "collisionBoxes": 4,
+    "sourceBytes": 197782,
+    "exportBytes": 769484,
+    "sourceSaved": true,
+    "exportSucceeded": true
+  },
+  {
+    "building": "General Post Office",
+    "path": "assets\\kolkata\\tier2\\gpo",
+    "source": "GPO_gpo.blend",
+    "fbx": "exports\\GPO_gpo_Roblox.fbx",
+    "meshObjects": 148,
+    "uniqueMeshes": 31,
+    "triangles": 21698,
+    "largestMeshTriangles": 3548,
+    "boundsStuds": [
+      154.0,
+      86.15,
+      137.0
+    ],
+    "collisionBoxes": 9,
+    "sourceBytes": 194104,
+    "exportBytes": 630300,
+    "sourceSaved": true,
+    "exportSucceeded": true
+  },
+  {
+    "building": "Metropolitan Building",
+    "path": "assets\\kolkata\\tier2\\metropolitan_building",
+    "source": "MET_metropolitan_building.blend",
+    "fbx": "exports\\MET_metropolitan_building_Roblox.fbx",
+    "meshObjects": 203,
+    "uniqueMeshes": 33,
+    "triangles": 34934,
+    "largestMeshTriangles": 1288,
+    "boundsStuds": [
+      137.3,
+      78.65,
+      95.3
+    ],
+    "collisionBoxes": 4,
+    "sourceBytes": 165577,
+    "exportBytes": 883372,
+    "sourceSaved": true,
+    "exportSucceeded": true
+  },
+  {
+    "building": "Kolkata Town Hall",
+    "path": "assets\\kolkata\\tier2\\town_hall",
+    "source": "TH_town_hall.blend",
+    "fbx": "exports\\TH_town_hall_Roblox.fbx",
+    "meshObjects": 102,
+    "uniqueMeshes": 28,
+    "triangles": 11092,
+    "largestMeshTriangles": 1296,
+    "boundsStuds": [
+      95.0,
+      52.65,
+      96.9
+    ],
+    "collisionBoxes": 19,
+    "sourceBytes": 132649,
+    "exportBytes": 378556,
+    "sourceSaved": true,
+    "exportSucceeded": true
+  },
+  {
+    "building": "Jorasanko Thakur Bari",
+    "path": "assets\\kolkata\\tier2\\jorasanko_thakur_bari",
+    "source": "JTB_jorasanko_thakur_bari.blend",
+    "fbx": "exports\\JTB_jorasanko_thakur_bari_Roblox.fbx",
+    "meshObjects": 297,
+    "uniqueMeshes": 47,
+    "triangles": 48198,
+    "largestMeshTriangles": 1516,
+    "boundsStuds": [
+      134.0,
+      38.4,
+      114.0
+    ],
+    "collisionBoxes": 22,
+    "sourceBytes": 168698,
+    "exportBytes": 1236652,
+    "sourceSaved": true,
+    "exportSucceeded": true
+  }
+]

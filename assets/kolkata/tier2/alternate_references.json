@@ -1,0 +1,24 @@
+{
+  "metropolitan_building": [
+    ["https://kolkata.wordcamp.org/2022/files/2022/09/mp-2048x1296.jpg", "https://kolkata.wordcamp.org/2022/colonial-architecture-of-kolkata-in-2022/", "corner and roofline"],
+    ["https://www.getbengal.com/uploads/story_image/Metropolitan_Building-2021.jpg", "https://www.getbengal.com/details/lets-go-behind-the-corinthian-pillars-of-metropolitan-building", "street facade"],
+    ["https://www.tutorialathome.in/postimg/2019/07/white-awaylaid-law-04.jpg", "https://www.tutorialathome.in/history/whiteaway-laidlaw-co", "return elevation"],
+    ["https://assets.telegraphindia.com/telegraph/2021/Dec/1640179725_metropolitan-building2.jpg", "https://www.telegraphindia.com/my-kolkata/places/calcuttas-colonial-era-department-stores/cid/1844374", "corner perspective"]
+  ],
+  "town_hall": [
+    ["https://static.toiimg.com/thumb/36440070/1024px-Town_Hall_-_Kolkata_2011-12-18_0337.jpg?height=900&width=1200", "https://timesofindia.indiatimes.com/travel/things-to-do/town-hall/articleshow/36440040.cms", "portico and return"],
+    ["https://s7ap1.scene7.com/is/image/incredibleindia/kolkata-town-hall-kolkata-wb-attr-nearby?qlt=82", "https://www.incredibleindia.gov.in/en/west-bengal/kolkata/science-city", "frontal elevation"],
+    ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/98/01/c7/img20171225145913-largejpg.jpg?h=1200&s=1&w=1200", "https://www.tripadvisor.com/Attraction_Review-g304558-d3705566-Reviews-Town_Hall-Kolkata_Calcutta_Kolkata_District_West_Bengal.html", "street perspective"]
+  ],
+  "jorasanko_thakur_bari": [
+    ["https://yometro.com/images/places/jorasanko-thakur-bari.jpg", "https://yometro.com/travel-guide/attraction-jorasanko-thakur-bari-kolkata", "red outer facade and lawn"],
+    ["https://tripxl.com/blog/wp-content/uploads/2024/12/Jorasanko-Thakur-Bari.jpg", "https://tripxl.com/blog/haunted-places-in-west-bengal/", "exterior perspective"],
+    ["https://www.tutorialathome.in/postimg/2018/10/jorasanko-thakur-bari-05.jpg", "https://www.tutorialathome.in/history/jorasanko-thakur-bari-prominent-palaces", "Thakur Dalan court"],
+    ["https://cdn1.tripoto.com/media/filter/nxxl/img/1975814/SpotDocument/1613759749_5.jpg.webp", "https://www.tripoto.com/kolkata/places-to-visit/jorasanko-thakur-bari", "court side galleries"],
+    ["https://files.prokerala.com/news/photos/imgs/1024/preparation-at-jorasanko-thakur-bari-for-1372584.jpg", "https://www.prokerala.com/news/photos/preparation-at-jorasanko-thakur-bari-3214027.html", "opposite courtyard perspective"]
+  ],
+  "gpo": [
+    ["https://assets.telegraphindia.com/telegraph/2024/Mar/1709811899_the-magic-of-elegant-corinthian-pillars.jpg", "https://www.telegraphindia.com/my-kolkata/places/250-years-of-calcutta-general-post-office-gpo-at-dalhousie-square-a-postcard-from-the-past/cid/2005391", "long colonnaded frontage"],
+    ["https://assets.telegraphindia.com/telegraph/2024/Mar/1709812068_grand-dome-of-gpo-built-in-1868.jpg", "https://www.telegraphindia.com/my-kolkata/places/250-years-of-calcutta-general-post-office-gpo-at-dalhousie-square-a-postcard-from-the-past/cid/2005391", "corner dome and return"]
+  ]
+}

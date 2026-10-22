@@ -1,0 +1,77 @@
+[
+  {
+    "building": "Writers' Building",
+    "savedSourceScene": "T2_Writers'Building",
+    "fbxVersion": 7400,
+    "exportObjectCount": 175,
+    "objectScalesAllOne": true,
+    "sourceUnits": "None / 1",
+    "boundsStuds": [
+      240.0,
+      68.725,
+      64.5
+    ],
+    "largestMeshTriangles": 3888,
+    "status": "passed"
+  },
+  {
+    "building": "General Post Office",
+    "savedSourceScene": "T2_GeneralPostOffice",
+    "fbxVersion": 7400,
+    "exportObjectCount": 148,
+    "objectScalesAllOne": true,
+    "sourceUnits": "None / 1",
+    "boundsStuds": [
+      154.0,
+      86.15,
+      137.0
+    ],
+    "largestMeshTriangles": 3548,
+    "status": "passed"
+  },
+  {
+    "building": "Metropolitan Building",
+    "savedSourceScene": "T2_MetropolitanBuilding",
+    "fbxVersion": 7400,
+    "exportObjectCount": 203,
+    "objectScalesAllOne": true,
+    "sourceUnits": "None / 1",
+    "boundsStuds": [
+      137.3,
+      78.65,
+      95.3
+    ],
+    "largestMeshTriangles": 1288,
+    "status": "passed"
+  },
+  {
+    "building": "Kolkata Town Hall",
+    "savedSourceScene": "T2_KolkataTownHall",
+    "fbxVersion": 7400,
+    "exportObjectCount": 102,
+    "objectScalesAllOne": true,
+    "sourceUnits": "None / 1",
+    "boundsStuds": [
+      95.0,
+      52.65,
+      96.9
+    ],
+    "largestMeshTriangles": 1296,
+    "status": "passed"
+  },
+  {
+    "building": "Jorasanko Thakur Bari",
+    "savedSourceScene": "T2_JorasankoThakurBari",
+    "fbxVersion": 7400,
+    "exportObjectCount": 297,
+    "objectScalesAllOne": true,
+    "sourceUnits": "None / 1",
+    "boundsStuds": [
+      134.0,
+      38.4,
+      114.0
+    ],
+    "largestMeshTriangles": 1516,
+    "status": "passed"
+  }
+]
