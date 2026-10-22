@@ -1,0 +1,2447 @@
+{
+  "assetId": "kolkata.tier2.metropolitan_building",
+  "label": "Metropolitan Building",
+  "units": "Roblox studs",
+  "front": "-Z",
+  "pivot": [
+    0,
+    0,
+    0
+  ],
+  "bounds": [
+    137.3,
+    78.65,
+    95.3
+  ],
+  "palette": {
+    "Ivory": [
+      0.88,
+      0.86,
+      0.75,
+      1
+    ],
+    "White": [
+      0.96,
+      0.95,
+      0.88,
+      1
+    ],
+    "Red": [
+      0.47,
+      0.065,
+      0.038,
+      1
+    ],
+    "RedLight": [
+      0.62,
+      0.13,
+      0.075,
+      1
+    ],
+    "Shadow": [
+      0.21,
+      0.24,
+      0.22,
+      1
+    ],
+    "Glass": [
+      0.035,
+      0.095,
+      0.1,
+      1
+    ],
+    "Green": [
+      0.035,
+      0.18,
+      0.085,
+      1
+    ],
+    "GreenLight": [
+      0.065,
+      0.27,
+      0.13,
+      1
+    ],
+    "Slate": [
+      0.105,
+      0.145,
+      0.16,
+      1
+    ],
+    "Gold": [
+      0.66,
+      0.43,
+      0.12,
+      1
+    ],
+    "Stone": [
+      0.48,
+      0.47,
+      0.4,
+      1
+    ],
+    "Court": [
+      0.57,
+      0.52,
+      0.42,
+      1
+    ],
+    "Grass": [
+      0.18,
+      0.34,
+      0.16,
+      1
+    ],
+    "Wood": [
+      0.24,
+      0.12,
+      0.055,
+      1
+    ],
+    "Saffron": [
+      0.94,
+      0.29,
+      0.035,
+      1
+    ],
+    "Blue": [
+      0.015,
+      0.07,
+      0.28,
+      1
+    ]
+  },
+  "objects": [
+    {
+      "name": "MET_ClippedCornerEnvelope__Stone",
+      "meshKey": "ClippedCornerEnvelope__Stone",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "MET_ClippedCornerEnvelope__Ivory",
+      "meshKey": "ClippedCornerEnvelope__Ivory",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Structure"
+    },
+    {
+      "name": "MET_ClippedCornerCornices__Ivory",
+      "meshKey": "ClippedCornerCornices__Ivory",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_ChowringheeBay_0__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        -58,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_0__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        -58,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_0__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        -58,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_0__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        -58,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_0__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        -58,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_0__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        -58,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_1__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        -48,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_1__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        -48,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_1__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        -48,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_1__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        -48,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_1__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        -48,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_1__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        -48,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_2__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        -38,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_2__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        -38,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_2__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        -38,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_2__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        -38,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_2__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        -38,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_2__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        -38,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_3__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        -28,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_3__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        -28,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_3__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        -28,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_3__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        -28,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_3__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        -28,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_3__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        -28,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_4__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        -18,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_4__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        -18,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_4__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        -18,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_4__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        -18,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_4__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        -18,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_4__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        -18,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_5__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        -8,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_5__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        -8,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_5__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        -8,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_5__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        -8,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_5__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        -8,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_5__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        -8,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_6__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        2,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_6__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        2,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_6__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        2,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_6__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        2,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_6__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        2,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_6__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        2,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_7__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        12,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_7__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        12,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_7__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        12,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_7__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        12,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_7__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        12,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_7__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        12,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_8__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        22,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_8__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        22,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_8__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        22,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_8__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        22,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_8__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        22,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_8__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        22,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_9__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        32,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_9__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        32,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_9__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        32,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_9__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        32,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_9__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        32,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_9__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        32,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_10__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        42,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_10__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        42,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_10__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        42,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_10__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        42,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_10__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        42,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ChowringheeBay_10__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        42,
+        0,
+        -44.04
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ReturnBay_0__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        65.04,
+        0,
+        -21.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_0__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        65.04,
+        0,
+        -21.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_0__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        65.04,
+        0,
+        -21.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_0__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        65.04,
+        0,
+        -21.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_0__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        65.04,
+        0,
+        -21.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_0__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        65.04,
+        0,
+        -21.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_1__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        65.04,
+        0,
+        -11.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_1__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        65.04,
+        0,
+        -11.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_1__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        65.04,
+        0,
+        -11.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_1__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        65.04,
+        0,
+        -11.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_1__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        65.04,
+        0,
+        -11.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_1__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        65.04,
+        0,
+        -11.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_2__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        65.04,
+        0,
+        -2.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_2__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        65.04,
+        0,
+        -2.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_2__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        65.04,
+        0,
+        -2.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_2__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        65.04,
+        0,
+        -2.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_2__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        65.04,
+        0,
+        -2.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_2__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        65.04,
+        0,
+        -2.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_3__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        65.04,
+        0,
+        7.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_3__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        65.04,
+        0,
+        7.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_3__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        65.04,
+        0,
+        7.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_3__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        65.04,
+        0,
+        7.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_3__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        65.04,
+        0,
+        7.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_3__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        65.04,
+        0,
+        7.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_4__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        65.04,
+        0,
+        17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_4__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        65.04,
+        0,
+        17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_4__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        65.04,
+        0,
+        17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_4__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        65.04,
+        0,
+        17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_4__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        65.04,
+        0,
+        17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_4__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        65.04,
+        0,
+        17.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_5__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        65.04,
+        0,
+        26.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_5__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        65.04,
+        0,
+        26.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_5__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        65.04,
+        0,
+        26.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_5__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        65.04,
+        0,
+        26.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_5__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        65.04,
+        0,
+        26.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_5__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        65.04,
+        0,
+        26.5
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_6__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        65.04,
+        0,
+        36.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_6__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        65.04,
+        0,
+        36.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_6__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        65.04,
+        0,
+        36.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_6__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        65.04,
+        0,
+        36.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_6__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        65.04,
+        0,
+        36.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ReturnBay_6__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        65.04,
+        0,
+        36.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_ClockCornerBay_0__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        53.46446609406726,
+        0,
+        -39.53553390593274
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_0__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        53.46446609406726,
+        0,
+        -39.53553390593274
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_0__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        53.46446609406726,
+        0,
+        -39.53553390593274
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_0__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        53.46446609406726,
+        0,
+        -39.53553390593274
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_0__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        53.46446609406726,
+        0,
+        -39.53553390593274
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_0__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        53.46446609406726,
+        0,
+        -39.53553390593274
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_1__Glass",
+      "meshKey": "BaroqueBay__Glass",
+      "position": [
+        60.53553390593274,
+        0,
+        -32.46446609406726
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_1__Ivory",
+      "meshKey": "BaroqueBay__Ivory",
+      "position": [
+        60.53553390593274,
+        0,
+        -32.46446609406726
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_1__Green",
+      "meshKey": "BaroqueBay__Green",
+      "position": [
+        60.53553390593274,
+        0,
+        -32.46446609406726
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_1__GreenLight",
+      "meshKey": "BaroqueBay__GreenLight",
+      "position": [
+        60.53553390593274,
+        0,
+        -32.46446609406726
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_1__White",
+      "meshKey": "BaroqueBay__White",
+      "position": [
+        60.53553390593274,
+        0,
+        -32.46446609406726
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_ClockCornerBay_1__Gold",
+      "meshKey": "BaroqueBay__Gold",
+      "position": [
+        60.53553390593274,
+        0,
+        -32.46446609406726
+      ],
+      "yaw": -0.7853981633974483,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_FrontPediment__Ivory",
+      "meshKey": "PedimentBalcony__Ivory",
+      "position": [
+        -15,
+        0,
+        -44
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_FrontPediment__Gold",
+      "meshKey": "PedimentBalcony__Gold",
+      "position": [
+        -15,
+        0,
+        -44
+      ],
+      "yaw": 0,
+      "group": "Facades"
+    },
+    {
+      "name": "MET_SidePediment__Ivory",
+      "meshKey": "PedimentBalcony__Ivory",
+      "position": [
+        65,
+        0,
+        13
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_SidePediment__Gold",
+      "meshKey": "PedimentBalcony__Gold",
+      "position": [
+        65,
+        0,
+        13
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "SideReturns"
+    },
+    {
+      "name": "MET_TowerBody_0__Ivory",
+      "meshKey": "TowerBody_0__Ivory",
+      "position": [
+        56,
+        0,
+        -35
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_0__Glass",
+      "meshKey": "TowerFace_0__Glass",
+      "position": [
+        63.0,
+        0,
+        -35.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_0__Ivory",
+      "meshKey": "TowerFace_0__Ivory",
+      "position": [
+        63.0,
+        0,
+        -35.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_0__Gold",
+      "meshKey": "TowerFace_0__Gold",
+      "position": [
+        63.0,
+        0,
+        -35.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_0__Slate",
+      "meshKey": "TowerFace_0__Slate",
+      "position": [
+        63.0,
+        0,
+        -35.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_1__Glass",
+      "meshKey": "TowerFace_0__Glass",
+      "position": [
+        60.94974746830583,
+        0,
+        -30.050252531694166
+      ],
+      "yaw": -2.356194490192345,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_1__Ivory",
+      "meshKey": "TowerFace_0__Ivory",
+      "position": [
+        60.94974746830583,
+        0,
+        -30.050252531694166
+      ],
+      "yaw": -2.356194490192345,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_1__Gold",
+      "meshKey": "TowerFace_0__Gold",
+      "position": [
+        60.94974746830583,
+        0,
+        -30.050252531694166
+      ],
+      "yaw": -2.356194490192345,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_1__Slate",
+      "meshKey": "TowerFace_0__Slate",
+      "position": [
+        60.94974746830583,
+        0,
+        -30.050252531694166
+      ],
+      "yaw": -2.356194490192345,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_2__Glass",
+      "meshKey": "TowerFace_0__Glass",
+      "position": [
+        56.0,
+        0,
+        -28.0
+      ],
+      "yaw": -3.141592653589793,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_2__Ivory",
+      "meshKey": "TowerFace_0__Ivory",
+      "position": [
+        56.0,
+        0,
+        -28.0
+      ],
+      "yaw": -3.141592653589793,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_2__Gold",
+      "meshKey": "TowerFace_0__Gold",
+      "position": [
+        56.0,
+        0,
+        -28.0
+      ],
+      "yaw": -3.141592653589793,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_2__Slate",
+      "meshKey": "TowerFace_0__Slate",
+      "position": [
+        56.0,
+        0,
+        -28.0
+      ],
+      "yaw": -3.141592653589793,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_3__Glass",
+      "meshKey": "TowerFace_0__Glass",
+      "position": [
+        51.05025253169417,
+        0,
+        -30.050252531694166
+      ],
+      "yaw": -3.9269908169872414,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_3__Ivory",
+      "meshKey": "TowerFace_0__Ivory",
+      "position": [
+        51.05025253169417,
+        0,
+        -30.050252531694166
+      ],
+      "yaw": -3.9269908169872414,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_3__Gold",
+      "meshKey": "TowerFace_0__Gold",
+      "position": [
+        51.05025253169417,
+        0,
+        -30.050252531694166
+      ],
+      "yaw": -3.9269908169872414,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_3__Slate",
+      "meshKey": "TowerFace_0__Slate",
+      "position": [
+        51.05025253169417,
+        0,
+        -30.050252531694166
+      ],
+      "yaw": -3.9269908169872414,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_4__Glass",
+      "meshKey": "TowerFace_0__Glass",
+      "position": [
+        49.0,
+        0,
+        -35.0
+      ],
+      "yaw": -4.71238898038469,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_4__Ivory",
+      "meshKey": "TowerFace_0__Ivory",
+      "position": [
+        49.0,
+        0,
+        -35.0
+      ],
+      "yaw": -4.71238898038469,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_4__Gold",
+      "meshKey": "TowerFace_0__Gold",
+      "position": [
+        49.0,
+        0,
+        -35.0
+      ],
+      "yaw": -4.71238898038469,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_4__Slate",
+      "meshKey": "TowerFace_0__Slate",
+      "position": [
+        49.0,
+        0,
+        -35.0
+      ],
+      "yaw": -4.71238898038469,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_5__Glass",
+      "meshKey": "TowerFace_0__Glass",
+      "position": [
+        51.05025253169417,
+        0,
+        -39.94974746830583
+      ],
+      "yaw": -5.497787143782138,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_5__Ivory",
+      "meshKey": "TowerFace_0__Ivory",
+      "position": [
+        51.05025253169417,
+        0,
+        -39.94974746830583
+      ],
+      "yaw": -5.497787143782138,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_5__Gold",
+      "meshKey": "TowerFace_0__Gold",
+      "position": [
+        51.05025253169417,
+        0,
+        -39.94974746830583
+      ],
+      "yaw": -5.497787143782138,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_5__Slate",
+      "meshKey": "TowerFace_0__Slate",
+      "position": [
+        51.05025253169417,
+        0,
+        -39.94974746830583
+      ],
+      "yaw": -5.497787143782138,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_6__Glass",
+      "meshKey": "TowerFace_0__Glass",
+      "position": [
+        56.0,
+        0,
+        -42.0
+      ],
+      "yaw": -6.283185307179586,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_6__Ivory",
+      "meshKey": "TowerFace_0__Ivory",
+      "position": [
+        56.0,
+        0,
+        -42.0
+      ],
+      "yaw": -6.283185307179586,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_6__Gold",
+      "meshKey": "TowerFace_0__Gold",
+      "position": [
+        56.0,
+        0,
+        -42.0
+      ],
+      "yaw": -6.283185307179586,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_6__Slate",
+      "meshKey": "TowerFace_0__Slate",
+      "position": [
+        56.0,
+        0,
+        -42.0
+      ],
+      "yaw": -6.283185307179586,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_7__Glass",
+      "meshKey": "TowerFace_0__Glass",
+      "position": [
+        60.94974746830583,
+        0,
+        -39.94974746830583
+      ],
+      "yaw": -7.0685834705770345,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_7__Ivory",
+      "meshKey": "TowerFace_0__Ivory",
+      "position": [
+        60.94974746830583,
+        0,
+        -39.94974746830583
+      ],
+      "yaw": -7.0685834705770345,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_7__Gold",
+      "meshKey": "TowerFace_0__Gold",
+      "position": [
+        60.94974746830583,
+        0,
+        -39.94974746830583
+      ],
+      "yaw": -7.0685834705770345,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_0_7__Slate",
+      "meshKey": "TowerFace_0__Slate",
+      "position": [
+        60.94974746830583,
+        0,
+        -39.94974746830583
+      ],
+      "yaw": -7.0685834705770345,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_GoldCupola_0__Gold",
+      "meshKey": "GoldCupola_0__Gold",
+      "position": [
+        56,
+        0,
+        -35
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerBody_1__Ivory",
+      "meshKey": "TowerBody_1__Ivory",
+      "position": [
+        -57,
+        0,
+        -37
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_1_0__Glass",
+      "meshKey": "TowerFace_1__Glass",
+      "position": [
+        -52.4,
+        0,
+        -37.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_1_0__Ivory",
+      "meshKey": "TowerFace_1__Ivory",
+      "position": [
+        -52.4,
+        0,
+        -37.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_1_1__Glass",
+      "meshKey": "TowerFace_1__Glass",
+      "position": [
+        -57.0,
+        0,
+        -32.4
+      ],
+      "yaw": -3.141592653589793,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_1_1__Ivory",
+      "meshKey": "TowerFace_1__Ivory",
+      "position": [
+        -57.0,
+        0,
+        -32.4
+      ],
+      "yaw": -3.141592653589793,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_1_2__Glass",
+      "meshKey": "TowerFace_1__Glass",
+      "position": [
+        -61.6,
+        0,
+        -37.0
+      ],
+      "yaw": -4.71238898038469,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_1_2__Ivory",
+      "meshKey": "TowerFace_1__Ivory",
+      "position": [
+        -61.6,
+        0,
+        -37.0
+      ],
+      "yaw": -4.71238898038469,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_1_3__Glass",
+      "meshKey": "TowerFace_1__Glass",
+      "position": [
+        -57.0,
+        0,
+        -41.6
+      ],
+      "yaw": -6.283185307179586,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_1_3__Ivory",
+      "meshKey": "TowerFace_1__Ivory",
+      "position": [
+        -57.0,
+        0,
+        -41.6
+      ],
+      "yaw": -6.283185307179586,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_GoldCupola_1__Gold",
+      "meshKey": "GoldCupola_1__Gold",
+      "position": [
+        -57,
+        0,
+        -37
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerBody_2__Ivory",
+      "meshKey": "TowerBody_2__Ivory",
+      "position": [
+        58,
+        0,
+        36
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_2_0__Glass",
+      "meshKey": "TowerFace_2__Glass",
+      "position": [
+        62.6,
+        0,
+        36.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_2_0__Ivory",
+      "meshKey": "TowerFace_2__Ivory",
+      "position": [
+        62.6,
+        0,
+        36.0
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_2_1__Glass",
+      "meshKey": "TowerFace_2__Glass",
+      "position": [
+        58.0,
+        0,
+        40.6
+      ],
+      "yaw": -3.141592653589793,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_2_1__Ivory",
+      "meshKey": "TowerFace_2__Ivory",
+      "position": [
+        58.0,
+        0,
+        40.6
+      ],
+      "yaw": -3.141592653589793,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_2_2__Glass",
+      "meshKey": "TowerFace_2__Glass",
+      "position": [
+        53.4,
+        0,
+        36.0
+      ],
+      "yaw": -4.71238898038469,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_2_2__Ivory",
+      "meshKey": "TowerFace_2__Ivory",
+      "position": [
+        53.4,
+        0,
+        36.0
+      ],
+      "yaw": -4.71238898038469,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_2_3__Glass",
+      "meshKey": "TowerFace_2__Glass",
+      "position": [
+        58.0,
+        0,
+        31.4
+      ],
+      "yaw": -6.283185307179586,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_TowerFace_2_3__Ivory",
+      "meshKey": "TowerFace_2__Ivory",
+      "position": [
+        58.0,
+        0,
+        31.4
+      ],
+      "yaw": -6.283185307179586,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_GoldCupola_2__Gold",
+      "meshKey": "GoldCupola_2__Gold",
+      "position": [
+        58,
+        0,
+        36
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_StreetRoofBalustrade__Ivory",
+      "meshKey": "StreetRoofBalustrade__Ivory",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_StreetRoofBalustrade__Gold",
+      "meshKey": "StreetRoofBalustrade__Gold",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_ReturnRoofBalustrade__Ivory",
+      "meshKey": "ReturnRoofBalustrade__Ivory",
+      "position": [
+        65.1,
+        0,
+        8
+      ],
+      "yaw": -1.5707963267948966,
+      "group": "Roofline"
+    },
+    {
+      "name": "MET_RearWindow_0__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -49.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_0__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -49.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_1__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -35.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_1__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -35.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_2__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -21.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_2__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -21.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_3__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        -7.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_3__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        -7.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_4__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        7.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_4__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        7.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_5__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        21.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_5__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        21.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_6__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        35.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_6__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        35.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_7__Glass",
+      "meshKey": "RearWindow__Glass",
+      "position": [
+        49.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_RearWindow_7__Ivory",
+      "meshKey": "RearWindow__Ivory",
+      "position": [
+        49.0,
+        0,
+        44.02
+      ],
+      "yaw": 3.141592653589793,
+      "group": "Rear"
+    },
+    {
+      "name": "MET_Foundation__Stone",
+      "meshKey": "Foundation__Stone",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    },
+    {
+      "name": "MET_FrontPorticoFooting__Stone",
+      "meshKey": "FrontPorticoFooting__Stone",
+      "position": [
+        -15,
+        0.25,
+        -46
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    },
+    {
+      "name": "MET_SidePorticoFooting__Stone",
+      "meshKey": "SidePorticoFooting__Stone",
+      "position": [
+        67,
+        0.25,
+        13
+      ],
+      "yaw": 0,
+      "group": "Foundation"
+    }
+  ],
+  "collisionBoxes": [
+    {
+      "name": "MainEnvelope",
+      "position": [
+        -8,
+        23.5,
+        0
+      ],
+      "size": [
+        114,
+        47,
+        88
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "ReturnEnvelope",
+      "position": [
+        56,
+        23.5,
+        9
+      ],
+      "size": [
+        18,
+        47,
+        70
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "FrontPorticoFooting",
+      "position": [
+        -15,
+        0.25,
+        -46
+      ],
+      "size": [
+        31,
+        0.8,
+        8
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    },
+    {
+      "name": "SidePorticoFooting",
+      "position": [
+        67,
+        0.25,
+        13
+      ],
+      "size": [
+        8,
+        0.8,
+        31
+      ],
+      "yaw": 0,
+      "shape": "Block"
+    }
+  ],
+  "meshes": {
+    "MET_ClippedCornerEnvelope__Ivory": 13,
+    "MET_BaroqueBay__White": 128,
+    "MET_FrontPorticoFooting__Stone": 12,
+    "MET_TowerFace_0__Glass": 48,
+    "MET_TowerFace_1__Ivory": 140,
+    "MET_ClippedCornerEnvelope__Stone": 3,
+    "MET_BaroqueBay__GreenLight": 96,
+    "MET_PedimentBalcony__Ivory": 676,
+    "MET_TowerBody_0__Ivory": 60,
+    "MET_TowerFace_2__Ivory": 140,
+    "MET_RearWindow__Ivory": 252,
+    "MET_Foundation__Stone": 16,
+    "MET_TowerFace_0__Ivory": 464,
+    "MET_GoldCupola_0__Gold": 268,
+    "MET_TowerFace_1__Glass": 48,
+    "MET_TowerFace_0__Slate": 168,
+    "MET_BaroqueBay__Glass": 108,
+    "MET_TowerFace_2__Glass": 48,
+    "MET_StreetRoofBalustrade__Ivory": 1288,
+    "MET_SidePorticoFooting__Stone": 12,
+    "MET_RearWindow__Glass": 36,
+    "MET_BaroqueBay__Green": 48,
+    "MET_BaroqueBay__Gold": 24,
+    "MET_PedimentBalcony__Gold": 96,
+    "MET_BaroqueBay__Ivory": 500,
+    "MET_TowerFace_0__Gold": 336,
+    "MET_TowerBody_1__Ivory": 60,
+    "MET_GoldCupola_1__Gold": 268,
+    "MET_TowerBody_2__Ivory": 60,
+    "MET_ClippedCornerCornices__Ivory": 192,
+    "MET_GoldCupola_2__Gold": 268,
+    "MET_StreetRoofBalustrade__Gold": 330,
+    "MET_ReturnRoofBalustrade__Ivory": 524
+  },
+  "notes": "Exterior asset; no full rooms. No runtime generator. Clone repeated MeshKeys with shared mesh IDs during later integration."
+}

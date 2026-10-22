@@ -1,0 +1,37 @@
+[
+  {
+    "building": "metropolitan_building",
+    "index": "alt-1",
+    "title": "File:corner and roofline",
+    "url": "https://kolkata.wordcamp.org/2022/files/2022/09/mp-2048x1296.jpg",
+    "page": "https://kolkata.wordcamp.org/2022/colonial-architecture-of-kolkata-in-2022/",
+    "path": "artifacts\\references\\tier2\\metropolitan_building\\alt-01.jpg",
+    "usage": "Reference only; photographer/source retain rights. No photo is incorporated in exported assets."
+  },
+  {
+    "building": "metropolitan_building",
+    "index": "alt-3",
+    "title": "File:return elevation",
+    "url": "https://www.tutorialathome.in/postimg/2019/07/white-awaylaid-law-04.jpg",
+    "page": "https://www.tutorialathome.in/history/whiteaway-laidlaw-co",
+    "path": "artifacts\\references\\tier2\\metropolitan_building\\alt-03.jpg",
+    "usage": "Reference only; photographer/source retain rights. No photo is incorporated in exported assets."
+  },
+  {
+    "building": "metropolitan_building",
+    "index": "alt-4",
+    "title": "File:corner perspective",
+    "url": "https://assets.telegraphindia.com/telegraph/2021/Dec/1640179725_metropolitan-building2.jpg",
+    "page": "https://www.telegraphindia.com/my-kolkata/places/calcuttas-colonial-era-department-stores/cid/1844374",
+    "path": "artifacts\\references\\tier2\\metropolitan_building\\alt-04.jpg",
+    "usage": "Reference only; photographer/source retain rights. No photo is incorporated in exported assets."
+  },
+  {
+    "building": "metropolitan_building",
+    "index": 1,
+    "title": "File:Metropolitan Building (Kolkata) 2022.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Metropolitan_Building_(Kolkata)_2022.jpg",
+    "path": "artifacts\\references\\tier2\\metropolitan_building\\01.jpg",
+    "usage": "Reference only; see source for photographer and licence. Not incorporated into game assets."
+  }
+]

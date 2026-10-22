@@ -1,0 +1,20 @@
+{
+  "building": "Metropolitan Building",
+  "path": "assets\\kolkata\\tier2\\metropolitan_building",
+  "source": "MET_metropolitan_building.blend",
+  "fbx": "exports\\MET_metropolitan_building_Roblox.fbx",
+  "meshObjects": 203,
+  "uniqueMeshes": 33,
+  "triangles": 34934,
+  "largestMeshTriangles": 1288,
+  "boundsStuds": [
+    137.3,
+    78.65,
+    95.3
+  ],
+  "collisionBoxes": 4,
+  "sourceBytes": 165577,
+  "exportBytes": 883372,
+  "sourceSaved": true,
+  "exportSucceeded": true
+}
