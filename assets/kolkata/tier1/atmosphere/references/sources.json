@@ -1,0 +1,114 @@
+[
+  {
+    "building": "atmosphere",
+    "label": "01 completed front oblique",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Forum_Atmosphere%2C_Kolkata.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Forum_Atmosphere%2C_Kolkata.jpg",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Forum_Atmosphere%2C_Kolkata.jpg/960px-Forum_Atmosphere%2C_Kolkata.jpg",
+    "local": "artifacts/references/tier1/atmosphere/01_completed_front_oblique.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "02 completed return",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Forum_Atmosphere%2C_Kolkata_2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Forum_Atmosphere%2C_Kolkata_2.jpg",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Forum_Atmosphere%2C_Kolkata_2.jpg/960px-Forum_Atmosphere%2C_Kolkata_2.jpg",
+    "local": "artifacts/references/tier1/atmosphere/02_completed_return.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "03 tower silhouette",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Forum_Atmosphere.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Forum_Atmosphere.jpg",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/atmosphere/03_tower_silhouette.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "M01 MERO bridge study",
+    "image": "https://www.mero.com.sg/wp-content/uploads/2019/01/Skybridge1.jpg",
+    "source": "https://www.mero.com.sg/project_references/kolkata-atmosphere-sky-bridge/",
+    "kind": "architectural or structural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/atmosphere/M01_MERO_bridge_study.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "M02 MERO bridge study",
+    "image": "https://www.mero.com.sg/wp-content/uploads/2019/01/Skybridge_3.jpg",
+    "source": "https://www.mero.com.sg/project_references/kolkata-atmosphere-sky-bridge/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/atmosphere/M02_MERO_bridge_study.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "M03 MERO bridge study",
+    "image": "https://www.mero.com.sg/wp-content/uploads/2019/01/Skybridge_2.jpg",
+    "source": "https://www.mero.com.sg/project_references/kolkata-atmosphere-sky-bridge/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/atmosphere/M03_MERO_bridge_study.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "M04 MERO bridge study",
+    "image": "https://www.mero.com.sg/wp-content/uploads/2019/01/Skybridge_1.jpg",
+    "source": "https://www.mero.com.sg/project_references/kolkata-atmosphere-sky-bridge/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/atmosphere/M04_MERO_bridge_study.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "M05 MERO bridge study",
+    "image": "https://www.mero.com.sg/wp-content/uploads/2019/01/Rendering_Web_Structures_1b1-2.jpg",
+    "source": "https://www.mero.com.sg/project_references/kolkata-atmosphere-sky-bridge/",
+    "kind": "architectural or structural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/atmosphere/M05_MERO_bridge_study.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "M06 MERO bridge study",
+    "image": "https://www.mero.com.sg/wp-content/uploads/2019/01/Rendering_Web_Structures_2b-1-1024x763.jpg",
+    "source": "https://www.mero.com.sg/project_references/kolkata-atmosphere-sky-bridge/",
+    "kind": "architectural or structural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/atmosphere/M06_MERO_bridge_study.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "M07 MERO bridge study",
+    "image": "https://www.mero.com.sg/wp-content/uploads/2019/01/Rendering_Web_Structures_3b-1.jpg",
+    "source": "https://www.mero.com.sg/project_references/kolkata-atmosphere-sky-bridge/",
+    "kind": "architectural or structural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/atmosphere/M07_MERO_bridge_study.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "atmosphere",
+    "label": "G01 completed facade",
+    "image": "https://www.glasswallsystems.in/project/details/1787035156_6a83fe14e315f_9.jpg",
+    "source": "https://www.glasswallsystems.in/projects/atmosphere/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/atmosphere/G01_completed_facade.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  }
+]

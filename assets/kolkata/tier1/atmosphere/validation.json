@@ -1,0 +1,60 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 362,
+  "sourceUniqueMeshes": 46,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 5640,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ATMOSPHERE__Foundation.fbx",
+      "meshObjects": 4,
+      "triangles": 312,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ATMOSPHERE__Landscape.fbx",
+      "meshObjects": 4,
+      "triangles": 1344,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ATMOSPHERE__Tower_1.fbx",
+      "meshObjects": 10,
+      "triangles": 13140,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ATMOSPHERE__Tower_2.fbx",
+      "meshObjects": 10,
+      "triangles": 13140,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ATMOSPHERE__Deya_Skybridge.fbx",
+      "meshObjects": 12,
+      "triangles": 19428,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ATMOSPHERE__Podium.fbx",
+      "meshObjects": 6,
+      "triangles": 1276,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_tier1/KOL_T1_ATMOSPHERE__Deya_Skybridge.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 5.340576171875e-05,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "previews": [
+    "preview-day.png",
+    "preview-reverse.png",
+    "preview-night.png"
+  ]
+}

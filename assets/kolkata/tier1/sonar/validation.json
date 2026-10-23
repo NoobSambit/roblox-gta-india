@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 115,
+  "sourceUniqueMeshes": 49,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 1988,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Foundation.fbx",
+      "meshObjects": 4,
+      "triangles": 288,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Landscape.fbx",
+      "meshObjects": 4,
+      "triangles": 1344,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Guest_Wing_1.fbx",
+      "meshObjects": 4,
+      "triangles": 3552,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Internal_Shell.fbx",
+      "meshObjects": 1,
+      "triangles": 192,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Guest_Wing_2.fbx",
+      "meshObjects": 4,
+      "triangles": 1296,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Guest_Wing_3.fbx",
+      "meshObjects": 4,
+      "triangles": 1296,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Water_Gardens.fbx",
+      "meshObjects": 7,
+      "triangles": 7320,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Tea_Pavilions.fbx",
+      "meshObjects": 5,
+      "triangles": 8880,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Arrival.fbx",
+      "meshObjects": 6,
+      "triangles": 1620,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Tea_Pavilions.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 6.556510925292969e-06,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "previews": [
+    "preview-day.png",
+    "preview-reverse.png",
+    "preview-night.png"
+  ]
+}

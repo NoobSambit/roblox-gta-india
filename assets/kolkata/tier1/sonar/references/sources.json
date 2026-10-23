@@ -1,0 +1,82 @@
+[
+  {
+    "building": "sonar",
+    "label": "01 exterior-day.png",
+    "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcsonar-kolkata/gallery/overview/exterior-day.png",
+    "source": "https://www.itchotels.com/in/en/itcsonar-kolkata/gallery",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/sonar/01_exterior-day.png.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "sonar",
+    "label": "02 exterior-dusk.png",
+    "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcsonar-kolkata/gallery/overview/exterior-dusk.png",
+    "source": "https://www.itchotels.com/in/en/itcsonar-kolkata/gallery",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/sonar/02_exterior-dusk.png.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "sonar",
+    "label": "03 Porch.png",
+    "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcsonar-kolkata/gallery/overview/Porch.png",
+    "source": "https://www.itchotels.com/in/en/itcsonar-kolkata/gallery",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/sonar/03_Porch.png.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "sonar",
+    "label": "04 porch-with-ITC-royal-bengal-view.png",
+    "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcsonar-kolkata/gallery/overview/porch-with-ITC-royal-bengal-view.png",
+    "source": "https://www.itchotels.com/in/en/itcsonar-kolkata/gallery",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/sonar/04_porch-with-ITC-royal-bengal-view.png.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "sonar",
+    "label": "T02 historic published photograph",
+    "image": "https://uniquetraveldestinations.wordpress.com/wp-content/uploads/2009/08/itc-sonar-bangla-hotel_in_1.jpg",
+    "source": "https://uniquetraveldestinations.wordpress.com/2009/08/12/chic-sleek-itc-sonar-kolkata-india/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/sonar/T02_historic_published_photograph.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "sonar",
+    "label": "T03 historic published photograph",
+    "image": "https://uniquetraveldestinations.wordpress.com/wp-content/uploads/2009/08/itc-sonar-bangla-hotel_in_imageb3272878105.jpg",
+    "source": "https://uniquetraveldestinations.wordpress.com/2009/08/12/chic-sleek-itc-sonar-kolkata-india/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/sonar/T03_historic_published_photograph.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "sonar",
+    "label": "T08 historic published photograph",
+    "image": "https://uniquetraveldestinations.wordpress.com/wp-content/uploads/2009/08/itc-sonar-bangla-hotel_in_320105.jpg",
+    "source": "https://uniquetraveldestinations.wordpress.com/2009/08/12/chic-sleek-itc-sonar-kolkata-india/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/sonar/T08_historic_published_photograph.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "sonar",
+    "label": "M01 terrace elevation",
+    "image": "https://cache.marriott.com/is/image/marriotts7prod/cculc-pool-7309:Classic-Hor?wid=1400&fit=constrain",
+    "source": "https://www.marriott.com/en-us/hotels/cculc-itc-sonar-a-luxury-collection-hotel-kolkata/photos/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/sonar/M01_terrace_elevation.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  }
+]

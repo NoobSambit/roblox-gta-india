@@ -1,0 +1,534 @@
+{
+  "checkedColumns": 44,
+  "failed": [],
+  "bearings": [
+    {
+      "column": "RB_column_33_45",
+      "location": [
+        -68.0,
+        24.0,
+        35.54999923706055
+      ],
+      "bottom": 35.54999923706055,
+      "top": 69.0,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_column_33_45",
+      "location": [
+        -56.0,
+        24.0,
+        35.54999923706055
+      ],
+      "bottom": 35.54999923706055,
+      "top": 69.0,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_column_33_45",
+      "location": [
+        -44.0,
+        24.0,
+        35.54999923706055
+      ],
+      "bottom": 35.54999923706055,
+      "top": 69.0,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_column_33_45",
+      "location": [
+        -32.0,
+        24.0,
+        35.54999923706055
+      ],
+      "bottom": 35.54999923706055,
+      "top": 69.0,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_column_33_45",
+      "location": [
+        32.0,
+        24.0,
+        35.54999923706055
+      ],
+      "bottom": 35.54999923706055,
+      "top": 69.0,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_column_33_45",
+      "location": [
+        44.0,
+        24.0,
+        35.54999923706055
+      ],
+      "bottom": 35.54999923706055,
+      "top": 69.0,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_column_33_45",
+      "location": [
+        56.0,
+        24.0,
+        35.54999923706055
+      ],
+      "bottom": 35.54999923706055,
+      "top": 69.0,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_column_33_45",
+      "location": [
+        68.0,
+        24.0,
+        35.54999923706055
+      ],
+      "bottom": 35.54999923706055,
+      "top": 69.0,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_25",
+      "location": [
+        -67.0,
+        16.0,
+        81.75
+      ],
+      "bottom": 81.75,
+      "top": 106.3499984741211,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_25",
+      "location": [
+        -67.0,
+        -3.0,
+        81.75
+      ],
+      "bottom": 81.75,
+      "top": 106.3499984741211,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_25",
+      "location": [
+        -67.0,
+        -41.0,
+        81.75
+      ],
+      "bottom": 81.75,
+      "top": 106.3499984741211,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_25",
+      "location": [
+        -67.0,
+        -60.0,
+        81.75
+      ],
+      "bottom": 81.75,
+      "top": 106.3499984741211,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_26",
+      "location": [
+        -67.0,
+        16.0,
+        123.75
+      ],
+      "bottom": 123.75,
+      "top": 149.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_26",
+      "location": [
+        -67.0,
+        -3.0,
+        123.75
+      ],
+      "bottom": 123.75,
+      "top": 149.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_26",
+      "location": [
+        -67.0,
+        -41.0,
+        123.75
+      ],
+      "bottom": 123.75,
+      "top": 149.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_26",
+      "location": [
+        -67.0,
+        -60.0,
+        123.75
+      ],
+      "bottom": 123.75,
+      "top": 149.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_27",
+      "location": [
+        -58.0,
+        13.199999809265137,
+        170.75
+      ],
+      "bottom": 170.75,
+      "top": 197.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_27",
+      "location": [
+        -58.0,
+        -3.0,
+        170.75
+      ],
+      "bottom": 170.75,
+      "top": 197.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.075
+    },
+    {
+      "column": "RB_loggia_column_27",
+      "location": [
+        -58.0,
+        -41.0,
+        170.75
+      ],
+      "bottom": 170.75,
+      "top": 197.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.075
+    },
+    {
+      "column": "RB_loggia_column_27",
+      "location": [
+        -58.0,
+        -57.20000076293945,
+        170.75
+      ],
+      "bottom": 170.75,
+      "top": 197.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_28",
+      "location": [
+        -58.0,
+        13.199999809265137,
+        212.75
+      ],
+      "bottom": 212.75,
+      "top": 240.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_28",
+      "location": [
+        -58.0,
+        -3.0,
+        212.75
+      ],
+      "bottom": 212.75,
+      "top": 240.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_28",
+      "location": [
+        -58.0,
+        -41.0,
+        212.75
+      ],
+      "bottom": 212.75,
+      "top": 240.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_28",
+      "location": [
+        -58.0,
+        -57.20000076293945,
+        212.75
+      ],
+      "bottom": 212.75,
+      "top": 240.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_25",
+      "location": [
+        67.0,
+        16.0,
+        81.75
+      ],
+      "bottom": 81.75,
+      "top": 106.3499984741211,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_25",
+      "location": [
+        67.0,
+        -3.0,
+        81.75
+      ],
+      "bottom": 81.75,
+      "top": 106.3499984741211,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_25",
+      "location": [
+        67.0,
+        -41.0,
+        81.75
+      ],
+      "bottom": 81.75,
+      "top": 106.3499984741211,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_25",
+      "location": [
+        67.0,
+        -60.0,
+        81.75
+      ],
+      "bottom": 81.75,
+      "top": 106.3499984741211,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_26",
+      "location": [
+        67.0,
+        16.0,
+        123.75
+      ],
+      "bottom": 123.75,
+      "top": 149.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_26",
+      "location": [
+        67.0,
+        -3.0,
+        123.75
+      ],
+      "bottom": 123.75,
+      "top": 149.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_26",
+      "location": [
+        67.0,
+        -41.0,
+        123.75
+      ],
+      "bottom": 123.75,
+      "top": 149.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_26",
+      "location": [
+        67.0,
+        -60.0,
+        123.75
+      ],
+      "bottom": 123.75,
+      "top": 149.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_27",
+      "location": [
+        58.0,
+        13.199999809265137,
+        170.75
+      ],
+      "bottom": 170.75,
+      "top": 197.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_27",
+      "location": [
+        58.0,
+        -3.0,
+        170.75
+      ],
+      "bottom": 170.75,
+      "top": 197.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.075
+    },
+    {
+      "column": "RB_loggia_column_27",
+      "location": [
+        58.0,
+        -41.0,
+        170.75
+      ],
+      "bottom": 170.75,
+      "top": 197.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.075
+    },
+    {
+      "column": "RB_loggia_column_27",
+      "location": [
+        58.0,
+        -57.20000076293945,
+        170.75
+      ],
+      "bottom": 170.75,
+      "top": 197.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_28",
+      "location": [
+        58.0,
+        13.199999809265137,
+        212.75
+      ],
+      "bottom": 212.75,
+      "top": 240.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_28",
+      "location": [
+        58.0,
+        -3.0,
+        212.75
+      ],
+      "bottom": 212.75,
+      "top": 240.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_28",
+      "location": [
+        58.0,
+        -41.0,
+        212.75
+      ],
+      "bottom": 212.75,
+      "top": 240.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_loggia_column_28",
+      "location": [
+        58.0,
+        -57.20000076293945,
+        212.75
+      ],
+      "bottom": 212.75,
+      "top": 240.35000610351562,
+      "lowerBearingOverlap": 0.05,
+      "upperBearingOverlap": 0.05
+    },
+    {
+      "column": "RB_arrival_column",
+      "location": [
+        -25.0,
+        47.0,
+        2.1500000953674316
+      ],
+      "bottom": 2.1500000953674316,
+      "top": 20.149999618530273,
+      "lowerBearingOverlap": 0.225,
+      "upperBearingOverlap": 0.15
+    },
+    {
+      "column": "RB_arrival_column",
+      "location": [
+        -19.0,
+        47.0,
+        2.1500000953674316
+      ],
+      "bottom": 2.1500000953674316,
+      "top": 20.149999618530273,
+      "lowerBearingOverlap": 0.225,
+      "upperBearingOverlap": 0.15
+    },
+    {
+      "column": "RB_arrival_column",
+      "location": [
+        19.0,
+        47.0,
+        2.1500000953674316
+      ],
+      "bottom": 2.1500000953674316,
+      "top": 20.149999618530273,
+      "lowerBearingOverlap": 0.225,
+      "upperBearingOverlap": 0.15
+    },
+    {
+      "column": "RB_arrival_column",
+      "location": [
+        25.0,
+        47.0,
+        2.1500000953674316
+      ],
+      "bottom": 2.1500000953674316,
+      "top": 20.149999618530273,
+      "lowerBearingOverlap": 0.225,
+      "upperBearingOverlap": 0.15
+    }
+  ]
+}

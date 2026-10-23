@@ -1,0 +1,72 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 343,
+  "sourceUniqueMeshes": 73,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 1996,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_JW__Foundation.fbx",
+      "meshObjects": 4,
+      "triangles": 324,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_JW__Landscape.fbx",
+      "meshObjects": 4,
+      "triangles": 1344,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_JW__Podium_Base.fbx",
+      "meshObjects": 4,
+      "triangles": 456,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_JW__Hotel_Tower.fbx",
+      "meshObjects": 11,
+      "triangles": 27812,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_JW__Companion_Tower.fbx",
+      "meshObjects": 8,
+      "triangles": 18600,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_JW__Hero_Diagrid.fbx",
+      "meshObjects": 3,
+      "triangles": 8552,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_JW__Roof_Terrace.fbx",
+      "meshObjects": 7,
+      "triangles": 6652,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_JW__Arrival.fbx",
+      "meshObjects": 7,
+      "triangles": 2948,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_tier1/KOL_T1_JW__Hotel_Tower.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 3.814697265625e-05,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "previews": [
+    "preview-day.png",
+    "preview-reverse.png",
+    "preview-night.png"
+  ]
+}

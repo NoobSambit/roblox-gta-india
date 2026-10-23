@@ -1,0 +1,62 @@
+[
+  {
+    "building": "trump",
+    "label": "01 skyline oblique",
+    "image": "https://www.trumptowerkolkata.com/img/index/home-page-1900x894.webp",
+    "source": "https://www.trumptowerkolkata.com/",
+    "kind": "developer architectural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/trump/01_skyline_oblique.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "trump",
+    "label": "02 tower facade",
+    "image": "https://www.trumptowerkolkata.com/img/index/trump-towers-1900x1900.webp",
+    "source": "https://www.trumptowerkolkata.com/",
+    "kind": "developer architectural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/trump/02_tower_facade.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "trump",
+    "label": "03 full height",
+    "image": "https://www.trumptowerkolkata.com/img/index/homepage-1-768x1006.webp",
+    "source": "https://www.trumptowerkolkata.com/",
+    "kind": "developer architectural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/trump/03_full_height.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "trump",
+    "label": "05 arrival portal",
+    "image": "https://www.trumptowerkolkata.com/img/story/story-new1.webp",
+    "source": "https://www.trumptowerkolkata.com/story.php",
+    "kind": "developer architectural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/trump/05_arrival_portal.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "trump",
+    "label": "06 developer massing",
+    "image": "https://www.tribecadevelopers.com/images/ttkimg.jpg",
+    "source": "https://www.tribecadevelopers.com/trump-tower-kolkata.php",
+    "kind": "developer architectural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/trump/06_developer_massing.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "trump",
+    "label": "S01 developer exterior study",
+    "image": "https://www.trumptowerkolkata.com/img/story/story1.webp",
+    "source": "https://www.trumptowerkolkata.com/story.php",
+    "kind": "developer architectural visualization",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/trump/S01_developer_exterior_study.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  }
+]

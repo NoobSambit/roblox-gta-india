@@ -30,3 +30,6 @@ artifacts/references/**
 !artifacts/references/**/
 !artifacts/references/**/*.json
 !artifacts/references/**/*.md
+
+# Tier 1 approved provenance is curated alongside each asset.
+artifacts/references/tier1/

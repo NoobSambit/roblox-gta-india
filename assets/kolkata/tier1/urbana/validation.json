@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 334,
+  "sourceUniqueMeshes": 41,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 768,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Foundation.fbx",
+      "meshObjects": 4,
+      "triangles": 408,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Landscape.fbx",
+      "meshObjects": 4,
+      "triangles": 1344,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Tower_01.fbx",
+      "meshObjects": 4,
+      "triangles": 7820,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Tower_02.fbx",
+      "meshObjects": 4,
+      "triangles": 7484,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Tower_03.fbx",
+      "meshObjects": 4,
+      "triangles": 7148,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Tower_04.fbx",
+      "meshObjects": 4,
+      "triangles": 7820,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Tower_05.fbx",
+      "meshObjects": 4,
+      "triangles": 7316,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Tower_06.fbx",
+      "meshObjects": 4,
+      "triangles": 6980,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Tower_07.fbx",
+      "meshObjects": 4,
+      "triangles": 7484,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Clubhouse.fbx",
+      "meshObjects": 9,
+      "triangles": 3656,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_tier1/KOL_T1_URBANA__Tower_01.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 6.103515625e-05,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "previews": [
+    "preview-day.png",
+    "preview-reverse.png",
+    "preview-night.png"
+  ]
+}

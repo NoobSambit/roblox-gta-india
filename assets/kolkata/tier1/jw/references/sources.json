@@ -1,0 +1,42 @@
+[
+  {
+    "building": "jw",
+    "label": "01 official full exterior",
+    "image": "https://cache.marriott.com/is/image/marriotts7prod/ccujw-exterior-0018:Wide-Ver?wid=1200&fit=constrain",
+    "source": "https://www.marriott.com/en-us/hotels/ccujw-jw-marriott-hotel-kolkata/photos/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/jw/01_official_full_exterior.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "jw",
+    "label": "02 diagrid entrance",
+    "image": "https://besconsultants.net/cdn/shop/articles/JW-Marriott-Entrance-2.jpg",
+    "source": "https://besconsultants.net/blogs/projects/jw-marriott-hotel-kolkata",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/jw/02_diagrid_entrance.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "jw",
+    "label": "03 facade contractor view",
+    "image": "https://www.glasswallsystems.in/project/details/1787035187_6a83fe331cad2_24.jpg",
+    "source": "https://www.glasswallsystems.in/projects/j-w-marriott/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/jw/03_facade_contractor_view.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "jw",
+    "label": "05 wedding exterior",
+    "image": "https://www.marriottindiaweddings.com/resourcefiles/venuesgalleryimages/jw-marriott-hotel-kolkata-exterior.jpg",
+    "source": "https://www.marriottindiaweddings.com/jw-marriott-hotel-kolkata",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/jw/05_wedding_exterior.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  }
+]

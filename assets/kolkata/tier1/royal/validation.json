@@ -1,0 +1,72 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 3924,
+  "sourceUniqueMeshes": 57,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 2024,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ROYAL__Foundation.fbx",
+      "meshObjects": 4,
+      "triangles": 276,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ROYAL__Landscape.fbx",
+      "meshObjects": 4,
+      "triangles": 1344,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ROYAL__01_Massing.fbx",
+      "meshObjects": 4,
+      "triangles": 432,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ROYAL__02_Window_Bays.fbx",
+      "meshObjects": 16,
+      "triangles": 85824,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ROYAL__03_Arcades.fbx",
+      "meshObjects": 6,
+      "triangles": 17488,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ROYAL__04_Columns_Loggias.fbx",
+      "meshObjects": 2,
+      "triangles": 4480,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ROYAL__05_Crown_Cornices.fbx",
+      "meshObjects": 4,
+      "triangles": 6356,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_tier1/KOL_T1_ROYAL__06_Arrival.fbx",
+      "meshObjects": 10,
+      "triangles": 1360,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": 44,
+  "representativeRoundTrip": "../../../../exports/kolkata_tier1/KOL_T1_ROYAL__02_Window_Bays.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 2.6702880859375e-05,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "previews": [
+    "preview-day.png",
+    "preview-reverse.png",
+    "preview-night.png"
+  ]
+}

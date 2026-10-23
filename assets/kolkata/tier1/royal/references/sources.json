@@ -1,0 +1,62 @@
+[
+  {
+    "building": "royal",
+    "label": "01 exterior-dusk.png",
+    "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcroyalbengal-kolkata/gallery/overview/exterior-dusk.png",
+    "source": "https://www.itchotels.com/in/en/itcroyalbengal-kolkata/gallery",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/royal/01_exterior-dusk.png.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "royal",
+    "label": "02 ITC-royal-bengal.png",
+    "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcroyalbengal-kolkata/gallery/overview/ITC-royal-bengal.png",
+    "source": "https://www.itchotels.com/in/en/itcroyalbengal-kolkata/gallery",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/royal/02_ITC-royal-bengal.png.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "royal",
+    "label": "03 porte-cochure.png",
+    "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcroyalbengal-kolkata/gallery/overview/porte-cochure.png",
+    "source": "https://www.itchotels.com/in/en/itcroyalbengal-kolkata/gallery",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/royal/03_porte-cochure.png.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "royal",
+    "label": "06 facade proportions",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/ITC_Royal_Bengal_in_April_2026.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:ITC_Royal_Bengal_in_April_2026.webp",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/royal/06_facade_proportions.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "royal",
+    "label": "Broad Royal Bengal oblique from Marriott property gallery",
+    "image": "https://cache.marriott.com/is/image/marriotts7prod/cculr-exterior-9259:Classic-Hor?wid=1400&fit=constrain",
+    "source": "https://www.marriott.com/en-us/hotels/cculr-itc-royal-bengal-a-luxury-collection-hotel-kolkata/photos/",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/royal/M01_Marriott_exterior.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  },
+  {
+    "building": "royal",
+    "label": "P08 Hitesh Toolsidass study",
+    "image": "https://images.squarespace-cdn.com/content/v1/56ac9b5fbe7b963e3275cdf1/08ab92f5-f10d-4852-8c5a-b7abf4617350/9.jpg?format=1500w",
+    "source": "https://hiteshtoolsidass.com/itc-royal-bengal",
+    "kind": "exterior photograph or published architectural view; see source",
+    "rights": "Reference study only. Photographs are not redistributed or used as game textures.",
+    "local": "artifacts/references/tier1/royal/P08_Hitesh_Toolsidass_study.jpg",
+    "reviewStatus": "Visually reviewed and retained for exterior study"
+  }
+]
