@@ -1,0 +1,100 @@
+{
+  "path": "artifacts/recovery/HoodTesting-pre-Task007.rbxm",
+  "bindings": [
+    {
+      "class": "Folder",
+      "service": "Workspace",
+      "index": 1,
+      "name": "World"
+    },
+    {
+      "class": "Terrain",
+      "service": "Workspace",
+      "index": 2,
+      "name": "Terrain"
+    },
+    {
+      "class": "Sky",
+      "service": "Lighting",
+      "index": 3,
+      "name": "Sky"
+    },
+    {
+      "class": "SunRaysEffect",
+      "service": "Lighting",
+      "index": 4,
+      "name": "SunRays"
+    },
+    {
+      "class": "Atmosphere",
+      "service": "Lighting",
+      "index": 5,
+      "name": "KolkataAfternoonHaze"
+    },
+    {
+      "class": "BloomEffect",
+      "service": "Lighting",
+      "index": 6,
+      "name": "Bloom"
+    },
+    {
+      "class": "DepthOfFieldEffect",
+      "service": "Lighting",
+      "index": 7,
+      "name": "DepthOfField"
+    },
+    {
+      "class": "ColorCorrectionEffect",
+      "service": "Lighting",
+      "index": 8,
+      "name": "KolkataWarmGrade"
+    },
+    {
+      "class": "Folder",
+      "service": "ServerStorage",
+      "index": 9,
+      "name": "WorldAuthoring"
+    },
+    {
+      "class": "StarterPlayerScripts",
+      "service": "StarterPlayer",
+      "index": 10,
+      "name": "StarterPlayerScripts"
+    },
+    {
+      "class": "StarterCharacterScripts",
+      "service": "StarterPlayer",
+      "index": 11,
+      "name": "StarterCharacterScripts"
+    },
+    {
+      "class": "ChatWindowConfiguration",
+      "service": "TextChatService",
+      "index": 12,
+      "name": "ChatWindowConfiguration"
+    },
+    {
+      "class": "ChatInputBarConfiguration",
+      "service": "TextChatService",
+      "index": 13,
+      "name": "ChatInputBarConfiguration"
+    },
+    {
+      "class": "BubbleChatConfiguration",
+      "service": "TextChatService",
+      "index": 14,
+      "name": "BubbleChatConfiguration"
+    },
+    {
+      "class": "ChannelTabsConfiguration",
+      "service": "TextChatService",
+      "index": 15,
+      "name": "ChannelTabsConfiguration"
+    }
+  ],
+  "phase": "pre",
+  "format": "Engine model package with service bindings; not native rbxl",
+  "placeId": 96105551033653,
+  "bytes": 2744854,
+  "sha256": "e9d1c680b2a7135c75a2b700f179995dce0d11850e087b289ecda154a99b440f"
+}

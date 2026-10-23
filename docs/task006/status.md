@@ -1,4 +1,12 @@
-# Task 006 status — saved filesystem work, world persistence pending
+# Task 006 status — historical disconnection and recovery
+
+**23 October, Task 007 recovery update:** the reconnected Hood Testing session
+contained all seven rebuilt district folders. The current city and native
+Terrain are now saved in `artifacts/recovery/HoodTesting-Task007.rbxm`; the engine
+reopened the package successfully. See [Task 007 recovery](../task007/README.md).
+This resolves the missing current-world recovery package. No additional Task 006
+gameplay or performance verification was undertaken. The notes below preserve
+the earlier session's status; native `.rbxl` saving remains unavailable.
 
 ## Authored and inspected before Studio disconnected
 

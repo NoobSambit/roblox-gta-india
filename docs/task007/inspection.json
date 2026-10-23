@@ -1,0 +1,61 @@
+{
+  "routes": {
+    "PaintingLoop": {
+      "failures": 0,
+      "samples": 50
+    },
+    "PublicCollectionsSideA": {
+      "failures": 0,
+      "samples": 102
+    },
+    "SculptureSideB": {
+      "failures": 0,
+      "samples": 75
+    },
+    "MainPortals": {
+      "failures": 0,
+      "samples": 81
+    },
+    "RestrictedArchiveLoop": {
+      "failures": 0,
+      "samples": 84
+    }
+  },
+  "preserved": {
+    "Exterior": {
+      "unchanged": true,
+      "parts": 200
+    },
+    "Para01Connection": {
+      "unchanged": true,
+      "parts": 4
+    },
+    "Interior": {
+      "unchanged": true,
+      "parts": 99
+    },
+    "Grounds": {
+      "unchanged": true,
+      "parts": 466
+    },
+    "Structure": {
+      "unchanged": true,
+      "parts": 93
+    },
+    "Collision": {
+      "unchanged": true,
+      "parts": 58
+    }
+  },
+  "loot": 18,
+  "issues": [],
+  "mode": "Edit-mode clearance/floor inspection plus viewport review",
+  "rooms": 7,
+  "security": {
+    "ProtectedCase": 3,
+    "StaticLaserGrid": 2,
+    "ElectricalFloor": 1,
+    "SecurityTerminal": 2,
+    "MovingLaser": 1
+  }
+}

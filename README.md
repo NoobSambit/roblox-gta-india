@@ -2,11 +2,16 @@
 
 Git remote: [roblox-gta-india](https://github.com/NoobSambit/roblox-gta-india). See [repository workflow](docs/repository-workflow.md) for source ownership, commits and asset tracking.
 
-**Task 006 is in progress.** The rebuilt city was assembled and received focused
-Studio checks. Studio disconnected before the final recovery save; persistence
-of that authored session is not yet confirmed. See [current status and recovery
-next steps](docs/task006/status.md). The older milestone descriptions below are
-historical, not the current integration status.
+**Task 007: Victoria Memorial heist greybox** adds seven lower-floor rooms,
+18 distributed exhibit placeholders, nine inactive security reservations and
+four existing entry/escape routes. The approved exterior and original shell are
+preserved. See [layout, screenshots and recovery](docs/task007/README.md).
+
+Task 006's rebuilt district folders survived in the current Studio world and
+are included in Task 007's full-world engine recovery package. See
+[Task 006's historical disconnection notes](docs/task006/status.md) and the
+[latest recovery record](docs/task007/snapshot.json). The older milestone
+descriptions below are historical, not the current integration status.
 
 For the current bulk import, [exports/roblox_import](exports/roblox_import/README.md)
 contains **61 FBX files in one flat folder**: all five Tier 2 buildings, all 27

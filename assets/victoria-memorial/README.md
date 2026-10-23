@@ -4,6 +4,12 @@
 
 ## Files and ownership
 
+Task 007 adds a Studio-owned interior heist greybox without changing this Blender
+shell or any approved original geometry. See [the layout and recovery notes](../../docs/task007/README.md).
+The old Blender/FBX exports do not contain this additive greybox. Preserve the
+live `VictoriaMemorial.HeistGreybox` and its Task 007 recovery package during any
+future reimport; do not rerun the landmark builder over it.
+
 - `VictoriaMemorial.blend`: editable original mesh library, linked architecture instances, structural parts, interior, grounds, simple extra collision, and metadata. `VM_Presentation` contains review lights/camera only.
 - `VictoriaMemorial_Architecture.fbx`: assembled exterior and interior shell, separated by component and material.
 - `VictoriaMemorial_MeshLibrary.fbx`: 54 reusable material-separated meshes. Their origins overlap intentionally; this is a component library, not the assembled scene.
