@@ -1,0 +1,241 @@
+{
+  "assetId": "KOL_T25_RETAIL",
+  "name": "General retail store",
+  "features": "Wrap awning, shaded veranda and traditional shutter rhythm",
+  "triangles": 3324,
+  "meshGroups": 7,
+  "source": "KOL_T25_RETAIL/KOL_T25_RETAIL.blend",
+  "export": "KOL_T25_RETAIL/KOL_T25_RETAIL.fbx",
+  "boundsMinStuds": [
+    -30.5,
+    0.0,
+    -30.0
+  ],
+  "boundsMaxStuds": [
+    30.5,
+    34.6,
+    22.2
+  ],
+  "dimensionsStuds": {
+    "width": 61.0,
+    "height": 34.6,
+    "depth": 52.2
+  },
+  "front": "-Z",
+  "pivot": [
+    0,
+    0,
+    0
+  ],
+  "entrance": [
+    0,
+    0.6,
+    -22.0
+  ],
+  "rearExit": [
+    0,
+    0.6,
+    21.1
+  ],
+  "clearDoorWidth": 12,
+  "clearCeilingHeight": 16,
+  "objectiveAttachment": [
+    0,
+    2,
+    8.4
+  ],
+  "collisionBoxes": [
+    {
+      "name": "WalkableFloor",
+      "position": [
+        0,
+        0.3,
+        0
+      ],
+      "size": [
+        58,
+        0.6,
+        42
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "WestWall",
+      "position": [
+        -28.4,
+        8.6,
+        0
+      ],
+      "size": [
+        1.2,
+        16,
+        42
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EastWall",
+      "position": [
+        28.4,
+        8.6,
+        0
+      ],
+      "size": [
+        1.2,
+        16,
+        42
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "FrontDoorSide",
+      "position": [
+        -17.5,
+        8.6,
+        -20.4
+      ],
+      "size": [
+        23.0,
+        16,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "RearDoorSide",
+      "position": [
+        -16.5,
+        8.6,
+        20.4
+      ],
+      "size": [
+        25.0,
+        16,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "FrontDoorSide",
+      "position": [
+        17.5,
+        8.6,
+        -20.4
+      ],
+      "size": [
+        23.0,
+        16,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "RearDoorSide",
+      "position": [
+        16.5,
+        8.6,
+        20.4
+      ],
+      "size": [
+        25.0,
+        16,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "FrontLintel",
+      "position": [
+        0,
+        15.1,
+        -20.4
+      ],
+      "size": [
+        12,
+        3,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "RearLintel",
+      "position": [
+        0,
+        15.1,
+        20.4
+      ],
+      "size": [
+        8,
+        3,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Ceiling",
+      "position": [
+        0,
+        16.9,
+        0
+      ],
+      "size": [
+        58,
+        1,
+        42
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "ClosedUpperStorey",
+      "position": [
+        0,
+        23.7,
+        0
+      ],
+      "size": [
+        58,
+        12.6,
+        42
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EntranceLanding",
+      "position": [
+        0,
+        0.3,
+        -24.9
+      ],
+      "size": [
+        60,
+        0.6,
+        7.8
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EntranceStep",
+      "position": [
+        0,
+        0.15,
+        -29.4
+      ],
+      "size": [
+        61,
+        0.3,
+        1.2
+      ],
+      "yaw": 0
+    }
+  ],
+  "textures": [],
+  "materials": [
+    "IH_T25_B9AA8B",
+    "IH_T25_B9C6AC",
+    "IH_T25_E8E4D7",
+    "IH_T25_667773",
+    "IH_T25_304E55",
+    "IH_T25_53696F",
+    "IH_T25_5B8DA5"
+  ]
+}

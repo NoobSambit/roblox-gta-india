@@ -1,8 +1,9 @@
 # Flat Roblox import folder
 
-56 individual FBX exports in this one folder:
+61 individual FBX exports in this one folder:
 
 - Tier 2: 5 landmark buildings.
+- Tier 2.5: 5 new accessible commercial shells (`KOL_T25_*.fbx`).
 - Tier 3: 27 buildings (10 old, 9 modern, 5 mixed-use, 3 informal).
 - Riverfront: 7 support modules, 15 props and 2 context structures.
 
@@ -73,3 +74,11 @@ Import each unique design once and reuse its imported mesh assets for future pla
 | riverfront_structures | `KOL_HBR_RF_05.fbx` |
 | riverfront_structures | `KOL_HBR_RF_06.fbx` |
 | riverfront_structures | `KOL_HBR_RF_07.fbx` |
+
+## Task 006 additions
+
+- `KOL_T25_BANK.fbx`
+- `KOL_T25_JEWELLERY.fbx`
+- `KOL_T25_RETAIL.fbx`
+- `KOL_T25_ELECTRONICS.fbx`
+- `KOL_T25_FASHION.fbx`

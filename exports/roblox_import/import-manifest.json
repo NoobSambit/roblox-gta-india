@@ -1,11 +1,12 @@
 {
-  "fileCount": 56,
+  "fileCount": 61,
   "counts": {
     "tier2": 5,
     "tier3": 27,
     "context": 2,
     "props": 15,
-    "riverfront_structures": 7
+    "riverfront_structures": 7,
+    "tier25": 5
   },
   "assets": [
     {
@@ -455,6 +456,46 @@
       "canonicalExport": "assets/kolkata/howrah_bridge/riverfront_structures/KOL_HBR_RF_07/KOL_HBR_RF_07.fbx",
       "bytes": 24700,
       "sha256": "6c81d543330ccde6f6ef25849ff64ca97a33708490dc4c252136e3e7a057edb3"
+    },
+    {
+      "assetId": "KOL_T25_BANK",
+      "category": "tier25",
+      "filename": "KOL_T25_BANK.fbx",
+      "canonicalExport": "assets/kolkata/tier25/KOL_T25_BANK/KOL_T25_BANK.fbx",
+      "bytes": 80716,
+      "sha256": "e08f76dabccdbb6ba86e98a3cc87c39aaef4550d57beed9ee2535e5220ee2c85"
+    },
+    {
+      "assetId": "KOL_T25_JEWELLERY",
+      "category": "tier25",
+      "filename": "KOL_T25_JEWELLERY.fbx",
+      "canonicalExport": "assets/kolkata/tier25/KOL_T25_JEWELLERY/KOL_T25_JEWELLERY.fbx",
+      "bytes": 77996,
+      "sha256": "a859f0eb75b2587ca794bb1c3d5f340e03ff322249626cce46a5ea111158bc69"
+    },
+    {
+      "assetId": "KOL_T25_RETAIL",
+      "category": "tier25",
+      "filename": "KOL_T25_RETAIL.fbx",
+      "canonicalExport": "assets/kolkata/tier25/KOL_T25_RETAIL/KOL_T25_RETAIL.fbx",
+      "bytes": 69388,
+      "sha256": "677f3ce2385d27b2df4287cbb21f43c5767f813e9eb9364af8c411d8b0740042"
+    },
+    {
+      "assetId": "KOL_T25_ELECTRONICS",
+      "category": "tier25",
+      "filename": "KOL_T25_ELECTRONICS.fbx",
+      "canonicalExport": "assets/kolkata/tier25/KOL_T25_ELECTRONICS/KOL_T25_ELECTRONICS.fbx",
+      "bytes": 67724,
+      "sha256": "028ae975021dbe9d63f6bd391df679045dbc9d0d95a047b17240a26ab89eed61"
+    },
+    {
+      "assetId": "KOL_T25_FASHION",
+      "category": "tier25",
+      "filename": "KOL_T25_FASHION.fbx",
+      "canonicalExport": "assets/kolkata/tier25/KOL_T25_FASHION/KOL_T25_FASHION.fbx",
+      "bytes": 72348,
+      "sha256": "df92277feee0f3734e25c0983e30a671510416dc540992ba791821662552895c"
     }
   ]
 }

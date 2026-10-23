@@ -1,0 +1,1292 @@
+[
+  {
+    "assetId": "KOL_T25_BANK",
+    "name": "Bank",
+    "features": "Civic portico, pediment, stepped cornices and roof balustrade",
+    "triangles": 3984,
+    "meshGroups": 7,
+    "source": "KOL_T25_BANK/KOL_T25_BANK.blend",
+    "export": "KOL_T25_BANK/KOL_T25_BANK.fbx",
+    "boundsMinStuds": [
+      -34.5,
+      0.0,
+      -34.0
+    ],
+    "boundsMaxStuds": [
+      34.5,
+      40.400000000000006,
+      26.2
+    ],
+    "dimensionsStuds": {
+      "width": 69.0,
+      "height": 40.400000000000006,
+      "depth": 60.2
+    },
+    "front": "-Z",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "entrance": [
+      0,
+      0.6,
+      -26.0
+    ],
+    "rearExit": [
+      0,
+      0.6,
+      25.1
+    ],
+    "clearDoorWidth": 12,
+    "clearCeilingHeight": 18,
+    "objectiveAttachment": [
+      0,
+      2,
+      10.0
+    ],
+    "collisionBoxes": [
+      {
+        "name": "WalkableFloor",
+        "position": [
+          0,
+          0.3,
+          0
+        ],
+        "size": [
+          66,
+          0.6,
+          50
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "WestWall",
+        "position": [
+          -32.4,
+          9.6,
+          0
+        ],
+        "size": [
+          1.2,
+          18,
+          50
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EastWall",
+        "position": [
+          32.4,
+          9.6,
+          0
+        ],
+        "size": [
+          1.2,
+          18,
+          50
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          -19.5,
+          9.6,
+          -24.4
+        ],
+        "size": [
+          27.0,
+          18,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          -18.5,
+          9.6,
+          24.4
+        ],
+        "size": [
+          29.0,
+          18,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          19.5,
+          9.6,
+          -24.4
+        ],
+        "size": [
+          27.0,
+          18,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          18.5,
+          9.6,
+          24.4
+        ],
+        "size": [
+          29.0,
+          18,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontLintel",
+        "position": [
+          0,
+          17.1,
+          -24.4
+        ],
+        "size": [
+          12,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearLintel",
+        "position": [
+          0,
+          17.1,
+          24.4
+        ],
+        "size": [
+          8,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Ceiling",
+        "position": [
+          0,
+          18.9,
+          0
+        ],
+        "size": [
+          66,
+          1,
+          50
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "ClosedUpperStorey",
+        "position": [
+          0,
+          25.7,
+          0
+        ],
+        "size": [
+          66,
+          12.6,
+          50
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceLanding",
+        "position": [
+          0,
+          0.3,
+          -28.9
+        ],
+        "size": [
+          68,
+          0.6,
+          7.8
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceStep",
+        "position": [
+          0,
+          0.15,
+          -33.4
+        ],
+        "size": [
+          69,
+          0.3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "PorticoColumn",
+        "position": [
+          -27,
+          9.6,
+          -30.0
+        ],
+        "size": [
+          2.1,
+          18,
+          2.1
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "PorticoColumn",
+        "position": [
+          -9,
+          9.6,
+          -30.0
+        ],
+        "size": [
+          2.1,
+          18,
+          2.1
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "PorticoColumn",
+        "position": [
+          9,
+          9.6,
+          -30.0
+        ],
+        "size": [
+          2.1,
+          18,
+          2.1
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "PorticoColumn",
+        "position": [
+          27,
+          9.6,
+          -30.0
+        ],
+        "size": [
+          2.1,
+          18,
+          2.1
+        ],
+        "yaw": 0
+      }
+    ],
+    "textures": [],
+    "materials": [
+      "IH_T25_B9AA8B",
+      "IH_T25_DFD5BE",
+      "IH_T25_E8E4D7",
+      "IH_T25_667773",
+      "IH_T25_304E55",
+      "IH_T25_53696F",
+      "IH_T25_5B8DA5"
+    ]
+  },
+  {
+    "assetId": "KOL_T25_JEWELLERY",
+    "name": "Jewellery showroom",
+    "features": "Complete gold-framed arched windows and supported sign canopy",
+    "triangles": 3436,
+    "meshGroups": 8,
+    "source": "KOL_T25_JEWELLERY/KOL_T25_JEWELLERY.blend",
+    "export": "KOL_T25_JEWELLERY/KOL_T25_JEWELLERY.fbx",
+    "boundsMinStuds": [
+      -27.5,
+      0.0,
+      -31.0
+    ],
+    "boundsMaxStuds": [
+      27.5,
+      34.7,
+      23.2
+    ],
+    "dimensionsStuds": {
+      "width": 55.0,
+      "height": 34.7,
+      "depth": 54.2
+    },
+    "front": "-Z",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "entrance": [
+      0,
+      0.6,
+      -23.0
+    ],
+    "rearExit": [
+      0,
+      0.6,
+      22.1
+    ],
+    "clearDoorWidth": 12,
+    "clearCeilingHeight": 16,
+    "objectiveAttachment": [
+      0,
+      2,
+      8.8
+    ],
+    "collisionBoxes": [
+      {
+        "name": "WalkableFloor",
+        "position": [
+          0,
+          0.3,
+          0
+        ],
+        "size": [
+          52,
+          0.6,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "WestWall",
+        "position": [
+          -25.4,
+          8.6,
+          0
+        ],
+        "size": [
+          1.2,
+          16,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EastWall",
+        "position": [
+          25.4,
+          8.6,
+          0
+        ],
+        "size": [
+          1.2,
+          16,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          -16.0,
+          8.6,
+          -21.4
+        ],
+        "size": [
+          20.0,
+          16,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          -15.0,
+          8.6,
+          21.4
+        ],
+        "size": [
+          22.0,
+          16,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          16.0,
+          8.6,
+          -21.4
+        ],
+        "size": [
+          20.0,
+          16,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          15.0,
+          8.6,
+          21.4
+        ],
+        "size": [
+          22.0,
+          16,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontLintel",
+        "position": [
+          0,
+          15.1,
+          -21.4
+        ],
+        "size": [
+          12,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearLintel",
+        "position": [
+          0,
+          15.1,
+          21.4
+        ],
+        "size": [
+          8,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Ceiling",
+        "position": [
+          0,
+          16.9,
+          0
+        ],
+        "size": [
+          52,
+          1,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "ClosedUpperStorey",
+        "position": [
+          0,
+          23.7,
+          0
+        ],
+        "size": [
+          52,
+          12.6,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceLanding",
+        "position": [
+          0,
+          0.3,
+          -25.9
+        ],
+        "size": [
+          54,
+          0.6,
+          7.8
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceStep",
+        "position": [
+          0,
+          0.15,
+          -30.4
+        ],
+        "size": [
+          55,
+          0.3,
+          1.2
+        ],
+        "yaw": 0
+      }
+    ],
+    "textures": [],
+    "materials": [
+      "IH_T25_B9AA8B",
+      "IH_T25_D5C6AD",
+      "IH_T25_E8E4D7",
+      "IH_T25_667773",
+      "IH_T25_304E55",
+      "IH_T25_B49A60",
+      "IH_T25_53696F",
+      "IH_T25_5B8DA5"
+    ]
+  },
+  {
+    "assetId": "KOL_T25_RETAIL",
+    "name": "General retail store",
+    "features": "Wrap awning, shaded veranda and traditional shutter rhythm",
+    "triangles": 3324,
+    "meshGroups": 7,
+    "source": "KOL_T25_RETAIL/KOL_T25_RETAIL.blend",
+    "export": "KOL_T25_RETAIL/KOL_T25_RETAIL.fbx",
+    "boundsMinStuds": [
+      -30.5,
+      0.0,
+      -30.0
+    ],
+    "boundsMaxStuds": [
+      30.5,
+      34.6,
+      22.2
+    ],
+    "dimensionsStuds": {
+      "width": 61.0,
+      "height": 34.6,
+      "depth": 52.2
+    },
+    "front": "-Z",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "entrance": [
+      0,
+      0.6,
+      -22.0
+    ],
+    "rearExit": [
+      0,
+      0.6,
+      21.1
+    ],
+    "clearDoorWidth": 12,
+    "clearCeilingHeight": 16,
+    "objectiveAttachment": [
+      0,
+      2,
+      8.4
+    ],
+    "collisionBoxes": [
+      {
+        "name": "WalkableFloor",
+        "position": [
+          0,
+          0.3,
+          0
+        ],
+        "size": [
+          58,
+          0.6,
+          42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "WestWall",
+        "position": [
+          -28.4,
+          8.6,
+          0
+        ],
+        "size": [
+          1.2,
+          16,
+          42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EastWall",
+        "position": [
+          28.4,
+          8.6,
+          0
+        ],
+        "size": [
+          1.2,
+          16,
+          42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          -17.5,
+          8.6,
+          -20.4
+        ],
+        "size": [
+          23.0,
+          16,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          -16.5,
+          8.6,
+          20.4
+        ],
+        "size": [
+          25.0,
+          16,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          17.5,
+          8.6,
+          -20.4
+        ],
+        "size": [
+          23.0,
+          16,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          16.5,
+          8.6,
+          20.4
+        ],
+        "size": [
+          25.0,
+          16,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontLintel",
+        "position": [
+          0,
+          15.1,
+          -20.4
+        ],
+        "size": [
+          12,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearLintel",
+        "position": [
+          0,
+          15.1,
+          20.4
+        ],
+        "size": [
+          8,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Ceiling",
+        "position": [
+          0,
+          16.9,
+          0
+        ],
+        "size": [
+          58,
+          1,
+          42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "ClosedUpperStorey",
+        "position": [
+          0,
+          23.7,
+          0
+        ],
+        "size": [
+          58,
+          12.6,
+          42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceLanding",
+        "position": [
+          0,
+          0.3,
+          -24.9
+        ],
+        "size": [
+          60,
+          0.6,
+          7.8
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceStep",
+        "position": [
+          0,
+          0.15,
+          -29.4
+        ],
+        "size": [
+          61,
+          0.3,
+          1.2
+        ],
+        "yaw": 0
+      }
+    ],
+    "textures": [],
+    "materials": [
+      "IH_T25_B9AA8B",
+      "IH_T25_B9C6AC",
+      "IH_T25_E8E4D7",
+      "IH_T25_667773",
+      "IH_T25_304E55",
+      "IH_T25_53696F",
+      "IH_T25_5B8DA5"
+    ]
+  },
+  {
+    "assetId": "KOL_T25_ELECTRONICS",
+    "name": "Electronics showroom",
+    "features": "Offset upper volume, vertical service fins and broad display glazing",
+    "triangles": 3248,
+    "meshGroups": 7,
+    "source": "KOL_T25_ELECTRONICS/KOL_T25_ELECTRONICS.blend",
+    "export": "KOL_T25_ELECTRONICS/KOL_T25_ELECTRONICS.fbx",
+    "boundsMinStuds": [
+      -33.5,
+      0.0,
+      -32.0
+    ],
+    "boundsMaxStuds": [
+      33.5,
+      33.85,
+      24.2
+    ],
+    "dimensionsStuds": {
+      "width": 67.0,
+      "height": 33.85,
+      "depth": 56.2
+    },
+    "front": "-Z",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "entrance": [
+      0,
+      0.6,
+      -24.0
+    ],
+    "rearExit": [
+      0,
+      0.6,
+      23.1
+    ],
+    "clearDoorWidth": 12,
+    "clearCeilingHeight": 18,
+    "objectiveAttachment": [
+      0,
+      2,
+      9.200000000000001
+    ],
+    "collisionBoxes": [
+      {
+        "name": "WalkableFloor",
+        "position": [
+          0,
+          0.3,
+          0
+        ],
+        "size": [
+          64,
+          0.6,
+          46
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "WestWall",
+        "position": [
+          -31.4,
+          9.6,
+          0
+        ],
+        "size": [
+          1.2,
+          18,
+          46
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EastWall",
+        "position": [
+          31.4,
+          9.6,
+          0
+        ],
+        "size": [
+          1.2,
+          18,
+          46
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          -19.0,
+          9.6,
+          -22.4
+        ],
+        "size": [
+          26.0,
+          18,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          -18.0,
+          9.6,
+          22.4
+        ],
+        "size": [
+          28.0,
+          18,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          19.0,
+          9.6,
+          -22.4
+        ],
+        "size": [
+          26.0,
+          18,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          18.0,
+          9.6,
+          22.4
+        ],
+        "size": [
+          28.0,
+          18,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontLintel",
+        "position": [
+          0,
+          17.1,
+          -22.4
+        ],
+        "size": [
+          12,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearLintel",
+        "position": [
+          0,
+          17.1,
+          22.4
+        ],
+        "size": [
+          8,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Ceiling",
+        "position": [
+          0,
+          18.9,
+          0
+        ],
+        "size": [
+          64,
+          1,
+          46
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "ClosedUpperStorey",
+        "position": [
+          0,
+          25.7,
+          0
+        ],
+        "size": [
+          64,
+          12.6,
+          46
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceLanding",
+        "position": [
+          0,
+          0.3,
+          -26.9
+        ],
+        "size": [
+          66,
+          0.6,
+          7.8
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceStep",
+        "position": [
+          0,
+          0.15,
+          -31.4
+        ],
+        "size": [
+          67,
+          0.3,
+          1.2
+        ],
+        "yaw": 0
+      }
+    ],
+    "textures": [],
+    "materials": [
+      "IH_T25_B9AA8B",
+      "IH_T25_B6C5C7",
+      "IH_T25_E8E4D7",
+      "IH_T25_667773",
+      "IH_T25_304E55",
+      "IH_T25_53696F",
+      "IH_T25_5B8DA5"
+    ]
+  },
+  {
+    "assetId": "KOL_T25_FASHION",
+    "name": "Fashion store",
+    "features": "Art Deco piers, curved entrance hood and stepped central parapet",
+    "triangles": 3340,
+    "meshGroups": 7,
+    "source": "KOL_T25_FASHION/KOL_T25_FASHION.blend",
+    "export": "KOL_T25_FASHION/KOL_T25_FASHION.fbx",
+    "boundsMinStuds": [
+      -28.5,
+      0.0,
+      -31.0
+    ],
+    "boundsMaxStuds": [
+      28.5,
+      35.85000000000001,
+      23.2
+    ],
+    "dimensionsStuds": {
+      "width": 57.0,
+      "height": 35.85000000000001,
+      "depth": 54.2
+    },
+    "front": "-Z",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "entrance": [
+      0,
+      0.6,
+      -23.0
+    ],
+    "rearExit": [
+      0,
+      0.6,
+      22.1
+    ],
+    "clearDoorWidth": 12,
+    "clearCeilingHeight": 17,
+    "objectiveAttachment": [
+      0,
+      2,
+      8.8
+    ],
+    "collisionBoxes": [
+      {
+        "name": "WalkableFloor",
+        "position": [
+          0,
+          0.3,
+          0
+        ],
+        "size": [
+          54,
+          0.6,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "WestWall",
+        "position": [
+          -26.4,
+          9.1,
+          0
+        ],
+        "size": [
+          1.2,
+          17,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EastWall",
+        "position": [
+          26.4,
+          9.1,
+          0
+        ],
+        "size": [
+          1.2,
+          17,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          -16.5,
+          9.1,
+          -21.4
+        ],
+        "size": [
+          21.0,
+          17,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          -15.5,
+          9.1,
+          21.4
+        ],
+        "size": [
+          23.0,
+          17,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontDoorSide",
+        "position": [
+          16.5,
+          9.1,
+          -21.4
+        ],
+        "size": [
+          21.0,
+          17,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearDoorSide",
+        "position": [
+          15.5,
+          9.1,
+          21.4
+        ],
+        "size": [
+          23.0,
+          17,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "FrontLintel",
+        "position": [
+          0,
+          16.1,
+          -21.4
+        ],
+        "size": [
+          12,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "RearLintel",
+        "position": [
+          0,
+          16.1,
+          21.4
+        ],
+        "size": [
+          8,
+          3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Ceiling",
+        "position": [
+          0,
+          17.9,
+          0
+        ],
+        "size": [
+          54,
+          1,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "ClosedUpperStorey",
+        "position": [
+          0,
+          24.7,
+          0
+        ],
+        "size": [
+          54,
+          12.6,
+          44
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceLanding",
+        "position": [
+          0,
+          0.3,
+          -25.9
+        ],
+        "size": [
+          56,
+          0.6,
+          7.8
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceStep",
+        "position": [
+          0,
+          0.15,
+          -30.4
+        ],
+        "size": [
+          57,
+          0.3,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceHoodColumn",
+        "position": [
+          -8.4,
+          7.3,
+          -26.2
+        ],
+        "size": [
+          1.2,
+          13.4,
+          1.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "EntranceHoodColumn",
+        "position": [
+          8.4,
+          7.3,
+          -26.2
+        ],
+        "size": [
+          1.2,
+          13.4,
+          1.2
+        ],
+        "yaw": 0
+      }
+    ],
+    "textures": [],
+    "materials": [
+      "IH_T25_B9AA8B",
+      "IH_T25_C9AB99",
+      "IH_T25_E8E4D7",
+      "IH_T25_667773",
+      "IH_T25_304E55",
+      "IH_T25_53696F",
+      "IH_T25_5B8DA5"
+    ]
+  }
+]

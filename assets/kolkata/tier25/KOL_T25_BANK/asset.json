@@ -1,0 +1,297 @@
+{
+  "assetId": "KOL_T25_BANK",
+  "name": "Bank",
+  "features": "Civic portico, pediment, stepped cornices and roof balustrade",
+  "triangles": 3984,
+  "meshGroups": 7,
+  "source": "KOL_T25_BANK/KOL_T25_BANK.blend",
+  "export": "KOL_T25_BANK/KOL_T25_BANK.fbx",
+  "boundsMinStuds": [
+    -34.5,
+    0.0,
+    -34.0
+  ],
+  "boundsMaxStuds": [
+    34.5,
+    40.400000000000006,
+    26.2
+  ],
+  "dimensionsStuds": {
+    "width": 69.0,
+    "height": 40.400000000000006,
+    "depth": 60.2
+  },
+  "front": "-Z",
+  "pivot": [
+    0,
+    0,
+    0
+  ],
+  "entrance": [
+    0,
+    0.6,
+    -26.0
+  ],
+  "rearExit": [
+    0,
+    0.6,
+    25.1
+  ],
+  "clearDoorWidth": 12,
+  "clearCeilingHeight": 18,
+  "objectiveAttachment": [
+    0,
+    2,
+    10.0
+  ],
+  "collisionBoxes": [
+    {
+      "name": "WalkableFloor",
+      "position": [
+        0,
+        0.3,
+        0
+      ],
+      "size": [
+        66,
+        0.6,
+        50
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "WestWall",
+      "position": [
+        -32.4,
+        9.6,
+        0
+      ],
+      "size": [
+        1.2,
+        18,
+        50
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EastWall",
+      "position": [
+        32.4,
+        9.6,
+        0
+      ],
+      "size": [
+        1.2,
+        18,
+        50
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "FrontDoorSide",
+      "position": [
+        -19.5,
+        9.6,
+        -24.4
+      ],
+      "size": [
+        27.0,
+        18,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "RearDoorSide",
+      "position": [
+        -18.5,
+        9.6,
+        24.4
+      ],
+      "size": [
+        29.0,
+        18,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "FrontDoorSide",
+      "position": [
+        19.5,
+        9.6,
+        -24.4
+      ],
+      "size": [
+        27.0,
+        18,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "RearDoorSide",
+      "position": [
+        18.5,
+        9.6,
+        24.4
+      ],
+      "size": [
+        29.0,
+        18,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "FrontLintel",
+      "position": [
+        0,
+        17.1,
+        -24.4
+      ],
+      "size": [
+        12,
+        3,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "RearLintel",
+      "position": [
+        0,
+        17.1,
+        24.4
+      ],
+      "size": [
+        8,
+        3,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Ceiling",
+      "position": [
+        0,
+        18.9,
+        0
+      ],
+      "size": [
+        66,
+        1,
+        50
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "ClosedUpperStorey",
+      "position": [
+        0,
+        25.7,
+        0
+      ],
+      "size": [
+        66,
+        12.6,
+        50
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EntranceLanding",
+      "position": [
+        0,
+        0.3,
+        -28.9
+      ],
+      "size": [
+        68,
+        0.6,
+        7.8
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EntranceStep",
+      "position": [
+        0,
+        0.15,
+        -33.4
+      ],
+      "size": [
+        69,
+        0.3,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        -27,
+        9.6,
+        -30.0
+      ],
+      "size": [
+        2.1,
+        18,
+        2.1
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        -9,
+        9.6,
+        -30.0
+      ],
+      "size": [
+        2.1,
+        18,
+        2.1
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        9,
+        9.6,
+        -30.0
+      ],
+      "size": [
+        2.1,
+        18,
+        2.1
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "PorticoColumn",
+      "position": [
+        27,
+        9.6,
+        -30.0
+      ],
+      "size": [
+        2.1,
+        18,
+        2.1
+      ],
+      "yaw": 0
+    }
+  ],
+  "textures": [],
+  "materials": [
+    "IH_T25_B9AA8B",
+    "IH_T25_DFD5BE",
+    "IH_T25_E8E4D7",
+    "IH_T25_667773",
+    "IH_T25_304E55",
+    "IH_T25_53696F",
+    "IH_T25_5B8DA5"
+  ]
+}

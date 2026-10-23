@@ -1,0 +1,269 @@
+{
+  "assetId": "KOL_T25_FASHION",
+  "name": "Fashion store",
+  "features": "Art Deco piers, curved entrance hood and stepped central parapet",
+  "triangles": 3340,
+  "meshGroups": 7,
+  "source": "KOL_T25_FASHION/KOL_T25_FASHION.blend",
+  "export": "KOL_T25_FASHION/KOL_T25_FASHION.fbx",
+  "boundsMinStuds": [
+    -28.5,
+    0.0,
+    -31.0
+  ],
+  "boundsMaxStuds": [
+    28.5,
+    35.85000000000001,
+    23.2
+  ],
+  "dimensionsStuds": {
+    "width": 57.0,
+    "height": 35.85000000000001,
+    "depth": 54.2
+  },
+  "front": "-Z",
+  "pivot": [
+    0,
+    0,
+    0
+  ],
+  "entrance": [
+    0,
+    0.6,
+    -23.0
+  ],
+  "rearExit": [
+    0,
+    0.6,
+    22.1
+  ],
+  "clearDoorWidth": 12,
+  "clearCeilingHeight": 17,
+  "objectiveAttachment": [
+    0,
+    2,
+    8.8
+  ],
+  "collisionBoxes": [
+    {
+      "name": "WalkableFloor",
+      "position": [
+        0,
+        0.3,
+        0
+      ],
+      "size": [
+        54,
+        0.6,
+        44
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "WestWall",
+      "position": [
+        -26.4,
+        9.1,
+        0
+      ],
+      "size": [
+        1.2,
+        17,
+        44
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EastWall",
+      "position": [
+        26.4,
+        9.1,
+        0
+      ],
+      "size": [
+        1.2,
+        17,
+        44
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "FrontDoorSide",
+      "position": [
+        -16.5,
+        9.1,
+        -21.4
+      ],
+      "size": [
+        21.0,
+        17,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "RearDoorSide",
+      "position": [
+        -15.5,
+        9.1,
+        21.4
+      ],
+      "size": [
+        23.0,
+        17,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "FrontDoorSide",
+      "position": [
+        16.5,
+        9.1,
+        -21.4
+      ],
+      "size": [
+        21.0,
+        17,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "RearDoorSide",
+      "position": [
+        15.5,
+        9.1,
+        21.4
+      ],
+      "size": [
+        23.0,
+        17,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "FrontLintel",
+      "position": [
+        0,
+        16.1,
+        -21.4
+      ],
+      "size": [
+        12,
+        3,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "RearLintel",
+      "position": [
+        0,
+        16.1,
+        21.4
+      ],
+      "size": [
+        8,
+        3,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Ceiling",
+      "position": [
+        0,
+        17.9,
+        0
+      ],
+      "size": [
+        54,
+        1,
+        44
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "ClosedUpperStorey",
+      "position": [
+        0,
+        24.7,
+        0
+      ],
+      "size": [
+        54,
+        12.6,
+        44
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EntranceLanding",
+      "position": [
+        0,
+        0.3,
+        -25.9
+      ],
+      "size": [
+        56,
+        0.6,
+        7.8
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EntranceStep",
+      "position": [
+        0,
+        0.15,
+        -30.4
+      ],
+      "size": [
+        57,
+        0.3,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EntranceHoodColumn",
+      "position": [
+        -8.4,
+        7.3,
+        -26.2
+      ],
+      "size": [
+        1.2,
+        13.4,
+        1.2
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "EntranceHoodColumn",
+      "position": [
+        8.4,
+        7.3,
+        -26.2
+      ],
+      "size": [
+        1.2,
+        13.4,
+        1.2
+      ],
+      "yaw": 0
+    }
+  ],
+  "textures": [],
+  "materials": [
+    "IH_T25_B9AA8B",
+    "IH_T25_C9AB99",
+    "IH_T25_E8E4D7",
+    "IH_T25_667773",
+    "IH_T25_304E55",
+    "IH_T25_53696F",
+    "IH_T25_5B8DA5"
+  ]
+}
