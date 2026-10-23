@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_A01_COLUMN",
+  "category": "Architecture",
+  "name": "Simple 8-sided column",
+  "triangles": 140,
+  "triangleCap": 350,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.232,
+    "height": 14.0,
+    "depth": 2.232
+  },
+  "boundsMinStuds": [
+    -1.116,
+    0.0,
+    -1.116
+  ],
+  "boundsMaxStuds": [
+    1.116,
+    14.0,
+    1.116
+  ],
+  "source": "Architecture/VIC_A01_COLUMN/VIC_A01_COLUMN.blend",
+  "export": "Architecture/VIC_A01_COLUMN/VIC_A01_COLUMN_Roblox.fbx",
+  "preview": "Architecture/VIC_A01_COLUMN/preview.png",
+  "materials": [
+    "Brass",
+    "Ivory"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Optional library piece; existing landmark columns are reused, not replaced",
+  "components": [
+    {
+      "name": "VIC_A01_COLUMN__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 84
+    },
+    {
+      "name": "VIC_A01_COLUMN__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 56
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

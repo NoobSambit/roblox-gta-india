@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_L09_KEEPSAKE",
+  "category": "Loot",
+  "name": "Fictional ceremonial keepsake",
+  "triangles": 160,
+  "triangleCap": 350,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 1.6,
+    "height": 1.525,
+    "depth": 1.5708
+  },
+  "boundsMinStuds": [
+    -0.8,
+    0.0,
+    -0.81
+  ],
+  "boundsMaxStuds": [
+    0.8,
+    1.525,
+    0.76085
+  ],
+  "source": "Loot/VIC_L09_KEEPSAKE/VIC_L09_KEEPSAKE.blend",
+  "export": "Loot/VIC_L09_KEEPSAKE/VIC_L09_KEEPSAKE_Roblox.fbx",
+  "preview": "Loot/VIC_L09_KEEPSAKE/preview.png",
+  "materials": [
+    "Brass",
+    "Gem",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_L09_KEEPSAKE__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 136
+    },
+    {
+      "name": "VIC_L09_KEEPSAKE__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_L09_KEEPSAKE__Gem",
+      "component": "Body",
+      "material": "Gem",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

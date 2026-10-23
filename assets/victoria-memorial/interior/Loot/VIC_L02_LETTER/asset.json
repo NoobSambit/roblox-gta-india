@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_L02_LETTER",
+  "category": "Loot",
+  "name": "Common correspondence packet",
+  "triangles": 32,
+  "triangleCap": 120,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.2,
+    "height": 0.7,
+    "depth": 1.545
+  },
+  "boundsMinStuds": [
+    -1.1,
+    0.0,
+    -0.82
+  ],
+  "boundsMaxStuds": [
+    1.1,
+    0.7,
+    0.725
+  ],
+  "source": "Loot/VIC_L02_LETTER/VIC_L02_LETTER.blend",
+  "export": "Loot/VIC_L02_LETTER/VIC_L02_LETTER_Roblox.fbx",
+  "preview": "Loot/VIC_L02_LETTER/preview.png",
+  "materials": [
+    "Oxblood",
+    "Paper"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_L02_LETTER__Paper",
+      "component": "Body",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 20
+    },
+    {
+      "name": "VIC_L02_LETTER__Oxblood",
+      "component": "Body",
+      "material": "Oxblood",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

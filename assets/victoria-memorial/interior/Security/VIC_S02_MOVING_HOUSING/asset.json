@@ -1,0 +1,101 @@
+{
+  "assetId": "VIC_S02_MOVING_HOUSING",
+  "category": "Security",
+  "name": "Pivot-ready moving-laser housing",
+  "triangles": 100,
+  "triangleCap": 180,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 1.45,
+    "height": 2.625,
+    "depth": 1.44
+  },
+  "boundsMinStuds": [
+    -0.725,
+    0.0,
+    -0.72
+  ],
+  "boundsMaxStuds": [
+    0.725,
+    2.625,
+    0.72
+  ],
+  "source": "Security/VIC_S02_MOVING_HOUSING/VIC_S02_MOVING_HOUSING.blend",
+  "export": "Security/VIC_S02_MOVING_HOUSING/VIC_S02_MOVING_HOUSING_Roblox.fbx",
+  "preview": "Security/VIC_S02_MOVING_HOUSING/preview.png",
+  "materials": [
+    "Amber",
+    "Brass",
+    "Charcoal"
+  ],
+  "sockets": {
+    "SweepAxis": [
+      0,
+      2.25,
+      0
+    ],
+    "Lens": [
+      0,
+      2.25,
+      -0.54
+    ]
+  },
+  "componentPivots": {
+    "Head": [
+      0,
+      2.25,
+      0
+    ]
+  },
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Head meshes retain a shared local sweep pivot; no animation",
+  "components": [
+    {
+      "name": "VIC_S02_MOVING_HOUSING__Base__Charcoal",
+      "component": "Base",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    },
+    {
+      "name": "VIC_S02_MOVING_HOUSING__Head__Charcoal",
+      "component": "Head",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        2.25,
+        -0.0
+      ],
+      "triangles": 28
+    },
+    {
+      "name": "VIC_S02_MOVING_HOUSING__Head__Brass",
+      "component": "Head",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        2.25,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_S02_MOVING_HOUSING__Head__Amber",
+      "component": "Head",
+      "material": "Amber",
+      "translationStuds": [
+        0.0,
+        2.25,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

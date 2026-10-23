@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_A09_RESTRICTED_PORTAL",
+  "category": "Architecture",
+  "name": "10-stud restricted doorway overlay",
+  "triangles": 72,
+  "triangleCap": 150,
+  "materialMeshes": 3,
+  "pivot": "Opening ground-centre; front -Z",
+  "dimensionsStuds": {
+    "width": 11.0,
+    "height": 14.475,
+    "depth": 0.315
+  },
+  "boundsMinStuds": [
+    -5.5,
+    0.0,
+    -0.185
+  ],
+  "boundsMaxStuds": [
+    5.5,
+    14.475,
+    0.13
+  ],
+  "source": "Architecture/VIC_A09_RESTRICTED_PORTAL/VIC_A09_RESTRICTED_PORTAL.blend",
+  "export": "Architecture/VIC_A09_RESTRICTED_PORTAL/VIC_A09_RESTRICTED_PORTAL_Roblox.fbx",
+  "preview": "Architecture/VIC_A09_RESTRICTED_PORTAL/preview.png",
+  "materials": [
+    "Amber",
+    "Charcoal",
+    "Oxblood"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Non-colliding overlay; no new door or changed aperture",
+  "components": [
+    {
+      "name": "VIC_A09_RESTRICTED_PORTAL__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 36
+    },
+    {
+      "name": "VIC_A09_RESTRICTED_PORTAL__Oxblood",
+      "component": "Body",
+      "material": "Oxblood",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_A09_RESTRICTED_PORTAL__Amber",
+      "component": "Body",
+      "material": "Amber",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

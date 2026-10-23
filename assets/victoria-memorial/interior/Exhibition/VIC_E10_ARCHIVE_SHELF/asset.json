@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_E10_ARCHIVE_SHELF",
+  "category": "Exhibition",
+  "name": "Simple closed-box archive shelving",
+  "triangles": 228,
+  "triangleCap": 350,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.8,
+    "height": 5.6,
+    "depth": 1.53
+  },
+  "boundsMinStuds": [
+    -1.9,
+    0.0,
+    -0.75
+  ],
+  "boundsMaxStuds": [
+    1.9,
+    5.6,
+    0.78
+  ],
+  "source": "Exhibition/VIC_E10_ARCHIVE_SHELF/VIC_E10_ARCHIVE_SHELF.blend",
+  "export": "Exhibition/VIC_E10_ARCHIVE_SHELF/VIC_E10_ARCHIVE_SHELF_Roblox.fbx",
+  "preview": "Exhibition/VIC_E10_ARCHIVE_SHELF/preview.png",
+  "materials": [
+    "Charcoal",
+    "Paper",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Optional off-route dressing; no loose book clutter",
+  "components": [
+    {
+      "name": "VIC_E10_ARCHIVE_SHELF__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 72
+    },
+    {
+      "name": "VIC_E10_ARCHIVE_SHELF__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 84
+    },
+    {
+      "name": "VIC_E10_ARCHIVE_SHELF__Paper",
+      "component": "Body",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 72
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

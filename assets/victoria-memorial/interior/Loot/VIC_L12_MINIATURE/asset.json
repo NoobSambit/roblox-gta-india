@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_L12_MINIATURE",
+  "category": "Loot",
+  "name": "Fictional architectural miniature",
+  "triangles": 108,
+  "triangleCap": 180,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.5,
+    "height": 1.55,
+    "depth": 1.7
+  },
+  "boundsMinStuds": [
+    -1.25,
+    0.0,
+    -0.85
+  ],
+  "boundsMaxStuds": [
+    1.25,
+    1.55,
+    0.85
+  ],
+  "source": "Loot/VIC_L12_MINIATURE/VIC_L12_MINIATURE.blend",
+  "export": "Loot/VIC_L12_MINIATURE/VIC_L12_MINIATURE_Roblox.fbx",
+  "preview": "Loot/VIC_L12_MINIATURE/preview.png",
+  "materials": [
+    "Ivory",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Broad pavilion silhouette; not a detailed landmark replica",
+  "components": [
+    {
+      "name": "VIC_L12_MINIATURE__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_L12_MINIATURE__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 96
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

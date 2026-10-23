@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_A05_CORNICE_8",
+  "category": "Architecture",
+  "name": "8-stud stepped cornice",
+  "triangles": 60,
+  "triangleCap": 150,
+  "materialMeshes": 3,
+  "pivot": "Lower wall-mount centre",
+  "dimensionsStuds": {
+    "width": 8.0,
+    "height": 0.79,
+    "depth": 0.5
+  },
+  "boundsMinStuds": [
+    -4.0,
+    0.04,
+    -0.25
+  ],
+  "boundsMaxStuds": [
+    4.0,
+    0.83,
+    0.25
+  ],
+  "source": "Architecture/VIC_A05_CORNICE_8/VIC_A05_CORNICE_8.blend",
+  "export": "Architecture/VIC_A05_CORNICE_8/VIC_A05_CORNICE_8_Roblox.fbx",
+  "preview": "Architecture/VIC_A05_CORNICE_8/preview.png",
+  "materials": [
+    "Brass",
+    "Ivory",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_A05_CORNICE_8__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_A05_CORNICE_8__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 36
+    },
+    {
+      "name": "VIC_A05_CORNICE_8__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

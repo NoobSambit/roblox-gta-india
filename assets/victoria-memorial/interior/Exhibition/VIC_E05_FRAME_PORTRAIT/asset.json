@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_E05_FRAME_PORTRAIT",
+  "category": "Exhibition",
+  "name": "Portrait frame",
+  "triangles": 72,
+  "triangleCap": 120,
+  "materialMeshes": 3,
+  "pivot": "Lower frame edge centre; mount front -Z",
+  "dimensionsStuds": {
+    "width": 2.7,
+    "height": 3.5,
+    "depth": 0.32
+  },
+  "boundsMinStuds": [
+    -1.35,
+    0.0,
+    -0.18
+  ],
+  "boundsMaxStuds": [
+    1.35,
+    3.5,
+    0.14
+  ],
+  "source": "Exhibition/VIC_E05_FRAME_PORTRAIT/VIC_E05_FRAME_PORTRAIT.blend",
+  "export": "Exhibition/VIC_E05_FRAME_PORTRAIT/VIC_E05_FRAME_PORTRAIT_Roblox.fbx",
+  "preview": "Exhibition/VIC_E05_FRAME_PORTRAIT/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Paper"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_E05_FRAME_PORTRAIT__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_E05_FRAME_PORTRAIT__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    },
+    {
+      "name": "VIC_E05_FRAME_PORTRAIT__Canvas__Paper",
+      "component": "Canvas",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

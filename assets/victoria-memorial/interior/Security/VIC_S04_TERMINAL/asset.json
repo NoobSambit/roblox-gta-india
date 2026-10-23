@@ -1,0 +1,115 @@
+{
+  "assetId": "VIC_S04_TERMINAL",
+  "category": "Security",
+  "name": "Compact security terminal visual",
+  "triangles": 156,
+  "triangleCap": 350,
+  "materialMeshes": 6,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 1.9,
+    "height": 4.03,
+    "depth": 1.4
+  },
+  "boundsMinStuds": [
+    -0.95,
+    0.0,
+    -0.7
+  ],
+  "boundsMaxStuds": [
+    0.95,
+    4.03,
+    0.7
+  ],
+  "source": "Security/VIC_S04_TERMINAL/VIC_S04_TERMINAL.blend",
+  "export": "Security/VIC_S04_TERMINAL/VIC_S04_TERMINAL_Roblox.fbx",
+  "preview": "Security/VIC_S04_TERMINAL/preview.png",
+  "materials": [
+    "Amber",
+    "Brass",
+    "Charcoal",
+    "Sky",
+    "Stone",
+    "Teal"
+  ],
+  "sockets": {
+    "InteractionSurface": [
+      0,
+      3.25,
+      -0.53
+    ]
+  },
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Blank broad UI blocks only; no hacking script",
+  "components": [
+    {
+      "name": "VIC_S04_TERMINAL__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    },
+    {
+      "name": "VIC_S04_TERMINAL__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_S04_TERMINAL__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_S04_TERMINAL__Amber",
+      "component": "Body",
+      "material": "Amber",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_S04_TERMINAL__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 36
+    },
+    {
+      "name": "VIC_S04_TERMINAL__Sky",
+      "component": "Body",
+      "material": "Sky",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 36
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_A02_PILASTER",
+  "category": "Architecture",
+  "name": "Shallow partition pilaster",
+  "triangles": 60,
+  "triangleCap": 150,
+  "materialMeshes": 3,
+  "pivot": "Wall-foot centre; back +Z",
+  "dimensionsStuds": {
+    "width": 1.7,
+    "height": 13.6,
+    "depth": 0.75
+  },
+  "boundsMinStuds": [
+    -0.85,
+    0.0,
+    -0.375
+  ],
+  "boundsMaxStuds": [
+    0.85,
+    13.6,
+    0.375
+  ],
+  "source": "Architecture/VIC_A02_PILASTER/VIC_A02_PILASTER.blend",
+  "export": "Architecture/VIC_A02_PILASTER/VIC_A02_PILASTER_Roblox.fbx",
+  "preview": "Architecture/VIC_A02_PILASTER/preview.png",
+  "materials": [
+    "Brass",
+    "Ivory",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_A02_PILASTER__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_A02_PILASTER__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_A02_PILASTER__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

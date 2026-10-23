@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_L05_TRADE_COLLECTION",
+  "category": "Loot",
+  "name": "Fictional trade collection",
+  "triangles": 196,
+  "triangleCap": 260,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.6,
+    "height": 1.22,
+    "depth": 1.45
+  },
+  "boundsMinStuds": [
+    -1.3,
+    0.0,
+    -0.725
+  ],
+  "boundsMaxStuds": [
+    1.3,
+    1.22,
+    0.725
+  ],
+  "source": "Loot/VIC_L05_TRADE_COLLECTION/VIC_L05_TRADE_COLLECTION.blend",
+  "export": "Loot/VIC_L05_TRADE_COLLECTION/VIC_L05_TRADE_COLLECTION_Roblox.fbx",
+  "preview": "Loot/VIC_L05_TRADE_COLLECTION/preview.png",
+  "materials": [
+    "Bronze",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_L05_TRADE_COLLECTION__Bronze",
+      "component": "Body",
+      "material": "Bronze",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 184
+    },
+    {
+      "name": "VIC_L05_TRADE_COLLECTION__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

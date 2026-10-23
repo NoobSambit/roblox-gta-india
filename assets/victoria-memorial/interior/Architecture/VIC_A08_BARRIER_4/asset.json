@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_A08_BARRIER_4",
+  "category": "Architecture",
+  "name": "Low 4-stud museum barrier",
+  "triangles": 104,
+  "triangleCap": 200,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 4.2,
+    "height": 2.2,
+    "depth": 0.5196
+  },
+  "boundsMinStuds": [
+    -2.1,
+    0.0,
+    -0.25981
+  ],
+  "boundsMaxStuds": [
+    2.1,
+    2.2,
+    0.25981
+  ],
+  "source": "Architecture/VIC_A08_BARRIER_4/VIC_A08_BARRIER_4.blend",
+  "export": "Architecture/VIC_A08_BARRIER_4/VIC_A08_BARRIER_4_Roblox.fbx",
+  "preview": "Architecture/VIC_A08_BARRIER_4/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Optional only; never span an approved route",
+  "components": [
+    {
+      "name": "VIC_A08_BARRIER_4__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 64
+    },
+    {
+      "name": "VIC_A08_BARRIER_4__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 40
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

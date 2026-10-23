@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_L06_ABSTRACT_BRONZE",
+  "category": "Loot",
+  "name": "Interlocking faceted abstract bronze",
+  "triangles": 148,
+  "triangleCap": 260,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.53,
+    "height": 1.9,
+    "depth": 1.9
+  },
+  "boundsMinStuds": [
+    -1.28,
+    0.0,
+    -0.95
+  ],
+  "boundsMaxStuds": [
+    1.25,
+    1.9,
+    0.95
+  ],
+  "source": "Loot/VIC_L06_ABSTRACT_BRONZE/VIC_L06_ABSTRACT_BRONZE.blend",
+  "export": "Loot/VIC_L06_ABSTRACT_BRONZE/VIC_L06_ABSTRACT_BRONZE_Roblox.fbx",
+  "preview": "Loot/VIC_L06_ABSTRACT_BRONZE/preview.png",
+  "materials": [
+    "Brass",
+    "Bronze",
+    "Charcoal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_L06_ABSTRACT_BRONZE__Bronze",
+      "component": "Body",
+      "material": "Bronze",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 68
+    },
+    {
+      "name": "VIC_L06_ABSTRACT_BRONZE__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 68
+    },
+    {
+      "name": "VIC_L06_ABSTRACT_BRONZE__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

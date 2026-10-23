@@ -1,0 +1,103 @@
+{
+  "assetId": "VIC_E06_DOCUMENT_DESK",
+  "category": "Exhibition",
+  "name": "Open-front document display",
+  "triangles": 120,
+  "triangleCap": 220,
+  "materialMeshes": 5,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.8,
+    "height": 4.15,
+    "depth": 2.85
+  },
+  "boundsMinStuds": [
+    -1.9,
+    0.0,
+    -1.45
+  ],
+  "boundsMaxStuds": [
+    1.9,
+    4.15,
+    1.4
+  ],
+  "source": "Exhibition/VIC_E06_DOCUMENT_DESK/VIC_E06_DOCUMENT_DESK.blend",
+  "export": "Exhibition/VIC_E06_DOCUMENT_DESK/VIC_E06_DOCUMENT_DESK_Roblox.fbx",
+  "preview": "Exhibition/VIC_E06_DOCUMENT_DESK/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Glass",
+    "Paper",
+    "Teal"
+  ],
+  "sockets": {
+    "ExhibitMount": [
+      0,
+      2.31,
+      0
+    ]
+  },
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Compact readable desk; front open for display, no blocking transparent cube",
+  "components": [
+    {
+      "name": "VIC_E06_DOCUMENT_DESK__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 36
+    },
+    {
+      "name": "VIC_E06_DOCUMENT_DESK__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    },
+    {
+      "name": "VIC_E06_DOCUMENT_DESK__Paper",
+      "component": "Body",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_E06_DOCUMENT_DESK__Glass",
+      "component": "Body",
+      "material": "Glass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_E06_DOCUMENT_DESK__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

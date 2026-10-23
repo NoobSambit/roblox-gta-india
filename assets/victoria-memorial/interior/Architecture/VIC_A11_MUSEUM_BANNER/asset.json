@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_A11_MUSEUM_BANNER",
+  "category": "Architecture",
+  "name": "Plain teal heritage wall banner",
+  "triangles": 48,
+  "triangleCap": 150,
+  "materialMeshes": 2,
+  "pivot": "Lower wall-mount centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.85,
+    "height": 6.0,
+    "depth": 0.23
+  },
+  "boundsMinStuds": [
+    -1.425,
+    0.0,
+    -0.17
+  ],
+  "boundsMaxStuds": [
+    1.425,
+    6.0,
+    0.06
+  ],
+  "source": "Architecture/VIC_A11_MUSEUM_BANNER/VIC_A11_MUSEUM_BANNER.blend",
+  "export": "Architecture/VIC_A11_MUSEUM_BANNER/VIC_A11_MUSEUM_BANNER_Roblox.fbx",
+  "preview": "Architecture/VIC_A11_MUSEUM_BANNER/preview.png",
+  "materials": [
+    "Brass",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Broad colour accent only, not sculpted painting artwork; mount above and outside circulation",
+  "components": [
+    {
+      "name": "VIC_A11_MUSEUM_BANNER__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_A11_MUSEUM_BANNER__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 36
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

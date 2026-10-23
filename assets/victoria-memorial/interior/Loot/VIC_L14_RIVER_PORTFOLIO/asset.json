@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_L14_RIVER_PORTFOLIO",
+  "category": "Loot",
+  "name": "Fictional river-trade portfolio",
+  "triangles": 72,
+  "triangleCap": 260,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.75,
+    "height": 0.4775,
+    "depth": 1.7
+  },
+  "boundsMinStuds": [
+    -1.4,
+    0.0,
+    -0.85
+  ],
+  "boundsMaxStuds": [
+    1.35,
+    0.4775,
+    0.85
+  ],
+  "source": "Loot/VIC_L14_RIVER_PORTFOLIO/VIC_L14_RIVER_PORTFOLIO.blend",
+  "export": "Loot/VIC_L14_RIVER_PORTFOLIO/VIC_L14_RIVER_PORTFOLIO_Roblox.fbx",
+  "preview": "Loot/VIC_L14_RIVER_PORTFOLIO/preview.png",
+  "materials": [
+    "Brass",
+    "Paper",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_L14_RIVER_PORTFOLIO__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_L14_RIVER_PORTFOLIO__Paper",
+      "component": "Body",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_L14_RIVER_PORTFOLIO__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 36
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

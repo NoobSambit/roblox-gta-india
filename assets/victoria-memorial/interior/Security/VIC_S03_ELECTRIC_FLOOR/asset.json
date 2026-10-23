@@ -1,0 +1,85 @@
+{
+  "assetId": "VIC_S03_ELECTRIC_FLOOR",
+  "category": "Security",
+  "name": "Flush 8-stud electrical floor visual",
+  "triangles": 108,
+  "triangleCap": 120,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 8.0,
+    "height": 0.1,
+    "depth": 8.0
+  },
+  "boundsMinStuds": [
+    -4.0,
+    0.0,
+    -4.0
+  ],
+  "boundsMaxStuds": [
+    4.0,
+    0.1,
+    4.0
+  ],
+  "source": "Security/VIC_S03_ELECTRIC_FLOOR/VIC_S03_ELECTRIC_FLOOR.blend",
+  "export": "Security/VIC_S03_ELECTRIC_FLOOR/VIC_S03_ELECTRIC_FLOOR_Roblox.fbx",
+  "preview": "Security/VIC_S03_ELECTRIC_FLOOR/preview.png",
+  "materials": [
+    "Amber",
+    "Charcoal",
+    "Oxblood",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "0.10-stud maximum height; inactive colour inlays only",
+  "components": [
+    {
+      "name": "VIC_S03_ELECTRIC_FLOOR__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_S03_ELECTRIC_FLOOR__Amber",
+      "component": "Body",
+      "material": "Amber",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    },
+    {
+      "name": "VIC_S03_ELECTRIC_FLOOR__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 36
+    },
+    {
+      "name": "VIC_S03_ELECTRIC_FLOOR__Oxblood",
+      "component": "Body",
+      "material": "Oxblood",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

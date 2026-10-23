@@ -1,0 +1,2872 @@
+{
+  "task": "008",
+  "assetCount": 37,
+  "units": "Stud / 1",
+  "palette": {
+    "Ivory": "E9E3D4",
+    "Stone": "B3ACA0",
+    "Charcoal": "343F45",
+    "Brass": "B89B60",
+    "Teal": "245D63",
+    "Glass": "B6DADE",
+    "Amber": "EDB554",
+    "Oxblood": "88483F",
+    "Paper": "E2D4AF",
+    "Bronze": "99794D",
+    "Sky": "8EB9BC",
+    "River": "507D89",
+    "Leaf": "4E7160",
+    "Ink": "485260",
+    "Gem": "3F8E89"
+  },
+  "assets": [
+    {
+      "assetId": "VIC_A01_COLUMN",
+      "category": "Architecture",
+      "name": "Simple 8-sided column",
+      "triangles": 140,
+      "triangleCap": 350,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.232,
+        "height": 14.0,
+        "depth": 2.232
+      },
+      "boundsMinStuds": [
+        -1.116,
+        0.0,
+        -1.116
+      ],
+      "boundsMaxStuds": [
+        1.116,
+        14.0,
+        1.116
+      ],
+      "source": "Architecture/VIC_A01_COLUMN/VIC_A01_COLUMN.blend",
+      "export": "Architecture/VIC_A01_COLUMN/VIC_A01_COLUMN_Roblox.fbx",
+      "preview": "Architecture/VIC_A01_COLUMN/preview.png",
+      "materials": [
+        "Brass",
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Optional library piece; existing landmark columns are reused, not replaced",
+      "components": [
+        {
+          "name": "VIC_A01_COLUMN__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 84
+        },
+        {
+          "name": "VIC_A01_COLUMN__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 56
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A02_PILASTER",
+      "category": "Architecture",
+      "name": "Shallow partition pilaster",
+      "triangles": 60,
+      "triangleCap": 150,
+      "materialMeshes": 3,
+      "pivot": "Wall-foot centre; back +Z",
+      "dimensionsStuds": {
+        "width": 1.7,
+        "height": 13.6,
+        "depth": 0.75
+      },
+      "boundsMinStuds": [
+        -0.85,
+        0.0,
+        -0.375
+      ],
+      "boundsMaxStuds": [
+        0.85,
+        13.6,
+        0.375
+      ],
+      "source": "Architecture/VIC_A02_PILASTER/VIC_A02_PILASTER.blend",
+      "export": "Architecture/VIC_A02_PILASTER/VIC_A02_PILASTER_Roblox.fbx",
+      "preview": "Architecture/VIC_A02_PILASTER/preview.png",
+      "materials": [
+        "Brass",
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_A02_PILASTER__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_A02_PILASTER__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_A02_PILASTER__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A03_ARCH_10",
+      "category": "Architecture",
+      "name": "10-stud-clear arch with spandrel infill",
+      "triangles": 264,
+      "triangleCap": 350,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 11.6,
+        "height": 14.8,
+        "depth": 0.44
+      },
+      "boundsMinStuds": [
+        -5.8,
+        0.0,
+        -0.22
+      ],
+      "boundsMaxStuds": [
+        5.8,
+        14.8,
+        0.22
+      ],
+      "source": "Architecture/VIC_A03_ARCH_10/VIC_A03_ARCH_10.blend",
+      "export": "Architecture/VIC_A03_ARCH_10/VIC_A03_ARCH_10_Roblox.fbx",
+      "preview": "Architecture/VIC_A03_ARCH_10/preview.png",
+      "materials": [
+        "Brass",
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "14-stud inner apex; ten-stud width below nine-stud spring. Matching spandrels close square-aperture corners above avatar clearance; visual only",
+      "components": [
+        {
+          "name": "VIC_A03_ARCH_10__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 100
+        },
+        {
+          "name": "VIC_A03_ARCH_10__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 100
+        },
+        {
+          "name": "VIC_A03_ARCH_10__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 64
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A04_DADO_8",
+      "category": "Architecture",
+      "name": "8-stud dado strip",
+      "triangles": 48,
+      "triangleCap": 150,
+      "materialMeshes": 3,
+      "pivot": "Wall-foot centre",
+      "dimensionsStuds": {
+        "width": 8.0,
+        "height": 1.16,
+        "depth": 0.24
+      },
+      "boundsMinStuds": [
+        -4.0,
+        0.0,
+        -0.12
+      ],
+      "boundsMaxStuds": [
+        4.0,
+        1.16,
+        0.12
+      ],
+      "source": "Architecture/VIC_A04_DADO_8/VIC_A04_DADO_8.blend",
+      "export": "Architecture/VIC_A04_DADO_8/VIC_A04_DADO_8_Roblox.fbx",
+      "preview": "Architecture/VIC_A04_DADO_8/preview.png",
+      "materials": [
+        "Brass",
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_A04_DADO_8__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_A04_DADO_8__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_A04_DADO_8__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A05_CORNICE_8",
+      "category": "Architecture",
+      "name": "8-stud stepped cornice",
+      "triangles": 60,
+      "triangleCap": 150,
+      "materialMeshes": 3,
+      "pivot": "Lower wall-mount centre",
+      "dimensionsStuds": {
+        "width": 8.0,
+        "height": 0.79,
+        "depth": 0.5
+      },
+      "boundsMinStuds": [
+        -4.0,
+        0.04,
+        -0.25
+      ],
+      "boundsMaxStuds": [
+        4.0,
+        0.83,
+        0.25
+      ],
+      "source": "Architecture/VIC_A05_CORNICE_8/VIC_A05_CORNICE_8.blend",
+      "export": "Architecture/VIC_A05_CORNICE_8/VIC_A05_CORNICE_8_Roblox.fbx",
+      "preview": "Architecture/VIC_A05_CORNICE_8/preview.png",
+      "materials": [
+        "Brass",
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_A05_CORNICE_8__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_A05_CORNICE_8__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 36
+        },
+        {
+          "name": "VIC_A05_CORNICE_8__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A06_PLINTH_SQUARE",
+      "category": "Architecture",
+      "name": "Square exhibit plinth",
+      "triangles": 60,
+      "triangleCap": 180,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.8,
+        "height": 1.6,
+        "depth": 3.8
+      },
+      "boundsMinStuds": [
+        -1.9,
+        0.0,
+        -1.9
+      ],
+      "boundsMaxStuds": [
+        1.9,
+        1.6,
+        1.9
+      ],
+      "source": "Architecture/VIC_A06_PLINTH_SQUARE/VIC_A06_PLINTH_SQUARE.blend",
+      "export": "Architecture/VIC_A06_PLINTH_SQUARE/VIC_A06_PLINTH_SQUARE_Roblox.fbx",
+      "preview": "Architecture/VIC_A06_PLINTH_SQUARE/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Ivory"
+      ],
+      "sockets": {
+        "ExhibitMount": [
+          0,
+          1.6,
+          0
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_A06_PLINTH_SQUARE__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_A06_PLINTH_SQUARE__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_A06_PLINTH_SQUARE__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A07_PLINTH_OCTAGON",
+      "category": "Architecture",
+      "name": "Octagonal exhibit plinth",
+      "triangles": 120,
+      "triangleCap": 180,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.496,
+        "height": 1.6,
+        "depth": 3.496
+      },
+      "boundsMinStuds": [
+        -1.748,
+        0.0,
+        -1.748
+      ],
+      "boundsMaxStuds": [
+        1.748,
+        1.6,
+        1.748
+      ],
+      "source": "Architecture/VIC_A07_PLINTH_OCTAGON/VIC_A07_PLINTH_OCTAGON.blend",
+      "export": "Architecture/VIC_A07_PLINTH_OCTAGON/VIC_A07_PLINTH_OCTAGON_Roblox.fbx",
+      "preview": "Architecture/VIC_A07_PLINTH_OCTAGON/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal"
+      ],
+      "sockets": {
+        "ExhibitMount": [
+          0,
+          1.6,
+          0
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_A07_PLINTH_OCTAGON__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 92
+        },
+        {
+          "name": "VIC_A07_PLINTH_OCTAGON__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 28
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A08_BARRIER_4",
+      "category": "Architecture",
+      "name": "Low 4-stud museum barrier",
+      "triangles": 104,
+      "triangleCap": 200,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 4.2,
+        "height": 2.2,
+        "depth": 0.5196
+      },
+      "boundsMinStuds": [
+        -2.1,
+        0.0,
+        -0.25981
+      ],
+      "boundsMaxStuds": [
+        2.1,
+        2.2,
+        0.25981
+      ],
+      "source": "Architecture/VIC_A08_BARRIER_4/VIC_A08_BARRIER_4.blend",
+      "export": "Architecture/VIC_A08_BARRIER_4/VIC_A08_BARRIER_4_Roblox.fbx",
+      "preview": "Architecture/VIC_A08_BARRIER_4/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Optional only; never span an approved route",
+      "components": [
+        {
+          "name": "VIC_A08_BARRIER_4__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 64
+        },
+        {
+          "name": "VIC_A08_BARRIER_4__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 40
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A09_RESTRICTED_PORTAL",
+      "category": "Architecture",
+      "name": "10-stud restricted doorway overlay",
+      "triangles": 72,
+      "triangleCap": 150,
+      "materialMeshes": 3,
+      "pivot": "Opening ground-centre; front -Z",
+      "dimensionsStuds": {
+        "width": 11.0,
+        "height": 14.475,
+        "depth": 0.315
+      },
+      "boundsMinStuds": [
+        -5.5,
+        0.0,
+        -0.185
+      ],
+      "boundsMaxStuds": [
+        5.5,
+        14.475,
+        0.13
+      ],
+      "source": "Architecture/VIC_A09_RESTRICTED_PORTAL/VIC_A09_RESTRICTED_PORTAL.blend",
+      "export": "Architecture/VIC_A09_RESTRICTED_PORTAL/VIC_A09_RESTRICTED_PORTAL_Roblox.fbx",
+      "preview": "Architecture/VIC_A09_RESTRICTED_PORTAL/preview.png",
+      "materials": [
+        "Amber",
+        "Charcoal",
+        "Oxblood"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Non-colliding overlay; no new door or changed aperture",
+      "components": [
+        {
+          "name": "VIC_A09_RESTRICTED_PORTAL__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 36
+        },
+        {
+          "name": "VIC_A09_RESTRICTED_PORTAL__Oxblood",
+          "component": "Body",
+          "material": "Oxblood",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_A09_RESTRICTED_PORTAL__Amber",
+          "component": "Body",
+          "material": "Amber",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A10_FEATURE_PANEL",
+      "category": "Architecture",
+      "name": "Compact freestanding painting panel",
+      "triangles": 72,
+      "triangleCap": 150,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.6,
+        "height": 5.82,
+        "depth": 3.6
+      },
+      "boundsMinStuds": [
+        -1.8,
+        0.0,
+        -1.8
+      ],
+      "boundsMaxStuds": [
+        1.8,
+        5.82,
+        1.8
+      ],
+      "source": "Architecture/VIC_A10_FEATURE_PANEL/VIC_A10_FEATURE_PANEL.blend",
+      "export": "Architecture/VIC_A10_FEATURE_PANEL/VIC_A10_FEATURE_PANEL_Roblox.fbx",
+      "preview": "Architecture/VIC_A10_FEATURE_PANEL/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Ivory"
+      ],
+      "sockets": {
+        "FrameMount": [
+          0,
+          2.15,
+          -0.04
+        ],
+        "ArtworkMount": [
+          0,
+          2.37,
+          -0.23
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "4-stud support envelope; replaces original pedestal",
+      "components": [
+        {
+          "name": "VIC_A10_FEATURE_PANEL__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 36
+        },
+        {
+          "name": "VIC_A10_FEATURE_PANEL__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_A10_FEATURE_PANEL__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A11_MUSEUM_BANNER",
+      "category": "Architecture",
+      "name": "Plain teal heritage wall banner",
+      "triangles": 48,
+      "triangleCap": 150,
+      "materialMeshes": 2,
+      "pivot": "Lower wall-mount centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.85,
+        "height": 6.0,
+        "depth": 0.23
+      },
+      "boundsMinStuds": [
+        -1.425,
+        0.0,
+        -0.17
+      ],
+      "boundsMaxStuds": [
+        1.425,
+        6.0,
+        0.06
+      ],
+      "source": "Architecture/VIC_A11_MUSEUM_BANNER/VIC_A11_MUSEUM_BANNER.blend",
+      "export": "Architecture/VIC_A11_MUSEUM_BANNER/VIC_A11_MUSEUM_BANNER_Roblox.fbx",
+      "preview": "Architecture/VIC_A11_MUSEUM_BANNER/preview.png",
+      "materials": [
+        "Brass",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Broad colour accent only, not sculpted painting artwork; mount above and outside circulation",
+      "components": [
+        {
+          "name": "VIC_A11_MUSEUM_BANNER__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_A11_MUSEUM_BANNER__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 36
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "category": "Architecture",
+      "name": "8-stud flat museum runner",
+      "triangles": 60,
+      "triangleCap": 150,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 8.0,
+        "height": 0.038,
+        "depth": 6.0
+      },
+      "boundsMinStuds": [
+        -4.0,
+        0.0,
+        -3.0
+      ],
+      "boundsMaxStuds": [
+        4.0,
+        0.038,
+        3.0
+      ],
+      "source": "Architecture/VIC_A12_FLOOR_RUNNER_8/VIC_A12_FLOOR_RUNNER_8.blend",
+      "export": "Architecture/VIC_A12_FLOOR_RUNNER_8/VIC_A12_FLOOR_RUNNER_8_Roblox.fbx",
+      "preview": "Architecture/VIC_A12_FLOOR_RUNNER_8/preview.png",
+      "materials": [
+        "Brass",
+        "Ivory",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "0.038-stud high non-colliding floor colour insert; no raised threshold or gameplay obstacle",
+      "components": [
+        {
+          "name": "VIC_A12_FLOOR_RUNNER_8__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_A12_FLOOR_RUNNER_8__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_A12_FLOOR_RUNNER_8__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E01_CASE_SMALL",
+      "category": "Exhibition",
+      "name": "Small display case",
+      "triangles": 264,
+      "triangleCap": 300,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.6,
+        "height": 4.74,
+        "depth": 3.6
+      },
+      "boundsMinStuds": [
+        -1.8,
+        0.0,
+        -1.8
+      ],
+      "boundsMaxStuds": [
+        1.8,
+        4.74,
+        1.8
+      ],
+      "source": "Exhibition/VIC_E01_CASE_SMALL/VIC_E01_CASE_SMALL.blend",
+      "export": "Exhibition/VIC_E01_CASE_SMALL/VIC_E01_CASE_SMALL_Roblox.fbx",
+      "preview": "Exhibition/VIC_E01_CASE_SMALL/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Glass",
+        "Ivory"
+      ],
+      "sockets": {
+        "ExhibitMount": [
+          0,
+          1.72,
+          0
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Glass exported separately; map its transparency in Studio",
+      "components": [
+        {
+          "name": "VIC_E01_CASE_SMALL__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_E01_CASE_SMALL__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 168
+        },
+        {
+          "name": "VIC_E01_CASE_SMALL__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E01_CASE_SMALL__Glass",
+          "component": "Body",
+          "material": "Glass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 60
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E02_CASE_MEDIUM",
+      "category": "Exhibition",
+      "name": "Medium display case",
+      "triangles": 264,
+      "triangleCap": 450,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 4.0,
+        "height": 5.54,
+        "depth": 4.0
+      },
+      "boundsMinStuds": [
+        -2.0,
+        0.0,
+        -2.0
+      ],
+      "boundsMaxStuds": [
+        2.0,
+        5.54,
+        2.0
+      ],
+      "source": "Exhibition/VIC_E02_CASE_MEDIUM/VIC_E02_CASE_MEDIUM.blend",
+      "export": "Exhibition/VIC_E02_CASE_MEDIUM/VIC_E02_CASE_MEDIUM_Roblox.fbx",
+      "preview": "Exhibition/VIC_E02_CASE_MEDIUM/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Glass",
+        "Ivory"
+      ],
+      "sockets": {
+        "ExhibitMount": [
+          0,
+          1.72,
+          0
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Glass exported separately; map its transparency in Studio",
+      "components": [
+        {
+          "name": "VIC_E02_CASE_MEDIUM__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_E02_CASE_MEDIUM__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 168
+        },
+        {
+          "name": "VIC_E02_CASE_MEDIUM__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E02_CASE_MEDIUM__Glass",
+          "component": "Body",
+          "material": "Glass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 60
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E03_CASE_PREMIUM",
+      "category": "Exhibition",
+      "name": "Premium protected case",
+      "triangles": 348,
+      "triangleCap": 700,
+      "materialMeshes": 5,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 5.6,
+        "height": 6.14,
+        "depth": 5.675
+      },
+      "boundsMinStuds": [
+        -2.8,
+        0.0,
+        -2.875
+      ],
+      "boundsMaxStuds": [
+        2.8,
+        6.14,
+        2.8
+      ],
+      "source": "Exhibition/VIC_E03_CASE_PREMIUM/VIC_E03_CASE_PREMIUM.blend",
+      "export": "Exhibition/VIC_E03_CASE_PREMIUM/VIC_E03_CASE_PREMIUM_Roblox.fbx",
+      "preview": "Exhibition/VIC_E03_CASE_PREMIUM/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Glass",
+        "Ivory",
+        "Oxblood"
+      ],
+      "sockets": {
+        "ExhibitMount": [
+          0,
+          1.72,
+          0
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Glass exported separately; map its transparency in Studio",
+      "components": [
+        {
+          "name": "VIC_E03_CASE_PREMIUM__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_E03_CASE_PREMIUM__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 216
+        },
+        {
+          "name": "VIC_E03_CASE_PREMIUM__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E03_CASE_PREMIUM__Glass",
+          "component": "Body",
+          "material": "Glass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 60
+        },
+        {
+          "name": "VIC_E03_CASE_PREMIUM__Oxblood",
+          "component": "Body",
+          "material": "Oxblood",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E04_FRAME_LANDSCAPE",
+      "category": "Exhibition",
+      "name": "3:2 landscape frame",
+      "triangles": 72,
+      "triangleCap": 120,
+      "materialMeshes": 3,
+      "pivot": "Lower frame edge centre; mount front -Z",
+      "dimensionsStuds": {
+        "width": 3.5,
+        "height": 2.4667,
+        "depth": 0.32
+      },
+      "boundsMinStuds": [
+        -1.75,
+        0.0,
+        -0.18
+      ],
+      "boundsMaxStuds": [
+        1.75,
+        2.46667,
+        0.14
+      ],
+      "source": "Exhibition/VIC_E04_FRAME_LANDSCAPE/VIC_E04_FRAME_LANDSCAPE.blend",
+      "export": "Exhibition/VIC_E04_FRAME_LANDSCAPE/VIC_E04_FRAME_LANDSCAPE_Roblox.fbx",
+      "preview": "Exhibition/VIC_E04_FRAME_LANDSCAPE/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Paper"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_E04_FRAME_LANDSCAPE__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E04_FRAME_LANDSCAPE__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_E04_FRAME_LANDSCAPE__Canvas__Paper",
+          "component": "Canvas",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E05_FRAME_PORTRAIT",
+      "category": "Exhibition",
+      "name": "Portrait frame",
+      "triangles": 72,
+      "triangleCap": 120,
+      "materialMeshes": 3,
+      "pivot": "Lower frame edge centre; mount front -Z",
+      "dimensionsStuds": {
+        "width": 2.7,
+        "height": 3.5,
+        "depth": 0.32
+      },
+      "boundsMinStuds": [
+        -1.35,
+        0.0,
+        -0.18
+      ],
+      "boundsMaxStuds": [
+        1.35,
+        3.5,
+        0.14
+      ],
+      "source": "Exhibition/VIC_E05_FRAME_PORTRAIT/VIC_E05_FRAME_PORTRAIT.blend",
+      "export": "Exhibition/VIC_E05_FRAME_PORTRAIT/VIC_E05_FRAME_PORTRAIT_Roblox.fbx",
+      "preview": "Exhibition/VIC_E05_FRAME_PORTRAIT/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Paper"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_E05_FRAME_PORTRAIT__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E05_FRAME_PORTRAIT__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_E05_FRAME_PORTRAIT__Canvas__Paper",
+          "component": "Canvas",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E06_DOCUMENT_DESK",
+      "category": "Exhibition",
+      "name": "Open-front document display",
+      "triangles": 120,
+      "triangleCap": 220,
+      "materialMeshes": 5,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.8,
+        "height": 4.15,
+        "depth": 2.85
+      },
+      "boundsMinStuds": [
+        -1.9,
+        0.0,
+        -1.45
+      ],
+      "boundsMaxStuds": [
+        1.9,
+        4.15,
+        1.4
+      ],
+      "source": "Exhibition/VIC_E06_DOCUMENT_DESK/VIC_E06_DOCUMENT_DESK.blend",
+      "export": "Exhibition/VIC_E06_DOCUMENT_DESK/VIC_E06_DOCUMENT_DESK_Roblox.fbx",
+      "preview": "Exhibition/VIC_E06_DOCUMENT_DESK/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Glass",
+        "Paper",
+        "Teal"
+      ],
+      "sockets": {
+        "ExhibitMount": [
+          0,
+          2.31,
+          0
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Compact readable desk; front open for display, no blocking transparent cube",
+      "components": [
+        {
+          "name": "VIC_E06_DOCUMENT_DESK__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 36
+        },
+        {
+          "name": "VIC_E06_DOCUMENT_DESK__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_E06_DOCUMENT_DESK__Paper",
+          "component": "Body",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E06_DOCUMENT_DESK__Glass",
+          "component": "Body",
+          "material": "Glass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E06_DOCUMENT_DESK__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E07_ARCHIVE_CABINET",
+      "category": "Exhibition",
+      "name": "Shallow secure archive cabinet",
+      "triangles": 240,
+      "triangleCap": 350,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.9,
+        "height": 5.82,
+        "depth": 1.2
+      },
+      "boundsMinStuds": [
+        -1.95,
+        0.0,
+        -0.6
+      ],
+      "boundsMaxStuds": [
+        1.95,
+        5.82,
+        0.6
+      ],
+      "source": "Exhibition/VIC_E07_ARCHIVE_CABINET/VIC_E07_ARCHIVE_CABINET.blend",
+      "export": "Exhibition/VIC_E07_ARCHIVE_CABINET/VIC_E07_ARCHIVE_CABINET_Roblox.fbx",
+      "preview": "Exhibition/VIC_E07_ARCHIVE_CABINET/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Optional wall dressing only; 1.2-stud depth, keep outside reserved lanes",
+      "components": [
+        {
+          "name": "VIC_E07_ARCHIVE_CABINET__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 120
+        },
+        {
+          "name": "VIC_E07_ARCHIVE_CABINET__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E07_ARCHIVE_CABINET__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 108
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E08_INFO_STAND",
+      "category": "Exhibition",
+      "name": "Museum information stand",
+      "triangles": 48,
+      "triangleCap": 180,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.0,
+        "height": 3.52,
+        "depth": 1.5
+      },
+      "boundsMinStuds": [
+        -1.0,
+        0.0,
+        -0.75
+      ],
+      "boundsMaxStuds": [
+        1.0,
+        3.52,
+        0.75
+      ],
+      "source": "Exhibition/VIC_E08_INFO_STAND/VIC_E08_INFO_STAND.blend",
+      "export": "Exhibition/VIC_E08_INFO_STAND/VIC_E08_INFO_STAND_Roblox.fbx",
+      "preview": "Exhibition/VIC_E08_INFO_STAND/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_E08_INFO_STAND__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_E08_INFO_STAND__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E08_INFO_STAND__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E09_PLAQUE",
+      "category": "Exhibition",
+      "name": "Plain reusable information plaque",
+      "triangles": 48,
+      "triangleCap": 100,
+      "materialMeshes": 3,
+      "pivot": "Lower wall-mount centre; front -Z",
+      "dimensionsStuds": {
+        "width": 1.8,
+        "height": 1.0,
+        "depth": 0.1875
+      },
+      "boundsMinStuds": [
+        -0.9,
+        0.0,
+        -0.0875
+      ],
+      "boundsMaxStuds": [
+        0.9,
+        1.0,
+        0.1
+      ],
+      "source": "Exhibition/VIC_E09_PLAQUE/VIC_E09_PLAQUE.blend",
+      "export": "Exhibition/VIC_E09_PLAQUE/VIC_E09_PLAQUE_Roblox.fbx",
+      "preview": "Exhibition/VIC_E09_PLAQUE/preview.png",
+      "materials": [
+        "Brass",
+        "Ivory",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_E09_PLAQUE__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E09_PLAQUE__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_E09_PLAQUE__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_E10_ARCHIVE_SHELF",
+      "category": "Exhibition",
+      "name": "Simple closed-box archive shelving",
+      "triangles": 228,
+      "triangleCap": 350,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.8,
+        "height": 5.6,
+        "depth": 1.53
+      },
+      "boundsMinStuds": [
+        -1.9,
+        0.0,
+        -0.75
+      ],
+      "boundsMaxStuds": [
+        1.9,
+        5.6,
+        0.78
+      ],
+      "source": "Exhibition/VIC_E10_ARCHIVE_SHELF/VIC_E10_ARCHIVE_SHELF.blend",
+      "export": "Exhibition/VIC_E10_ARCHIVE_SHELF/VIC_E10_ARCHIVE_SHELF_Roblox.fbx",
+      "preview": "Exhibition/VIC_E10_ARCHIVE_SHELF/preview.png",
+      "materials": [
+        "Charcoal",
+        "Paper",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Optional off-route dressing; no loose book clutter",
+      "components": [
+        {
+          "name": "VIC_E10_ARCHIVE_SHELF__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 72
+        },
+        {
+          "name": "VIC_E10_ARCHIVE_SHELF__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 84
+        },
+        {
+          "name": "VIC_E10_ARCHIVE_SHELF__Paper",
+          "component": "Body",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 72
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L01_FOLIO",
+      "category": "Loot",
+      "name": "Common folded folio",
+      "triangles": 72,
+      "triangleCap": 120,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.6,
+        "height": 0.37,
+        "depth": 1.92
+      },
+      "boundsMinStuds": [
+        -1.3,
+        0.02,
+        -0.96
+      ],
+      "boundsMaxStuds": [
+        1.3,
+        0.39,
+        0.96
+      ],
+      "source": "Loot/VIC_L01_FOLIO/VIC_L01_FOLIO.blend",
+      "export": "Loot/VIC_L01_FOLIO/VIC_L01_FOLIO_Roblox.fbx",
+      "preview": "Loot/VIC_L01_FOLIO/preview.png",
+      "materials": [
+        "Brass",
+        "Ink",
+        "Oxblood",
+        "Paper"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_L01_FOLIO__Oxblood",
+          "component": "Body",
+          "material": "Oxblood",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_L01_FOLIO__Paper",
+          "component": "Body",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_L01_FOLIO__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_L01_FOLIO__Ink",
+          "component": "Body",
+          "material": "Ink",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L02_LETTER",
+      "category": "Loot",
+      "name": "Common correspondence packet",
+      "triangles": 32,
+      "triangleCap": 120,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.2,
+        "height": 0.7,
+        "depth": 1.545
+      },
+      "boundsMinStuds": [
+        -1.1,
+        0.0,
+        -0.82
+      ],
+      "boundsMaxStuds": [
+        1.1,
+        0.7,
+        0.725
+      ],
+      "source": "Loot/VIC_L02_LETTER/VIC_L02_LETTER.blend",
+      "export": "Loot/VIC_L02_LETTER/VIC_L02_LETTER_Roblox.fbx",
+      "preview": "Loot/VIC_L02_LETTER/preview.png",
+      "materials": [
+        "Oxblood",
+        "Paper"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_L02_LETTER__Paper",
+          "component": "Body",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 20
+        },
+        {
+          "name": "VIC_L02_LETTER__Oxblood",
+          "component": "Body",
+          "material": "Oxblood",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L05_TRADE_COLLECTION",
+      "category": "Loot",
+      "name": "Fictional trade collection",
+      "triangles": 196,
+      "triangleCap": 260,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.6,
+        "height": 1.22,
+        "depth": 1.45
+      },
+      "boundsMinStuds": [
+        -1.3,
+        0.0,
+        -0.725
+      ],
+      "boundsMaxStuds": [
+        1.3,
+        1.22,
+        0.725
+      ],
+      "source": "Loot/VIC_L05_TRADE_COLLECTION/VIC_L05_TRADE_COLLECTION.blend",
+      "export": "Loot/VIC_L05_TRADE_COLLECTION/VIC_L05_TRADE_COLLECTION_Roblox.fbx",
+      "preview": "Loot/VIC_L05_TRADE_COLLECTION/preview.png",
+      "materials": [
+        "Bronze",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_L05_TRADE_COLLECTION__Bronze",
+          "component": "Body",
+          "material": "Bronze",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 184
+        },
+        {
+          "name": "VIC_L05_TRADE_COLLECTION__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L06_ABSTRACT_BRONZE",
+      "category": "Loot",
+      "name": "Interlocking faceted abstract bronze",
+      "triangles": 148,
+      "triangleCap": 260,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.53,
+        "height": 1.9,
+        "depth": 1.9
+      },
+      "boundsMinStuds": [
+        -1.28,
+        0.0,
+        -0.95
+      ],
+      "boundsMaxStuds": [
+        1.25,
+        1.9,
+        0.95
+      ],
+      "source": "Loot/VIC_L06_ABSTRACT_BRONZE/VIC_L06_ABSTRACT_BRONZE.blend",
+      "export": "Loot/VIC_L06_ABSTRACT_BRONZE/VIC_L06_ABSTRACT_BRONZE_Roblox.fbx",
+      "preview": "Loot/VIC_L06_ABSTRACT_BRONZE/preview.png",
+      "materials": [
+        "Brass",
+        "Bronze",
+        "Charcoal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_L06_ABSTRACT_BRONZE__Bronze",
+          "component": "Body",
+          "material": "Bronze",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 68
+        },
+        {
+          "name": "VIC_L06_ABSTRACT_BRONZE__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 68
+        },
+        {
+          "name": "VIC_L06_ABSTRACT_BRONZE__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L07_PRESENTATION_SET",
+      "category": "Loot",
+      "name": "Fictional presentation set",
+      "triangles": 180,
+      "triangleCap": 260,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.6,
+        "height": 0.89,
+        "depth": 1.8
+      },
+      "boundsMinStuds": [
+        -1.3,
+        0.0,
+        -0.9
+      ],
+      "boundsMaxStuds": [
+        1.3,
+        0.89,
+        0.9
+      ],
+      "source": "Loot/VIC_L07_PRESENTATION_SET/VIC_L07_PRESENTATION_SET.blend",
+      "export": "Loot/VIC_L07_PRESENTATION_SET/VIC_L07_PRESENTATION_SET_Roblox.fbx",
+      "preview": "Loot/VIC_L07_PRESENTATION_SET/preview.png",
+      "materials": [
+        "Brass",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_L07_PRESENTATION_SET__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_L07_PRESENTATION_SET__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 168
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L08_CEREMONIAL_VESSEL",
+      "category": "Loot",
+      "name": "Fictional ceremonial vessel",
+      "triangles": 300,
+      "triangleCap": 350,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 1.68,
+        "height": 1.98,
+        "depth": 1.3695
+      },
+      "boundsMinStuds": [
+        -0.84,
+        0.0,
+        -0.68476
+      ],
+      "boundsMaxStuds": [
+        0.84,
+        1.98,
+        0.68476
+      ],
+      "source": "Loot/VIC_L08_CEREMONIAL_VESSEL/VIC_L08_CEREMONIAL_VESSEL.blend",
+      "export": "Loot/VIC_L08_CEREMONIAL_VESSEL/VIC_L08_CEREMONIAL_VESSEL_Roblox.fbx",
+      "preview": "Loot/VIC_L08_CEREMONIAL_VESSEL/preview.png",
+      "materials": [
+        "Brass",
+        "Bronze"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_L08_CEREMONIAL_VESSEL__Bronze",
+          "component": "Body",
+          "material": "Bronze",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 196
+        },
+        {
+          "name": "VIC_L08_CEREMONIAL_VESSEL__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 104
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L09_KEEPSAKE",
+      "category": "Loot",
+      "name": "Fictional ceremonial keepsake",
+      "triangles": 160,
+      "triangleCap": 350,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 1.6,
+        "height": 1.525,
+        "depth": 1.5708
+      },
+      "boundsMinStuds": [
+        -0.8,
+        0.0,
+        -0.81
+      ],
+      "boundsMaxStuds": [
+        0.8,
+        1.525,
+        0.76085
+      ],
+      "source": "Loot/VIC_L09_KEEPSAKE/VIC_L09_KEEPSAKE.blend",
+      "export": "Loot/VIC_L09_KEEPSAKE/VIC_L09_KEEPSAKE_Roblox.fbx",
+      "preview": "Loot/VIC_L09_KEEPSAKE/preview.png",
+      "materials": [
+        "Brass",
+        "Gem",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_L09_KEEPSAKE__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 136
+        },
+        {
+          "name": "VIC_L09_KEEPSAKE__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_L09_KEEPSAKE__Gem",
+          "component": "Body",
+          "material": "Gem",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L10_PREMIUM_INSIGNIA",
+      "category": "Loot",
+      "name": "Fictional jewelled insignia",
+      "triangles": 216,
+      "triangleCap": 600,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.6,
+        "height": 2.75,
+        "depth": 1.7
+      },
+      "boundsMinStuds": [
+        -1.3,
+        0.0,
+        -0.85
+      ],
+      "boundsMaxStuds": [
+        1.3,
+        2.75,
+        0.85
+      ],
+      "source": "Loot/VIC_L10_PREMIUM_INSIGNIA/VIC_L10_PREMIUM_INSIGNIA.blend",
+      "export": "Loot/VIC_L10_PREMIUM_INSIGNIA/VIC_L10_PREMIUM_INSIGNIA_Roblox.fbx",
+      "preview": "Loot/VIC_L10_PREMIUM_INSIGNIA/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Gem",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Hero silhouette gets broad facets, not filigree",
+      "components": [
+        {
+          "name": "VIC_L10_PREMIUM_INSIGNIA__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_L10_PREMIUM_INSIGNIA__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 96
+        },
+        {
+          "name": "VIC_L10_PREMIUM_INSIGNIA__Gem",
+          "component": "Body",
+          "material": "Gem",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_L10_PREMIUM_INSIGNIA__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 96
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L11_RARE_ARCHIVE_FOLIO",
+      "category": "Loot",
+      "name": "Premium archive folio",
+      "triangles": 204,
+      "triangleCap": 600,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.7,
+        "height": 0.74,
+        "depth": 2.0
+      },
+      "boundsMinStuds": [
+        -1.35,
+        0.01,
+        -1.0
+      ],
+      "boundsMaxStuds": [
+        1.35,
+        0.75,
+        1.0
+      ],
+      "source": "Loot/VIC_L11_RARE_ARCHIVE_FOLIO/VIC_L11_RARE_ARCHIVE_FOLIO.blend",
+      "export": "Loot/VIC_L11_RARE_ARCHIVE_FOLIO/VIC_L11_RARE_ARCHIVE_FOLIO_Roblox.fbx",
+      "preview": "Loot/VIC_L11_RARE_ARCHIVE_FOLIO/preview.png",
+      "materials": [
+        "Brass",
+        "Gem",
+        "Oxblood",
+        "Paper"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_L11_RARE_ARCHIVE_FOLIO__Oxblood",
+          "component": "Body",
+          "material": "Oxblood",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_L11_RARE_ARCHIVE_FOLIO__Paper",
+          "component": "Body",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_L11_RARE_ARCHIVE_FOLIO__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 156
+        },
+        {
+          "name": "VIC_L11_RARE_ARCHIVE_FOLIO__Gem",
+          "component": "Body",
+          "material": "Gem",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L12_MINIATURE",
+      "category": "Loot",
+      "name": "Fictional architectural miniature",
+      "triangles": 108,
+      "triangleCap": 180,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.5,
+        "height": 1.55,
+        "depth": 1.7
+      },
+      "boundsMinStuds": [
+        -1.25,
+        0.0,
+        -0.85
+      ],
+      "boundsMaxStuds": [
+        1.25,
+        1.55,
+        0.85
+      ],
+      "source": "Loot/VIC_L12_MINIATURE/VIC_L12_MINIATURE.blend",
+      "export": "Loot/VIC_L12_MINIATURE/VIC_L12_MINIATURE_Roblox.fbx",
+      "preview": "Loot/VIC_L12_MINIATURE/preview.png",
+      "materials": [
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Broad pavilion silhouette; not a detailed landmark replica",
+      "components": [
+        {
+          "name": "VIC_L12_MINIATURE__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_L12_MINIATURE__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 96
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_L14_RIVER_PORTFOLIO",
+      "category": "Loot",
+      "name": "Fictional river-trade portfolio",
+      "triangles": 72,
+      "triangleCap": 260,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.75,
+        "height": 0.4775,
+        "depth": 1.7
+      },
+      "boundsMinStuds": [
+        -1.4,
+        0.0,
+        -0.85
+      ],
+      "boundsMaxStuds": [
+        1.35,
+        0.4775,
+        0.85
+      ],
+      "source": "Loot/VIC_L14_RIVER_PORTFOLIO/VIC_L14_RIVER_PORTFOLIO.blend",
+      "export": "Loot/VIC_L14_RIVER_PORTFOLIO/VIC_L14_RIVER_PORTFOLIO_Roblox.fbx",
+      "preview": "Loot/VIC_L14_RIVER_PORTFOLIO/preview.png",
+      "materials": [
+        "Brass",
+        "Paper",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_L14_RIVER_PORTFOLIO__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_L14_RIVER_PORTFOLIO__Paper",
+          "component": "Body",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_L14_RIVER_PORTFOLIO__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 36
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_S01_STATIC_EMITTER",
+      "category": "Security",
+      "name": "Static laser emitter housing",
+      "triangles": 76,
+      "triangleCap": 100,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 0.68,
+        "height": 3.0,
+        "depth": 0.68
+      },
+      "boundsMinStuds": [
+        -0.34,
+        0.0,
+        -0.34
+      ],
+      "boundsMaxStuds": [
+        0.34,
+        3.0,
+        0.34
+      ],
+      "source": "Security/VIC_S01_STATIC_EMITTER/VIC_S01_STATIC_EMITTER.blend",
+      "export": "Security/VIC_S01_STATIC_EMITTER/VIC_S01_STATIC_EMITTER_Roblox.fbx",
+      "preview": "Security/VIC_S01_STATIC_EMITTER/preview.png",
+      "materials": [
+        "Amber",
+        "Brass",
+        "Charcoal",
+        "Teal"
+      ],
+      "sockets": {
+        "Lens": [
+          0,
+          1.7,
+          -0.3
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "No beam or detection component",
+      "components": [
+        {
+          "name": "VIC_S01_STATIC_EMITTER__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 40
+        },
+        {
+          "name": "VIC_S01_STATIC_EMITTER__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_S01_STATIC_EMITTER__Amber",
+          "component": "Body",
+          "material": "Amber",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_S01_STATIC_EMITTER__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_S02_MOVING_HOUSING",
+      "category": "Security",
+      "name": "Pivot-ready moving-laser housing",
+      "triangles": 100,
+      "triangleCap": 180,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 1.45,
+        "height": 2.625,
+        "depth": 1.44
+      },
+      "boundsMinStuds": [
+        -0.725,
+        0.0,
+        -0.72
+      ],
+      "boundsMaxStuds": [
+        0.725,
+        2.625,
+        0.72
+      ],
+      "source": "Security/VIC_S02_MOVING_HOUSING/VIC_S02_MOVING_HOUSING.blend",
+      "export": "Security/VIC_S02_MOVING_HOUSING/VIC_S02_MOVING_HOUSING_Roblox.fbx",
+      "preview": "Security/VIC_S02_MOVING_HOUSING/preview.png",
+      "materials": [
+        "Amber",
+        "Brass",
+        "Charcoal"
+      ],
+      "sockets": {
+        "SweepAxis": [
+          0,
+          2.25,
+          0
+        ],
+        "Lens": [
+          0,
+          2.25,
+          -0.54
+        ]
+      },
+      "componentPivots": {
+        "Head": [
+          0,
+          2.25,
+          0
+        ]
+      },
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Head meshes retain a shared local sweep pivot; no animation",
+      "components": [
+        {
+          "name": "VIC_S02_MOVING_HOUSING__Base__Charcoal",
+          "component": "Base",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_S02_MOVING_HOUSING__Head__Charcoal",
+          "component": "Head",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            2.25,
+            -0.0
+          ],
+          "triangles": 28
+        },
+        {
+          "name": "VIC_S02_MOVING_HOUSING__Head__Brass",
+          "component": "Head",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            2.25,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_S02_MOVING_HOUSING__Head__Amber",
+          "component": "Head",
+          "material": "Amber",
+          "translationStuds": [
+            0.0,
+            2.25,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_S03_ELECTRIC_FLOOR",
+      "category": "Security",
+      "name": "Flush 8-stud electrical floor visual",
+      "triangles": 108,
+      "triangleCap": 120,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 8.0,
+        "height": 0.1,
+        "depth": 8.0
+      },
+      "boundsMinStuds": [
+        -4.0,
+        0.0,
+        -4.0
+      ],
+      "boundsMaxStuds": [
+        4.0,
+        0.1,
+        4.0
+      ],
+      "source": "Security/VIC_S03_ELECTRIC_FLOOR/VIC_S03_ELECTRIC_FLOOR.blend",
+      "export": "Security/VIC_S03_ELECTRIC_FLOOR/VIC_S03_ELECTRIC_FLOOR_Roblox.fbx",
+      "preview": "Security/VIC_S03_ELECTRIC_FLOOR/preview.png",
+      "materials": [
+        "Amber",
+        "Charcoal",
+        "Oxblood",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "0.10-stud maximum height; inactive colour inlays only",
+      "components": [
+        {
+          "name": "VIC_S03_ELECTRIC_FLOOR__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_S03_ELECTRIC_FLOOR__Amber",
+          "component": "Body",
+          "material": "Amber",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_S03_ELECTRIC_FLOOR__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 36
+        },
+        {
+          "name": "VIC_S03_ELECTRIC_FLOOR__Oxblood",
+          "component": "Body",
+          "material": "Oxblood",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_S04_TERMINAL",
+      "category": "Security",
+      "name": "Compact security terminal visual",
+      "triangles": 156,
+      "triangleCap": 350,
+      "materialMeshes": 6,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 1.9,
+        "height": 4.03,
+        "depth": 1.4
+      },
+      "boundsMinStuds": [
+        -0.95,
+        0.0,
+        -0.7
+      ],
+      "boundsMaxStuds": [
+        0.95,
+        4.03,
+        0.7
+      ],
+      "source": "Security/VIC_S04_TERMINAL/VIC_S04_TERMINAL.blend",
+      "export": "Security/VIC_S04_TERMINAL/VIC_S04_TERMINAL_Roblox.fbx",
+      "preview": "Security/VIC_S04_TERMINAL/preview.png",
+      "materials": [
+        "Amber",
+        "Brass",
+        "Charcoal",
+        "Sky",
+        "Stone",
+        "Teal"
+      ],
+      "sockets": {
+        "InteractionSurface": [
+          0,
+          3.25,
+          -0.53
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Blank broad UI blocks only; no hacking script",
+      "components": [
+        {
+          "name": "VIC_S04_TERMINAL__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_S04_TERMINAL__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_S04_TERMINAL__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_S04_TERMINAL__Amber",
+          "component": "Body",
+          "material": "Amber",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_S04_TERMINAL__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 36
+        },
+        {
+          "name": "VIC_S04_TERMINAL__Sky",
+          "component": "Body",
+          "material": "Sky",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 36
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    }
+  ]
+}

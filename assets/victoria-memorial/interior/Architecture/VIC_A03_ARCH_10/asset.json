@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_A03_ARCH_10",
+  "category": "Architecture",
+  "name": "10-stud-clear arch with spandrel infill",
+  "triangles": 264,
+  "triangleCap": 350,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 11.6,
+    "height": 14.8,
+    "depth": 0.44
+  },
+  "boundsMinStuds": [
+    -5.8,
+    0.0,
+    -0.22
+  ],
+  "boundsMaxStuds": [
+    5.8,
+    14.8,
+    0.22
+  ],
+  "source": "Architecture/VIC_A03_ARCH_10/VIC_A03_ARCH_10.blend",
+  "export": "Architecture/VIC_A03_ARCH_10/VIC_A03_ARCH_10_Roblox.fbx",
+  "preview": "Architecture/VIC_A03_ARCH_10/preview.png",
+  "materials": [
+    "Brass",
+    "Ivory",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "14-stud inner apex; ten-stud width below nine-stud spring. Matching spandrels close square-aperture corners above avatar clearance; visual only",
+  "components": [
+    {
+      "name": "VIC_A03_ARCH_10__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 100
+    },
+    {
+      "name": "VIC_A03_ARCH_10__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 100
+    },
+    {
+      "name": "VIC_A03_ARCH_10__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 64
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

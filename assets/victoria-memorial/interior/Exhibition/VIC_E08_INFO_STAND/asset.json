@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_E08_INFO_STAND",
+  "category": "Exhibition",
+  "name": "Museum information stand",
+  "triangles": 48,
+  "triangleCap": 180,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.0,
+    "height": 3.52,
+    "depth": 1.5
+  },
+  "boundsMinStuds": [
+    -1.0,
+    0.0,
+    -0.75
+  ],
+  "boundsMaxStuds": [
+    1.0,
+    3.52,
+    0.75
+  ],
+  "source": "Exhibition/VIC_E08_INFO_STAND/VIC_E08_INFO_STAND.blend",
+  "export": "Exhibition/VIC_E08_INFO_STAND/VIC_E08_INFO_STAND_Roblox.fbx",
+  "preview": "Exhibition/VIC_E08_INFO_STAND/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_E08_INFO_STAND__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_E08_INFO_STAND__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_E08_INFO_STAND__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

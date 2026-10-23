@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_E09_PLAQUE",
+  "category": "Exhibition",
+  "name": "Plain reusable information plaque",
+  "triangles": 48,
+  "triangleCap": 100,
+  "materialMeshes": 3,
+  "pivot": "Lower wall-mount centre; front -Z",
+  "dimensionsStuds": {
+    "width": 1.8,
+    "height": 1.0,
+    "depth": 0.1875
+  },
+  "boundsMinStuds": [
+    -0.9,
+    0.0,
+    -0.0875
+  ],
+  "boundsMaxStuds": [
+    0.9,
+    1.0,
+    0.1
+  ],
+  "source": "Exhibition/VIC_E09_PLAQUE/VIC_E09_PLAQUE.blend",
+  "export": "Exhibition/VIC_E09_PLAQUE/VIC_E09_PLAQUE_Roblox.fbx",
+  "preview": "Exhibition/VIC_E09_PLAQUE/preview.png",
+  "materials": [
+    "Brass",
+    "Ivory",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_E09_PLAQUE__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_E09_PLAQUE__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_E09_PLAQUE__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

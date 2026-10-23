@@ -1,0 +1,85 @@
+{
+  "assetId": "VIC_L11_RARE_ARCHIVE_FOLIO",
+  "category": "Loot",
+  "name": "Premium archive folio",
+  "triangles": 204,
+  "triangleCap": 600,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.7,
+    "height": 0.74,
+    "depth": 2.0
+  },
+  "boundsMinStuds": [
+    -1.35,
+    0.01,
+    -1.0
+  ],
+  "boundsMaxStuds": [
+    1.35,
+    0.75,
+    1.0
+  ],
+  "source": "Loot/VIC_L11_RARE_ARCHIVE_FOLIO/VIC_L11_RARE_ARCHIVE_FOLIO.blend",
+  "export": "Loot/VIC_L11_RARE_ARCHIVE_FOLIO/VIC_L11_RARE_ARCHIVE_FOLIO_Roblox.fbx",
+  "preview": "Loot/VIC_L11_RARE_ARCHIVE_FOLIO/preview.png",
+  "materials": [
+    "Brass",
+    "Gem",
+    "Oxblood",
+    "Paper"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_L11_RARE_ARCHIVE_FOLIO__Oxblood",
+      "component": "Body",
+      "material": "Oxblood",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_L11_RARE_ARCHIVE_FOLIO__Paper",
+      "component": "Body",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_L11_RARE_ARCHIVE_FOLIO__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 156
+    },
+    {
+      "name": "VIC_L11_RARE_ARCHIVE_FOLIO__Gem",
+      "component": "Body",
+      "material": "Gem",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

@@ -1,0 +1,67 @@
+{
+  "assetId": "VIC_A07_PLINTH_OCTAGON",
+  "category": "Architecture",
+  "name": "Octagonal exhibit plinth",
+  "triangles": 120,
+  "triangleCap": 180,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.496,
+    "height": 1.6,
+    "depth": 3.496
+  },
+  "boundsMinStuds": [
+    -1.748,
+    0.0,
+    -1.748
+  ],
+  "boundsMaxStuds": [
+    1.748,
+    1.6,
+    1.748
+  ],
+  "source": "Architecture/VIC_A07_PLINTH_OCTAGON/VIC_A07_PLINTH_OCTAGON.blend",
+  "export": "Architecture/VIC_A07_PLINTH_OCTAGON/VIC_A07_PLINTH_OCTAGON_Roblox.fbx",
+  "preview": "Architecture/VIC_A07_PLINTH_OCTAGON/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal"
+  ],
+  "sockets": {
+    "ExhibitMount": [
+      0,
+      1.6,
+      0
+    ]
+  },
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_A07_PLINTH_OCTAGON__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 92
+    },
+    {
+      "name": "VIC_A07_PLINTH_OCTAGON__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 28
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

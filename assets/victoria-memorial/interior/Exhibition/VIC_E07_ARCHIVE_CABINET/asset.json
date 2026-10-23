@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_E07_ARCHIVE_CABINET",
+  "category": "Exhibition",
+  "name": "Shallow secure archive cabinet",
+  "triangles": 240,
+  "triangleCap": 350,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.9,
+    "height": 5.82,
+    "depth": 1.2
+  },
+  "boundsMinStuds": [
+    -1.95,
+    0.0,
+    -0.6
+  ],
+  "boundsMaxStuds": [
+    1.95,
+    5.82,
+    0.6
+  ],
+  "source": "Exhibition/VIC_E07_ARCHIVE_CABINET/VIC_E07_ARCHIVE_CABINET.blend",
+  "export": "Exhibition/VIC_E07_ARCHIVE_CABINET/VIC_E07_ARCHIVE_CABINET_Roblox.fbx",
+  "preview": "Exhibition/VIC_E07_ARCHIVE_CABINET/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Optional wall dressing only; 1.2-stud depth, keep outside reserved lanes",
+  "components": [
+    {
+      "name": "VIC_E07_ARCHIVE_CABINET__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 120
+    },
+    {
+      "name": "VIC_E07_ARCHIVE_CABINET__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_E07_ARCHIVE_CABINET__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 108
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

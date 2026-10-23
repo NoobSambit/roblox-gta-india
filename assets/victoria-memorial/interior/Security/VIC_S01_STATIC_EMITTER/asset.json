@@ -1,0 +1,91 @@
+{
+  "assetId": "VIC_S01_STATIC_EMITTER",
+  "category": "Security",
+  "name": "Static laser emitter housing",
+  "triangles": 76,
+  "triangleCap": 100,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 0.68,
+    "height": 3.0,
+    "depth": 0.68
+  },
+  "boundsMinStuds": [
+    -0.34,
+    0.0,
+    -0.34
+  ],
+  "boundsMaxStuds": [
+    0.34,
+    3.0,
+    0.34
+  ],
+  "source": "Security/VIC_S01_STATIC_EMITTER/VIC_S01_STATIC_EMITTER.blend",
+  "export": "Security/VIC_S01_STATIC_EMITTER/VIC_S01_STATIC_EMITTER_Roblox.fbx",
+  "preview": "Security/VIC_S01_STATIC_EMITTER/preview.png",
+  "materials": [
+    "Amber",
+    "Brass",
+    "Charcoal",
+    "Teal"
+  ],
+  "sockets": {
+    "Lens": [
+      0,
+      1.7,
+      -0.3
+    ]
+  },
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "No beam or detection component",
+  "components": [
+    {
+      "name": "VIC_S01_STATIC_EMITTER__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 40
+    },
+    {
+      "name": "VIC_S01_STATIC_EMITTER__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_S01_STATIC_EMITTER__Amber",
+      "component": "Body",
+      "material": "Amber",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_S01_STATIC_EMITTER__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

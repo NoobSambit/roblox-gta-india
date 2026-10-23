@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_L08_CEREMONIAL_VESSEL",
+  "category": "Loot",
+  "name": "Fictional ceremonial vessel",
+  "triangles": 300,
+  "triangleCap": 350,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 1.68,
+    "height": 1.98,
+    "depth": 1.3695
+  },
+  "boundsMinStuds": [
+    -0.84,
+    0.0,
+    -0.68476
+  ],
+  "boundsMaxStuds": [
+    0.84,
+    1.98,
+    0.68476
+  ],
+  "source": "Loot/VIC_L08_CEREMONIAL_VESSEL/VIC_L08_CEREMONIAL_VESSEL.blend",
+  "export": "Loot/VIC_L08_CEREMONIAL_VESSEL/VIC_L08_CEREMONIAL_VESSEL_Roblox.fbx",
+  "preview": "Loot/VIC_L08_CEREMONIAL_VESSEL/preview.png",
+  "materials": [
+    "Brass",
+    "Bronze"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_L08_CEREMONIAL_VESSEL__Bronze",
+      "component": "Body",
+      "material": "Bronze",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 196
+    },
+    {
+      "name": "VIC_L08_CEREMONIAL_VESSEL__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 104
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

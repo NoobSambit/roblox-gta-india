@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_L07_PRESENTATION_SET",
+  "category": "Loot",
+  "name": "Fictional presentation set",
+  "triangles": 180,
+  "triangleCap": 260,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.6,
+    "height": 0.89,
+    "depth": 1.8
+  },
+  "boundsMinStuds": [
+    -1.3,
+    0.0,
+    -0.9
+  ],
+  "boundsMaxStuds": [
+    1.3,
+    0.89,
+    0.9
+  ],
+  "source": "Loot/VIC_L07_PRESENTATION_SET/VIC_L07_PRESENTATION_SET.blend",
+  "export": "Loot/VIC_L07_PRESENTATION_SET/VIC_L07_PRESENTATION_SET_Roblox.fbx",
+  "preview": "Loot/VIC_L07_PRESENTATION_SET/preview.png",
+  "materials": [
+    "Brass",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_L07_PRESENTATION_SET__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_L07_PRESENTATION_SET__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 168
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

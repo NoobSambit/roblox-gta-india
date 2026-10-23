@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_A12_FLOOR_RUNNER_8",
+  "category": "Architecture",
+  "name": "8-stud flat museum runner",
+  "triangles": 60,
+  "triangleCap": 150,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 8.0,
+    "height": 0.038,
+    "depth": 6.0
+  },
+  "boundsMinStuds": [
+    -4.0,
+    0.0,
+    -3.0
+  ],
+  "boundsMaxStuds": [
+    4.0,
+    0.038,
+    3.0
+  ],
+  "source": "Architecture/VIC_A12_FLOOR_RUNNER_8/VIC_A12_FLOOR_RUNNER_8.blend",
+  "export": "Architecture/VIC_A12_FLOOR_RUNNER_8/VIC_A12_FLOOR_RUNNER_8_Roblox.fbx",
+  "preview": "Architecture/VIC_A12_FLOOR_RUNNER_8/preview.png",
+  "materials": [
+    "Brass",
+    "Ivory",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "0.038-stud high non-colliding floor colour insert; no raised threshold or gameplay obstacle",
+  "components": [
+    {
+      "name": "VIC_A12_FLOOR_RUNNER_8__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_A12_FLOOR_RUNNER_8__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_A12_FLOOR_RUNNER_8__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

@@ -1,0 +1,79 @@
+{
+  "assetId": "VIC_A06_PLINTH_SQUARE",
+  "category": "Architecture",
+  "name": "Square exhibit plinth",
+  "triangles": 60,
+  "triangleCap": 180,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.8,
+    "height": 1.6,
+    "depth": 3.8
+  },
+  "boundsMinStuds": [
+    -1.9,
+    0.0,
+    -1.9
+  ],
+  "boundsMaxStuds": [
+    1.9,
+    1.6,
+    1.9
+  ],
+  "source": "Architecture/VIC_A06_PLINTH_SQUARE/VIC_A06_PLINTH_SQUARE.blend",
+  "export": "Architecture/VIC_A06_PLINTH_SQUARE/VIC_A06_PLINTH_SQUARE_Roblox.fbx",
+  "preview": "Architecture/VIC_A06_PLINTH_SQUARE/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Ivory"
+  ],
+  "sockets": {
+    "ExhibitMount": [
+      0,
+      1.6,
+      0
+    ]
+  },
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_A06_PLINTH_SQUARE__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_A06_PLINTH_SQUARE__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_A06_PLINTH_SQUARE__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

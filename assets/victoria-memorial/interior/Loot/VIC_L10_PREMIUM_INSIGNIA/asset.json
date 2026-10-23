@@ -1,0 +1,85 @@
+{
+  "assetId": "VIC_L10_PREMIUM_INSIGNIA",
+  "category": "Loot",
+  "name": "Fictional jewelled insignia",
+  "triangles": 216,
+  "triangleCap": 600,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.6,
+    "height": 2.75,
+    "depth": 1.7
+  },
+  "boundsMinStuds": [
+    -1.3,
+    0.0,
+    -0.85
+  ],
+  "boundsMaxStuds": [
+    1.3,
+    2.75,
+    0.85
+  ],
+  "source": "Loot/VIC_L10_PREMIUM_INSIGNIA/VIC_L10_PREMIUM_INSIGNIA.blend",
+  "export": "Loot/VIC_L10_PREMIUM_INSIGNIA/VIC_L10_PREMIUM_INSIGNIA_Roblox.fbx",
+  "preview": "Loot/VIC_L10_PREMIUM_INSIGNIA/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Gem",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Hero silhouette gets broad facets, not filigree",
+  "components": [
+    {
+      "name": "VIC_L10_PREMIUM_INSIGNIA__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_L10_PREMIUM_INSIGNIA__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 96
+    },
+    {
+      "name": "VIC_L10_PREMIUM_INSIGNIA__Gem",
+      "component": "Body",
+      "material": "Gem",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_L10_PREMIUM_INSIGNIA__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 96
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

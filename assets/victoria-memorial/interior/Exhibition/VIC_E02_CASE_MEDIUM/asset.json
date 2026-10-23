@@ -1,0 +1,91 @@
+{
+  "assetId": "VIC_E02_CASE_MEDIUM",
+  "category": "Exhibition",
+  "name": "Medium display case",
+  "triangles": 264,
+  "triangleCap": 450,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 4.0,
+    "height": 5.54,
+    "depth": 4.0
+  },
+  "boundsMinStuds": [
+    -2.0,
+    0.0,
+    -2.0
+  ],
+  "boundsMaxStuds": [
+    2.0,
+    5.54,
+    2.0
+  ],
+  "source": "Exhibition/VIC_E02_CASE_MEDIUM/VIC_E02_CASE_MEDIUM.blend",
+  "export": "Exhibition/VIC_E02_CASE_MEDIUM/VIC_E02_CASE_MEDIUM_Roblox.fbx",
+  "preview": "Exhibition/VIC_E02_CASE_MEDIUM/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Glass",
+    "Ivory"
+  ],
+  "sockets": {
+    "ExhibitMount": [
+      0,
+      1.72,
+      0
+    ]
+  },
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Glass exported separately; map its transparency in Studio",
+  "components": [
+    {
+      "name": "VIC_E02_CASE_MEDIUM__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_E02_CASE_MEDIUM__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 168
+    },
+    {
+      "name": "VIC_E02_CASE_MEDIUM__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_E02_CASE_MEDIUM__Glass",
+      "component": "Body",
+      "material": "Glass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 60
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}
