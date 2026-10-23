@@ -1,0 +1,3680 @@
+{
+  "version": 1,
+  "streetY": 0,
+  "waterY": -13.5,
+  "roads": [
+    {
+      "id": "KOL_RD_MAIN",
+      "rect": [
+        -520.0,
+        -20.0,
+        420.0,
+        20.0
+      ],
+      "ends": [
+        [
+          -500,
+          0
+        ],
+        [
+          400,
+          0
+        ]
+      ],
+      "width": 40,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_RIVER",
+      "rect": [
+        -516.0,
+        -776.0,
+        -484.0,
+        666.0
+      ],
+      "ends": [
+        [
+          -500,
+          -760
+        ],
+        [
+          -500,
+          650
+        ]
+      ],
+      "width": 32,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_EAST",
+      "rect": [
+        388.0,
+        -772.0,
+        412.0,
+        662.0
+      ],
+      "ends": [
+        [
+          400,
+          -760
+        ],
+        [
+          400,
+          650
+        ]
+      ],
+      "width": 24,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_CENTRAL",
+      "rect": [
+        68.0,
+        -772.0,
+        92.0,
+        662.0
+      ],
+      "ends": [
+        [
+          80,
+          -760
+        ],
+        [
+          80,
+          650
+        ]
+      ],
+      "width": 24,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_NORTH",
+      "rect": [
+        -520.0,
+        -420.0,
+        420.0,
+        -380.0
+      ],
+      "ends": [
+        [
+          -500,
+          -400
+        ],
+        [
+          400,
+          -400
+        ]
+      ],
+      "width": 40,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_CIVIC",
+      "rect": [
+        -520.0,
+        -200.0,
+        420.0,
+        -160.0
+      ],
+      "ends": [
+        [
+          -500,
+          -180
+        ],
+        [
+          400,
+          -180
+        ]
+      ],
+      "width": 40,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_SOUTH",
+      "rect": [
+        -520.0,
+        380.0,
+        420.0,
+        420.0
+      ],
+      "ends": [
+        [
+          -500,
+          400
+        ],
+        [
+          400,
+          400
+        ]
+      ],
+      "width": 40,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_OUTER_N",
+      "rect": [
+        -510.0,
+        -770.0,
+        410.0,
+        -750.0
+      ],
+      "ends": [
+        [
+          -500,
+          -760
+        ],
+        [
+          400,
+          -760
+        ]
+      ],
+      "width": 20,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_OUTER_S",
+      "rect": [
+        -510.0,
+        640.0,
+        410.0,
+        660.0
+      ],
+      "ends": [
+        [
+          -500,
+          650
+        ],
+        [
+          400,
+          650
+        ]
+      ],
+      "width": 20,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_NORTH_GULLY",
+      "rect": [
+        -508.0,
+        -558.0,
+        88.0,
+        -542.0
+      ],
+      "ends": [
+        [
+          -500,
+          -550
+        ],
+        [
+          80,
+          -550
+        ]
+      ],
+      "width": 16,
+      "footpath": 8
+    },
+    {
+      "id": "KOL_RD_MODERN_LOCAL",
+      "rect": [
+        68.0,
+        -592.0,
+        412.0,
+        -568.0
+      ],
+      "ends": [
+        [
+          80,
+          -580
+        ],
+        [
+          400,
+          -580
+        ]
+      ],
+      "width": 24,
+      "footpath": 10
+    },
+    {
+      "id": "KOL_RD_COMMERCIAL_CROSS",
+      "rect": [
+        -250.0,
+        190.0,
+        410.0,
+        210.0
+      ],
+      "ends": [
+        [
+          -240,
+          200
+        ],
+        [
+          400,
+          200
+        ]
+      ],
+      "width": 20,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_WEST_SERVICE",
+      "rect": [
+        -250.0,
+        190.0,
+        -230.0,
+        660.0
+      ],
+      "ends": [
+        [
+          -240,
+          200
+        ],
+        [
+          -240,
+          650
+        ]
+      ],
+      "width": 20,
+      "footpath": 12
+    },
+    {
+      "id": "KOL_RD_INFORMAL_LOOP",
+      "rect": [
+        -508.0,
+        572.0,
+        -232.0,
+        588.0
+      ],
+      "ends": [
+        [
+          -500,
+          580
+        ],
+        [
+          -240,
+          580
+        ]
+      ],
+      "width": 16,
+      "footpath": 8
+    },
+    {
+      "id": "KOL_RD_SOUTH_LOCAL",
+      "rect": [
+        -250.0,
+        540.0,
+        410.0,
+        560.0
+      ],
+      "ends": [
+        [
+          -240,
+          550
+        ],
+        [
+          400,
+          550
+        ]
+      ],
+      "width": 20,
+      "footpath": 10
+    },
+    {
+      "id": "KOL_RD_JORA_WEST_GULLY",
+      "rect": [
+        -317.0,
+        -767.0,
+        -303.0,
+        -543.0
+      ],
+      "ends": [
+        [
+          -310,
+          -760
+        ],
+        [
+          -310,
+          -550
+        ]
+      ],
+      "width": 14,
+      "footpath": 2
+    },
+    {
+      "id": "KOL_RD_JORA_EAST_GULLY",
+      "rect": [
+        -140.0,
+        -767.0,
+        -126.0,
+        -543.0
+      ],
+      "ends": [
+        [
+          -133,
+          -760
+        ],
+        [
+          -133,
+          -550
+        ]
+      ],
+      "width": 14,
+      "footpath": 2
+    }
+  ],
+  "placements": [
+    {
+      "assetId": "kolkata.tier2.writers_building",
+      "district": "Civic",
+      "position": [
+        -130,
+        0,
+        -280
+      ],
+      "yaw": 180,
+      "kind": "landmark",
+      "id": "KOL_CIVIC_001"
+    },
+    {
+      "assetId": "kolkata.tier2.town_hall",
+      "district": "Civic",
+      "position": [
+        270,
+        0,
+        -285
+      ],
+      "yaw": 180,
+      "kind": "landmark",
+      "id": "KOL_CIVIC_002"
+    },
+    {
+      "assetId": "kolkata.tier2.gpo",
+      "district": "Civic",
+      "position": [
+        -340,
+        0,
+        150
+      ],
+      "yaw": 90,
+      "kind": "landmark",
+      "id": "KOL_CIVIC_003"
+    },
+    {
+      "assetId": "kolkata.tier2.metropolitan_building",
+      "district": "Civic",
+      "position": [
+        240,
+        0,
+        290
+      ],
+      "yaw": 0,
+      "kind": "landmark",
+      "id": "KOL_CIVIC_004"
+    },
+    {
+      "assetId": "kolkata.tier2.jorasanko_thakur_bari",
+      "district": "NorthKolkata",
+      "position": [
+        -230,
+        0,
+        -650
+      ],
+      "yaw": 180,
+      "kind": "landmark",
+      "id": "KOL_NORTHKOLKATA_005"
+    },
+    {
+      "assetId": "KOL_T3_OLD_01",
+      "district": "NorthKolkata",
+      "position": [
+        -440,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_006"
+    },
+    {
+      "assetId": "KOL_T3_OLD_02",
+      "district": "NorthKolkata",
+      "position": [
+        -392,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_007"
+    },
+    {
+      "assetId": "KOL_T3_OLD_03",
+      "district": "NorthKolkata",
+      "position": [
+        -344,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_008"
+    },
+    {
+      "assetId": "KOL_T3_OLD_04",
+      "district": "NorthKolkata",
+      "position": [
+        -296,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_009"
+    },
+    {
+      "assetId": "KOL_T3_OLD_05",
+      "district": "NorthKolkata",
+      "position": [
+        -248,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_010"
+    },
+    {
+      "assetId": "KOL_T3_OLD_06",
+      "district": "NorthKolkata",
+      "position": [
+        -200,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_011"
+    },
+    {
+      "assetId": "KOL_T3_OLD_07",
+      "district": "NorthKolkata",
+      "position": [
+        -152,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_012"
+    },
+    {
+      "assetId": "KOL_T3_OLD_08",
+      "district": "NorthKolkata",
+      "position": [
+        -104,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_013"
+    },
+    {
+      "assetId": "KOL_T3_OLD_09",
+      "district": "NorthKolkata",
+      "position": [
+        -56,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_014"
+    },
+    {
+      "assetId": "KOL_T3_OLD_10",
+      "district": "NorthKolkata",
+      "position": [
+        -8,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_015"
+    },
+    {
+      "assetId": "KOL_T3_OLD_01",
+      "district": "NorthKolkata",
+      "position": [
+        -440,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_016"
+    },
+    {
+      "assetId": "KOL_T3_OLD_02",
+      "district": "NorthKolkata",
+      "position": [
+        -392,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_017"
+    },
+    {
+      "assetId": "KOL_T3_OLD_03",
+      "district": "NorthKolkata",
+      "position": [
+        -344,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_018"
+    },
+    {
+      "assetId": "KOL_T3_OLD_04",
+      "district": "NorthKolkata",
+      "position": [
+        -296,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_019"
+    },
+    {
+      "assetId": "KOL_T3_OLD_05",
+      "district": "NorthKolkata",
+      "position": [
+        -248,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_020"
+    },
+    {
+      "assetId": "KOL_T3_OLD_06",
+      "district": "NorthKolkata",
+      "position": [
+        -200,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_021"
+    },
+    {
+      "assetId": "KOL_T3_OLD_07",
+      "district": "NorthKolkata",
+      "position": [
+        -152,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_022"
+    },
+    {
+      "assetId": "KOL_T3_OLD_08",
+      "district": "NorthKolkata",
+      "position": [
+        -104,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_023"
+    },
+    {
+      "assetId": "KOL_T3_OLD_09",
+      "district": "NorthKolkata",
+      "position": [
+        -56,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_024"
+    },
+    {
+      "assetId": "KOL_T3_OLD_10",
+      "district": "NorthKolkata",
+      "position": [
+        -8,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_025"
+    },
+    {
+      "assetId": "KOL_T3_OLD_01",
+      "district": "NorthKolkata",
+      "position": [
+        -440,
+        0,
+        -600
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_026"
+    },
+    {
+      "assetId": "KOL_T3_OLD_02",
+      "district": "NorthKolkata",
+      "position": [
+        -386,
+        0,
+        -600
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_027"
+    },
+    {
+      "assetId": "KOL_T3_OLD_03",
+      "district": "NorthKolkata",
+      "position": [
+        -338,
+        0,
+        -600
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_028"
+    },
+    {
+      "assetId": "KOL_T3_OLD_04",
+      "district": "NorthKolkata",
+      "position": [
+        -100,
+        0,
+        -600
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_029"
+    },
+    {
+      "assetId": "KOL_T3_OLD_05",
+      "district": "NorthKolkata",
+      "position": [
+        -46,
+        0,
+        -600
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_030"
+    },
+    {
+      "assetId": "KOL_T3_OLD_06",
+      "district": "NorthKolkata",
+      "position": [
+        8,
+        0,
+        -600
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_031"
+    },
+    {
+      "assetId": "KOL_T3_OLD_07",
+      "district": "NorthKolkata",
+      "position": [
+        -440,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_032"
+    },
+    {
+      "assetId": "KOL_T3_OLD_08",
+      "district": "NorthKolkata",
+      "position": [
+        -386,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_033"
+    },
+    {
+      "assetId": "KOL_T3_OLD_09",
+      "district": "NorthKolkata",
+      "position": [
+        -338,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_034"
+    },
+    {
+      "assetId": "KOL_T3_OLD_10",
+      "district": "NorthKolkata",
+      "position": [
+        -100,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_035"
+    },
+    {
+      "assetId": "KOL_T3_OLD_01",
+      "district": "NorthKolkata",
+      "position": [
+        -46,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_036"
+    },
+    {
+      "assetId": "KOL_T3_OLD_02",
+      "district": "NorthKolkata",
+      "position": [
+        8,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_037"
+    },
+    {
+      "assetId": "KOL_T3_MOD_01",
+      "district": "ModernResidential",
+      "position": [
+        120,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_038"
+    },
+    {
+      "assetId": "KOL_T3_MOD_02",
+      "district": "ModernResidential",
+      "position": [
+        180,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_039"
+    },
+    {
+      "assetId": "KOL_T3_MOD_03",
+      "district": "ModernResidential",
+      "position": [
+        240,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_040"
+    },
+    {
+      "assetId": "KOL_T3_MOD_04",
+      "district": "ModernResidential",
+      "position": [
+        300,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_041"
+    },
+    {
+      "assetId": "KOL_T3_MOD_05",
+      "district": "ModernResidential",
+      "position": [
+        360,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_042"
+    },
+    {
+      "assetId": "KOL_T3_MOD_06",
+      "district": "ModernResidential",
+      "position": [
+        120,
+        0,
+        -540
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_043"
+    },
+    {
+      "assetId": "KOL_T3_MOD_07",
+      "district": "ModernResidential",
+      "position": [
+        180,
+        0,
+        -540
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_044"
+    },
+    {
+      "assetId": "KOL_T3_MOD_08",
+      "district": "ModernResidential",
+      "position": [
+        240,
+        0,
+        -540
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_045"
+    },
+    {
+      "assetId": "KOL_T3_MOD_09",
+      "district": "ModernResidential",
+      "position": [
+        300,
+        0,
+        -540
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_046"
+    },
+    {
+      "assetId": "KOL_T3_MOD_01",
+      "district": "ModernResidential",
+      "position": [
+        360,
+        0,
+        -540
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_047"
+    },
+    {
+      "assetId": "KOL_T3_MOD_02",
+      "district": "ModernResidential",
+      "position": [
+        120,
+        0,
+        -630
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_048"
+    },
+    {
+      "assetId": "KOL_T3_MOD_03",
+      "district": "ModernResidential",
+      "position": [
+        180,
+        0,
+        -630
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_049"
+    },
+    {
+      "assetId": "KOL_T3_MOD_04",
+      "district": "ModernResidential",
+      "position": [
+        240,
+        0,
+        -630
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_050"
+    },
+    {
+      "assetId": "KOL_T3_MOD_05",
+      "district": "ModernResidential",
+      "position": [
+        300,
+        0,
+        -630
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_051"
+    },
+    {
+      "assetId": "KOL_T3_MOD_06",
+      "district": "ModernResidential",
+      "position": [
+        360,
+        0,
+        -630
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_052"
+    },
+    {
+      "assetId": "KOL_T3_MOD_07",
+      "district": "ModernResidential",
+      "position": [
+        120,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_053"
+    },
+    {
+      "assetId": "KOL_T3_MOD_08",
+      "district": "ModernResidential",
+      "position": [
+        180,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_054"
+    },
+    {
+      "assetId": "KOL_T3_MOD_09",
+      "district": "ModernResidential",
+      "position": [
+        240,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_055"
+    },
+    {
+      "assetId": "KOL_T3_MOD_01",
+      "district": "ModernResidential",
+      "position": [
+        300,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_056"
+    },
+    {
+      "assetId": "KOL_T3_MOD_02",
+      "district": "ModernResidential",
+      "position": [
+        360,
+        0,
+        -720
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_057"
+    },
+    {
+      "assetId": "KOL_T3_MIX_01",
+      "district": "Civic",
+      "position": [
+        -410,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_058"
+    },
+    {
+      "assetId": "KOL_T3_MIX_02",
+      "district": "Civic",
+      "position": [
+        -345,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_059"
+    },
+    {
+      "assetId": "KOL_T3_MIX_03",
+      "district": "Civic",
+      "position": [
+        -280,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_060"
+    },
+    {
+      "assetId": "KOL_T3_MIX_04",
+      "district": "Civic",
+      "position": [
+        -205,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_061"
+    },
+    {
+      "assetId": "KOL_T3_MIX_05",
+      "district": "Civic",
+      "position": [
+        -135,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_062"
+    },
+    {
+      "assetId": "KOL_T3_MIX_01",
+      "district": "Civic",
+      "position": [
+        -65,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_063"
+    },
+    {
+      "assetId": "KOL_T3_MOD_01",
+      "district": "Civic",
+      "position": [
+        -430,
+        0,
+        -350
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_CIVIC_064"
+    },
+    {
+      "assetId": "KOL_T3_MOD_02",
+      "district": "Civic",
+      "position": [
+        -370,
+        0,
+        -350
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_CIVIC_065"
+    },
+    {
+      "assetId": "KOL_T3_MOD_03",
+      "district": "Civic",
+      "position": [
+        -310,
+        0,
+        -350
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_CIVIC_066"
+    },
+    {
+      "assetId": "KOL_T3_MOD_04",
+      "district": "Civic",
+      "position": [
+        -30,
+        0,
+        -350
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_CIVIC_067"
+    },
+    {
+      "assetId": "KOL_T3_MOD_05",
+      "district": "Civic",
+      "position": [
+        40,
+        0,
+        -350
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_CIVIC_068"
+    },
+    {
+      "assetId": "KOL_T3_MOD_06",
+      "district": "Civic",
+      "position": [
+        130,
+        0,
+        -350
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_CIVIC_069"
+    },
+    {
+      "assetId": "KOL_T3_MIX_01",
+      "district": "Commercial",
+      "position": [
+        -230,
+        0,
+        70
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_070"
+    },
+    {
+      "assetId": "KOL_T3_MIX_02",
+      "district": "Commercial",
+      "position": [
+        -75,
+        0,
+        70
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_071"
+    },
+    {
+      "assetId": "KOL_T3_MIX_03",
+      "district": "Commercial",
+      "position": [
+        140,
+        0,
+        70
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_072"
+    },
+    {
+      "assetId": "KOL_T3_MIX_04",
+      "district": "Commercial",
+      "position": [
+        350,
+        0,
+        70
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_073"
+    },
+    {
+      "assetId": "KOL_T3_MIX_05",
+      "district": "Commercial",
+      "position": [
+        -300,
+        0,
+        340
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_074"
+    },
+    {
+      "assetId": "KOL_T3_MIX_01",
+      "district": "Commercial",
+      "position": [
+        -75,
+        0,
+        340
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_075"
+    },
+    {
+      "assetId": "KOL_T3_MIX_02",
+      "district": "Commercial",
+      "position": [
+        140,
+        0,
+        340
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_076"
+    },
+    {
+      "assetId": "KOL_T3_MIX_03",
+      "district": "Commercial",
+      "position": [
+        350,
+        0,
+        340
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_077"
+    },
+    {
+      "assetId": "KOL_T3_MIX_04",
+      "district": "Commercial",
+      "position": [
+        -170,
+        0,
+        460
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_078"
+    },
+    {
+      "assetId": "KOL_T3_MIX_05",
+      "district": "Commercial",
+      "position": [
+        15,
+        0,
+        460
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_079"
+    },
+    {
+      "assetId": "KOL_T3_INF_01",
+      "district": "InformalResidential",
+      "position": [
+        -430,
+        0,
+        555
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_INFORMALRESIDENTIAL_080"
+    },
+    {
+      "assetId": "KOL_T3_INF_02",
+      "district": "InformalResidential",
+      "position": [
+        -395,
+        0,
+        555
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_INFORMALRESIDENTIAL_081"
+    },
+    {
+      "assetId": "KOL_T3_INF_03",
+      "district": "InformalResidential",
+      "position": [
+        -360,
+        0,
+        555
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_INFORMALRESIDENTIAL_082"
+    },
+    {
+      "assetId": "KOL_T3_INF_01",
+      "district": "InformalResidential",
+      "position": [
+        -430,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_INFORMALRESIDENTIAL_083"
+    },
+    {
+      "assetId": "KOL_T3_INF_02",
+      "district": "InformalResidential",
+      "position": [
+        -395,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_INFORMALRESIDENTIAL_084"
+    },
+    {
+      "assetId": "KOL_T3_INF_03",
+      "district": "InformalResidential",
+      "position": [
+        -360,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_INFORMALRESIDENTIAL_085"
+    },
+    {
+      "assetId": "KOL_T25_BANK",
+      "district": "Commercial",
+      "position": [
+        -150,
+        0,
+        105
+      ],
+      "yaw": 0,
+      "kind": "commercial",
+      "id": "KOL_COMMERCIAL_086",
+      "plotId": "KOL_PLOT_BANK_001"
+    },
+    {
+      "assetId": "KOL_T25_JEWELLERY",
+      "district": "Commercial",
+      "position": [
+        10,
+        0,
+        105
+      ],
+      "yaw": 0,
+      "kind": "commercial",
+      "id": "KOL_COMMERCIAL_087",
+      "plotId": "KOL_PLOT_JEWELLERY_001"
+    },
+    {
+      "assetId": "KOL_T25_FASHION",
+      "district": "Commercial",
+      "position": [
+        200,
+        0,
+        105
+      ],
+      "yaw": 0,
+      "kind": "commercial",
+      "id": "KOL_COMMERCIAL_088",
+      "plotId": "KOL_PLOT_FASHION_001"
+    },
+    {
+      "assetId": "KOL_T25_RETAIL",
+      "district": "Commercial",
+      "position": [
+        -150,
+        0,
+        300
+      ],
+      "yaw": 180,
+      "kind": "commercial",
+      "id": "KOL_COMMERCIAL_089",
+      "plotId": "KOL_PLOT_RETAIL_001"
+    },
+    {
+      "assetId": "KOL_T25_ELECTRONICS",
+      "district": "Commercial",
+      "position": [
+        10,
+        0,
+        300
+      ],
+      "yaw": 180,
+      "kind": "commercial",
+      "id": "KOL_COMMERCIAL_090",
+      "plotId": "KOL_PLOT_ELECTRONICS_001"
+    },
+    {
+      "assetId": "KOL_T3_OLD_02",
+      "district": "NorthKolkata",
+      "position": [
+        -338,
+        0,
+        -629
+      ],
+      "yaw": -90,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_091"
+    },
+    {
+      "assetId": "KOL_T3_OLD_04",
+      "district": "NorthKolkata",
+      "position": [
+        -338,
+        0,
+        -662
+      ],
+      "yaw": -90,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_092"
+    },
+    {
+      "assetId": "KOL_T3_OLD_01",
+      "district": "NorthKolkata",
+      "position": [
+        -338,
+        0,
+        -695
+      ],
+      "yaw": -90,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_093"
+    },
+    {
+      "assetId": "KOL_T3_OLD_03",
+      "district": "NorthKolkata",
+      "position": [
+        -100,
+        0,
+        -629
+      ],
+      "yaw": 90,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_094"
+    },
+    {
+      "assetId": "KOL_T3_OLD_08",
+      "district": "NorthKolkata",
+      "position": [
+        -100,
+        0,
+        -662
+      ],
+      "yaw": 90,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_095"
+    },
+    {
+      "assetId": "KOL_T3_OLD_04",
+      "district": "NorthKolkata",
+      "position": [
+        -100,
+        0,
+        -695
+      ],
+      "yaw": 90,
+      "kind": "residential",
+      "id": "KOL_NORTHKOLKATA_096"
+    },
+    {
+      "assetId": "KOL_T3_MOD_01",
+      "district": "ModernResidential",
+      "position": [
+        125,
+        0,
+        480
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_097"
+    },
+    {
+      "assetId": "KOL_T3_MOD_02",
+      "district": "ModernResidential",
+      "position": [
+        180,
+        0,
+        480
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_098"
+    },
+    {
+      "assetId": "KOL_T3_MOD_03",
+      "district": "ModernResidential",
+      "position": [
+        235,
+        0,
+        480
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_099"
+    },
+    {
+      "assetId": "KOL_T3_MOD_04",
+      "district": "ModernResidential",
+      "position": [
+        290,
+        0,
+        480
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_100"
+    },
+    {
+      "assetId": "KOL_T3_MOD_05",
+      "district": "ModernResidential",
+      "position": [
+        345,
+        0,
+        480
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_101"
+    },
+    {
+      "assetId": "KOL_T3_MOD_06",
+      "district": "ModernResidential",
+      "position": [
+        125,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_102"
+    },
+    {
+      "assetId": "KOL_T3_MOD_07",
+      "district": "ModernResidential",
+      "position": [
+        180,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_103"
+    },
+    {
+      "assetId": "KOL_T3_MOD_08",
+      "district": "ModernResidential",
+      "position": [
+        235,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_104"
+    },
+    {
+      "assetId": "KOL_T3_MOD_09",
+      "district": "ModernResidential",
+      "position": [
+        290,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_105"
+    },
+    {
+      "assetId": "KOL_T3_MOD_01",
+      "district": "ModernResidential",
+      "position": [
+        345,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_MODERNRESIDENTIAL_106"
+    },
+    {
+      "assetId": "KOL_T3_MIX_01",
+      "district": "Commercial",
+      "position": [
+        -175,
+        0,
+        500
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_107"
+    },
+    {
+      "assetId": "KOL_T3_MIX_02",
+      "district": "Commercial",
+      "position": [
+        -115,
+        0,
+        500
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_108"
+    },
+    {
+      "assetId": "KOL_T3_MIX_03",
+      "district": "Commercial",
+      "position": [
+        -55,
+        0,
+        500
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_109"
+    },
+    {
+      "assetId": "KOL_T3_MIX_04",
+      "district": "Commercial",
+      "position": [
+        5,
+        0,
+        500
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_110"
+    },
+    {
+      "assetId": "KOL_T3_MIX_05",
+      "district": "Commercial",
+      "position": [
+        -175,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_111"
+    },
+    {
+      "assetId": "KOL_T3_MIX_01",
+      "district": "Commercial",
+      "position": [
+        -115,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_112"
+    },
+    {
+      "assetId": "KOL_T3_MIX_02",
+      "district": "Commercial",
+      "position": [
+        -55,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_113"
+    },
+    {
+      "assetId": "KOL_T3_MIX_03",
+      "district": "Commercial",
+      "position": [
+        5,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "kind": "residential",
+      "id": "KOL_COMMERCIAL_114"
+    },
+    {
+      "assetId": "KOL_T3_MIX_01",
+      "district": "Civic",
+      "position": [
+        -430,
+        0,
+        -260
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_115"
+    },
+    {
+      "assetId": "KOL_T3_MIX_02",
+      "district": "Civic",
+      "position": [
+        -370,
+        0,
+        -260
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_116"
+    },
+    {
+      "assetId": "KOL_T3_MIX_03",
+      "district": "Civic",
+      "position": [
+        -310,
+        0,
+        -260
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_117"
+    },
+    {
+      "assetId": "KOL_T3_MOD_01",
+      "district": "Civic",
+      "position": [
+        125,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_118"
+    },
+    {
+      "assetId": "KOL_T3_MOD_02",
+      "district": "Civic",
+      "position": [
+        180,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_119"
+    },
+    {
+      "assetId": "KOL_T3_MOD_03",
+      "district": "Civic",
+      "position": [
+        240,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_120"
+    },
+    {
+      "assetId": "KOL_T3_MOD_04",
+      "district": "Civic",
+      "position": [
+        310,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_121"
+    },
+    {
+      "assetId": "KOL_T3_MOD_05",
+      "district": "Civic",
+      "position": [
+        355,
+        0,
+        -70
+      ],
+      "yaw": 180,
+      "kind": "residential",
+      "id": "KOL_CIVIC_122"
+    }
+  ],
+  "commercialPlots": [
+    {
+      "id": "KOL_PLOT_BANK_001",
+      "buildingId": "KOL_COMMERCIAL_086",
+      "assetId": "KOL_T25_BANK",
+      "origin": [
+        -150,
+        0,
+        105
+      ],
+      "yaw": 0,
+      "footprint": [
+        81.0,
+        74.2
+      ],
+      "entrance": [
+        0,
+        0.6,
+        -26.0
+      ],
+      "rearExit": [
+        0,
+        0.6,
+        25.1
+      ],
+      "objectiveAttachment": [
+        0,
+        2,
+        10.0
+      ],
+      "front": "-Z",
+      "groundElevation": 0,
+      "road": "KOL_RD_MAIN"
+    },
+    {
+      "id": "KOL_PLOT_JEWELLERY_001",
+      "buildingId": "KOL_COMMERCIAL_087",
+      "assetId": "KOL_T25_JEWELLERY",
+      "origin": [
+        10,
+        0,
+        105
+      ],
+      "yaw": 0,
+      "footprint": [
+        67.0,
+        68.2
+      ],
+      "entrance": [
+        0,
+        0.6,
+        -23.0
+      ],
+      "rearExit": [
+        0,
+        0.6,
+        22.1
+      ],
+      "objectiveAttachment": [
+        0,
+        2,
+        8.8
+      ],
+      "front": "-Z",
+      "groundElevation": 0,
+      "road": "KOL_RD_MAIN"
+    },
+    {
+      "id": "KOL_PLOT_FASHION_001",
+      "buildingId": "KOL_COMMERCIAL_088",
+      "assetId": "KOL_T25_FASHION",
+      "origin": [
+        200,
+        0,
+        105
+      ],
+      "yaw": 0,
+      "footprint": [
+        69.0,
+        68.2
+      ],
+      "entrance": [
+        0,
+        0.6,
+        -23.0
+      ],
+      "rearExit": [
+        0,
+        0.6,
+        22.1
+      ],
+      "objectiveAttachment": [
+        0,
+        2,
+        8.8
+      ],
+      "front": "-Z",
+      "groundElevation": 0,
+      "road": "KOL_RD_MAIN"
+    },
+    {
+      "id": "KOL_PLOT_RETAIL_001",
+      "buildingId": "KOL_COMMERCIAL_089",
+      "assetId": "KOL_T25_RETAIL",
+      "origin": [
+        -150,
+        0,
+        300
+      ],
+      "yaw": 180,
+      "footprint": [
+        73.0,
+        66.2
+      ],
+      "entrance": [
+        0,
+        0.6,
+        -22.0
+      ],
+      "rearExit": [
+        0,
+        0.6,
+        21.1
+      ],
+      "objectiveAttachment": [
+        0,
+        2,
+        8.4
+      ],
+      "front": "-Z",
+      "groundElevation": 0,
+      "road": "KOL_RD_SOUTH"
+    },
+    {
+      "id": "KOL_PLOT_ELECTRONICS_001",
+      "buildingId": "KOL_COMMERCIAL_090",
+      "assetId": "KOL_T25_ELECTRONICS",
+      "origin": [
+        10,
+        0,
+        300
+      ],
+      "yaw": 180,
+      "footprint": [
+        79.0,
+        70.2
+      ],
+      "entrance": [
+        0,
+        0.6,
+        -24.0
+      ],
+      "rearExit": [
+        0,
+        0.6,
+        23.1
+      ],
+      "objectiveAttachment": [
+        0,
+        2,
+        9.200000000000001
+      ],
+      "front": "-Z",
+      "groundElevation": 0,
+      "road": "KOL_RD_SOUTH"
+    }
+  ],
+  "roadSurfaces": [
+    {
+      "kind": "Pavement",
+      "rect": [
+        -528.0,
+        -788.0,
+        -472.0,
+        -782.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        -784.0,
+        104.0,
+        -782.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        -784.0,
+        424.0,
+        -782.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -528.0,
+        -782.0,
+        424.0,
+        -776.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -776.0,
+        424.0,
+        -772.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        -776.0,
+        -484.0,
+        -770.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -772.0,
+        68.0,
+        -770.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        -772.0,
+        92.0,
+        -770.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -772.0,
+        388.0,
+        -770.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        -772.0,
+        412.0,
+        -770.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        -770.0,
+        412.0,
+        -750.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -750.0,
+        -317.0,
+        -738.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -303.0,
+        -750.0,
+        -140.0,
+        -738.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -126.0,
+        -750.0,
+        68.0,
+        -738.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -750.0,
+        388.0,
+        -738.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -738.0,
+        104.0,
+        -602.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        -738.0,
+        388.0,
+        -602.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        -750.0,
+        92.0,
+        -592.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        -750.0,
+        412.0,
+        -592.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -602.0,
+        388.0,
+        -592.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        -592.0,
+        412.0,
+        -568.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -738.0,
+        -472.0,
+        -566.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -319.0,
+        -738.0,
+        -317.0,
+        -566.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -303.0,
+        -738.0,
+        -301.0,
+        -566.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -142.0,
+        -738.0,
+        -140.0,
+        -566.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -126.0,
+        -738.0,
+        -124.0,
+        -566.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        -738.0,
+        68.0,
+        -566.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        -750.0,
+        -484.0,
+        -558.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -317.0,
+        -750.0,
+        -303.0,
+        -558.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -140.0,
+        -750.0,
+        -126.0,
+        -558.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        -568.0,
+        92.0,
+        -558.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -568.0,
+        388.0,
+        -558.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -566.0,
+        -317.0,
+        -558.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -303.0,
+        -566.0,
+        -140.0,
+        -558.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -126.0,
+        -566.0,
+        68.0,
+        -558.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        -558.0,
+        92.0,
+        -542.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -542.0,
+        68.0,
+        -534.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -528.0,
+        -776.0,
+        -516.0,
+        -432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        -772.0,
+        424.0,
+        -432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -558.0,
+        104.0,
+        -432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        -558.0,
+        388.0,
+        -432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -534.0,
+        -472.0,
+        -432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        -534.0,
+        68.0,
+        -432.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        -568.0,
+        412.0,
+        -420.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        -542.0,
+        -484.0,
+        -420.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        -542.0,
+        92.0,
+        -420.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        -432.0,
+        -516.0,
+        -420.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -432.0,
+        68.0,
+        -420.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -432.0,
+        388.0,
+        -420.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        -432.0,
+        432.0,
+        -420.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        -420.0,
+        -520.0,
+        -380.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -520.0,
+        -420.0,
+        420.0,
+        -380.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        420.0,
+        -420.0,
+        432.0,
+        -380.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        -380.0,
+        -516.0,
+        -368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -380.0,
+        68.0,
+        -368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -380.0,
+        388.0,
+        -368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        -380.0,
+        432.0,
+        -368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -528.0,
+        -368.0,
+        -516.0,
+        -212.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -368.0,
+        -472.0,
+        -212.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        -368.0,
+        68.0,
+        -212.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -368.0,
+        104.0,
+        -212.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        -368.0,
+        388.0,
+        -212.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        -368.0,
+        424.0,
+        -212.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        -380.0,
+        -484.0,
+        -200.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        -380.0,
+        92.0,
+        -200.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        -380.0,
+        412.0,
+        -200.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        -212.0,
+        -516.0,
+        -200.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -212.0,
+        68.0,
+        -200.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -212.0,
+        388.0,
+        -200.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        -212.0,
+        432.0,
+        -200.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        -200.0,
+        -520.0,
+        -160.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -520.0,
+        -200.0,
+        420.0,
+        -160.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        420.0,
+        -200.0,
+        432.0,
+        -160.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        -160.0,
+        -516.0,
+        -148.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -160.0,
+        68.0,
+        -148.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -160.0,
+        388.0,
+        -148.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        -160.0,
+        432.0,
+        -148.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -528.0,
+        -148.0,
+        -516.0,
+        -32.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -148.0,
+        -472.0,
+        -32.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        -148.0,
+        68.0,
+        -32.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -148.0,
+        104.0,
+        -32.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        -148.0,
+        388.0,
+        -32.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        -148.0,
+        424.0,
+        -32.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        -160.0,
+        -484.0,
+        -20.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        -160.0,
+        92.0,
+        -20.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        -160.0,
+        412.0,
+        -20.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        -32.0,
+        -516.0,
+        -20.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        -32.0,
+        68.0,
+        -20.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        -32.0,
+        388.0,
+        -20.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        -32.0,
+        432.0,
+        -20.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        -20.0,
+        -520.0,
+        20.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -520.0,
+        -20.0,
+        -320,
+        20.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        320,
+        -20.0,
+        420.0,
+        20.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        420.0,
+        -20.0,
+        432.0,
+        20.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        20.0,
+        -516.0,
+        32.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        20.0,
+        68.0,
+        32.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        20.0,
+        388.0,
+        32.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        20.0,
+        432.0,
+        32.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        32.0,
+        68.0,
+        178.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        32.0,
+        104.0,
+        178.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        32.0,
+        388.0,
+        178.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        20.0,
+        92.0,
+        190.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        20.0,
+        412.0,
+        190.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -262.0,
+        178.0,
+        68.0,
+        190.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        178.0,
+        388.0,
+        190.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -250.0,
+        190.0,
+        412.0,
+        210.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -230.0,
+        210.0,
+        68.0,
+        222.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        210.0,
+        388.0,
+        222.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -528.0,
+        32.0,
+        -516.0,
+        368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        32.0,
+        -472.0,
+        368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        32.0,
+        424.0,
+        368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -262.0,
+        190.0,
+        -250.0,
+        368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -230.0,
+        222.0,
+        -218.0,
+        368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        222.0,
+        68.0,
+        368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        222.0,
+        104.0,
+        368.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        222.0,
+        388.0,
+        368.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        20.0,
+        -484.0,
+        380.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -250.0,
+        210.0,
+        -230.0,
+        380.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        210.0,
+        92.0,
+        380.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        210.0,
+        412.0,
+        380.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        368.0,
+        -516.0,
+        380.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        368.0,
+        -250.0,
+        380.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -230.0,
+        368.0,
+        68.0,
+        380.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        368.0,
+        388.0,
+        380.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        368.0,
+        432.0,
+        380.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        380.0,
+        -520.0,
+        420.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -520.0,
+        380.0,
+        420.0,
+        420.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        420.0,
+        380.0,
+        432.0,
+        420.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -532.0,
+        420.0,
+        -516.0,
+        432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        420.0,
+        -250.0,
+        432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -230.0,
+        420.0,
+        68.0,
+        432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        420.0,
+        388.0,
+        432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        420.0,
+        432.0,
+        432.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -230.0,
+        432.0,
+        -218.0,
+        530.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        432.0,
+        68.0,
+        530.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        432.0,
+        104.0,
+        530.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        432.0,
+        388.0,
+        530.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -250.0,
+        420.0,
+        -230.0,
+        540.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        420.0,
+        92.0,
+        540.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        420.0,
+        412.0,
+        540.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -230.0,
+        530.0,
+        68.0,
+        540.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        530.0,
+        388.0,
+        540.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -250.0,
+        540.0,
+        412.0,
+        560.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        432.0,
+        -472.0,
+        564.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -262.0,
+        432.0,
+        -250.0,
+        564.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -230.0,
+        560.0,
+        68.0,
+        570.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        560.0,
+        388.0,
+        570.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        420.0,
+        -484.0,
+        572.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -250.0,
+        560.0,
+        -230.0,
+        572.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        564.0,
+        -250.0,
+        572.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        572.0,
+        -230.0,
+        588.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        588.0,
+        -250.0,
+        596.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -230.0,
+        570.0,
+        -218.0,
+        628.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        570.0,
+        68.0,
+        628.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        570.0,
+        104.0,
+        628.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        570.0,
+        388.0,
+        628.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        596.0,
+        -472.0,
+        628.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -262.0,
+        596.0,
+        -250.0,
+        628.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        560.0,
+        92.0,
+        640.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        560.0,
+        412.0,
+        640.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        588.0,
+        -484.0,
+        640.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -250.0,
+        588.0,
+        -230.0,
+        640.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        628.0,
+        -250.0,
+        640.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -230.0,
+        628.0,
+        68.0,
+        640.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        628.0,
+        388.0,
+        640.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        640.0,
+        412.0,
+        660.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        412.0,
+        432.0,
+        424.0,
+        662.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        660.0,
+        68.0,
+        662.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        68.0,
+        660.0,
+        92.0,
+        662.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        92.0,
+        660.0,
+        388.0,
+        662.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        388.0,
+        660.0,
+        412.0,
+        662.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -528.0,
+        432.0,
+        -516.0,
+        666.0
+      ]
+    },
+    {
+      "kind": "Road",
+      "rect": [
+        -516.0,
+        660.0,
+        -484.0,
+        666.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -484.0,
+        662.0,
+        424.0,
+        666.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -528.0,
+        666.0,
+        424.0,
+        672.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        56.0,
+        672.0,
+        104.0,
+        674.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        376.0,
+        672.0,
+        424.0,
+        674.0
+      ]
+    },
+    {
+      "kind": "Pavement",
+      "rect": [
+        -528.0,
+        672.0,
+        -472.0,
+        678.0
+      ]
+    }
+  ],
+  "expansionConnections": [
+    {
+      "id": "KOL_EXP_NORTH",
+      "position": [
+        80,
+        0,
+        -760
+      ],
+      "direction": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "id": "KOL_EXP_SOUTH",
+      "position": [
+        80,
+        0,
+        650
+      ],
+      "direction": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "KOL_EXP_EAST",
+      "position": [
+        400,
+        0,
+        650
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "KOL_EXP_HOWRAH",
+      "position": [
+        -1720,
+        0,
+        -180
+      ],
+      "direction": [
+        -1,
+        0,
+        0
+      ]
+    }
+  ],
+  "riverfront": {
+    "bridge": [
+      -1092,
+      -13.5,
+      -180
+    ],
+    "bridgeYaw": 90,
+    "ghat": [
+      -620,
+      -13.5,
+      380
+    ],
+    "ghatYaw": 90,
+    "waterBounds": [
+      -1560,
+      -830,
+      -628,
+      750
+    ]
+  }
+}

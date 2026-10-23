@@ -1,0 +1,157 @@
+{
+  "views": [
+    {
+      "renderComposition": {
+        "Children": [
+          {
+            "Name": "Opaque",
+            "Sizes": {
+              "Drawcalls": 84,
+              "Triangles": 20794
+            }
+          },
+          {
+            "Name": "Shadows",
+            "Sizes": {
+              "Drawcalls": 145,
+              "Triangles": 140746
+            }
+          }
+        ],
+        "Name": "TriangleComposition",
+        "Sizes": {
+          "Drawcalls": 229,
+          "Triangles": 161540
+        }
+      },
+      "medianFrameMs": 16.70980080962181,
+      "scene": "NorthKolkata",
+      "quality": "Enum.QualityLevel.Automatic",
+      "memoryMB": 2594.23046875,
+      "p95FrameMs": 17.628999426960945,
+      "frames": 120,
+      "medianFPS": 59.84511792768838
+    },
+    {
+      "renderComposition": {
+        "Children": [
+          {
+            "Name": "Opaque",
+            "Sizes": {
+              "Drawcalls": 103,
+              "Triangles": 92142
+            }
+          },
+          {
+            "Name": "Terrain",
+            "Sizes": {
+              "Drawcalls": 114,
+              "Triangles": 52664
+            }
+          },
+          {
+            "Name": "Shadows",
+            "Sizes": {
+              "Drawcalls": 129,
+              "Triangles": 153562
+            }
+          }
+        ],
+        "Name": "TriangleComposition",
+        "Sizes": {
+          "Drawcalls": 346,
+          "Triangles": 298368
+        }
+      },
+      "medianFrameMs": 16.807200387120247,
+      "scene": "Civic",
+      "quality": "Enum.QualityLevel.Automatic",
+      "memoryMB": 2595.6015625,
+      "p95FrameMs": 17.758600413799286,
+      "frames": 120,
+      "medianFPS": 59.49830887756438
+    },
+    {
+      "renderComposition": {
+        "Children": [
+          {
+            "Name": "Opaque",
+            "Sizes": {
+              "Drawcalls": 61,
+              "Triangles": 75563
+            }
+          },
+          {
+            "Name": "Shadows",
+            "Sizes": {
+              "Drawcalls": 335,
+              "Triangles": 338160
+            }
+          }
+        ],
+        "Name": "TriangleComposition",
+        "Sizes": {
+          "Drawcalls": 396,
+          "Triangles": 413723
+        }
+      },
+      "medianFrameMs": 16.619600355625153,
+      "scene": "VictoriaMemorial",
+      "quality": "Enum.QualityLevel.Automatic",
+      "memoryMB": 2595.2421875,
+      "p95FrameMs": 17.902599647641182,
+      "frames": 120,
+      "medianFPS": 60.169918566154635
+    },
+    {
+      "renderComposition": {
+        "Children": [
+          {
+            "Name": "Opaque",
+            "Sizes": {
+              "Drawcalls": 43,
+              "Triangles": 40660
+            }
+          },
+          {
+            "Name": "Terrain",
+            "Sizes": {
+              "Drawcalls": 168,
+              "Triangles": 138716
+            }
+          }
+        ],
+        "Name": "TriangleComposition",
+        "Sizes": {
+          "Drawcalls": 211,
+          "Triangles": 179376
+        }
+      },
+      "medianFrameMs": 16.730699688196182,
+      "scene": "HowrahBridge",
+      "quality": "Enum.QualityLevel.Automatic",
+      "memoryMB": 2597.890625,
+      "p95FrameMs": 18.04549992084503,
+      "frames": 120,
+      "medianFPS": 59.77036338208369
+    }
+  ],
+  "sampleFramesPerView": 120,
+  "environment": "Roblox Studio desktop host, one local client, no device emulation",
+  "memoryContext": "GetTotalMemoryUsageMb sampled a long-lived Studio session containing editor, local server/client, MCP tooling and cached authoring data; this is not an isolated published-client device budget.",
+  "memoryDiagnosticMB": {
+    "Internal": 1315.3649,
+    "LuaHeap": 815.5464,
+    "Script": 276.6507,
+    "Instances": 244.6387,
+    "GraphicsTexture": 78.2259,
+    "GraphicsTerrain": 44.4662,
+    "GraphicsMeshParts": 11.6047,
+    "TerrainVoxels": 5.2433
+  },
+  "limitations": [
+    "120 frames per view, desktop Studio Automatic graphics; no physical mobile measurements.",
+    "No representative vehicle or multiplayer gameplay workload exists yet.",
+    "Streaming traversal covered the bridge and visited districts; no claim of full production load validation."
+  ]
+}

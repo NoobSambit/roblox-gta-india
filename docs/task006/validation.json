@@ -1,0 +1,342 @@
+{
+  "structural": {
+    "tier2": 5,
+    "newDecorativeMeshCollisions": 0,
+    "oldPara01Absent": true,
+    "streamingEnabled": true,
+    "newDecorativeMeshTouch": 0,
+    "unanchored": 0,
+    "nativeWater": {
+      "surfaceY": -13.5,
+      "material": "Water",
+      "roadY": 0
+    },
+    "residentialPlacements": 112,
+    "jorasankoEntranceClear": true,
+    "uniqueTier3": 27,
+    "tier25": 5,
+    "baseParts": 5114
+  },
+  "scope": "Task006 integration",
+  "issues": [],
+  "surfaceChecks": [
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_MAIN",
+      "missing": 0,
+      "samples": 39,
+      "minY": -1.0654330253601074e-06,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_RIVER",
+      "missing": 0,
+      "samples": 60,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 0.40000075101852417,
+      "label": "KOL_RD_EAST",
+      "missing": 0,
+      "samples": 60,
+      "minY": -1.0654330253601074e-06,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_CENTRAL",
+      "missing": 0,
+      "samples": 60,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_NORTH",
+      "missing": 0,
+      "samples": 39,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_CIVIC",
+      "missing": 0,
+      "samples": 39,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_SOUTH",
+      "missing": 0,
+      "samples": 39,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_OUTER_N",
+      "missing": 0,
+      "samples": 39,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_OUTER_S",
+      "missing": 0,
+      "samples": 39,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_NORTH_GULLY",
+      "missing": 0,
+      "samples": 26,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_MODERN_LOCAL",
+      "missing": 0,
+      "samples": 15,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_COMMERCIAL_CROSS",
+      "missing": 0,
+      "samples": 28,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_WEST_SERVICE",
+      "missing": 0,
+      "samples": 20,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_INFORMAL_LOOP",
+      "missing": 0,
+      "samples": 12,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_SOUTH_LOCAL",
+      "missing": 0,
+      "samples": 28,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_JORA_WEST_GULLY",
+      "missing": 0,
+      "samples": 10,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 7.599592208862305e-07,
+      "label": "KOL_RD_JORA_EAST_GULLY",
+      "missing": 0,
+      "samples": 10,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 18.5,
+      "label": "BridgeAndApproaches",
+      "missing": 0,
+      "samples": 101,
+      "minY": 7.599592208862305e-07,
+      "heightJumpsOver3": 0
+    },
+    {
+      "maxY": 1.2000004053115845,
+      "label": "GhatCentreline",
+      "missing": 0,
+      "samples": 68,
+      "minY": -12.5,
+      "heightJumpsOver3": 0
+    }
+  ],
+  "entranceClearance": [
+    {
+      "assetId": "KOL_T25_BANK",
+      "frontToRearClear": true
+    },
+    {
+      "assetId": "KOL_T25_JEWELLERY",
+      "frontToRearClear": true
+    },
+    {
+      "assetId": "KOL_T25_FASHION",
+      "frontToRearClear": true
+    },
+    {
+      "assetId": "KOL_T25_RETAIL",
+      "frontToRearClear": true
+    },
+    {
+      "assetId": "KOL_T25_ELECTRONICS",
+      "frontToRearClear": true
+    },
+    {
+      "ghatArch": -33,
+      "clear": true
+    },
+    {
+      "ghatArch": 0,
+      "clear": true
+    },
+    {
+      "ghatArch": 33,
+      "clear": true
+    }
+  ],
+  "play": {
+    "commercial": [
+      {
+        "assetId": "KOL_T25_BANK",
+        "seconds": 2.382833700001356,
+        "reached": true,
+        "position": [
+          -150.0001983642578,
+          3.0456366539001465,
+          138.86392211914062
+        ]
+      },
+      {
+        "assetId": "KOL_T25_JEWELLERY",
+        "seconds": 2.416335200003232,
+        "reached": true,
+        "position": [
+          9.999834060668945,
+          3.0547990798950195,
+          139.2038116455078
+        ]
+      },
+      {
+        "assetId": "KOL_T25_FASHION",
+        "seconds": 2.417430899997271,
+        "reached": true,
+        "position": [
+          199.99986267089844,
+          3.0547990798950195,
+          139.20382690429688
+        ]
+      },
+      {
+        "assetId": "KOL_T25_RETAIL",
+        "seconds": 2.4314359000018158,
+        "reached": true,
+        "position": [
+          -150,
+          3.054860830307007,
+          265.3323974609375
+        ]
+      },
+      {
+        "assetId": "KOL_T25_ELECTRONICS",
+        "seconds": 2.333252199998242,
+        "reached": true,
+        "position": [
+          10,
+          3.0492446422576904,
+          267.40728759765625
+        ]
+      }
+    ],
+    "jorasanko": {
+      "seconds": 2.849744400002237,
+      "reached": true,
+      "position": [
+        -230,
+        3.7548763751983643,
+        -647.7910766601562
+      ]
+    },
+    "bridge": [
+      {
+        "seconds": 1.7165503000032913,
+        "reached": true,
+        "position": [
+          -648.4053955078125,
+          21.973285675048828,
+          -180.0003204345703
+        ]
+      },
+      {
+        "seconds": 8.84937809999974,
+        "reached": true,
+        "position": [
+          -1497.354248046875,
+          22.05487632751465,
+          -180
+        ]
+      },
+      {
+        "seconds": 1.9506966000008106,
+        "reached": true,
+        "position": [
+          -1681.5401611328125,
+          3.553466320037842,
+          -180
+        ]
+      }
+    ],
+    "ghat": [
+      {
+        "seconds": 0.7837465000011434,
+        "reached": true,
+        "position": [
+          -563.1109619140625,
+          3.554877758026123,
+          379.9991455078125
+        ]
+      },
+      {
+        "seconds": 0.9997019000002183,
+        "reached": true,
+        "position": [
+          -587.0208129882812,
+          4.754876613616943,
+          379.9998474121094
+        ]
+      },
+      {
+        "seconds": 0.9678862000000663,
+        "reached": true,
+        "position": [
+          -610.0789794921875,
+          3.554776906967163,
+          379.9998474121094
+        ]
+      },
+      {
+        "seconds": 2.683111500002269,
+        "reached": true,
+        "position": [
+          -673.353759765625,
+          -8.95150089263916,
+          379.9998474121094
+        ]
+      }
+    ],
+    "environment": "Studio desktop host, one local client; 96-stud/s character bridge traversal, no vehicle simulation",
+    "harnessNote": "Refreshed Humanoid MoveTo every four seconds after its eight-second expiry stopped the initial long movement. The complete bridge route then succeeded."
+  }
+}

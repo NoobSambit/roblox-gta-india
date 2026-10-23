@@ -1,0 +1,672 @@
+{
+  "lists": {
+    "WorldAuthoring": [
+      {
+        "class": "ModuleScript",
+        "name": "KolkataFoundation",
+        "attributes": []
+      },
+      {
+        "class": "ModuleScript",
+        "name": "KolkataArchitecture",
+        "attributes": []
+      },
+      {
+        "class": "ModuleScript",
+        "name": "KolkataCommercial",
+        "attributes": []
+      },
+      {
+        "class": "ModuleScript",
+        "name": "KolkataStreetscape",
+        "attributes": []
+      },
+      {
+        "class": "ModuleScript",
+        "name": "VictoriaMemorialManifest",
+        "attributes": {
+          "EditOnly": true,
+          "SourceFile": "authoring/VictoriaManifest.luau"
+        }
+      },
+      {
+        "class": "ModuleScript",
+        "name": "VictoriaMemorialBuilder",
+        "attributes": {
+          "EditOnly": true,
+          "SourceFile": "authoring/VictoriaMemorial.luau"
+        }
+      },
+      {
+        "class": "Folder",
+        "name": "OriginalTemplate",
+        "attributes": []
+      },
+      {
+        "class": "Folder",
+        "name": "KolkataKit",
+        "attributes": []
+      },
+      {
+        "class": "Folder",
+        "name": "HeritageKit",
+        "attributes": []
+      },
+      {
+        "class": "Folder",
+        "name": "CommercialKit",
+        "attributes": []
+      },
+      {
+        "class": "Folder",
+        "name": "StreetscapeKit",
+        "attributes": []
+      },
+      {
+        "class": "Folder",
+        "name": "VictoriaImportRecovery",
+        "attributes": []
+      }
+    ],
+    "Ground": [
+      {
+        "class": "Model",
+        "name": "Ground_1_0",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_1_-2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_1_1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_1_-1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_1_2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_2_0",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_2_-2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-2_1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-1_0",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "CourtyardExchange_UrbanPlot",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "urban.plotSurface"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-2_2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-2_0",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_0_-1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_2_2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_0_-2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-1_-2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-1_-1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_2_-1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_2_1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-2_-1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-2_-2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "CornerEmporium_UrbanPlot",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "urban.plotSurface"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_0_0",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-1_2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_0_2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "RetailCourt_UrbanPlot",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "urban.plotSurface"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_-1_1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Ground_0_1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "ground.tile"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "BookArcade_UrbanPlot",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "urban.plotSurface"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "TextileHouse_UrbanPlot",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "urban.plotSurface"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "OfficeCorner_UrbanPlot",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "urban.plotSurface"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "PrintHouse_UrbanPlot",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "urban.plotSurface"
+        }
+      }
+    ],
+    "Streets": [
+      {
+        "class": "Model",
+        "name": "FrontPath_5",
+        "attributes": []
+      },
+      {
+        "class": "Model",
+        "name": "LaneNetwork",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "road.lanes"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Pavement_-1_4",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "pavement.12"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "FrontPath_4",
+        "attributes": []
+      },
+      {
+        "class": "Model",
+        "name": "Pavement_1_4",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "pavement.12"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "PedestrianCrossing",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "road.crossing"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "PedestrianCrossing",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "road.crossing"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Pavement_-1_1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "pavement.12"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "FrontPath_2",
+        "attributes": []
+      },
+      {
+        "class": "Model",
+        "name": "FrontPath_1",
+        "attributes": []
+      },
+      {
+        "class": "Model",
+        "name": "Pavement_1_2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "pavement.12"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "ResidentialLoop",
+        "attributes": []
+      },
+      {
+        "class": "Model",
+        "name": "FrontPath_3",
+        "attributes": []
+      },
+      {
+        "class": "Model",
+        "name": "MainRoad",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "road.main.40"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "FootpathExtension",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "main.footpathExtension"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Pavement_1_1",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "pavement.12"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Pavement_-1_2",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "pavement.12"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "FootpathExtension",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "main.footpathExtension"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "Pavement_1_3",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "pavement.12"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "FootpathExtension",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "main.footpathExtension"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "FrontPath_6",
+        "attributes": []
+      },
+      {
+        "class": "Model",
+        "name": "Pavement_-1_3",
+        "attributes": {
+          "AuthoringVersion": 1,
+          "AssetId": "pavement.12"
+        }
+      },
+      {
+        "class": "Model",
+        "name": "FootpathExtension",
+        "attributes": {
+          "AuthoringVersion": 6,
+          "AssetId": "main.footpathExtension"
+        }
+      }
+    ]
+  },
+  "streaming": {
+    "StreamingIntegrityMode": "unavailable",
+    "StreamingTargetRadius": "unavailable",
+    "StreamingMinRadius": "unavailable",
+    "ModelStreamingBehavior": "unavailable",
+    "StreamOutBehavior": "unavailable",
+    "StreamingEnabled": "true"
+  },
+  "victoria": {
+    "descendants": 1166,
+    "attributes": {
+      "AssetId": "landmark.kolkata.victoria-memorial",
+      "Source": "assets/victoria-memorial/VictoriaMemorial.blend",
+      "AuthoringVersion": 2,
+      "GameplayStatus": "Interior shell and authored zones; no robbery mechanics",
+      "CityId": "kolkata"
+    },
+    "position": [
+      725,
+      70.25994110107422,
+      0.000004152581823291257
+    ],
+    "pivot": [
+      820,
+      0,
+      0,
+      -4.371138828673793e-8,
+      0,
+      1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -4.371138828673793e-8
+    ],
+    "size": [
+      600,
+      144.6798858642578,
+      810
+    ]
+  },
+  "httpEnabled": false,
+  "legacyBuildings": [
+    {
+      "class": "Model",
+      "name": "ResidentialExtension_3",
+      "descendants": 152
+    },
+    {
+      "class": "Model",
+      "name": "ResidentialExtension_4",
+      "descendants": 240
+    },
+    {
+      "class": "Model",
+      "name": "CornerEmporium",
+      "descendants": 486
+    },
+    {
+      "class": "Model",
+      "name": "Building_21_OchreResidence",
+      "descendants": 240
+    },
+    {
+      "class": "Model",
+      "name": "ResidentialExtension_5",
+      "descendants": 153
+    },
+    {
+      "class": "Model",
+      "name": "RetailCourt",
+      "descendants": 126
+    },
+    {
+      "class": "Model",
+      "name": "ResidentialExtension_2",
+      "descendants": 239
+    },
+    {
+      "class": "Model",
+      "name": "Building_17_RedGalleryHouse",
+      "descendants": 258
+    },
+    {
+      "class": "Model",
+      "name": "Building_23_ModernApartment",
+      "descendants": 41
+    },
+    {
+      "class": "Model",
+      "name": "Building_18_CornerTownhouse",
+      "descendants": 344
+    },
+    {
+      "class": "Model",
+      "name": "Building_22_LaneShop",
+      "descendants": 156
+    },
+    {
+      "class": "Model",
+      "name": "Building_20_VerandahTownhouse",
+      "descendants": 354
+    },
+    {
+      "class": "Model",
+      "name": "Building_16_LaneShop",
+      "descendants": 154
+    },
+    {
+      "class": "Model",
+      "name": "ResidentialExtension_6",
+      "descendants": 239
+    },
+    {
+      "class": "Model",
+      "name": "Building_19_ArcadedHouse",
+      "descendants": 256
+    },
+    {
+      "class": "Model",
+      "name": "TextileHouse",
+      "descendants": 152
+    },
+    {
+      "class": "Model",
+      "name": "OfficeCorner",
+      "descendants": 78
+    },
+    {
+      "class": "Model",
+      "name": "ResidentialExtension_1",
+      "descendants": 153
+    },
+    {
+      "class": "Model",
+      "name": "PrintHouse",
+      "descendants": 80
+    },
+    {
+      "class": "Model",
+      "name": "CourtyardExchange",
+      "descendants": 677
+    },
+    {
+      "class": "Model",
+      "name": "Building_15_BlueResidence",
+      "descendants": 152
+    },
+    {
+      "class": "Model",
+      "name": "Building_24_LaneShop",
+      "descendants": 245
+    },
+    {
+      "class": "Model",
+      "name": "MarketHall",
+      "descendants": 229
+    },
+    {
+      "class": "Model",
+      "name": "BookArcade",
+      "descendants": 136
+    }
+  ],
+  "sample": {
+    "color": [
+      0.6392157077789307,
+      0.6352941393852234,
+      0.6470588445663452
+    ],
+    "meshId": "rbxassetid://76815683167422",
+    "name": "WB_CentralPortico__Glass_RBX",
+    "attributes": []
+  },
+  "canSetHttp": true,
+  "httpError": "nil"
+}
