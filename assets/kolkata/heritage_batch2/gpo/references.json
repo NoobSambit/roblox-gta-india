@@ -1,0 +1,29 @@
+{
+  "primarySource": "User supplied reference images",
+  "design": "Connected L-shaped colonnades, rounded street corner, tall windowed drum, ribbed white dome and projecting clock. The footprint is deliberately compressed.",
+  "imagegenUsed": false,
+  "reason": "References sufficiently define the adapted facade and massing",
+  "references": [
+    {
+      "userReference": 7,
+      "localFile": "artifacts/references/heritage_batch2/gpo/image-7.png",
+      "sha256": "3bb4af12f49a52722d32f2aeb66d975b4eba75c0be2abbdf8628cc8978d78110",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 8,
+      "localFile": "artifacts/references/heritage_batch2/gpo/image-8.png",
+      "sha256": "58a0eed9e0fba83cdfe723241b7a518012be3464a88e27f5f4d4ead464a74ae4",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 9,
+      "localFile": "artifacts/references/heritage_batch2/gpo/image-9.png",
+      "sha256": "59d3a9f6b90f48c4daefd13378846df783cedb5f6b85d338c747fcbd06ae1834",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 264,
+  "sourceUniqueMeshes": 52,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 2000,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__00_Foundation.fbx",
+      "meshObjects": 1,
+      "triangles": 104,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__01_Shell.fbx",
+      "meshObjects": 2,
+      "triangles": 484,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__03_Colonnades.fbx",
+      "meshObjects": 4,
+      "triangles": 18824,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__02_Entablature.fbx",
+      "meshObjects": 2,
+      "triangles": 1916,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__04_Recesses.fbx",
+      "meshObjects": 2,
+      "triangles": 6336,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__05_Dome_Drum.fbx",
+      "meshObjects": 3,
+      "triangles": 5948,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__06_Dome.fbx",
+      "meshObjects": 2,
+      "triangles": 3026,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__07_Civic_Details.fbx",
+      "meshObjects": 4,
+      "triangles": 8896,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__08_Secondary.fbx",
+      "meshObjects": 2,
+      "triangles": 1944,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__09_Foundation_Detail.fbx",
+      "meshObjects": 5,
+      "triangles": 1012,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__10_Rear_Architecture.fbx",
+      "meshObjects": 4,
+      "triangles": 3236,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_heritage_batch2/KOL_T1_GPO__03_Colonnades.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 1.1444091796875e-05,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "columnBearingPairs": 26,
+  "previews": [
+    "preview-day.png",
+    "preview-rear.png",
+    "preview-night.png",
+    "preview-night-rear.png"
+  ]
+}

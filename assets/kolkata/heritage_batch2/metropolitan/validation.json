@@ -1,0 +1,86 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 278,
+  "sourceUniqueMeshes": 58,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 1956,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__00_Foundation.fbx",
+      "meshObjects": 3,
+      "triangles": 108,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__01_Shell.fbx",
+      "meshObjects": 1,
+      "triangles": 16,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__02_Cornices.fbx",
+      "meshObjects": 1,
+      "triangles": 192,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__03_Facades.fbx",
+      "meshObjects": 7,
+      "triangles": 23408,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__04_Returns.fbx",
+      "meshObjects": 6,
+      "triangles": 16332,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__05_Clock_Corner.fbx",
+      "meshObjects": 3,
+      "triangles": 6760,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__06_Cupolas.fbx",
+      "meshObjects": 9,
+      "triangles": 26906,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__07_Street_Crowns.fbx",
+      "meshObjects": 4,
+      "triangles": 14552,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__09_Foundation_Detail.fbx",
+      "meshObjects": 5,
+      "triangles": 1128,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__10_Rear_Architecture.fbx",
+      "meshObjects": 4,
+      "triangles": 1472,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__06_Cupolas.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 1.52587890625e-05,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "columnBearingPairs": 0,
+  "previews": [
+    "preview-day.png",
+    "preview-rear.png",
+    "preview-night.png",
+    "preview-night-rear.png"
+  ]
+}

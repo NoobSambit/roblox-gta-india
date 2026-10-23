@@ -1,0 +1,87 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 386,
+  "sourceUniqueMeshes": 79,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 1992,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__00_Foundation.fbx",
+      "meshObjects": 3,
+      "triangles": 120,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__01_Shell.fbx",
+      "meshObjects": 1,
+      "triangles": 48,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__02_Cornices.fbx",
+      "meshObjects": 3,
+      "triangles": 6528,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__03_Facades.fbx",
+      "meshObjects": 13,
+      "triangles": 59400,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__04_Returns.fbx",
+      "meshObjects": 9,
+      "triangles": 29268,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__05_Central_Portico.fbx",
+      "meshObjects": 4,
+      "triangles": 6248,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__06_Roofs.fbx",
+      "meshObjects": 1,
+      "triangles": 60,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__07_Roof_Ornaments.fbx",
+      "meshObjects": 5,
+      "triangles": 14972,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__09_Foundation_Detail.fbx",
+      "meshObjects": 6,
+      "triangles": 5828,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__10_Rear_Architecture.fbx",
+      "meshObjects": 6,
+      "triangles": 4568,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_heritage_batch2/KOL_T1_WRITERS__03_Facades.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 1.1444091796875e-05,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "columnBearingPairs": 6,
+  "statueBaseContacts": 9,
+  "previews": [
+    "preview-day.png",
+    "preview-rear.png",
+    "preview-night.png",
+    "preview-night-rear.png"
+  ]
+}

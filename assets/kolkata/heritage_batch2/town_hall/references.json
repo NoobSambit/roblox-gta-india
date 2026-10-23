@@ -1,0 +1,29 @@
+{
+  "primarySource": "User supplied reference images",
+  "design": "Six-column Doric frontage, side return columns, broad entry steps, rosette frieze and flat balustraded entablature following the photos. A small doorway crown supplies classical pediment detail.",
+  "imagegenUsed": false,
+  "reason": "References sufficiently define the adapted facade and massing",
+  "references": [
+    {
+      "userReference": 13,
+      "localFile": "artifacts/references/heritage_batch2/town_hall/image-13.png",
+      "sha256": "bebb568cc920cd4256c6fecd20387a41722bb996afc4087f375a7b438630f140",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 14,
+      "localFile": "artifacts/references/heritage_batch2/town_hall/image-14.png",
+      "sha256": "6760b92a248a39d143ba7bbe8fdd42778b98ee2be883eb96f74acde1317133a8",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 15,
+      "localFile": "artifacts/references/heritage_batch2/town_hall/image-15.png",
+      "sha256": "1a22800f881ab87bcd9b61e1458eb08494e6bf0abf1d5c15d1bcd87361348950",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    }
+  ]
+}

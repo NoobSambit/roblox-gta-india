@@ -1,0 +1,50 @@
+{
+  "primarySource": "User supplied reference images",
+  "design": "Long red three-register facade, six giant columns, central pediment, raised mansard pavilions, dormers, roof ironwork and original simplified allegorical figures.",
+  "imagegenUsed": false,
+  "reason": "References sufficiently define the adapted facade and massing",
+  "references": [
+    {
+      "userReference": 1,
+      "localFile": "artifacts/references/heritage_batch2/writers/image-1.png",
+      "sha256": "d1fe55efec714645af56570a459c696ad37715a057ce4d757eac70865de265bb",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 2,
+      "localFile": "artifacts/references/heritage_batch2/writers/image-2.png",
+      "sha256": "b5624b1b90094b74c45ba0e9e296dae6c9560af9ff035415bec875a84388576e",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 3,
+      "localFile": "artifacts/references/heritage_batch2/writers/image-3.png",
+      "sha256": "8212b8e9088f759b4ce2a982943e23be5e06da88d71faff0709600a622233fa3",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 4,
+      "localFile": "artifacts/references/heritage_batch2/writers/image-4.png",
+      "sha256": "ee350bbcc84b42e3380fd0adae7fe6718c39354b1493b672ca05b48afc0e3aea",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 5,
+      "localFile": "artifacts/references/heritage_batch2/writers/image-5.png",
+      "sha256": "8205e358838a5c2bd43d7eac7eaac1add4ee99410f0ff762b4ff1723150535b0",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 6,
+      "localFile": "artifacts/references/heritage_batch2/writers/image-6.png",
+      "sha256": "b4ea16172c4b7898f6cc22bbf952f630b8324363bb08c421a76c87db583fc334",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    }
+  ]
+}

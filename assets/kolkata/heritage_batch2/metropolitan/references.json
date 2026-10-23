@@ -1,0 +1,29 @@
+{
+  "primarySource": "User supplied reference images",
+  "design": "Two commercial street elevations, clipped rounded corner, wraparound balconies, tall clock cupola and two lower satellite cupolas. Carved ornament is simplified.",
+  "imagegenUsed": false,
+  "reason": "References sufficiently define the adapted facade and massing",
+  "references": [
+    {
+      "userReference": 10,
+      "localFile": "artifacts/references/heritage_batch2/metropolitan/image-10.png",
+      "sha256": "0eeeef8e2c69f956e959fe9e830376c2ff1a1ed311fe3591893d25e16948abc6",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 11,
+      "localFile": "artifacts/references/heritage_batch2/metropolitan/image-11.png",
+      "sha256": "1af10a2d02d9505aa087eddd44110cfbfa192c3d4815cba27e8841db7f4ac6aa",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    },
+    {
+      "userReference": 12,
+      "localFile": "artifacts/references/heritage_batch2/metropolitan/image-12.png",
+      "sha256": "b575f6a5c728d4192528bcbd517fa90a8ee3c41848752c9c315e433fcd9a9e78",
+      "source": "User-supplied photograph; visible credit/watermark retained locally",
+      "use": "Visual modeling reference only; no image texture or copied asset geometry"
+    }
+  ]
+}

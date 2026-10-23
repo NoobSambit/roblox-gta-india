@@ -1,0 +1,9444 @@
+{
+  "assetId": "KOL_T1_METROPOLITAN",
+  "name": "Metropolitan Building",
+  "source": "KOL_T1_METROPOLITAN.blend",
+  "dimensionsStuds": {
+    "width": 160.0,
+    "height": 91.6,
+    "depth": 116.0
+  },
+  "assembledTriangles": 90874,
+  "uniqueSourceTriangles": 16744,
+  "largestMeshTriangles": 1956,
+  "uniqueMeshes": 58,
+  "meshInstances": 278,
+  "exports": [
+    {
+      "section": "00_Foundation",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__00_Foundation.fbx",
+      "triangles": 108,
+      "meshInstances": 3,
+      "largestExportMeshTriangles": 72
+    },
+    {
+      "section": "01_Shell",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__01_Shell.fbx",
+      "triangles": 16,
+      "meshInstances": 1,
+      "largestExportMeshTriangles": 16
+    },
+    {
+      "section": "02_Cornices",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__02_Cornices.fbx",
+      "triangles": 192,
+      "meshInstances": 1,
+      "largestExportMeshTriangles": 192
+    },
+    {
+      "section": "03_Facades",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__03_Facades.fbx",
+      "triangles": 23408,
+      "meshInstances": 7,
+      "largestExportMeshTriangles": 5500
+    },
+    {
+      "section": "04_Returns",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__04_Returns.fbx",
+      "triangles": 16332,
+      "meshInstances": 6,
+      "largestExportMeshTriangles": 5496
+    },
+    {
+      "section": "05_Clock_Corner",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__05_Clock_Corner.fbx",
+      "triangles": 6760,
+      "meshInstances": 3,
+      "largestExportMeshTriangles": 4864
+    },
+    {
+      "section": "06_Cupolas",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__06_Cupolas.fbx",
+      "triangles": 26906,
+      "meshInstances": 9,
+      "largestExportMeshTriangles": 5496
+    },
+    {
+      "section": "07_Street_Crowns",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__07_Street_Crowns.fbx",
+      "triangles": 14552,
+      "meshInstances": 4,
+      "largestExportMeshTriangles": 5500
+    },
+    {
+      "section": "09_Foundation_Detail",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__09_Foundation_Detail.fbx",
+      "triangles": 1128,
+      "meshInstances": 5,
+      "largestExportMeshTriangles": 684
+    },
+    {
+      "section": "10_Rear_Architecture",
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_METROPOLITAN__10_Rear_Architecture.fbx",
+      "triangles": 1472,
+      "meshInstances": 4,
+      "largestExportMeshTriangles": 1356
+    }
+  ],
+  "origin": "Common ground center; front +Y in Blender / -Z in Roblox",
+  "sockets": {},
+  "materials": [
+    "KOL_T1_HeritageCream",
+    "KOL_T1_HeritageDark",
+    "KOL_T1_HeritageGlass",
+    "KOL_T1_HeritageGlow",
+    "KOL_T1_HeritageGold",
+    "KOL_T1_HeritageIron",
+    "KOL_T1_HeritageOchre",
+    "KOL_T1_HeritagePaving",
+    "KOL_T1_HeritageStone",
+    "KOL_T1_HeritageWhite",
+    "KOL_T1_Leaf"
+  ],
+  "assembly": [
+    {
+      "name": "Foundation__KOL_T1_HeritageStone.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Foundation__HeritageStone_00.008",
+      "section": "00_Foundation",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Shell"
+    },
+    {
+      "name": "Forecourt_finish__KOL_T1_HeritagePaving.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Forecourt_finish__HeritagePaving_00.008",
+      "section": "00_Foundation",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Forecourt_finish__KOL_T1_HeritageCream.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Forecourt_finish__HeritageCream_00.008",
+      "section": "00_Foundation",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Continuous_street_plinth__KOL_T1_HeritageStone.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Continuous_street_plinth__HeritageStone_00.004",
+      "section": "00_Foundation",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Shell"
+    },
+    {
+      "name": "Front_commercial_threshold__KOL_T1_HeritageStone.003",
+      "meshKey": "KOL_T1_METROPOLITAN__Front_commercial_threshold__HeritageStone_00.003",
+      "section": "00_Foundation",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "WalkableSteps"
+    },
+    {
+      "name": "Clipped_corner_shell__KOL_T1_HeritageWhite.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Clipped_corner_shell__HeritageWhite_00.004",
+      "section": "01_Shell",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "ExteriorShell"
+    },
+    {
+      "name": "Wrapped_clipped_cornices__KOL_T1_HeritageCream.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Wrapped_clipped_cornices__HeritageCream_00.004",
+      "section": "02_Cornices",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.068",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -66.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.068",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -66.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.068",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -66.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.017",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -66.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.069",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -55.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.069",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -55.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.069",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -55.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.018",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -55.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.070",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -44.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.070",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -44.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.070",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -44.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.019",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -44.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.071",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -33.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.071",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -33.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.071",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -33.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.020",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -33.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.072",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.072",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.072",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.021",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.073",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -11.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.073",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -11.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.073",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -11.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.022",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -11.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.074",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.074",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.074",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.023",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.075",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          11.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.075",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          11.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.075",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          11.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.024",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          11.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.076",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.076",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.076",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.025",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.077",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          33.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.077",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          33.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.077",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          33.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.026",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          33.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.078",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          44.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.078",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          44.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.078",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          44.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.027",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "03_Facades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          44.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.119998931884766
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.079",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          20.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.079",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          20.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.079",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          20.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.028",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          20.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.080",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.080",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.080",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.029",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.081",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -2.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.081",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -2.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.081",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -2.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.030",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -2.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.082",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.082",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.082",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.031",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.083",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -24.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.083",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -24.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.083",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -24.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.032",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -24.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageGlass.084",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageGlass_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageWhite.084",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageWhite_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageCream.084",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageCream_00.004",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Heritage_commercial_bay__KOL_T1_HeritageDark.033",
+      "meshKey": "KOL_T1_METROPOLITAN__Heritage_commercial_bay__HeritageDark_00.001",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.12000274658203
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.033",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -62.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.033",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -62.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.034",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -44.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.034",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -44.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.035",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -26.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.035",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -26.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.036",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -8.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.036",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -8.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.037",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          10.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.037",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          10.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.038",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          28.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.038",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          28.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.039",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          46.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.039",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          46.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.150001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.040",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.1500015258789
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          33.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.040",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.1500015258789
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          33.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.041",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.1500015258789
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          11.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.041",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.1500015258789
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          11.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.042",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.1500015258789
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -11.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.042",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.1500015258789
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -11.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageGlass.043",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageGlass_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.1500015258789
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -33.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_sober_bay__KOL_T1_HeritageCream.043",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_sober_bay__HeritageCream_00.003",
+      "section": "04_Returns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.1500015258789
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -33.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_tower_base__KOL_T1_HeritageWhite.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_tower_base__HeritageWhite_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_tower_base__KOL_T1_HeritageCream.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_tower_base__HeritageCream_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageGlass.020",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageGlass_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          45.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageWhite.020",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageWhite_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          45.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageCream.020",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageCream_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          45.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageGlass.021",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageGlass_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          0.9238795042037964,
+          0.3826834559440613,
+          0.0,
+          65.24778747558594
+        ],
+        [
+          -0.3826834559440613,
+          0.9238795042037964,
+          0.0,
+          44.255062103271484
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageWhite.021",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageWhite_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          0.9238795042037964,
+          0.3826834559440613,
+          0.0,
+          65.24778747558594
+        ],
+        [
+          -0.3826834559440613,
+          0.9238795042037964,
+          0.0,
+          44.255062103271484
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageCream.021",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageCream_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          0.9238795042037964,
+          0.3826834559440613,
+          0.0,
+          65.24778747558594
+        ],
+        [
+          -0.3826834559440613,
+          0.9238795042037964,
+          0.0,
+          44.255062103271484
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageGlass.022",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageGlass_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          68.84888458251953
+        ],
+        [
+          -0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          41.84888458251953
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageWhite.022",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageWhite_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          68.84888458251953
+        ],
+        [
+          -0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          41.84888458251953
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageCream.022",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageCream_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          68.84888458251953
+        ],
+        [
+          -0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          41.84888458251953
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageGlass.023",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageGlass_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          0.3826834261417389,
+          0.9238795042037964,
+          0.0,
+          71.25506591796875
+        ],
+        [
+          -0.9238795042037964,
+          0.3826834261417389,
+          0.0,
+          38.24778747558594
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageWhite.023",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageWhite_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          0.3826834261417389,
+          0.9238795042037964,
+          0.0,
+          71.25506591796875
+        ],
+        [
+          -0.9238795042037964,
+          0.3826834261417389,
+          0.0,
+          38.24778747558594
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageCream.023",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageCream_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          0.3826834261417389,
+          0.9238795042037964,
+          0.0,
+          71.25506591796875
+        ],
+        [
+          -0.9238795042037964,
+          0.3826834261417389,
+          0.0,
+          38.24778747558594
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageGlass.024",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageGlass_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          72.0999984741211
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageWhite.024",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageWhite_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          72.0999984741211
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rounded_corner_window_bay__KOL_T1_HeritageCream.024",
+      "meshKey": "KOL_T1_METROPOLITAN__Rounded_corner_window_bay__HeritageCream_00.004",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          72.0999984741211
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Corner_curved_balcony__KOL_T1_HeritageWhite.009",
+      "meshKey": "KOL_T1_METROPOLITAN__Corner_curved_balcony__HeritageWhite_00.003",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          21.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Corner_curved_balcony__KOL_T1_HeritageCream.009",
+      "meshKey": "KOL_T1_METROPOLITAN__Corner_curved_balcony__HeritageCream_00.003",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          21.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Corner_curved_balcony__KOL_T1_HeritageWhite.010",
+      "meshKey": "KOL_T1_METROPOLITAN__Corner_curved_balcony__HeritageWhite_00.003",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          40.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Corner_curved_balcony__KOL_T1_HeritageCream.010",
+      "meshKey": "KOL_T1_METROPOLITAN__Corner_curved_balcony__HeritageCream_00.003",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          40.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Corner_curved_balcony__KOL_T1_HeritageWhite.011",
+      "meshKey": "KOL_T1_METROPOLITAN__Corner_curved_balcony__HeritageWhite_00.003",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Corner_curved_balcony__KOL_T1_HeritageCream.011",
+      "meshKey": "KOL_T1_METROPOLITAN__Corner_curved_balcony__HeritageCream_00.003",
+      "section": "05_Clock_Corner",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Principal_clock_cupola__KOL_T1_HeritageWhite.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Principal_clock_cupola__HeritageWhite_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Principal_clock_cupola__KOL_T1_HeritageOchre.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Principal_clock_cupola__HeritageOchre_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Principal_clock_cupola__KOL_T1_HeritageCream.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Principal_clock_cupola__HeritageCream_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Principal_clock_cupola__KOL_T1_HeritageGold.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Principal_clock_cupola__HeritageGold_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageDark.008",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageDark_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          42.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageCream.032",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageCream_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          42.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageWhite.032",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageWhite_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          42.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageGold.008",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageGold_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          42.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageDark.009",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageDark_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          55.27243423461914
+        ],
+        [
+          0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          39.72756576538086
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageCream.033",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageCream_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          55.27243423461914
+        ],
+        [
+          0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          39.72756576538086
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageWhite.033",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageWhite_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          55.27243423461914
+        ],
+        [
+          0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          39.72756576538086
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageGold.009",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageGold_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          55.27243423461914
+        ],
+        [
+          0.7071067690849304,
+          0.7071067690849304,
+          0.0,
+          39.72756576538086
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageDark.010",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageDark_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          52.900001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageCream.034",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageCream_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          52.900001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageWhite.034",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageWhite_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          52.900001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageGold.010",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageGold_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          52.900001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageDark.011",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageDark_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          55.27243423461914
+        ],
+        [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          28.27243423461914
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageCream.035",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageCream_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          55.27243423461914
+        ],
+        [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          28.27243423461914
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageWhite.035",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageWhite_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          55.27243423461914
+        ],
+        [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          28.27243423461914
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageGold.011",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageGold_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          55.27243423461914
+        ],
+        [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0,
+          28.27243423461914
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageDark.012",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageDark_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          61.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          25.899999618530273
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageCream.036",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageCream_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          61.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          25.899999618530273
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageWhite.036",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageWhite_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          61.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          25.899999618530273
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageGold.012",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageGold_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          61.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          25.899999618530273
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageDark.013",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageDark_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -0.7071068286895752,
+          0.7071067094802856,
+          0.0,
+          66.7275619506836
+        ],
+        [
+          -0.7071067094802856,
+          -0.7071068286895752,
+          0.0,
+          28.27243423461914
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageCream.037",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageCream_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -0.7071068286895752,
+          0.7071067094802856,
+          0.0,
+          66.7275619506836
+        ],
+        [
+          -0.7071067094802856,
+          -0.7071068286895752,
+          0.0,
+          28.27243423461914
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageWhite.037",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageWhite_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -0.7071068286895752,
+          0.7071067094802856,
+          0.0,
+          66.7275619506836
+        ],
+        [
+          -0.7071067094802856,
+          -0.7071068286895752,
+          0.0,
+          28.27243423461914
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageGold.013",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageGold_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -0.7071068286895752,
+          0.7071067094802856,
+          0.0,
+          66.7275619506836
+        ],
+        [
+          -0.7071067094802856,
+          -0.7071068286895752,
+          0.0,
+          28.27243423461914
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageDark.014",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageDark_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          69.0999984741211
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageCream.038",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageCream_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          69.0999984741211
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageWhite.038",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageWhite_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          69.0999984741211
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageGold.014",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageGold_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          69.0999984741211
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageDark.015",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageDark_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          0.7071066498756409,
+          0.70710688829422,
+          0.0,
+          66.7275619506836
+        ],
+        [
+          -0.70710688829422,
+          0.7071066498756409,
+          0.0,
+          39.72756576538086
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageCream.039",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageCream_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          0.7071066498756409,
+          0.70710688829422,
+          0.0,
+          66.7275619506836
+        ],
+        [
+          -0.70710688829422,
+          0.7071066498756409,
+          0.0,
+          39.72756576538086
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageWhite.039",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageWhite_00.004",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          0.7071066498756409,
+          0.70710688829422,
+          0.0,
+          66.7275619506836
+        ],
+        [
+          -0.70710688829422,
+          0.7071066498756409,
+          0.0,
+          39.72756576538086
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Clock_pavilion_face__KOL_T1_HeritageGold.015",
+      "meshKey": "KOL_T1_METROPOLITAN__Clock_pavilion_face__HeritageGold_00.001",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          0.7071066498756409,
+          0.70710688829422,
+          0.0,
+          66.7275619506836
+        ],
+        [
+          -0.70710688829422,
+          0.7071066498756409,
+          0.0,
+          39.72756576538086
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Metropolitan_clock__KOL_T1_HeritageWhite.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Metropolitan_clock__HeritageWhite_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          44.20000076293945
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          81.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Metropolitan_clock__KOL_T1_HeritageDark.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Metropolitan_clock__HeritageDark_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          44.20000076293945
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          81.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Metropolitan_clock__KOL_T1_HeritageCream.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Metropolitan_clock__HeritageCream_00.002",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          44.20000076293945
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          81.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Metropolitan_clock__KOL_T1_HeritageWhite.007",
+      "meshKey": "KOL_T1_METROPOLITAN__Metropolitan_clock__HeritageWhite_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          71.19999694824219
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          81.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Metropolitan_clock__KOL_T1_HeritageDark.007",
+      "meshKey": "KOL_T1_METROPOLITAN__Metropolitan_clock__HeritageDark_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          71.19999694824219
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          81.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Metropolitan_clock__KOL_T1_HeritageCream.005",
+      "meshKey": "KOL_T1_METROPOLITAN__Metropolitan_clock__HeritageCream_00.002",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          71.19999694824219
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          81.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_cupola__KOL_T1_HeritageWhite.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_cupola__HeritageWhite_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_cupola__KOL_T1_HeritageOchre.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_cupola__HeritageOchre_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_cupola__KOL_T1_HeritageCream.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_cupola__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_cupola__KOL_T1_HeritageGold.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_cupola__HeritageGold_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageGlass.024",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageGlass_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          42.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageCream.024",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          42.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageGlass.025",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageGlass_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -69.30000305175781
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageCream.025",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -69.30000305175781
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageGlass.026",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageGlass_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -65.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          33.70000076293945
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageCream.026",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -65.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          33.70000076293945
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageGlass.027",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageGlass_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          -60.70000076293945
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageCream.027",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          -60.70000076293945
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_cupola__KOL_T1_HeritageWhite.007",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_cupola__HeritageWhite_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_cupola__KOL_T1_HeritageOchre.007",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_cupola__HeritageOchre_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_cupola__KOL_T1_HeritageCream.007",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_cupola__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_cupola__KOL_T1_HeritageGold.007",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_cupola__HeritageGold_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageGlass.028",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageGlass_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -33.70000076293945
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageCream.028",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          65.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -33.70000076293945
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageGlass.029",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageGlass_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          60.70000076293945
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageCream.029",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          60.70000076293945
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageGlass.030",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageGlass_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          65.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -42.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageCream.030",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          65.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -42.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageGlass.031",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageGlass_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          69.30000305175781
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Satellite_niche__KOL_T1_HeritageCream.031",
+      "meshKey": "KOL_T1_METROPOLITAN__Satellite_niche__HeritageCream_00.003",
+      "section": "06_Cupolas",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          69.30000305175781
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_pediment_balcony__KOL_T1_HeritageWhite.012",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_pediment_balcony__HeritageWhite_00.003",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -14.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_pediment_balcony__KOL_T1_HeritageWhite.013",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_pediment_balcony__HeritageWhite_01.003",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -14.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_pediment_balcony__KOL_T1_HeritageCream.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_pediment_balcony__HeritageCream_00.003",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -14.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_pediment_balcony__KOL_T1_HeritageWhite.014",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_pediment_balcony__HeritageWhite_00.003",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.0
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_pediment_balcony__KOL_T1_HeritageWhite.015",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_pediment_balcony__HeritageWhite_01.003",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.0
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_pediment_balcony__KOL_T1_HeritageCream.007",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_pediment_balcony__HeritageCream_00.003",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.0
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.036",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -66.75
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.037",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -56.25
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.038",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -45.75
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.039",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -35.25
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.040",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -24.75
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.041",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -14.25
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.042",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.75
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.043",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          6.75
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.044",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          17.25
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.045",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          27.75
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.046",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          38.25
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.047",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          48.75
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.048",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.30000305175781
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          20.75
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.049",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.30000305175781
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          10.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.050",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.30000305175781
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -0.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.051",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.30000305175781
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -10.75
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.052",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.30000305175781
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -21.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrade_module__KOL_T1_HeritageWhite.053",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrade_module__HeritageWhite_00.002",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          1.0,
+          0.0,
+          74.30000305175781
+        ],
+        [
+          -1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -31.75
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          59.099998474121094
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Roof_balustrades_and_urns__KOL_T1_HeritageCream.003",
+      "meshKey": "KOL_T1_METROPOLITAN__Roof_balustrades_and_urns__HeritageCream_00.003",
+      "section": "07_Street_Crowns",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Molded_masonry_socle__KOL_T1_HeritageStone.001",
+      "meshKey": "KOL_T1_METROPOLITAN__Molded_masonry_socle__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Forecourt_planter__KOL_T1_HeritageStone.002",
+      "meshKey": "KOL_T1_METROPOLITAN__Forecourt_planter__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -66.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          56.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Forecourt_planter__KOL_T1_HeritageCream.002",
+      "meshKey": "KOL_T1_METROPOLITAN__Forecourt_planter__HeritageCream_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -66.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          56.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Forecourt_planter__KOL_T1_Leaf.002",
+      "meshKey": "KOL_T1_METROPOLITAN__Forecourt_planter__Leaf_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -66.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          56.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Forecourt_planter__KOL_T1_HeritageStone.003",
+      "meshKey": "KOL_T1_METROPOLITAN__Forecourt_planter__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          73.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -40.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Forecourt_planter__KOL_T1_HeritageCream.003",
+      "meshKey": "KOL_T1_METROPOLITAN__Forecourt_planter__HeritageCream_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          73.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -40.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Forecourt_planter__KOL_T1_Leaf.003",
+      "meshKey": "KOL_T1_METROPOLITAN__Forecourt_planter__Leaf_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          73.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -40.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_bollard__KOL_T1_HeritageIron",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_bollard__HeritageIron_00",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          59.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_bollard__KOL_T1_HeritageIron.001",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_bollard__HeritageIron_00",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -39.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          59.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_bollard__KOL_T1_HeritageIron.002",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_bollard__HeritageIron_00",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          9.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          59.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_bollard__KOL_T1_HeritageIron.003",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_bollard__HeritageIron_00",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          32.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          59.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Street_bollard__KOL_T1_HeritageIron.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Street_bollard__HeritageIron_00",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          59.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Inset_entry_approach_borders__KOL_T1_HeritageStone",
+      "meshKey": "KOL_T1_METROPOLITAN__Inset_entry_approach_borders__HeritageStone_00",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.016",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -60.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.016",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -60.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.016",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -60.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.017",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -25.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.017",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -25.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.017",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -25.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.018",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          15.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.018",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          15.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.018",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          15.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.019",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.019",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.019",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          60.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.020",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -58.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.020",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -58.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.020",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -58.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.021",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.021",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.021",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.022",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.022",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.022",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          22.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.023",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          62.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.023",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          62.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.023",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          62.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.024",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.024",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.024",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.025",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -26.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.025",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -26.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.025",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -26.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.026",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.026",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.026",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.027",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageStone_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -26.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.027",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageIron_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -26.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.027",
+      "meshKey": "KOL_T1_METROPOLITAN__Installed_ground_flood_fixture__HeritageGlow_00.001",
+      "section": "09_Foundation_Detail",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          78.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -26.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -68.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.001",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -48.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.002",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -28.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.003",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -8.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.004",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          12.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.005",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          32.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.006",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          52.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.007",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          68.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.25
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.008",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.25
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.009",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.25
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          12.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.010",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.25
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -12.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_commercial_pilaster__KOL_T1_HeritageCream.011",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_commercial_pilaster__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -74.25
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_service_portal__KOL_T1_HeritageGlass",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_service_portal__HeritageGlass_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -14.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_service_portal__KOL_T1_HeritageCream",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_service_portal__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -14.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_service_portal__KOL_T1_HeritageDark",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_service_portal__HeritageDark_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -14.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_service_portal__KOL_T1_HeritageStone",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_service_portal__HeritageStone_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -14.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -47.29999923706055
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_belt_courses_and_roof_stacks__KOL_T1_HeritageCream",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_belt_courses_and_roof_stacks__HeritageCream_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_belt_courses_and_roof_stacks__KOL_T1_HeritageStone",
+      "meshKey": "KOL_T1_METROPOLITAN__Rear_belt_courses_and_roof_stacks__HeritageStone_00",
+      "section": "10_Rear_Architecture",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    }
+  ],
+  "collisionBoxes": [
+    {
+      "name": "Foundation",
+      "positionStuds": [
+        0,
+        0.2,
+        -5.0
+      ],
+      "sizeStuds": [
+        160,
+        0.8,
+        116
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Main_shell",
+      "positionStuds": [
+        -9,
+        29.6,
+        0
+      ],
+      "sizeStuds": [
+        130,
+        56.8,
+        94
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Return_shell",
+      "positionStuds": [
+        65,
+        29.6,
+        9
+      ],
+      "sizeStuds": [
+        18,
+        56.8,
+        76
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Continuous_street_plinth",
+      "positionStuds": [
+        0,
+        1.5,
+        0
+      ],
+      "sizeStuds": [
+        150,
+        1.4,
+        96
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Front_commercial_threshold0",
+      "positionStuds": [
+        -14,
+        0.9750000000000001,
+        -52.0
+      ],
+      "sizeStuds": [
+        29,
+        0.3500000000000001,
+        1.22
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Front_commercial_threshold1",
+      "positionStuds": [
+        -14,
+        1.15,
+        -50.8
+      ],
+      "sizeStuds": [
+        29,
+        0.7,
+        1.22
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Front_commercial_threshold2",
+      "positionStuds": [
+        -14,
+        1.3250000000000002,
+        -49.599999999999994
+      ],
+      "sizeStuds": [
+        29,
+        1.05,
+        1.22
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Front_commercial_threshold3",
+      "positionStuds": [
+        -14,
+        1.5,
+        -48.4
+      ],
+      "sizeStuds": [
+        29,
+        1.4000000000000001,
+        1.22
+      ],
+      "yaw": 0
+    }
+  ],
+  "nightLightingZones": [
+    "Clock faces and upper cupola ribs",
+    "Rounded corner balconies",
+    "Two street pediments and ground entrances; avoid lighting every bay"
+  ],
+  "nightLights": [
+    {
+      "name": "Front_0",
+      "positionStuds": [
+        -60,
+        3,
+        -60
+      ],
+      "targetStuds": [
+        -60,
+        38,
+        -47
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Front_1",
+      "positionStuds": [
+        -25,
+        3,
+        -60
+      ],
+      "targetStuds": [
+        -25,
+        38,
+        -47
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Front_2",
+      "positionStuds": [
+        15,
+        3,
+        -60
+      ],
+      "targetStuds": [
+        15,
+        38,
+        -47
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Front_3",
+      "positionStuds": [
+        55,
+        3,
+        -60
+      ],
+      "targetStuds": [
+        55,
+        38,
+        -47
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Rear_0",
+      "positionStuds": [
+        -58,
+        3,
+        51
+      ],
+      "targetStuds": [
+        -58,
+        38,
+        47
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Rear_1",
+      "positionStuds": [
+        -18,
+        3,
+        51
+      ],
+      "targetStuds": [
+        -18,
+        38,
+        47
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Rear_2",
+      "positionStuds": [
+        22,
+        3,
+        51
+      ],
+      "targetStuds": [
+        22,
+        38,
+        47
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Rear_3",
+      "positionStuds": [
+        62,
+        3,
+        51
+      ],
+      "targetStuds": [
+        62,
+        38,
+        47
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Side_-1_-14",
+      "positionStuds": [
+        -78,
+        3,
+        -14
+      ],
+      "targetStuds": [
+        -74,
+        36,
+        -14
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Side_-1_26",
+      "positionStuds": [
+        -78,
+        3,
+        26
+      ],
+      "targetStuds": [
+        -74,
+        36,
+        26
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Side_1_-14",
+      "positionStuds": [
+        78,
+        3,
+        -14
+      ],
+      "targetStuds": [
+        74,
+        36,
+        -14
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Side_1_26",
+      "positionStuds": [
+        78,
+        3,
+        26
+      ],
+      "targetStuds": [
+        74,
+        36,
+        26
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Clock_crown",
+      "positionStuds": [
+        61,
+        60,
+        -45
+      ],
+      "targetStuds": [
+        61,
+        82,
+        -34
+      ],
+      "rangeStuds": 42,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 16000,
+      "shadows": false
+    },
+    {
+      "name": "Satellite_crown",
+      "positionStuds": [
+        -65,
+        59,
+        -42
+      ],
+      "targetStuds": [
+        -65,
+        71,
+        -38
+      ],
+      "rangeStuds": 30,
+      "brightness": 2,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        167
+      ],
+      "blenderWatts": 8000,
+      "shadows": false
+    }
+  ],
+  "scope": "Exterior landmark only; no Studio integration, full interiors or gameplay"
+}

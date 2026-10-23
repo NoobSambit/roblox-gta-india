@@ -1,0 +1,80 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 190,
+  "sourceUniqueMeshes": 45,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 1992,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__00_Foundation.fbx",
+      "meshObjects": 3,
+      "triangles": 180,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__01_Shell.fbx",
+      "meshObjects": 1,
+      "triangles": 12,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__02_Cornices.fbx",
+      "meshObjects": 1,
+      "triangles": 108,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__03_Portico.fbx",
+      "meshObjects": 3,
+      "triangles": 6696,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__04_Facades.fbx",
+      "meshObjects": 6,
+      "triangles": 11784,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__05_Rear.fbx",
+      "meshObjects": 3,
+      "triangles": 3480,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__06_Roofline.fbx",
+      "meshObjects": 3,
+      "triangles": 11536,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__09_Foundation_Detail.fbx",
+      "meshObjects": 6,
+      "triangles": 812,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__10_Rear_Architecture.fbx",
+      "meshObjects": 5,
+      "triangles": 1912,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__04_Facades.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 7.62939453125e-06,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "columnBearingPairs": 10,
+  "previews": [
+    "preview-day.png",
+    "preview-rear.png",
+    "preview-night.png",
+    "preview-night-rear.png"
+  ]
+}

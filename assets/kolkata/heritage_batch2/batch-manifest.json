@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "assetId": "KOL_T1_WRITERS",
+      "name": "Writers' Building",
+      "metadata": "writers/asset.json",
+      "source": "writers/KOL_T1_WRITERS.blend",
+      "uniqueSourceTriangles": 28344,
+      "assembledTriangles": 127040,
+      "exportCount": 10
+    },
+    {
+      "assetId": "KOL_T1_METROPOLITAN",
+      "name": "Metropolitan Building",
+      "metadata": "metropolitan/asset.json",
+      "source": "metropolitan/KOL_T1_METROPOLITAN.blend",
+      "uniqueSourceTriangles": 16744,
+      "assembledTriangles": 90874,
+      "exportCount": 10
+    },
+    {
+      "assetId": "KOL_T1_GPO",
+      "name": "General Post Office",
+      "metadata": "gpo/asset.json",
+      "source": "gpo/KOL_T1_GPO.blend",
+      "uniqueSourceTriangles": 11742,
+      "assembledTriangles": 51726,
+      "exportCount": 11
+    },
+    {
+      "assetId": "KOL_T1_TOWN_HALL",
+      "name": "Kolkata Town Hall",
+      "metadata": "town_hall/asset.json",
+      "source": "town_hall/KOL_T1_TOWN_HALL.blend",
+      "uniqueSourceTriangles": 8564,
+      "assembledTriangles": 36520,
+      "exportCount": 9
+    }
+  ],
+  "uniqueSourceTriangles": 65394,
+  "assembledTriangles": 306160,
+  "uniqueTarget": [
+    47000,
+    76000
+  ],
+  "uniqueSoftReview": 85000,
+  "imagegenUsed": false,
+  "scope": "Blender exterior assets only; no Studio integration"
+}
