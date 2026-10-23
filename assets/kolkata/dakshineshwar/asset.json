@@ -1,0 +1,9724 @@
+{
+  "assetId": "KOL_T1_DAKSHINESHWAR",
+  "name": "Dakshineshwar Kali temple complex and attached ghat",
+  "source": "KOL_T1_DAKSHINESHWAR.blend",
+  "dimensionsStuds": {
+    "width": 418.0,
+    "height": 159.6,
+    "depth": 219.853
+  },
+  "assembledTriangles": 75580,
+  "uniqueSourceTriangles": 40772,
+  "largestMeshTriangles": 2000,
+  "uniqueMeshes": 102,
+  "meshInstances": 294,
+  "exports": [
+    {
+      "section": "01_Campus",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__01_Campus.fbx",
+      "triangles": 960,
+      "meshInstances": 3,
+      "largestExportMeshTriangles": 936
+    },
+    {
+      "section": "02_Main_Platform",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__02_Main_Platform.fbx",
+      "triangles": 432,
+      "meshInstances": 3,
+      "largestExportMeshTriangles": 336
+    },
+    {
+      "section": "03_Main_Envelope",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__03_Main_Envelope.fbx",
+      "triangles": 84,
+      "meshInstances": 2,
+      "largestExportMeshTriangles": 60
+    },
+    {
+      "section": "04_Main_Arcades",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__04_Main_Arcades.fbx",
+      "triangles": 11700,
+      "meshInstances": 4,
+      "largestExportMeshTriangles": 5416
+    },
+    {
+      "section": "05_Curved_Roofs",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__05_Curved_Roofs.fbx",
+      "triangles": 22976,
+      "meshInstances": 5,
+      "largestExportMeshTriangles": 5500
+    },
+    {
+      "section": "06_Nine_Spires",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__06_Nine_Spires.fbx",
+      "triangles": 8604,
+      "meshInstances": 4,
+      "largestExportMeshTriangles": 4644
+    },
+    {
+      "section": "07_Shrine_Chamber",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__07_Shrine_Chamber.fbx",
+      "triangles": 580,
+      "meshInstances": 4,
+      "largestExportMeshTriangles": 336
+    },
+    {
+      "section": "08_Kali_Murti",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__08_Kali_Murti.fbx",
+      "triangles": 3584,
+      "meshInstances": 7,
+      "largestExportMeshTriangles": 1008
+    },
+    {
+      "section": "09_Shrine_Frame",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__09_Shrine_Frame.fbx",
+      "triangles": 1220,
+      "meshInstances": 6,
+      "largestExportMeshTriangles": 400
+    },
+    {
+      "section": "11_Ghat",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__11_Ghat.fbx",
+      "triangles": 2868,
+      "meshInstances": 4,
+      "largestExportMeshTriangles": 1488
+    },
+    {
+      "section": "12_River_Gateway",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__12_River_Gateway.fbx",
+      "triangles": 1412,
+      "meshInstances": 2,
+      "largestExportMeshTriangles": 992
+    },
+    {
+      "section": "13_Boundary_Support",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__13_Boundary_Support.fbx",
+      "triangles": 704,
+      "meshInstances": 2,
+      "largestExportMeshTriangles": 520
+    },
+    {
+      "section": "14_Landscape_Fixtures",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__14_Landscape_Fixtures.fbx",
+      "triangles": 2264,
+      "meshInstances": 8,
+      "largestExportMeshTriangles": 768
+    },
+    {
+      "section": "10_Shiva_Temple_Master",
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__10_Shiva_Temple_Master.fbx",
+      "triangles": 1516,
+      "meshInstances": 4,
+      "largestExportMeshTriangles": 728
+    }
+  ],
+  "origin": "Common ground center; front +Y in Blender / -Z in Roblox",
+  "sockets": {
+    "MainShrineEntry": {
+      "positionStuds": [
+        0,
+        6.05,
+        -14
+      ],
+      "clearWidthStuds": 10.4,
+      "clearHeightStuds": 18.4
+    },
+    "ShrineViewingFloor": {
+      "positionStuds": [
+        0,
+        6.6,
+        12
+      ],
+      "clearWidthStuds": 26,
+      "clearDepthStuds": 14
+    },
+    "WaterDatum": {
+      "heightStuds": -5,
+      "bankFrontZ": -87,
+      "lowestStepHeightStuds": -7.0,
+      "ghatFrontZ": -133.8,
+      "nativeRobloxTerrainWaterLater": true
+    },
+    "GhatMainLanding": {
+      "positionStuds": [
+        0,
+        1,
+        -84.5
+      ],
+      "clearWidthStuds": 104
+    },
+    "NightLightingZones": {
+      "installedBlenderLights": 20,
+      "nativeRobloxPlan": "night-lights.json",
+      "nativeInstaller": "exports/dakshineshwar/InstallNightLights.luau",
+      "shadowCastingLights": 1
+    }
+  },
+  "materials": [
+    "KOL_T1_GarlandGreen",
+    "KOL_T1_KaliBlue",
+    "KOL_T1_KaliGold",
+    "KOL_T1_KaliRed",
+    "KOL_T1_KaliWhite",
+    "KOL_T1_Leaf",
+    "KOL_T1_LeafLight",
+    "KOL_T1_Louvre",
+    "KOL_T1_TempleCream",
+    "KOL_T1_TempleDark",
+    "KOL_T1_TempleGlow",
+    "KOL_T1_TempleGold",
+    "KOL_T1_TempleJoint",
+    "KOL_T1_TemplePaving",
+    "KOL_T1_TempleRed",
+    "KOL_T1_TempleRoof",
+    "KOL_T1_TempleSilver",
+    "KOL_T1_TempleStone"
+  ],
+  "assembly": [
+    {
+      "name": "Connected_courtyard__KOL_T1_TempleStone.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Connected_courtyard__TempleStone_00.002",
+      "section": "01_Campus",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Ground"
+    },
+    {
+      "name": "Connected_courtyard__KOL_T1_TempleJoint.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Connected_courtyard__TempleJoint_00.002",
+      "section": "01_Campus",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Ground"
+    },
+    {
+      "name": "Connected_courtyard__KOL_T1_TemplePaving.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Connected_courtyard__TemplePaving_00.002",
+      "section": "01_Campus",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Ground"
+    },
+    {
+      "name": "Main_raised_plinth_and_stairs__KOL_T1_TempleRed.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_raised_plinth_and_stairs__TempleRed_00.002",
+      "section": "02_Main_Platform",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Walkable"
+    },
+    {
+      "name": "Main_raised_plinth_and_stairs__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_raised_plinth_and_stairs__TempleCream_00.002",
+      "section": "02_Main_Platform",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Walkable"
+    },
+    {
+      "name": "Main_raised_plinth_and_stairs__KOL_T1_TempleStone.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_raised_plinth_and_stairs__TempleStone_00.002",
+      "section": "02_Main_Platform",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Walkable"
+    },
+    {
+      "name": "Shiva_wing_plinth_-1__KOL_T1_TempleRed.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_wing_plinth_-1__TempleRed_00.002",
+      "section": "02_Main_Platform",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Walkable"
+    },
+    {
+      "name": "Shiva_wing_plinth_-1__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_wing_plinth_-1__TempleCream_00.002",
+      "section": "02_Main_Platform",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Walkable"
+    },
+    {
+      "name": "Shiva_wing_plinth_-1__KOL_T1_TempleStone.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_wing_plinth_-1__TempleStone_00.002",
+      "section": "02_Main_Platform",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Walkable"
+    },
+    {
+      "name": "Shiva_wing_plinth_1__KOL_T1_TempleRed.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_wing_plinth_1__TempleRed_00.002",
+      "section": "02_Main_Platform",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Walkable"
+    },
+    {
+      "name": "Shiva_wing_plinth_1__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_wing_plinth_1__TempleCream_00.002",
+      "section": "02_Main_Platform",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Walkable"
+    },
+    {
+      "name": "Shiva_wing_plinth_1__KOL_T1_TempleStone.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_wing_plinth_1__TempleStone_00.002",
+      "section": "02_Main_Platform",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Walkable"
+    },
+    {
+      "name": "Main_ground_shell__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_ground_shell__TempleCream_00.002",
+      "section": "03_Main_Envelope",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "ShellWalls"
+    },
+    {
+      "name": "Main_ground_shell__KOL_T1_TempleDark.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_ground_shell__TempleDark_00.002",
+      "section": "03_Main_Envelope",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "ShellWalls"
+    },
+    {
+      "name": "Upper_central_body__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_central_body__TempleCream_00.002",
+      "section": "03_Main_Envelope",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "UpperEnvelope"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleCream.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -32.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleRed.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -32.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleCream.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -16.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleRed.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -16.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleCream.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleRed.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleCream.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          16.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleRed.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          16.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleCream.014",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          32.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_open_arch_bay__KOL_T1_TempleRed.014",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_open_arch_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          32.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleCream.016",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -49.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleRed.016",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -49.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleDark.016",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -49.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleCream.017",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -31.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleRed.017",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -31.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleDark.017",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -31.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleCream.018",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleRed.018",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleDark.018",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleCream.019",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleRed.019",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleDark.019",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -41.400001525878906
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleCream.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          32.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleRed.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          32.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleDark.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          32.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleCream.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          16.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleRed.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          16.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleDark.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          16.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleCream.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -4.5801790433800706e-15
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleRed.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -4.5801790433800706e-15
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleDark.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -4.5801790433800706e-15
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleCream.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -16.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleRed.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -16.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleDark.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -16.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleCream.014",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -32.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleRed.014",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -32.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_0__KOL_T1_TempleDark.014",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_0__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -32.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -59.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleCream.020",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleRed.020",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleDark.020",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          5.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleCream.021",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleRed.021",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleDark.021",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleCream.022",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -31.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleRed.022",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -31.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleDark.022",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -31.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleCream.023",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -49.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleRed.023",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -49.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Main_return_bay_1__KOL_T1_TempleDark.023",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Main_return_bay_1__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          41.400001525878906
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -49.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          6.050000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.024",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.4000000059604645
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.024",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.4000000059604645
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.024",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -13.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.4000000059604645
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.025",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.4000000059604645
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.025",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.4000000059604645
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.025",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.4000000059604645
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.026",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          13.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.4000000059604645
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.026",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          13.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.4000000059604645
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.026",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          13.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.4000000059604645
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.027",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -25.399999618530273
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.027",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -25.399999618530273
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.027",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -25.399999618530273
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.028",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -25.399999618530273
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.028",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -25.399999618530273
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.028",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -25.399999618530273
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.029",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -25.399999618530273
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.029",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -25.399999618530273
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.029",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -4.371138828673793e-08,
+          -1.0,
+          0.0,
+          -25.399999618530273
+        ],
+        [
+          1.0,
+          -4.371138828673793e-08,
+          0.0,
+          -9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.030",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          13.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -44.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.030",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          13.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -44.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.030",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          13.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -44.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.031",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -2.743208738032539e-15
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -44.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.031",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -2.743208738032539e-15
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -44.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.031",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -2.743208738032539e-15
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -44.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.032",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -44.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.032",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -44.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.032",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          -1.0,
+          8.742277657347586e-08,
+          0.0,
+          -13.0
+        ],
+        [
+          -8.742277657347586e-08,
+          -1.0,
+          0.0,
+          -44.400001525878906
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.033",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          25.399999618530273
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.033",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          25.399999618530273
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.033",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          25.399999618530273
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -9.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.034",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          25.399999618530273
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.034",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          25.399999618530273
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.034",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          25.399999618530273
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleCream.035",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleCream_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          25.399999618530273
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleRed.035",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleRed_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          25.399999618530273
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_arched_bay__KOL_T1_TempleDark.035",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_arched_bay__TempleDark_00.002",
+      "section": "04_Main_Arcades",
+      "matrix": [
+        [
+          1.1924880638503055e-08,
+          1.0,
+          0.0,
+          25.399999618530273
+        ],
+        [
+          -1.0,
+          1.1924880638503055e-08,
+          0.0,
+          -35.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          54.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Lower_Bengali_roof__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Lower_Bengali_roof__TempleCream_00.002",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Lower_curved_cornice__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Lower_curved_cornice__TempleCream_00.002",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Lower_curved_cornice__KOL_T1_TempleCream.003",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Lower_curved_cornice__TempleCream_01",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Lower_curved_cornice__KOL_T1_TempleCream.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Lower_curved_cornice__TempleCream_02",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Lower_curved_cornice__KOL_T1_TempleRed.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Lower_curved_cornice__TempleRed_00.002",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Lower_curved_cornice__KOL_T1_TempleRed.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Lower_curved_cornice__TempleRed_01.002",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Lower_curved_balustrade__KOL_T1_TempleCream",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Lower_curved_balustrade__TempleCream_00",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Lower_curved_balustrade__KOL_T1_TempleRed",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Lower_curved_balustrade__TempleRed_00",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_Bengali_roof__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_Bengali_roof__TempleCream_00.002",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_curved_cornice__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_curved_cornice__TempleCream_00.002",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_curved_cornice__KOL_T1_TempleCream.003",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_curved_cornice__TempleCream_01",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_curved_cornice__KOL_T1_TempleCream.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_curved_cornice__TempleCream_02",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_curved_cornice__KOL_T1_TempleRed.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_curved_cornice__TempleRed_00.002",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_curved_cornice__KOL_T1_TempleRed.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_curved_cornice__TempleRed_01.002",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_curved_balustrade__KOL_T1_TempleCream",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_curved_balustrade__TempleCream_00",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Upper_curved_balustrade__KOL_T1_TempleRed",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Upper_curved_balustrade__TempleRed_00",
+      "section": "05_Curved_Roofs",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleCream.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleCream_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          7.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleRoof.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleRoof_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          7.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleRed.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleRed_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          7.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleDark.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleDark_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          7.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleCream.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleCream_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleRoof.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleRoof_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleRed.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleRed_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleDark.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleDark_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleCream.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleCream_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          7.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleRoof.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleRoof_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          7.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleRed.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleRed_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          7.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleDark.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleDark_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          7.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleCream.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleCream_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleRoof.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleRoof_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleRed.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleRed_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_lower_master__KOL_T1_TempleDark.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_lower_master__TempleDark_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          34.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          43.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleCream.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleCream_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -6.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleRoof.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleRoof_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -6.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleRed.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleRed_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -6.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleDark.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleDark_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -6.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleCream.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleCream_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleRoof.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleRoof_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleRed.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleRed_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleDark.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleDark_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleCream.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleCream_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -6.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleRoof.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleRoof_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -6.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleRed.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleRed_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -6.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleDark.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleDark_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -6.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleCream.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleCream_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleRoof.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleRoof_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleRed.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleRed_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_upper_master__KOL_T1_TempleDark.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_upper_master__TempleDark_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          18.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -38.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          82.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_central__KOL_T1_TempleCream.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_central__TempleCream_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          89.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_central__KOL_T1_TempleRoof.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_central__TempleRoof_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          89.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_central__KOL_T1_TempleRed.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_central__TempleRed_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          89.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Ratna_central__KOL_T1_TempleDark.002",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Ratna_central__TempleDark_00.002",
+      "section": "06_Nine_Spires",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -22.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          89.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Limited_shrine_chamber_and_altar__KOL_T1_TempleCream.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Limited_shrine_chamber_and_altar__TempleCream_00.001",
+      "section": "07_Shrine_Chamber",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "ShrineShell"
+    },
+    {
+      "name": "Limited_shrine_chamber_and_altar__KOL_T1_TempleRed.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Limited_shrine_chamber_and_altar__TempleRed_00.001",
+      "section": "07_Shrine_Chamber",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "ShrineShell"
+    },
+    {
+      "name": "Limited_shrine_chamber_and_altar__KOL_T1_TempleStone.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Limited_shrine_chamber_and_altar__TempleStone_00.001",
+      "section": "07_Shrine_Chamber",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "ShrineShell"
+    },
+    {
+      "name": "Limited_shrine_chamber_and_altar__KOL_T1_KaliGold.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Limited_shrine_chamber_and_altar__KaliGold_00.001",
+      "section": "07_Shrine_Chamber",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "ShrineShell"
+    },
+    {
+      "name": "Kali_four_armed_murti__KOL_T1_TempleDark.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Kali_four_armed_murti__TempleDark_00.001",
+      "section": "08_Kali_Murti",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -28.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          9.800000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "SacredFocalSculpture"
+    },
+    {
+      "name": "Kali_four_armed_murti__KOL_T1_KaliBlue.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Kali_four_armed_murti__KaliBlue_00.001",
+      "section": "08_Kali_Murti",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -28.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          9.800000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "SacredFocalSculpture"
+    },
+    {
+      "name": "Kali_four_armed_murti__KOL_T1_KaliGold.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Kali_four_armed_murti__KaliGold_00.001",
+      "section": "08_Kali_Murti",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -28.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          9.800000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "SacredFocalSculpture"
+    },
+    {
+      "name": "Kali_four_armed_murti__KOL_T1_KaliRed.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Kali_four_armed_murti__KaliRed_00.001",
+      "section": "08_Kali_Murti",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -28.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          9.800000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "SacredFocalSculpture"
+    },
+    {
+      "name": "Kali_four_armed_murti__KOL_T1_KaliWhite.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Kali_four_armed_murti__KaliWhite_00.001",
+      "section": "08_Kali_Murti",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -28.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          9.800000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "SacredFocalSculpture"
+    },
+    {
+      "name": "Kali_four_armed_murti__KOL_T1_GarlandGreen.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Kali_four_armed_murti__GarlandGreen_00.001",
+      "section": "08_Kali_Murti",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -28.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          9.800000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "SacredFocalSculpture"
+    },
+    {
+      "name": "Kali_four_armed_murti__KOL_T1_TempleCream.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Kali_four_armed_murti__TempleCream_00.001",
+      "section": "08_Kali_Murti",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -28.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          9.800000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "SacredFocalSculpture"
+    },
+    {
+      "name": "Shrine_silver_arch_drapery_lamps__KOL_T1_TempleSilver.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shrine_silver_arch_drapery_lamps__TempleSilver_00.001",
+      "section": "09_Shrine_Frame",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shrine_silver_arch_drapery_lamps__KOL_T1_TempleRed.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shrine_silver_arch_drapery_lamps__TempleRed_00.001",
+      "section": "09_Shrine_Frame",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shrine_silver_arch_drapery_lamps__KOL_T1_TempleCream.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shrine_silver_arch_drapery_lamps__TempleCream_00.001",
+      "section": "09_Shrine_Frame",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shrine_silver_arch_drapery_lamps__KOL_T1_KaliBlue.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shrine_silver_arch_drapery_lamps__KaliBlue_00.001",
+      "section": "09_Shrine_Frame",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shrine_silver_arch_drapery_lamps__KOL_T1_KaliGold.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shrine_silver_arch_drapery_lamps__KaliGold_00.001",
+      "section": "09_Shrine_Frame",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shrine_silver_arch_drapery_lamps__KOL_T1_TempleGlow.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shrine_silver_arch_drapery_lamps__TempleGlow_00.001",
+      "section": "09_Shrine_Frame",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -85.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -85.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -85.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -85.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.014",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -109.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.014",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -109.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.014",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -109.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.014",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -109.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.015",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -133.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.015",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -133.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.015",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -133.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.015",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -133.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.016",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -157.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.016",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -157.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.016",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -157.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.016",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -157.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.017",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -181.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.017",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -181.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.017",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -181.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.017",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -181.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.018",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.018",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.018",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.018",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          61.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.019",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          85.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.019",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          85.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.019",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          85.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.019",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          85.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.020",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          109.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.020",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          109.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.020",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          109.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.020",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          109.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.021",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          133.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.021",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          133.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.021",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          133.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.021",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          133.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.022",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          157.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.022",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          157.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.022",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          157.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.022",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          157.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleCream.023",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleCream_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          181.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRed.023",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRed_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          181.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleRoof.023",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleRoof_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          181.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_temple_shared_master__KOL_T1_TempleDark.023",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_temple_shared_master__TempleDark_00.002",
+      "section": "10_Shiva_Temples",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          181.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -30.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          3.4000000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Attached_ghat_steps_landings_retaining_edges__KOL_T1_TemplePaving.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Attached_ghat_steps_landings_retaining_edges__TemplePaving_00.002",
+      "section": "11_Ghat",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "RiverStairs"
+    },
+    {
+      "name": "Attached_ghat_steps_landings_retaining_edges__KOL_T1_TempleStone.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Attached_ghat_steps_landings_retaining_edges__TempleStone_00.002",
+      "section": "11_Ghat",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "RiverStairs"
+    },
+    {
+      "name": "Attached_ghat_steps_landings_retaining_edges__KOL_T1_TempleCream.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Attached_ghat_steps_landings_retaining_edges__TempleCream_00.002",
+      "section": "11_Ghat",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "RiverStairs"
+    },
+    {
+      "name": "Attached_ghat_steps_landings_retaining_edges__KOL_T1_TempleRed.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Attached_ghat_steps_landings_retaining_edges__TempleRed_00.002",
+      "section": "11_Ghat",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "RiverStairs"
+    },
+    {
+      "name": "River_gate_shared_bay__KOL_T1_TempleCream.003",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__River_gate_shared_bay__TempleCream_00.001",
+      "section": "12_River_Gateway",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -15.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          77.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "River_gate_shared_bay__KOL_T1_TempleRed.003",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__River_gate_shared_bay__TempleRed_00.001",
+      "section": "12_River_Gateway",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -15.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          77.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "River_gate_shared_bay__KOL_T1_TempleCream.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__River_gate_shared_bay__TempleCream_00.001",
+      "section": "12_River_Gateway",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          77.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "River_gate_shared_bay__KOL_T1_TempleRed.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__River_gate_shared_bay__TempleRed_00.001",
+      "section": "12_River_Gateway",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          77.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "River_gate_shared_bay__KOL_T1_TempleCream.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__River_gate_shared_bay__TempleCream_00.001",
+      "section": "12_River_Gateway",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          15.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          77.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "River_gate_shared_bay__KOL_T1_TempleRed.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__River_gate_shared_bay__TempleRed_00.001",
+      "section": "12_River_Gateway",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          15.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          77.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "River_gateway_entablature__KOL_T1_TempleRed.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__River_gateway_entablature__TempleRed_00.001",
+      "section": "12_River_Gateway",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "River_gateway_entablature__KOL_T1_TempleCream.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__River_gateway_entablature__TempleCream_00.001",
+      "section": "12_River_Gateway",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Boundary_walls_and_gate_returns__KOL_T1_TempleCream.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Boundary_walls_and_gate_returns__TempleCream_00.001",
+      "section": "13_Boundary_Support",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Boundary_walls_and_gate_returns__KOL_T1_TempleRed.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Boundary_walls_and_gate_returns__TempleRed_00.001",
+      "section": "13_Boundary_Support",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_open_campus_gate__KOL_T1_TempleCream.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Rear_open_campus_gate__TempleCream_00.001",
+      "section": "13_Boundary_Support",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -83.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_open_campus_gate__KOL_T1_TempleRed.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Rear_open_campus_gate__TempleRed_00.001",
+      "section": "13_Boundary_Support",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -83.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Rear_gate_cap__KOL_T1_TempleRed.001",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Rear_gate_cap__TempleRed_00.001",
+      "section": "13_Boundary_Support",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_TempleRed.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_TempleCream.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__TempleCream_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_Leaf.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__Leaf_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_Louvre.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__Louvre_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_LeafLight.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__LeafLight_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_Leaf.004",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__Leaf_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_TempleRed.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_TempleCream.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__TempleCream_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_Leaf.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__Leaf_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_Louvre.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__Louvre_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_LeafLight.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__LeafLight_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_Leaf.005",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__Leaf_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          55.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_TempleRed.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_TempleCream.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__TempleCream_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_Leaf.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__Leaf_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_Louvre.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__Louvre_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_LeafLight.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__LeafLight_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_Leaf.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__Leaf_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_TempleRed.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_TempleCream.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__TempleCream_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_planter_master__KOL_T1_Leaf.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_planter_master__Leaf_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_Louvre.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__Louvre_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_LeafLight.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__LeafLight_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Temple_palm_master__KOL_T1_Leaf.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Temple_palm_master__Leaf_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          193.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -65.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleStone.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleStone_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -151.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGold.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGold_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -151.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGlow.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGlow_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -151.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleRed.006",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -151.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleStone.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleStone_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGold.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGold_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGlow.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGlow_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleRed.007",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -51.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleStone.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleStone_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          51.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGold.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGold_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          51.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGlow.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGlow_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          51.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleRed.008",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          51.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleStone.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleStone_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          151.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGold.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGold_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          151.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGlow.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGlow_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          151.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleRed.009",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          151.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          66.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleStone.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleStone_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -48.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -70.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGold.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGold_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -48.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -70.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGlow.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGlow_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -48.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -70.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleRed.010",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -48.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -70.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleStone.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleStone_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          48.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -70.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGold.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGold_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          48.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -70.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGlow.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGlow_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          48.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -70.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleRed.011",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          48.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -70.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleStone.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleStone_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -95.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          102.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -2.799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGold.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGold_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -95.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          102.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -2.799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGlow.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGlow_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -95.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          102.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -2.799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleRed.012",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -95.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          102.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -2.799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleStone.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleStone_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          95.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          102.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -2.799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGold.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGold_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          95.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          102.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -2.799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleGlow.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleGlow_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          95.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          102.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -2.799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Courtyard_lamp_master__KOL_T1_TempleRed.013",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Courtyard_lamp_master__TempleRed_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          95.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          102.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -2.799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Architectural_light_housings__KOL_T1_TempleGold",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Architectural_light_housings__TempleGold_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Architectural_light_housings__KOL_T1_TempleGlow",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Architectural_light_housings__TempleGlow_00.001",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_porch_light_fixtures__KOL_T1_TempleGold",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_porch_light_fixtures__TempleGold_00",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    },
+    {
+      "name": "Shiva_porch_light_fixtures__KOL_T1_TempleGlow",
+      "meshKey": "KOL_T1_DAKSHINESHWAR__Shiva_porch_light_fixtures__TempleGlow_00",
+      "section": "14_Landscape_Fixtures",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "collisionRole": "Visual"
+    }
+  ],
+  "reusedModules": {
+    "ShivaTemple": {
+      "masterFile": "KOL_T1_DAKSHINESHWAR__10_Shiva_Temple_Master.fbx",
+      "placements": [
+        {
+          "index": 1,
+          "positionStuds": [
+            -61,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 2,
+          "positionStuds": [
+            -85,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 3,
+          "positionStuds": [
+            -109,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 4,
+          "positionStuds": [
+            -133,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 5,
+          "positionStuds": [
+            -157,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 6,
+          "positionStuds": [
+            -181,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 7,
+          "positionStuds": [
+            61,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 8,
+          "positionStuds": [
+            85,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 9,
+          "positionStuds": [
+            109,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 10,
+          "positionStuds": [
+            133,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 11,
+          "positionStuds": [
+            157,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        },
+        {
+          "index": 12,
+          "positionStuds": [
+            181,
+            3.4,
+            30
+          ],
+          "yawDegrees": 0
+        }
+      ]
+    }
+  },
+  "waterLevelStuds": -5,
+  "mainSpireCount": 9,
+  "shivaTempleCount": 12,
+  "scope": "Blender landmark asset only; limited shrine, no gameplay or final water mesh",
+  "concepts": [
+    "concepts/01-campus.png",
+    "concepts/02-ghat.png",
+    "concepts/03-courtyard.png",
+    "concepts/04-shrine.png"
+  ],
+  "triangleBudget": {
+    "uniqueTarget": [
+      40000,
+      55000
+    ],
+    "placedTarget": [
+      65000,
+      95000
+    ],
+    "placedSoftReview": 110000,
+    "targetsAreAllowances": true
+  }
+}

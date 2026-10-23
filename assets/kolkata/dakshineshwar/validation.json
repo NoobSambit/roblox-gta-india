@@ -1,0 +1,122 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 294,
+  "sourceUniqueMeshes": 102,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 2000,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__01_Campus.fbx",
+      "meshObjects": 3,
+      "triangles": 960,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__02_Main_Platform.fbx",
+      "meshObjects": 3,
+      "triangles": 432,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__03_Main_Envelope.fbx",
+      "meshObjects": 2,
+      "triangles": 84,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__04_Main_Arcades.fbx",
+      "meshObjects": 4,
+      "triangles": 11700,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__05_Curved_Roofs.fbx",
+      "meshObjects": 5,
+      "triangles": 22976,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__06_Nine_Spires.fbx",
+      "meshObjects": 4,
+      "triangles": 8604,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__07_Shrine_Chamber.fbx",
+      "meshObjects": 4,
+      "triangles": 580,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__08_Kali_Murti.fbx",
+      "meshObjects": 7,
+      "triangles": 3584,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__09_Shrine_Frame.fbx",
+      "meshObjects": 6,
+      "triangles": 1220,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__11_Ghat.fbx",
+      "meshObjects": 4,
+      "triangles": 2868,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__12_River_Gateway.fbx",
+      "meshObjects": 2,
+      "triangles": 1412,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__13_Boundary_Support.fbx",
+      "meshObjects": 2,
+      "triangles": 704,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__14_Landscape_Fixtures.fbx",
+      "meshObjects": 8,
+      "triangles": 2264,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__10_Shiva_Temple_Master.fbx",
+      "meshObjects": 4,
+      "triangles": 1516,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../exports/dakshineshwar/KOL_T1_DAKSHINESHWAR__05_Curved_Roofs.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 9.5367431640625e-06,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "focusedChecks": {
+    "mainSpires": 9,
+    "linkedShivaPlacements": 12,
+    "workingBlenderLights": 20,
+    "shadowCastingLights": 1,
+    "mainApproachOpenAtEyeHeight": true,
+    "groundExposedHeightsStuds": {
+      "courtyard": 0.7999992370605469,
+      "threshold": 1.0,
+      "firstStep": 0.5
+    },
+    "friezeFaceProjectionStuds": 0.45
+  },
+  "previews": [
+    "preview-campus.png",
+    "preview-river.png",
+    "preview-shrine.png",
+    "preview-night.png"
+  ]
+}

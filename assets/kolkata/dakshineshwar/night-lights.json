@@ -1,0 +1,430 @@
+{
+  "origin": "Ground center; Roblox X/Y/Z studs",
+  "lights": [
+    {
+      "name": "Courtyard_01",
+      "positionStuds": [
+        -151,
+        10,
+        -66
+      ],
+      "rangeStuds": 22,
+      "brightness": 1.2,
+      "blenderWatts": 1500,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Courtyard_02",
+      "positionStuds": [
+        -51,
+        10,
+        -66
+      ],
+      "rangeStuds": 22,
+      "brightness": 1.2,
+      "blenderWatts": 1500,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Courtyard_03",
+      "positionStuds": [
+        51,
+        10,
+        -66
+      ],
+      "rangeStuds": 22,
+      "brightness": 1.2,
+      "blenderWatts": 1500,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Courtyard_04",
+      "positionStuds": [
+        151,
+        10,
+        -66
+      ],
+      "rangeStuds": 22,
+      "brightness": 1.2,
+      "blenderWatts": 1500,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Courtyard_05",
+      "positionStuds": [
+        -48,
+        10,
+        70
+      ],
+      "rangeStuds": 22,
+      "brightness": 1.2,
+      "blenderWatts": 1500,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Courtyard_06",
+      "positionStuds": [
+        48,
+        10,
+        70
+      ],
+      "rangeStuds": 22,
+      "brightness": 1.2,
+      "blenderWatts": 1500,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Ghat_01",
+      "positionStuds": [
+        -95,
+        7.2,
+        -102
+      ],
+      "rangeStuds": 38,
+      "brightness": 1.5,
+      "blenderWatts": 2400,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Ghat_02",
+      "positionStuds": [
+        95,
+        7.2,
+        -102
+      ],
+      "rangeStuds": 38,
+      "brightness": 1.5,
+      "blenderWatts": 2400,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Kali_face",
+      "positionStuds": [
+        0,
+        24,
+        18
+      ],
+      "rangeStuds": 26,
+      "brightness": 2.2,
+      "blenderWatts": 950,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": true
+    },
+    {
+      "name": "Shrine_fill",
+      "positionStuds": [
+        0,
+        16,
+        23
+      ],
+      "rangeStuds": 18,
+      "brightness": 1.1,
+      "blenderWatts": 350,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Shiva_row_01",
+      "positionStuds": [
+        -157,
+        14.7,
+        15
+      ],
+      "rangeStuds": 36,
+      "brightness": 1.1,
+      "blenderWatts": 2000,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Shiva_row_02",
+      "positionStuds": [
+        -85,
+        14.7,
+        15
+      ],
+      "rangeStuds": 36,
+      "brightness": 1.1,
+      "blenderWatts": 2000,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Shiva_row_03",
+      "positionStuds": [
+        85,
+        14.7,
+        15
+      ],
+      "rangeStuds": 36,
+      "brightness": 1.1,
+      "blenderWatts": 2000,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Shiva_row_04",
+      "positionStuds": [
+        157,
+        14.7,
+        15
+      ],
+      "rangeStuds": 36,
+      "brightness": 1.1,
+      "blenderWatts": 2000,
+      "type": "POINT",
+      "targetStuds": null,
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Temple_wash_01",
+      "positionStuds": [
+        -28,
+        12,
+        -28
+      ],
+      "rangeStuds": 60,
+      "brightness": 2.4,
+      "blenderWatts": 42000,
+      "type": "SPOT",
+      "targetStuds": [
+        -20,
+        42,
+        -10
+      ],
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Temple_wash_02",
+      "positionStuds": [
+        28,
+        12,
+        -28
+      ],
+      "rangeStuds": 60,
+      "brightness": 2.4,
+      "blenderWatts": 42000,
+      "type": "SPOT",
+      "targetStuds": [
+        20,
+        42,
+        -10
+      ],
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Temple_wash_03",
+      "positionStuds": [
+        -23,
+        57,
+        -3
+      ],
+      "rangeStuds": 60,
+      "brightness": 2.4,
+      "blenderWatts": 42000,
+      "type": "SPOT",
+      "targetStuds": [
+        -18,
+        101,
+        10
+      ],
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Temple_wash_04",
+      "positionStuds": [
+        23,
+        57,
+        -3
+      ],
+      "rangeStuds": 60,
+      "brightness": 2.4,
+      "blenderWatts": 42000,
+      "type": "SPOT",
+      "targetStuds": [
+        18,
+        101,
+        10
+      ],
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Temple_wash_05",
+      "positionStuds": [
+        -12,
+        93,
+        17
+      ],
+      "rangeStuds": 60,
+      "brightness": 2.4,
+      "blenderWatts": 42000,
+      "type": "SPOT",
+      "targetStuds": [
+        0,
+        137,
+        22
+      ],
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    },
+    {
+      "name": "Temple_wash_06",
+      "positionStuds": [
+        12,
+        93,
+        17
+      ],
+      "rangeStuds": 60,
+      "brightness": 2.4,
+      "blenderWatts": 42000,
+      "type": "SPOT",
+      "targetStuds": [
+        0,
+        137,
+        22
+      ],
+      "colorRGB": [
+        255,
+        209,
+        147
+      ],
+      "angleDegrees": 75,
+      "shadows": false
+    }
+  ],
+  "shadowCastingLights": 1
+}

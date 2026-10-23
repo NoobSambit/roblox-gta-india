@@ -1,0 +1,113 @@
+{
+  "masterFile": "KOL_T1_DAKSHINESHWAR__10_Shiva_Temple_Master.fbx",
+  "placements": [
+    {
+      "index": 1,
+      "positionStuds": [
+        -61,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 2,
+      "positionStuds": [
+        -85,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 3,
+      "positionStuds": [
+        -109,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 4,
+      "positionStuds": [
+        -133,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 5,
+      "positionStuds": [
+        -157,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 6,
+      "positionStuds": [
+        -181,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 7,
+      "positionStuds": [
+        61,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 8,
+      "positionStuds": [
+        85,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 9,
+      "positionStuds": [
+        109,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 10,
+      "positionStuds": [
+        133,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 11,
+      "positionStuds": [
+        157,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    },
+    {
+      "index": 12,
+      "positionStuds": [
+        181,
+        3.4,
+        30
+      ],
+      "yawDegrees": 0
+    }
+  ]
+}

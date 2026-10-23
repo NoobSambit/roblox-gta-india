@@ -51,7 +51,7 @@ def tris(mesh):
 
 
 class Asset:
-    def __init__(self,key,name):
+    def __init__(self,key,name,folder=None,export_dir=None):
         self.key=key;self.name=name;self.cache={};self.sections={};self.sockets={}
         self.scene=bpy.data.scenes.new('KOL_T1_'+key.upper())
         bpy.context.window.scene=self.scene
@@ -61,7 +61,9 @@ class Asset:
         self.scene['Front']='Blender +Y; Roblox -Z'
         self.root=bpy.data.collections.new(self.scene.name+'__SOURCE')
         self.scene.collection.children.link(self.root)
-        self.folder=BASE/key;self.folder.mkdir(parents=True,exist_ok=True)
+        self.folder=Path(folder) if folder else BASE/key
+        self.export_dir=Path(export_dir) if export_dir else EXPORT_DIR
+        self.folder.mkdir(parents=True,exist_ok=True)
 
     def section(self,name):
         if name not in self.sections:
@@ -170,7 +172,7 @@ class Asset:
         points=[o.matrix_world@Vector(c) for o in objects for c in o.bound_box]
         lo=[min(p[i] for p in points) for i in range(3)];hi=[max(p[i] for p in points) for i in range(3)]
         parts=[]
-        export_dir=EXPORT_DIR;export_dir.mkdir(parents=True,exist_ok=True)
+        export_dir=self.export_dir;export_dir.mkdir(parents=True,exist_ok=True)
         for name,col in self.sections.items():
             for o in self.scene.objects:o.select_set(False)
             meshes=[o for o in col.objects if o.type=='MESH']

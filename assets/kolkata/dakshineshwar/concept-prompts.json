@@ -1,0 +1,44 @@
+{
+  "tool": "built-in image_gen",
+  "purpose": "Four requested reference-guided production concepts; not game textures",
+  "concepts": [
+    {
+      "key": "01-campus",
+      "refs": [
+        1,
+        5,
+        6,
+        8
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production concept for an original Roblox Kolkata landmark, Dakshineshwar Kali Temple complex. Use the provided photographs as architecture references, not as edit targets. Preserve the cream plaster and muted deep red Bengali temple vocabulary, curved cornices, arched entry rhythm, and nine ratna spires in a strict 4 lower corner + 4 upper corner + 1 tallest center hierarchy. Distinct curved square spires with stepped roof ribs, NOT generic onion domes or a North Indian shikhara cluster. Adapted long rectangular campus approximately 410 studs wide and 175 studs deep: dominant central main temple approximately 80 wide, 70 deep, 150 tall; exactly twelve repeated smaller Shiva shrines, six to its left and six to its right, each about 20 wide and 35 tall. Broad connected front courtyard with direct approach to the main stairs. Attached ghat on the front long river side with broad descending steps, intermediate landings and low red/cream retaining edges. Clean compact circulation and a simple rear gate. Low-poly-first, selective mid-poly focal architecture, polished stylized game asset, opaque flat colors, crisp readable forms, no photorealism, no microdetail, no clutter, no giant empty campus, no crowds, no modern skyline, no invented writing or logos. Keep scale and layout consistent. Camera: wide elevated three-quarter overall composition from the river-side front, entire rectangular campus and all twelve Shiva temples readable, main temple centered and dominant. Daylight. River only as contextual background color beyond the attached ghat; not part of the modeled kit. Show nine-spire architecture clearly against a plain sky."
+    },
+    {
+      "key": "02-ghat",
+      "refs": [
+        2,
+        5,
+        6,
+        8
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production concept for an original Roblox Kolkata landmark, Dakshineshwar Kali Temple complex. Use the provided photographs as architecture references, not as edit targets. Preserve the cream plaster and muted deep red Bengali temple vocabulary, curved cornices, arched entry rhythm, and nine ratna spires in a strict 4 lower corner + 4 upper corner + 1 tallest center hierarchy. Distinct curved square spires with stepped roof ribs, NOT generic onion domes or a North Indian shikhara cluster. Adapted long rectangular campus approximately 410 studs wide and 175 studs deep: dominant central main temple approximately 80 wide, 70 deep, 150 tall; exactly twelve repeated smaller Shiva shrines, six to its left and six to its right, each about 20 wide and 35 tall. Broad connected front courtyard with direct approach to the main stairs. Attached ghat on the front long river side with broad descending steps, intermediate landings and low red/cream retaining edges. Clean compact circulation and a simple rear gate. Low-poly-first, selective mid-poly focal architecture, polished stylized game asset, opaque flat colors, crisp readable forms, no photorealism, no microdetail, no clutter, no giant empty campus, no crowds, no modern skyline, no invented writing or logos. Keep scale and layout consistent. Camera: river-facing low oblique from just above water, look up broad ghat steps through a low central entry pavilion toward the dominant nine-spire main temple, with two symmetrical six-shrine wings extending left and right. Keep step landings and courtyard-to-ghat connection visually clear. Warm late-afternoon light. Water is contextual only."
+    },
+    {
+      "key": "03-courtyard",
+      "refs": [
+        1,
+        3,
+        4,
+        6
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production concept for an original Roblox Kolkata landmark, Dakshineshwar Kali Temple complex. Use the provided photographs as architecture references, not as edit targets. Preserve the cream plaster and muted deep red Bengali temple vocabulary, curved cornices, arched entry rhythm, and nine ratna spires in a strict 4 lower corner + 4 upper corner + 1 tallest center hierarchy. Distinct curved square spires with stepped roof ribs, NOT generic onion domes or a North Indian shikhara cluster. Adapted long rectangular campus approximately 410 studs wide and 175 studs deep: dominant central main temple approximately 80 wide, 70 deep, 150 tall; exactly twelve repeated smaller Shiva shrines, six to its left and six to its right, each about 20 wide and 35 tall. Broad connected front courtyard with direct approach to the main stairs. Attached ghat on the front long river side with broad descending steps, intermediate landings and low red/cream retaining edges. Clean compact circulation and a simple rear gate. Low-poly-first, selective mid-poly focal architecture, polished stylized game asset, opaque flat colors, crisp readable forms, no photorealism, no microdetail, no clutter, no giant empty campus, no crowds, no modern skyline, no invented writing or logos. Keep scale and layout consistent. Camera: player-height three-quarter approach inside the courtyard, aiming at the main temple entrance and front stair landing. Show the strong five-arched ground facade, curved raised cornices and 4+4+1 spire arrangement, with repeated smaller Shiva shrines continuing on both sides. Show enough clear walking space and grounded columns. Neutral daylight; simplify ornament into broad geometric accents."
+    },
+    {
+      "key": "04-shrine",
+      "refs": [
+        7,
+        1
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: original low-to-mid-poly Roblox shrine interior production concept. Input image 7 (first supplied here) is the PRIMARY Kali murti reference; the exterior photo supplies cream/deep-red architectural color and arch framing. Respectful centered front-facing composition of a limited accessible shrine chamber, approximately 26 studs wide, 24 deep and 23 high, approached through an open arch. Show a fully clothed, dignified stylized four-armed Kali murti: dark face and long dark hair, three bright eyes, red tongue, elaborate simplified golden crown and large gold bib ornaments, colorful garland and patterned blue/red draped sari rendered as broad geometric shapes. One raised hand holds a curved gold ceremonial blade; other hands use the poses in the supplied image, using restrained symbolic shapes without gore. Include the pale reclining Shiva figure beneath her feet, a raised lotus-like altar, silver paired pillars and arched ceremonial backdrop, a few flower offerings and small lamp fixtures. The accessible viewing floor remains clear. Compact chamber only; no room network. Reverent warm focal shrine illumination with dimmer cream/red walls. Polished stylized game geometry, not photoreal, not a screenshot of the photo, no tiny repeated jewels or texture-heavy ornament, no crowds, no text or watermarks."
+    }
+  ]
+}

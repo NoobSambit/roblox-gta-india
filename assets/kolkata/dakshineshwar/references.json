@@ -1,0 +1,66 @@
+[
+  {
+    "image": 1,
+    "local": "artifacts/references/dakshineshwar/image-1.png",
+    "source": "user-supplied attachment",
+    "role": "front-left facade and curved roof hierarchy",
+    "sha256": "80c0aa3476b4ef4550363bd43beb694b27113cb404d68a19037faafc559f875b",
+    "rights": "Reference study only; not redistributed or used as game texture"
+  },
+  {
+    "image": 2,
+    "local": "artifacts/references/dakshineshwar/image-2.png",
+    "source": "user-supplied attachment",
+    "role": "river approach, axial gate and ghat",
+    "sha256": "b80ec941c062d2049431e352c799e50b816601c04e49a1346f91b07c0ab685cb",
+    "rights": "Reference study only; not redistributed or used as game texture"
+  },
+  {
+    "image": 3,
+    "local": "artifacts/references/dakshineshwar/image-3.png",
+    "source": "user-supplied attachment",
+    "role": "front-right massing and adjoining arcade",
+    "sha256": "ff38d07e4af20358ada4fee5e9df8e477048a31cb1fc6da2efcc56e1fdbb4ecd",
+    "rights": "Reference study only; not redistributed or used as game texture"
+  },
+  {
+    "image": 4,
+    "local": "artifacts/references/dakshineshwar/image-4.png",
+    "source": "user-supplied attachment",
+    "role": "nine-spire hierarchy and plinth stair",
+    "sha256": "6cdc7f4a7823034e223c35d8fbac04449856de17eeaf21316e17039aef998548",
+    "rights": "Reference study only; not redistributed or used as game texture"
+  },
+  {
+    "image": 5,
+    "local": "artifacts/references/dakshineshwar/image-5.png",
+    "source": "user-supplied attachment",
+    "role": "river overview and repeated Shiva shrine silhouettes",
+    "sha256": "9436a2aebc6c047684220c06e43946f8c571516255318be9ddace7968fc241fc",
+    "rights": "Reference study only; not redistributed or used as game texture"
+  },
+  {
+    "image": 6,
+    "local": "artifacts/references/dakshineshwar/image-6.png",
+    "source": "user-supplied attachment",
+    "role": "Shiva master roof and arched entry rhythm",
+    "sha256": "554ac84df8c332344fccbd1bbb9a14db955aad4e0194a7749829a8e711925bba",
+    "rights": "Reference study only; not redistributed or used as game texture"
+  },
+  {
+    "image": 7,
+    "local": "artifacts/references/dakshineshwar/image-7.png",
+    "source": "user-supplied attachment",
+    "role": "Kali murti and shrine presentation",
+    "sha256": "87445f689363b364e7800f5073a72fd0a875ef8691e37cda843383766114364c",
+    "rights": "Reference study only; not redistributed or used as game texture"
+  },
+  {
+    "image": 8,
+    "local": "artifacts/references/dakshineshwar/image-8.png",
+    "source": "user-supplied attachment",
+    "role": "long riverfront composition and ghat landings",
+    "sha256": "c696220d2e88552c24fb280aced1c479b9070dec85cba57c6775e3d735fde451",
+    "rights": "Reference study only; not redistributed or used as game texture"
+  }
+]
