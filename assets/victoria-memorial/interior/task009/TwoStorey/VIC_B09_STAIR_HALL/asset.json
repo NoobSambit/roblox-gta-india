@@ -1,0 +1,105 @@
+{
+  "assetId": "VIC_B09_STAIR_HALL",
+  "category": "TwoStorey",
+  "name": "Upper landing deck with stair void and finished vaulted ceiling",
+  "triangles": 284,
+  "triangleCap": 2000,
+  "materialMeshes": 6,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 60.0,
+    "height": 22.399999618530273,
+    "depth": 53.0
+  },
+  "boundsMinStuds": [
+    -30.0,
+    -1.0,
+    -88.0
+  ],
+  "boundsMaxStuds": [
+    30.0,
+    21.399999618530273,
+    -35.0
+  ],
+  "source": "TwoStorey/VIC_B09_STAIR_HALL/VIC_B09_STAIR_HALL.blend",
+  "export": "TwoStorey/VIC_B09_STAIR_HALL/VIC_B09_STAIR_HALL_Roblox.fbx",
+  "preview": "TwoStorey/VIC_B09_STAIR_HALL/preview.png",
+  "materials": [
+    "Ivory",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+  "components": [
+    {
+      "name": "VIC_B09_STAIR_HALL__FloorWest__Ivory",
+      "component": "FloorWest",
+      "material": "Ivory",
+      "translationStuds": [
+        0,
+        0,
+        0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B09_STAIR_HALL__FloorEast__Ivory",
+      "component": "FloorEast",
+      "material": "Ivory",
+      "translationStuds": [
+        0,
+        0,
+        0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B09_STAIR_HALL__FloorNorth__Ivory",
+      "component": "FloorNorth",
+      "material": "Ivory",
+      "translationStuds": [
+        0,
+        0,
+        0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B09_STAIR_HALL__FloorSouth__Ivory",
+      "component": "FloorSouth",
+      "material": "Ivory",
+      "translationStuds": [
+        0,
+        0,
+        0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B09_STAIR_HALL__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0,
+        0,
+        0
+      ],
+      "triangles": 164
+    },
+    {
+      "name": "VIC_B09_STAIR_HALL__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0,
+        0,
+        0
+      ],
+      "triangles": 72
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original-source Victoria two-storey reconstruction"
+}

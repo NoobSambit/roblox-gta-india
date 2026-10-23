@@ -1,0 +1,72 @@
+{
+  "assetId": "VIC_B10_UPPER_DOORS",
+  "category": "TwoStorey",
+  "name": "Paired twelve-stud upper wing doors and lower structural beam",
+  "triangles": 60,
+  "triangleCap": 2000,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.200000047683716,
+    "height": 17.0,
+    "depth": 36.0
+  },
+  "boundsMinStuds": [
+    -1.600000023841858,
+    30.0,
+    -18.0
+  ],
+  "boundsMaxStuds": [
+    1.600000023841858,
+    47.0,
+    18.0
+  ],
+  "source": "TwoStorey/VIC_B10_UPPER_DOORS/VIC_B10_UPPER_DOORS.blend",
+  "export": "TwoStorey/VIC_B10_UPPER_DOORS/VIC_B10_UPPER_DOORS_Roblox.fbx",
+  "preview": "TwoStorey/VIC_B10_UPPER_DOORS/preview.png",
+  "materials": [
+    "Ivory",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+  "components": [
+    {
+      "name": "VIC_B10_UPPER_DOORS__Beam__Ivory",
+      "component": "Beam",
+      "material": "Ivory",
+      "translationStuds": [
+        0,
+        0,
+        0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B10_UPPER_DOORS__Jambs__Stone",
+      "component": "Jambs",
+      "material": "Stone",
+      "translationStuds": [
+        0,
+        0,
+        0
+      ],
+      "triangles": 36
+    },
+    {
+      "name": "VIC_B10_UPPER_DOORS__Header__Ivory",
+      "component": "Header",
+      "material": "Ivory",
+      "translationStuds": [
+        0,
+        0,
+        0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original-source Victoria two-storey reconstruction"
+}

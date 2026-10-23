@@ -1,0 +1,49 @@
+{
+  "assetId": "VIC_B07_WING_BAY",
+  "category": "TwoStorey",
+  "name": "Finished ground gallery arch, column bases and capitals, upper pilaster bay",
+  "triangles": 504,
+  "triangleCap": 2000,
+  "materialMeshes": 1,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 35.948001861572266,
+    "height": 40.0,
+    "depth": 2.447999954223633
+  },
+  "boundsMinStuds": [
+    -17.974000930786133,
+    0.0,
+    -1.2239999771118164
+  ],
+  "boundsMaxStuds": [
+    17.974000930786133,
+    40.0,
+    1.2239999771118164
+  ],
+  "source": "TwoStorey/VIC_B07_WING_BAY/VIC_B07_WING_BAY.blend",
+  "export": "TwoStorey/VIC_B07_WING_BAY/VIC_B07_WING_BAY_Roblox.fbx",
+  "preview": "TwoStorey/VIC_B07_WING_BAY/preview.png",
+  "materials": [
+    "Ivory"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+  "components": [
+    {
+      "name": "VIC_B07_WING_BAY__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 504
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original-source Victoria two-storey reconstruction"
+}

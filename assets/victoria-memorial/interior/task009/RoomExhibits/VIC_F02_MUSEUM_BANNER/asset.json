@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_F02_MUSEUM_BANNER",
+  "category": "RoomExhibits",
+  "name": "Teal museum banner, double border and original broad heritage emblem",
+  "triangles": 236,
+  "triangleCap": 260,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.0,
+    "height": 6.09,
+    "depth": 0.16
+  },
+  "boundsMinStuds": [
+    -1.5,
+    -0.015,
+    -0.08
+  ],
+  "boundsMaxStuds": [
+    1.5,
+    6.075,
+    0.08
+  ],
+  "source": "RoomExhibits/VIC_F02_MUSEUM_BANNER/VIC_F02_MUSEUM_BANNER.blend",
+  "export": "RoomExhibits/VIC_F02_MUSEUM_BANNER/VIC_F02_MUSEUM_BANNER_Roblox.fbx",
+  "preview": "RoomExhibits/VIC_F02_MUSEUM_BANNER/preview.png",
+  "materials": [
+    "Brass",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "",
+  "components": [
+    {
+      "name": "VIC_F02_MUSEUM_BANNER__Teal.001",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_F02_MUSEUM_BANNER__Brass.001",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 224
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original simplified museum insignia; no real heraldry or external texture"
+}

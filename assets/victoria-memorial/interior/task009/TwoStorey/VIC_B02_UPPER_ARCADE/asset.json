@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_B02_UPPER_ARCADE",
+  "category": "TwoStorey",
+  "name": "Accessible upper hall arcade",
+  "triangles": 176,
+  "triangleCap": 2000,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 14.9,
+    "height": 13.05,
+    "depth": 2.0
+  },
+  "boundsMinStuds": [
+    -7.45,
+    0.0,
+    -1.0
+  ],
+  "boundsMaxStuds": [
+    7.45,
+    13.05,
+    1.0
+  ],
+  "source": "TwoStorey/VIC_B02_UPPER_ARCADE/VIC_B02_UPPER_ARCADE.blend",
+  "export": "TwoStorey/VIC_B02_UPPER_ARCADE/VIC_B02_UPPER_ARCADE_Roblox.fbx",
+  "preview": "TwoStorey/VIC_B02_UPPER_ARCADE/preview.png",
+  "materials": [
+    "Ivory",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+  "components": [
+    {
+      "name": "VIC_B02_UPPER_ARCADE__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 152
+    },
+    {
+      "name": "VIC_B02_UPPER_ARCADE__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original-source Victoria two-storey reconstruction"
+}

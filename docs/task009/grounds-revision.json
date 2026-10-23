@@ -1,0 +1,1136 @@
+{
+  "reason": "Latest user feedback: dress quadrangles, improve grounds materials/trees and increase property-boundary height",
+  "boundaryParts": [
+    {
+      "name": "BoundaryBase",
+      "heightScale": 1.35
+    },
+    {
+      "name": "BoundaryRail",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.001",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.002",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.003",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.004",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.005",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.006",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.007",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.008",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.009",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.010",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.011",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.012",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.013",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.014",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.015",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.016",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.017",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.018",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.019",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.020",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.021",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.022",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.023",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.024",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.025",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.026",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.027",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.028",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.029",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.030",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryBase.001",
+      "heightScale": 1.35
+    },
+    {
+      "name": "BoundaryRail.001",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.031",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.032",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.033",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.034",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.035",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.036",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.037",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.038",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.039",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.040",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.041",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.042",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.043",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.044",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.045",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.046",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.047",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.048",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.049",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.050",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.051",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.052",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.053",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.054",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.055",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.056",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.057",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.058",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.059",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.060",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.061",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundarySide",
+      "heightScale": 1.35
+    },
+    {
+      "name": "BoundarySideRail",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.062",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.063",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.064",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.065",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.066",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.067",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.068",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.069",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.070",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.071",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.072",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.073",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.074",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.075",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.076",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.077",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.078",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.079",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.080",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.081",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.082",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.083",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.084",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.085",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.086",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.087",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.088",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.089",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.090",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.091",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.092",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.093",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.094",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.095",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.096",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundarySide.001",
+      "heightScale": 1.35
+    },
+    {
+      "name": "BoundarySideRail.001",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.097",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.098",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.099",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.100",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.101",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.102",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.103",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.104",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.105",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.106",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.107",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.108",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.109",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.110",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.111",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.112",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.113",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.114",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.115",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.116",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.117",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.118",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.119",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.120",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.121",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.122",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.123",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.124",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.125",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.126",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.127",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.128",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.129",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.130",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.131",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryBase.002",
+      "heightScale": 1.35
+    },
+    {
+      "name": "BoundaryRail.002",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.132",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.133",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.134",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.135",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.136",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.137",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.138",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.139",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.140",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.141",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.142",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.143",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.144",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.145",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.146",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.147",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.148",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.149",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.150",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.151",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.152",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.153",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.154",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.155",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.156",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.157",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.158",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.159",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.160",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.161",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.162",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryBase.003",
+      "heightScale": 1.35
+    },
+    {
+      "name": "BoundaryRail.003",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.163",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.164",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.165",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.166",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.167",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.168",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.169",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.170",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.171",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.172",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.173",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.174",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.175",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.176",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.177",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.178",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.179",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.180",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.181",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.182",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.183",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.184",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.185",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.186",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.187",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.188",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.189",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.190",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.191",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.192",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.193",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundarySide.002",
+      "heightScale": 1.35
+    },
+    {
+      "name": "BoundarySideRail.002",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.194",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.195",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.196",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.197",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.198",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.199",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.200",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.201",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.202",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.203",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.204",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.205",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.206",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.207",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.208",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.209",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.210",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.211",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.212",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.213",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.214",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.215",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.216",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.217",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.218",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.219",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.220",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.221",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.222",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.223",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.224",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.225",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.226",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.227",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.228",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundarySide.003",
+      "heightScale": 1.35
+    },
+    {
+      "name": "BoundarySideRail.003",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.229",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.230",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.231",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.232",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.233",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.234",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.235",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.236",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.237",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.238",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.239",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.240",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.241",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.242",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.243",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.244",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.245",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.246",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.247",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.248",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.249",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.250",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.251",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.252",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.253",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.254",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.255",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.256",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.257",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.258",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.259",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.260",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.261",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.262",
+      "heightScale": 1.7
+    },
+    {
+      "name": "BoundaryPicket.263",
+      "heightScale": 1.7
+    }
+  ],
+  "newTrees": 24,
+  "newPlacedTreeTriangles": 5376,
+  "groundsMaterials": [
+    "Lawn",
+    "Path",
+    "Leaf",
+    "LeafLight",
+    "FloorDark",
+    "Bronze"
+  ],
+  "facadePreserved": true
+}

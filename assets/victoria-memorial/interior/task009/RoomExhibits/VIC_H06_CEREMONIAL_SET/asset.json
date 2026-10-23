@@ -1,0 +1,85 @@
+{
+  "assetId": "VIC_H06_CEREMONIAL_SET",
+  "category": "RoomExhibits",
+  "name": "Curated ceremonial vessels on one presentation tray",
+  "triangles": 448,
+  "triangleCap": 450,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.4,
+    "height": 1.65,
+    "depth": 2.5
+  },
+  "boundsMinStuds": [
+    -1.7,
+    0.0,
+    -1.25
+  ],
+  "boundsMaxStuds": [
+    1.7,
+    1.65,
+    1.25
+  ],
+  "source": "RoomExhibits/VIC_H06_CEREMONIAL_SET/VIC_H06_CEREMONIAL_SET.blend",
+  "export": "RoomExhibits/VIC_H06_CEREMONIAL_SET/VIC_H06_CEREMONIAL_SET_Roblox.fbx",
+  "preview": "RoomExhibits/VIC_H06_CEREMONIAL_SET/preview.png",
+  "materials": [
+    "Brass",
+    "Bronze",
+    "Charcoal",
+    "Gem"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original fictional exhibit; concept-led broad forms, reusable shared geometry, no gameplay",
+  "components": [
+    {
+      "name": "VIC_H06_CEREMONIAL_SET__Charcoal.001",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_H06_CEREMONIAL_SET__Brass.001",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 144
+    },
+    {
+      "name": "VIC_H06_CEREMONIAL_SET__Bronze.001",
+      "component": "Body",
+      "material": "Bronze",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 276
+    },
+    {
+      "name": "VIC_H06_CEREMONIAL_SET__Gem.001",
+      "component": "Body",
+      "material": "Gem",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 16
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original room-specific reference-led Task009 geometry"
+}

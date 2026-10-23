@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_H04_GILDED_KNOT",
+  "category": "RoomExhibits",
+  "name": "Broad faceted interwoven-loop sculpture",
+  "triangles": 588,
+  "triangleCap": 650,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.3098,
+    "height": 2.1878,
+    "depth": 3.4726
+  },
+  "boundsMinStuds": [
+    -1.47984,
+    0.0,
+    -1.7363
+  ],
+  "boundsMaxStuds": [
+    1.83,
+    2.18785,
+    1.7363
+  ],
+  "source": "RoomExhibits/VIC_H04_GILDED_KNOT/VIC_H04_GILDED_KNOT.blend",
+  "export": "RoomExhibits/VIC_H04_GILDED_KNOT/VIC_H04_GILDED_KNOT_Roblox.fbx",
+  "preview": "RoomExhibits/VIC_H04_GILDED_KNOT/preview.png",
+  "materials": [
+    "Brass",
+    "Bronze"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original fictional exhibit; concept-led broad forms, reusable shared geometry, no gameplay",
+  "components": [
+    {
+      "name": "VIC_H04_GILDED_KNOT__Brass.001",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 576
+    },
+    {
+      "name": "VIC_H04_GILDED_KNOT__Bronze.001",
+      "component": "Body",
+      "material": "Bronze",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original room-specific reference-led Task009 geometry"
+}

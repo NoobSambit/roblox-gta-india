@@ -1,0 +1,49 @@
+{
+  "assetId": "VIC_B16_PORTAL_SPANDREL",
+  "category": "Corrections",
+  "name": "Deep upper hall arch spandrels and wall return",
+  "triangles": 96,
+  "triangleCap": 800,
+  "materialMeshes": 1,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 14.9,
+    "height": 14.2,
+    "depth": 4.6
+  },
+  "boundsMinStuds": [
+    -7.45,
+    0.0,
+    -2.3
+  ],
+  "boundsMaxStuds": [
+    7.45,
+    14.2,
+    2.3
+  ],
+  "source": "Corrections/VIC_B16_PORTAL_SPANDREL/VIC_B16_PORTAL_SPANDREL.blend",
+  "export": "Corrections/VIC_B16_PORTAL_SPANDREL/VIC_B16_PORTAL_SPANDREL_Roblox.fbx",
+  "preview": "Corrections/VIC_B16_PORTAL_SPANDREL/preview.png",
+  "materials": [
+    "Ivory"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Interior-only measured join; preserve original exterior meshes",
+  "components": [
+    {
+      "name": "VIC_B16_PORTAL_SPANDREL__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 96
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

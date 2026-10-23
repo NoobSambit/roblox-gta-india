@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_G02_STONE_BENCH",
+  "category": "Courtyard",
+  "name": "Simple heritage stone courtyard bench",
+  "triangles": 72,
+  "triangleCap": 120,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 9.0,
+    "height": 3.225,
+    "depth": 2.5
+  },
+  "boundsMinStuds": [
+    -4.5,
+    0.0,
+    -1.25
+  ],
+  "boundsMaxStuds": [
+    4.5,
+    3.225,
+    1.25
+  ],
+  "source": "Courtyard/VIC_G02_STONE_BENCH/VIC_G02_STONE_BENCH.blend",
+  "export": "Courtyard/VIC_G02_STONE_BENCH/VIC_G02_STONE_BENCH_Roblox.fbx",
+  "preview": "Courtyard/VIC_G02_STONE_BENCH/preview.png",
+  "materials": [
+    "Ivory",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original optimized correction/dressing; preserves the existing courtyard and routes",
+  "components": [
+    {
+      "name": "VIC_G02_STONE_BENCH__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    },
+    {
+      "name": "VIC_G02_STONE_BENCH__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

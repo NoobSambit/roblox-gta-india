@@ -1,0 +1,72 @@
+{
+  "assetId": "VIC_B06_WING_ENVELOPE",
+  "category": "TwoStorey",
+  "name": "Two-storey wing floor, wall articulation and upper ceiling",
+  "triangles": 264,
+  "triangleCap": 2000,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 57.0,
+    "height": 40.0,
+    "depth": 35.29999923706055
+  },
+  "boundsMinStuds": [
+    -28.5,
+    0.0,
+    -17.649999618530273
+  ],
+  "boundsMaxStuds": [
+    28.5,
+    40.0,
+    17.649999618530273
+  ],
+  "source": "TwoStorey/VIC_B06_WING_ENVELOPE/VIC_B06_WING_ENVELOPE.blend",
+  "export": "TwoStorey/VIC_B06_WING_ENVELOPE/VIC_B06_WING_ENVELOPE_Roblox.fbx",
+  "preview": "TwoStorey/VIC_B06_WING_ENVELOPE/preview.png",
+  "materials": [
+    "Ivory",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+  "components": [
+    {
+      "name": "VIC_B06_WING_ENVELOPE__Floor__Ivory",
+      "component": "Floor",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B06_WING_ENVELOPE__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    },
+    {
+      "name": "VIC_B06_WING_ENVELOPE__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 204
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original-source Victoria two-storey reconstruction"
+}

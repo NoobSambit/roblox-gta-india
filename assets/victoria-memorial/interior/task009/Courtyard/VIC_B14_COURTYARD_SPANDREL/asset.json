@@ -1,0 +1,49 @@
+{
+  "assetId": "VIC_B14_COURTYARD_SPANDREL",
+  "category": "Courtyard",
+  "name": "Solid masonry infill around the original courtyard arch",
+  "triangles": 168,
+  "triangleCap": 220,
+  "materialMeshes": 1,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 9.0,
+    "height": 18.0,
+    "depth": 2.0
+  },
+  "boundsMinStuds": [
+    -4.5,
+    0.0,
+    -1.0
+  ],
+  "boundsMaxStuds": [
+    4.5,
+    18.0,
+    1.0
+  ],
+  "source": "Courtyard/VIC_B14_COURTYARD_SPANDREL/VIC_B14_COURTYARD_SPANDREL.blend",
+  "export": "Courtyard/VIC_B14_COURTYARD_SPANDREL/VIC_B14_COURTYARD_SPANDREL_Roblox.fbx",
+  "preview": "Courtyard/VIC_B14_COURTYARD_SPANDREL/preview.png",
+  "materials": [
+    "Ivory"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original optimized correction/dressing; preserves the existing courtyard and routes",
+  "components": [
+    {
+      "name": "VIC_B14_COURTYARD_SPANDREL__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 168
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

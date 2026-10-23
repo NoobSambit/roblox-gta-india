@@ -1,0 +1,23 @@
+{
+  "name": "VIC009_PaleStoneFloor",
+  "source": "Original procedural colour texture",
+  "resolution": [
+    512,
+    512
+  ],
+  "baseMaterial": "Marble",
+  "studsPerTile": 12,
+  "tileGrid": [
+    2,
+    2
+  ],
+  "uniqueRuntimeTextures": 1,
+  "maps": [
+    "ColorMap"
+  ],
+  "bakedLighting": false,
+  "periodic": true,
+  "sha256": "d72dd21e783d8c793bda30a6858be2e70b664f9776ed62d111e9ae862ad5dc4c",
+  "robloxImageId": "rbxassetid://111127937664295",
+  "uploadStatus": "Uploaded, assigned and visually reviewed in final Studio integration"
+}

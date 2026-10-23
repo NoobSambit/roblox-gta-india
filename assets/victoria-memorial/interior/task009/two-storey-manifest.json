@@ -1,0 +1,4081 @@
+{
+  "task": "009 revised",
+  "assets": [
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "category": "TwoStorey",
+      "name": "Rebuilt lower hall arcade and balcony corbel",
+      "triangles": 308,
+      "triangleCap": 2000,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 15.632,
+        "height": 27.0,
+        "depth": 7.5
+      },
+      "boundsMinStuds": [
+        -7.816,
+        0.0,
+        -5.75
+      ],
+      "boundsMaxStuds": [
+        7.816,
+        27.0,
+        1.75
+      ],
+      "source": "TwoStorey/VIC_B01_HALL_ARCADE/VIC_B01_HALL_ARCADE.blend",
+      "export": "TwoStorey/VIC_B01_HALL_ARCADE/VIC_B01_HALL_ARCADE_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B01_HALL_ARCADE/preview.png",
+      "materials": [
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B01_HALL_ARCADE__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 140
+        },
+        {
+          "name": "VIC_B01_HALL_ARCADE__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 168
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "category": "TwoStorey",
+      "name": "Accessible upper hall arcade",
+      "triangles": 176,
+      "triangleCap": 2000,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 14.9,
+        "height": 13.05,
+        "depth": 2.0
+      },
+      "boundsMinStuds": [
+        -7.45,
+        0.0,
+        -1.0
+      ],
+      "boundsMaxStuds": [
+        7.45,
+        13.05,
+        1.0
+      ],
+      "source": "TwoStorey/VIC_B02_UPPER_ARCADE/VIC_B02_UPPER_ARCADE.blend",
+      "export": "TwoStorey/VIC_B02_UPPER_ARCADE/VIC_B02_UPPER_ARCADE_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B02_UPPER_ARCADE/preview.png",
+      "materials": [
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B02_UPPER_ARCADE__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 152
+        },
+        {
+          "name": "VIC_B02_UPPER_ARCADE__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "category": "TwoStorey",
+      "name": "Walkable curved floor and restrained balustrade",
+      "triangles": 264,
+      "triangleCap": 2000,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 15.9433,
+        "height": 5.25,
+        "depth": 8.5837
+      },
+      "boundsMinStuds": [
+        -7.97163,
+        -1.0,
+        22.21629
+      ],
+      "boundsMaxStuds": [
+        7.97163,
+        4.25,
+        30.8
+      ],
+      "source": "TwoStorey/VIC_B03_BALCONY/VIC_B03_BALCONY.blend",
+      "export": "TwoStorey/VIC_B03_BALCONY/VIC_B03_BALCONY_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B03_BALCONY/preview.png",
+      "materials": [
+        "Brass",
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B03_BALCONY__Floor__Ivory",
+          "component": "Floor",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_B03_BALCONY__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 168
+        },
+        {
+          "name": "VIC_B03_BALCONY__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "category": "TwoStorey",
+      "name": "Closed rotunda lining segment",
+      "triangles": 48,
+      "triangleCap": 2000,
+      "materialMeshes": 1,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 16.0468,
+        "height": 21.0,
+        "depth": 1.6359
+      },
+      "boundsMinStuds": [
+        -8.02339,
+        48.0,
+        29.36415
+      ],
+      "boundsMaxStuds": [
+        8.02339,
+        69.0,
+        31.0
+      ],
+      "source": "TwoStorey/VIC_B04_UPPER_LINING/VIC_B04_UPPER_LINING.blend",
+      "export": "TwoStorey/VIC_B04_UPPER_LINING/VIC_B04_UPPER_LINING_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B04_UPPER_LINING/preview.png",
+      "materials": [
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B04_UPPER_LINING__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B05_LOWER_LINING",
+      "category": "TwoStorey",
+      "name": "Closed rotunda lining segment",
+      "triangles": 48,
+      "triangleCap": 2000,
+      "materialMeshes": 1,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 16.0468,
+        "height": 25.8,
+        "depth": 1.6359
+      },
+      "boundsMinStuds": [
+        -8.02339,
+        7.0,
+        29.36415
+      ],
+      "boundsMaxStuds": [
+        8.02339,
+        32.8,
+        31.0
+      ],
+      "source": "TwoStorey/VIC_B05_LOWER_LINING/VIC_B05_LOWER_LINING.blend",
+      "export": "TwoStorey/VIC_B05_LOWER_LINING/VIC_B05_LOWER_LINING_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B05_LOWER_LINING/preview.png",
+      "materials": [
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B05_LOWER_LINING__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B06_WING_ENVELOPE",
+      "category": "TwoStorey",
+      "name": "Two-storey wing floor, wall articulation and upper ceiling",
+      "triangles": 264,
+      "triangleCap": 2000,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 57.0,
+        "height": 40.0,
+        "depth": 35.29999923706055
+      },
+      "boundsMinStuds": [
+        -28.5,
+        0.0,
+        -17.649999618530273
+      ],
+      "boundsMaxStuds": [
+        28.5,
+        40.0,
+        17.649999618530273
+      ],
+      "source": "TwoStorey/VIC_B06_WING_ENVELOPE/VIC_B06_WING_ENVELOPE.blend",
+      "export": "TwoStorey/VIC_B06_WING_ENVELOPE/VIC_B06_WING_ENVELOPE_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B06_WING_ENVELOPE/preview.png",
+      "materials": [
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B06_WING_ENVELOPE__Floor__Ivory",
+          "component": "Floor",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B06_WING_ENVELOPE__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_B06_WING_ENVELOPE__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 204
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "category": "TwoStorey",
+      "name": "Finished ground gallery arch, column bases and capitals, upper pilaster bay",
+      "triangles": 504,
+      "triangleCap": 2000,
+      "materialMeshes": 1,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 35.948001861572266,
+        "height": 40.0,
+        "depth": 2.447999954223633
+      },
+      "boundsMinStuds": [
+        -17.974000930786133,
+        0.0,
+        -1.2239999771118164
+      ],
+      "boundsMaxStuds": [
+        17.974000930786133,
+        40.0,
+        1.2239999771118164
+      ],
+      "source": "TwoStorey/VIC_B07_WING_BAY/VIC_B07_WING_BAY.blend",
+      "export": "TwoStorey/VIC_B07_WING_BAY/VIC_B07_WING_BAY_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B07_WING_BAY/preview.png",
+      "materials": [
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B07_WING_BAY__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 504
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B08_STAIR",
+      "category": "TwoStorey",
+      "name": "8.5-stud two-flight museum stair and balustrades",
+      "triangles": 728,
+      "triangleCap": 2000,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 19.04,
+        "height": 31.9445,
+        "depth": 36.115
+      },
+      "boundsMinStuds": [
+        -9.52,
+        -0.6,
+        -36.0
+      ],
+      "boundsMaxStuds": [
+        9.52,
+        31.34448,
+        0.115
+      ],
+      "source": "TwoStorey/VIC_B08_STAIR/VIC_B08_STAIR.blend",
+      "export": "TwoStorey/VIC_B08_STAIR/VIC_B08_STAIR_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B08_STAIR/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B08_STAIR__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 332
+        },
+        {
+          "name": "VIC_B08_STAIR__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_B08_STAIR__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 336
+        },
+        {
+          "name": "VIC_B08_STAIR__Landing__Ivory",
+          "component": "Landing",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B09_STAIR_HALL",
+      "category": "TwoStorey",
+      "name": "Upper landing deck with stair void and finished vaulted ceiling",
+      "triangles": 284,
+      "triangleCap": 2000,
+      "materialMeshes": 6,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 60.0,
+        "height": 22.399999618530273,
+        "depth": 53.0
+      },
+      "boundsMinStuds": [
+        -30.0,
+        -1.0,
+        -88.0
+      ],
+      "boundsMaxStuds": [
+        30.0,
+        21.399999618530273,
+        -35.0
+      ],
+      "source": "TwoStorey/VIC_B09_STAIR_HALL/VIC_B09_STAIR_HALL.blend",
+      "export": "TwoStorey/VIC_B09_STAIR_HALL/VIC_B09_STAIR_HALL_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B09_STAIR_HALL/preview.png",
+      "materials": [
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B09_STAIR_HALL__FloorWest__Ivory",
+          "component": "FloorWest",
+          "material": "Ivory",
+          "translationStuds": [
+            0,
+            0,
+            0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B09_STAIR_HALL__FloorEast__Ivory",
+          "component": "FloorEast",
+          "material": "Ivory",
+          "translationStuds": [
+            0,
+            0,
+            0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B09_STAIR_HALL__FloorNorth__Ivory",
+          "component": "FloorNorth",
+          "material": "Ivory",
+          "translationStuds": [
+            0,
+            0,
+            0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B09_STAIR_HALL__FloorSouth__Ivory",
+          "component": "FloorSouth",
+          "material": "Ivory",
+          "translationStuds": [
+            0,
+            0,
+            0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B09_STAIR_HALL__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0,
+            0,
+            0
+          ],
+          "triangles": 164
+        },
+        {
+          "name": "VIC_B09_STAIR_HALL__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0,
+            0,
+            0
+          ],
+          "triangles": 72
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B10_UPPER_DOORS",
+      "category": "TwoStorey",
+      "name": "Paired twelve-stud upper wing doors and lower structural beam",
+      "triangles": 60,
+      "triangleCap": 2000,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.200000047683716,
+        "height": 17.0,
+        "depth": 36.0
+      },
+      "boundsMinStuds": [
+        -1.600000023841858,
+        30.0,
+        -18.0
+      ],
+      "boundsMaxStuds": [
+        1.600000023841858,
+        47.0,
+        18.0
+      ],
+      "source": "TwoStorey/VIC_B10_UPPER_DOORS/VIC_B10_UPPER_DOORS.blend",
+      "export": "TwoStorey/VIC_B10_UPPER_DOORS/VIC_B10_UPPER_DOORS_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B10_UPPER_DOORS/preview.png",
+      "materials": [
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B10_UPPER_DOORS__Beam__Ivory",
+          "component": "Beam",
+          "material": "Ivory",
+          "translationStuds": [
+            0,
+            0,
+            0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B10_UPPER_DOORS__Jambs__Stone",
+          "component": "Jambs",
+          "material": "Stone",
+          "translationStuds": [
+            0,
+            0,
+            0
+          ],
+          "triangles": 36
+        },
+        {
+          "name": "VIC_B10_UPPER_DOORS__Header__Ivory",
+          "component": "Header",
+          "material": "Ivory",
+          "translationStuds": [
+            0,
+            0,
+            0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B11_HALL_CONNECTION",
+      "category": "TwoStorey",
+      "name": "Ground axial opening and genuine upper hall connection",
+      "triangles": 60,
+      "triangleCap": 2000,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 70.0,
+        "height": 34.0,
+        "depth": 7.5
+      },
+      "boundsMinStuds": [
+        -35.0,
+        32.0,
+        -3.75
+      ],
+      "boundsMaxStuds": [
+        35.0,
+        66.0,
+        3.75
+      ],
+      "source": "TwoStorey/VIC_B11_HALL_CONNECTION/VIC_B11_HALL_CONNECTION.blend",
+      "export": "TwoStorey/VIC_B11_HALL_CONNECTION/VIC_B11_HALL_CONNECTION_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B11_HALL_CONNECTION/preview.png",
+      "materials": [
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B11_HALL_CONNECTION__Beam__Ivory",
+          "component": "Beam",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B11_HALL_CONNECTION__Jambs__Ivory",
+          "component": "Jambs",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_B11_HALL_CONNECTION__Header__Ivory",
+          "component": "Header",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B11_HALL_CONNECTION__Floor__Ivory",
+          "component": "Floor",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B12_LIGHT",
+      "category": "TwoStorey",
+      "name": "Reusable museum ceiling fixture / diffuser",
+      "triangles": 48,
+      "triangleCap": 200,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 4.0,
+        "height": 0.46,
+        "depth": 1.4
+      },
+      "boundsMinStuds": [
+        -2.0,
+        -0.285,
+        -0.7
+      ],
+      "boundsMaxStuds": [
+        2.0,
+        0.175,
+        0.7
+      ],
+      "source": "TwoStorey/VIC_B12_LIGHT/VIC_B12_LIGHT.blend",
+      "export": "TwoStorey/VIC_B12_LIGHT/VIC_B12_LIGHT_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B12_LIGHT/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Paper"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+      "components": [
+        {
+          "name": "VIC_B12_LIGHT__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B12_LIGHT__Diffuser__Paper",
+          "component": "Diffuser",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_B12_LIGHT__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original-source Victoria two-storey reconstruction"
+    },
+    {
+      "assetId": "VIC_B13_HALL_FIGURE",
+      "category": "TwoStorey",
+      "name": "Crowned museum memorial figure with mantle and sceptre",
+      "triangles": 716,
+      "triangleCap": 1100,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 4.1729,
+        "height": 9.72,
+        "depth": 3.4
+      },
+      "boundsMinStuds": [
+        -1.89984,
+        0.0,
+        -1.7
+      ],
+      "boundsMaxStuds": [
+        2.27311,
+        9.72,
+        1.7
+      ],
+      "source": "TwoStorey/VIC_B13_HALL_FIGURE/VIC_B13_HALL_FIGURE.blend",
+      "export": "TwoStorey/VIC_B13_HALL_FIGURE/VIC_B13_HALL_FIGURE_Roblox.fbx",
+      "preview": "TwoStorey/VIC_B13_HALL_FIGURE/preview.png",
+      "materials": [
+        "Brass",
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Permanent non-loot hero; replaces original interior figure only, original plinth retained",
+      "components": [
+        {
+          "name": "VIC_B13_HALL_FIGURE__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 496
+        },
+        {
+          "name": "VIC_B13_HALL_FIGURE__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 204
+        },
+        {
+          "name": "VIC_B13_HALL_FIGURE__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 16
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original optimized Victoria hall memorial reconstruction"
+    },
+    {
+      "assetId": "VIC_H01_CEREMONIAL_URN",
+      "category": "HeroExhibits",
+      "name": "Handled ceremonial urn with lid and shaped foot",
+      "triangles": 500,
+      "triangleCap": 700,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.46,
+        "height": 2.48,
+        "depth": 1.6
+      },
+      "boundsMinStuds": [
+        -1.23,
+        0.0,
+        -0.8
+      ],
+      "boundsMaxStuds": [
+        1.23,
+        2.48,
+        0.8
+      ],
+      "source": "HeroExhibits/VIC_H01_CEREMONIAL_URN/VIC_H01_CEREMONIAL_URN.blend",
+      "export": "HeroExhibits/VIC_H01_CEREMONIAL_URN/VIC_H01_CEREMONIAL_URN_Roblox.fbx",
+      "preview": "HeroExhibits/VIC_H01_CEREMONIAL_URN/preview.png",
+      "materials": [
+        "Brass",
+        "Bronze"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original fictional museum exhibit; shared mesh, no gameplay, no texture dependency",
+      "components": [
+        {
+          "name": "VIC_H01_CEREMONIAL_URN__Bronze.001",
+          "component": "Body",
+          "material": "Bronze",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 236
+        },
+        {
+          "name": "VIC_H01_CEREMONIAL_URN__Brass.001",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 264
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original optimized hero exhibit, guided by selected museum concepts"
+    },
+    {
+      "assetId": "VIC_H02_CEREMONIAL_CROWN",
+      "category": "HeroExhibits",
+      "name": "Fictional jewelled ceremonial crown",
+      "triangles": 500,
+      "triangleCap": 700,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 2.3,
+        "height": 2.26,
+        "depth": 2.4
+      },
+      "boundsMinStuds": [
+        -1.15,
+        0.0,
+        -1.2
+      ],
+      "boundsMaxStuds": [
+        1.15,
+        2.26,
+        1.2
+      ],
+      "source": "HeroExhibits/VIC_H02_CEREMONIAL_CROWN/VIC_H02_CEREMONIAL_CROWN.blend",
+      "export": "HeroExhibits/VIC_H02_CEREMONIAL_CROWN/VIC_H02_CEREMONIAL_CROWN_Roblox.fbx",
+      "preview": "HeroExhibits/VIC_H02_CEREMONIAL_CROWN/preview.png",
+      "materials": [
+        "Brass",
+        "Gem"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original fictional museum exhibit; shared mesh, no gameplay, no texture dependency",
+      "components": [
+        {
+          "name": "VIC_H02_CEREMONIAL_CROWN__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 264
+        },
+        {
+          "name": "VIC_H02_CEREMONIAL_CROWN__Gem",
+          "component": "Body",
+          "material": "Gem",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 236
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original optimized hero exhibit, guided by selected museum concepts"
+    },
+    {
+      "assetId": "VIC_H03_RIVER_TRADE_MODEL",
+      "category": "HeroExhibits",
+      "name": "Faceted river-trade boat with cabin, sail and cargo",
+      "triangles": 216,
+      "triangleCap": 600,
+      "materialMeshes": 6,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.0,
+        "height": 2.02,
+        "depth": 1.1
+      },
+      "boundsMinStuds": [
+        -1.5,
+        0.08,
+        -0.55
+      ],
+      "boundsMaxStuds": [
+        1.5,
+        2.1,
+        0.55
+      ],
+      "source": "HeroExhibits/VIC_H03_RIVER_TRADE_MODEL/VIC_H03_RIVER_TRADE_MODEL.blend",
+      "export": "HeroExhibits/VIC_H03_RIVER_TRADE_MODEL/VIC_H03_RIVER_TRADE_MODEL_Roblox.fbx",
+      "preview": "HeroExhibits/VIC_H03_RIVER_TRADE_MODEL/preview.png",
+      "materials": [
+        "Brass",
+        "Bronze",
+        "Charcoal",
+        "Ivory",
+        "Paper",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original fictional museum exhibit; shared mesh, no gameplay, no texture dependency",
+      "components": [
+        {
+          "name": "VIC_H03_RIVER_TRADE_MODEL__Bronze",
+          "component": "Body",
+          "material": "Bronze",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 20
+        },
+        {
+          "name": "VIC_H03_RIVER_TRADE_MODEL__Paper",
+          "component": "Body",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 20
+        },
+        {
+          "name": "VIC_H03_RIVER_TRADE_MODEL__Teal",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_H03_RIVER_TRADE_MODEL__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 60
+        },
+        {
+          "name": "VIC_H03_RIVER_TRADE_MODEL__Brass",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 80
+        },
+        {
+          "name": "VIC_H03_RIVER_TRADE_MODEL__Charcoal",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original optimized hero exhibit, guided by selected museum concepts"
+    },
+    {
+      "assetId": "VIC_F01_PAINTING_MONOLITH",
+      "category": "RoomExhibits",
+      "name": "Tall charcoal painting monolith with brass foot and integrated picture light",
+      "triangles": 84,
+      "triangleCap": 140,
+      "materialMeshes": 3,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 9.25,
+        "height": 11.47,
+        "depth": 2.55
+      },
+      "boundsMinStuds": [
+        -4.625,
+        0.0,
+        -1.275
+      ],
+      "boundsMaxStuds": [
+        4.625,
+        11.47,
+        1.275
+      ],
+      "source": "RoomExhibits/VIC_F01_PAINTING_MONOLITH/VIC_F01_PAINTING_MONOLITH.blend",
+      "export": "RoomExhibits/VIC_F01_PAINTING_MONOLITH/VIC_F01_PAINTING_MONOLITH_Roblox.fbx",
+      "preview": "RoomExhibits/VIC_F01_PAINTING_MONOLITH/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Paper"
+      ],
+      "sockets": {
+        "FrameMount": [
+          0,
+          3.5,
+          -0.38
+        ],
+        "LightMount": [
+          0,
+          10.56,
+          -0.42
+        ]
+      },
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original fictional exhibit; concept-led broad forms, reusable shared geometry, no gameplay",
+      "components": [
+        {
+          "name": "VIC_F01_PAINTING_MONOLITH__Brass.001",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_F01_PAINTING_MONOLITH__Charcoal.001",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_F01_PAINTING_MONOLITH__Diffuser__Paper.001",
+          "component": "Diffuser",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original room-specific reference-led Task009 geometry"
+    },
+    {
+      "assetId": "VIC_H04_GILDED_KNOT",
+      "category": "RoomExhibits",
+      "name": "Broad faceted interwoven-loop sculpture",
+      "triangles": 588,
+      "triangleCap": 650,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.3098,
+        "height": 2.1878,
+        "depth": 3.4726
+      },
+      "boundsMinStuds": [
+        -1.47984,
+        0.0,
+        -1.7363
+      ],
+      "boundsMaxStuds": [
+        1.83,
+        2.18785,
+        1.7363
+      ],
+      "source": "RoomExhibits/VIC_H04_GILDED_KNOT/VIC_H04_GILDED_KNOT.blend",
+      "export": "RoomExhibits/VIC_H04_GILDED_KNOT/VIC_H04_GILDED_KNOT_Roblox.fbx",
+      "preview": "RoomExhibits/VIC_H04_GILDED_KNOT/preview.png",
+      "materials": [
+        "Brass",
+        "Bronze"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original fictional exhibit; concept-led broad forms, reusable shared geometry, no gameplay",
+      "components": [
+        {
+          "name": "VIC_H04_GILDED_KNOT__Brass.001",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 576
+        },
+        {
+          "name": "VIC_H04_GILDED_KNOT__Bronze.001",
+          "component": "Body",
+          "material": "Bronze",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original room-specific reference-led Task009 geometry"
+    },
+    {
+      "assetId": "VIC_H05_OPEN_CHARTER",
+      "category": "RoomExhibits",
+      "name": "Large inclined open charter folio and reading cradle",
+      "triangles": 200,
+      "triangleCap": 400,
+      "materialMeshes": 5,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.88,
+        "height": 2.2887,
+        "depth": 2.3
+      },
+      "boundsMinStuds": [
+        -1.94,
+        0.0,
+        -1.15
+      ],
+      "boundsMaxStuds": [
+        1.94,
+        2.28868,
+        1.15
+      ],
+      "source": "RoomExhibits/VIC_H05_OPEN_CHARTER/VIC_H05_OPEN_CHARTER.blend",
+      "export": "RoomExhibits/VIC_H05_OPEN_CHARTER/VIC_H05_OPEN_CHARTER_Roblox.fbx",
+      "preview": "RoomExhibits/VIC_H05_OPEN_CHARTER/preview.png",
+      "materials": [
+        "Brass",
+        "Charcoal",
+        "Ink",
+        "Oxblood",
+        "Paper"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original fictional exhibit; concept-led broad forms, reusable shared geometry, no gameplay",
+      "components": [
+        {
+          "name": "VIC_H05_OPEN_CHARTER__Paper.001",
+          "component": "Body",
+          "material": "Paper",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_H05_OPEN_CHARTER__Oxblood.001",
+          "component": "Body",
+          "material": "Oxblood",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_H05_OPEN_CHARTER__Brass.001",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        },
+        {
+          "name": "VIC_H05_OPEN_CHARTER__Ink.001",
+          "component": "Body",
+          "material": "Ink",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 120
+        },
+        {
+          "name": "VIC_H05_OPEN_CHARTER__Charcoal.001",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 8
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original room-specific reference-led Task009 geometry"
+    },
+    {
+      "assetId": "VIC_H06_CEREMONIAL_SET",
+      "category": "RoomExhibits",
+      "name": "Curated ceremonial vessels on one presentation tray",
+      "triangles": 448,
+      "triangleCap": 450,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.4,
+        "height": 1.65,
+        "depth": 2.5
+      },
+      "boundsMinStuds": [
+        -1.7,
+        0.0,
+        -1.25
+      ],
+      "boundsMaxStuds": [
+        1.7,
+        1.65,
+        1.25
+      ],
+      "source": "RoomExhibits/VIC_H06_CEREMONIAL_SET/VIC_H06_CEREMONIAL_SET.blend",
+      "export": "RoomExhibits/VIC_H06_CEREMONIAL_SET/VIC_H06_CEREMONIAL_SET_Roblox.fbx",
+      "preview": "RoomExhibits/VIC_H06_CEREMONIAL_SET/preview.png",
+      "materials": [
+        "Brass",
+        "Bronze",
+        "Charcoal",
+        "Gem"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original fictional exhibit; concept-led broad forms, reusable shared geometry, no gameplay",
+      "components": [
+        {
+          "name": "VIC_H06_CEREMONIAL_SET__Charcoal.001",
+          "component": "Body",
+          "material": "Charcoal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_H06_CEREMONIAL_SET__Brass.001",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 144
+        },
+        {
+          "name": "VIC_H06_CEREMONIAL_SET__Bronze.001",
+          "component": "Body",
+          "material": "Bronze",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 276
+        },
+        {
+          "name": "VIC_H06_CEREMONIAL_SET__Gem.001",
+          "component": "Body",
+          "material": "Gem",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 16
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original room-specific reference-led Task009 geometry"
+    },
+    {
+      "assetId": "VIC_F02_MUSEUM_BANNER",
+      "category": "RoomExhibits",
+      "name": "Teal museum banner, double border and original broad heritage emblem",
+      "triangles": 236,
+      "triangleCap": 260,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 3.0,
+        "height": 6.09,
+        "depth": 0.16
+      },
+      "boundsMinStuds": [
+        -1.5,
+        -0.015,
+        -0.08
+      ],
+      "boundsMaxStuds": [
+        1.5,
+        6.075,
+        0.08
+      ],
+      "source": "RoomExhibits/VIC_F02_MUSEUM_BANNER/VIC_F02_MUSEUM_BANNER.blend",
+      "export": "RoomExhibits/VIC_F02_MUSEUM_BANNER/VIC_F02_MUSEUM_BANNER_Roblox.fbx",
+      "preview": "RoomExhibits/VIC_F02_MUSEUM_BANNER/preview.png",
+      "materials": [
+        "Brass",
+        "Teal"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "",
+      "components": [
+        {
+          "name": "VIC_F02_MUSEUM_BANNER__Teal.001",
+          "component": "Body",
+          "material": "Teal",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_F02_MUSEUM_BANNER__Brass.001",
+          "component": "Body",
+          "material": "Brass",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 224
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original simplified museum insignia; no real heraldry or external texture"
+    },
+    {
+      "assetId": "VIC_B14_COURTYARD_SPANDREL",
+      "category": "Courtyard",
+      "name": "Solid masonry infill around the original courtyard arch",
+      "triangles": 168,
+      "triangleCap": 220,
+      "materialMeshes": 1,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 9.0,
+        "height": 18.0,
+        "depth": 2.0
+      },
+      "boundsMinStuds": [
+        -4.5,
+        0.0,
+        -1.0
+      ],
+      "boundsMaxStuds": [
+        4.5,
+        18.0,
+        1.0
+      ],
+      "source": "Courtyard/VIC_B14_COURTYARD_SPANDREL/VIC_B14_COURTYARD_SPANDREL.blend",
+      "export": "Courtyard/VIC_B14_COURTYARD_SPANDREL/VIC_B14_COURTYARD_SPANDREL_Roblox.fbx",
+      "preview": "Courtyard/VIC_B14_COURTYARD_SPANDREL/preview.png",
+      "materials": [
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original optimized correction/dressing; preserves the existing courtyard and routes",
+      "components": [
+        {
+          "name": "VIC_B14_COURTYARD_SPANDREL__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 168
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_G01_FORMAL_PLANTER",
+      "category": "Courtyard",
+      "name": "Broad stone courtyard planter with three faceted shrubs",
+      "triangles": 264,
+      "triangleCap": 360,
+      "materialMeshes": 4,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 12.0,
+        "height": 3.7,
+        "depth": 5.0
+      },
+      "boundsMinStuds": [
+        -6.0,
+        0.0,
+        -2.5
+      ],
+      "boundsMaxStuds": [
+        6.0,
+        3.7,
+        2.5
+      ],
+      "source": "Courtyard/VIC_G01_FORMAL_PLANTER/VIC_G01_FORMAL_PLANTER.blend",
+      "export": "Courtyard/VIC_G01_FORMAL_PLANTER/VIC_G01_FORMAL_PLANTER_Roblox.fbx",
+      "preview": "Courtyard/VIC_G01_FORMAL_PLANTER/preview.png",
+      "materials": [
+        "Ink",
+        "Ivory",
+        "Leaf",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original optimized correction/dressing; preserves the existing courtyard and routes",
+      "components": [
+        {
+          "name": "VIC_G01_FORMAL_PLANTER__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 60
+        },
+        {
+          "name": "VIC_G01_FORMAL_PLANTER__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_G01_FORMAL_PLANTER__Ink",
+          "component": "Body",
+          "material": "Ink",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 12
+        },
+        {
+          "name": "VIC_G01_FORMAL_PLANTER__Leaf",
+          "component": "Body",
+          "material": "Leaf",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 180
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_G02_STONE_BENCH",
+      "category": "Courtyard",
+      "name": "Simple heritage stone courtyard bench",
+      "triangles": 72,
+      "triangleCap": 120,
+      "materialMeshes": 2,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 9.0,
+        "height": 3.225,
+        "depth": 2.5
+      },
+      "boundsMinStuds": [
+        -4.5,
+        0.0,
+        -1.25
+      ],
+      "boundsMaxStuds": [
+        4.5,
+        3.225,
+        1.25
+      ],
+      "source": "Courtyard/VIC_G02_STONE_BENCH/VIC_G02_STONE_BENCH.blend",
+      "export": "Courtyard/VIC_G02_STONE_BENCH/VIC_G02_STONE_BENCH_Roblox.fbx",
+      "preview": "Courtyard/VIC_G02_STONE_BENCH/preview.png",
+      "materials": [
+        "Ivory",
+        "Stone"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Original optimized correction/dressing; preserves the existing courtyard and routes",
+      "components": [
+        {
+          "name": "VIC_G02_STONE_BENCH__Stone",
+          "component": "Body",
+          "material": "Stone",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 48
+        },
+        {
+          "name": "VIC_G02_STONE_BENCH__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 24
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_B15_DRUM_TRANSITION",
+      "category": "Corrections",
+      "name": "Fitted internal drum shoulder and clerestory backing",
+      "triangles": 76,
+      "triangleCap": 800,
+      "materialMeshes": 1,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 15.995,
+        "height": 25.65,
+        "depth": 3.978
+      },
+      "boundsMinStuds": [
+        -7.99751,
+        63.5,
+        26.80444
+      ],
+      "boundsMaxStuds": [
+        7.99751,
+        89.15,
+        30.78242
+      ],
+      "source": "Corrections/VIC_B15_DRUM_TRANSITION/VIC_B15_DRUM_TRANSITION.blend",
+      "export": "Corrections/VIC_B15_DRUM_TRANSITION/VIC_B15_DRUM_TRANSITION_Roblox.fbx",
+      "preview": "Corrections/VIC_B15_DRUM_TRANSITION/preview.png",
+      "materials": [
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Interior-only measured join; preserve original exterior meshes",
+      "components": [
+        {
+          "name": "VIC_B15_DRUM_TRANSITION__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 76
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    },
+    {
+      "assetId": "VIC_B16_PORTAL_SPANDREL",
+      "category": "Corrections",
+      "name": "Deep upper hall arch spandrels and wall return",
+      "triangles": 96,
+      "triangleCap": 800,
+      "materialMeshes": 1,
+      "pivot": "Ground centre; front -Z",
+      "dimensionsStuds": {
+        "width": 14.9,
+        "height": 14.2,
+        "depth": 4.6
+      },
+      "boundsMinStuds": [
+        -7.45,
+        0.0,
+        -2.3
+      ],
+      "boundsMaxStuds": [
+        7.45,
+        14.2,
+        2.3
+      ],
+      "source": "Corrections/VIC_B16_PORTAL_SPANDREL/VIC_B16_PORTAL_SPANDREL.blend",
+      "export": "Corrections/VIC_B16_PORTAL_SPANDREL/VIC_B16_PORTAL_SPANDREL_Roblox.fbx",
+      "preview": "Corrections/VIC_B16_PORTAL_SPANDREL/preview.png",
+      "materials": [
+        "Ivory"
+      ],
+      "sockets": {},
+      "componentPivots": {},
+      "collision": "Non-colliding visual; retain Task007 simple collision",
+      "note": "Interior-only measured join; preserve original exterior meshes",
+      "components": [
+        {
+          "name": "VIC_B16_PORTAL_SPANDREL__Ivory",
+          "component": "Body",
+          "material": "Ivory",
+          "translationStuds": [
+            0.0,
+            0.0,
+            -0.0
+          ],
+          "triangles": 96
+        }
+      ],
+      "textures": [],
+      "geometrySource": "Original project geometry; authored for Task008"
+    }
+  ],
+  "instances": [
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_00",
+      "position": [
+        0.0,
+        7,
+        28.9
+      ],
+      "yaw": 0.0,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_00",
+      "position": [
+        0.0,
+        34,
+        28.9
+      ],
+      "yaw": 0.0,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_00",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 0.0,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_00",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0.0,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_01",
+      "position": [
+        14.449999999999998,
+        7,
+        25.028134169370276
+      ],
+      "yaw": 0.5235987755982988,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_01",
+      "position": [
+        14.449999999999998,
+        34,
+        25.028134169370276
+      ],
+      "yaw": 0.5235987755982988,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_01",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 0.5235987755982988,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_01",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0.5235987755982988,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B05_LOWER_LINING",
+      "instanceId": "VIC_HALL_LOWER_WALL_01",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0.5235987755982988,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_02",
+      "position": [
+        25.028134169370276,
+        7,
+        14.450000000000003
+      ],
+      "yaw": 1.0471975511965976,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_02",
+      "position": [
+        25.028134169370276,
+        34,
+        14.450000000000003
+      ],
+      "yaw": 1.0471975511965976,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_02",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 1.0471975511965976,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_02",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 1.0471975511965976,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B05_LOWER_LINING",
+      "instanceId": "VIC_HALL_LOWER_WALL_02",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 1.0471975511965976,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_03",
+      "position": [
+        28.9,
+        7,
+        1.7696146247679253e-15
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_03",
+      "position": [
+        28.9,
+        34,
+        1.7696146247679253e-15
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_03",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_03",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_04",
+      "position": [
+        25.028134169370276,
+        7,
+        -14.449999999999992
+      ],
+      "yaw": 2.0943951023931953,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_04",
+      "position": [
+        25.028134169370276,
+        34,
+        -14.449999999999992
+      ],
+      "yaw": 2.0943951023931953,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_04",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 2.0943951023931953,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_04",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 2.0943951023931953,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B05_LOWER_LINING",
+      "instanceId": "VIC_HALL_LOWER_WALL_04",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 2.0943951023931953,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_05",
+      "position": [
+        14.449999999999998,
+        7,
+        -25.028134169370276
+      ],
+      "yaw": 2.6179938779914944,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_05",
+      "position": [
+        14.449999999999998,
+        34,
+        -25.028134169370276
+      ],
+      "yaw": 2.6179938779914944,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_05",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 2.6179938779914944,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_05",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 2.6179938779914944,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B05_LOWER_LINING",
+      "instanceId": "VIC_HALL_LOWER_WALL_05",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 2.6179938779914944,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_06",
+      "position": [
+        3.5392292495358507e-15,
+        7,
+        -28.9
+      ],
+      "yaw": 3.141592653589793,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_06",
+      "position": [
+        3.5392292495358507e-15,
+        34,
+        -28.9
+      ],
+      "yaw": 3.141592653589793,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_06",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 3.141592653589793,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_06",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 3.141592653589793,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_07",
+      "position": [
+        -14.44999999999999,
+        7,
+        -25.02813416937028
+      ],
+      "yaw": 3.665191429188092,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_07",
+      "position": [
+        -14.44999999999999,
+        34,
+        -25.02813416937028
+      ],
+      "yaw": 3.665191429188092,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_07",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 3.665191429188092,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_07",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 3.665191429188092,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B05_LOWER_LINING",
+      "instanceId": "VIC_HALL_LOWER_WALL_07",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 3.665191429188092,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_08",
+      "position": [
+        -25.028134169370272,
+        7,
+        -14.450000000000012
+      ],
+      "yaw": 4.1887902047863905,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_08",
+      "position": [
+        -25.028134169370272,
+        34,
+        -14.450000000000012
+      ],
+      "yaw": 4.1887902047863905,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_08",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 4.1887902047863905,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_08",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 4.1887902047863905,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B05_LOWER_LINING",
+      "instanceId": "VIC_HALL_LOWER_WALL_08",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 4.1887902047863905,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_09",
+      "position": [
+        -28.9,
+        7,
+        -5.308843874303776e-15
+      ],
+      "yaw": 4.71238898038469,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_09",
+      "position": [
+        -28.9,
+        34,
+        -5.308843874303776e-15
+      ],
+      "yaw": 4.71238898038469,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_09",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 4.71238898038469,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_09",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 4.71238898038469,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_10",
+      "position": [
+        -25.028134169370276,
+        7,
+        14.450000000000003
+      ],
+      "yaw": 5.235987755982989,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_10",
+      "position": [
+        -25.028134169370276,
+        34,
+        14.450000000000003
+      ],
+      "yaw": 5.235987755982989,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_10",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 5.235987755982989,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_10",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 5.235987755982989,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B05_LOWER_LINING",
+      "instanceId": "VIC_HALL_LOWER_WALL_10",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 5.235987755982989,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B01_HALL_ARCADE",
+      "instanceId": "VIC_HALL_LOWER_11",
+      "position": [
+        -14.450000000000012,
+        7,
+        25.02813416937027
+      ],
+      "yaw": 5.759586531581287,
+      "triangles": 308,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B02_UPPER_ARCADE",
+      "instanceId": "VIC_HALL_UPPER_11",
+      "position": [
+        -14.450000000000012,
+        34,
+        25.02813416937027
+      ],
+      "yaw": 5.759586531581287,
+      "triangles": 176,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B03_BALCONY",
+      "instanceId": "VIC_HALL_BALCONY_11",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 5.759586531581287,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B04_UPPER_LINING",
+      "instanceId": "VIC_HALL_LINING_11",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 5.759586531581287,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B05_LOWER_LINING",
+      "instanceId": "VIC_HALL_LOWER_WALL_11",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 5.759586531581287,
+      "triangles": 48,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B06_WING_ENVELOPE",
+      "instanceId": "VIC_WING_-1_-1",
+      "position": [
+        -60.5,
+        6.8,
+        -76
+      ],
+      "yaw": 3.141592653589793,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_-1_-1_0",
+      "position": [
+        -34,
+        6.8,
+        -76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_-1_-1_1",
+      "position": [
+        -51,
+        6.8,
+        -76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_-1_-1_2",
+      "position": [
+        -72,
+        6.8,
+        -76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_-1_-1_3",
+      "position": [
+        -88,
+        6.8,
+        -76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B06_WING_ENVELOPE",
+      "instanceId": "VIC_WING_1_-1",
+      "position": [
+        60.5,
+        6.8,
+        -76
+      ],
+      "yaw": 3.141592653589793,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_1_-1_0",
+      "position": [
+        34,
+        6.8,
+        -76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_1_-1_1",
+      "position": [
+        51,
+        6.8,
+        -76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_1_-1_2",
+      "position": [
+        72,
+        6.8,
+        -76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_1_-1_3",
+      "position": [
+        88,
+        6.8,
+        -76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B06_WING_ENVELOPE",
+      "instanceId": "VIC_WING_-1_1",
+      "position": [
+        -60.5,
+        6.8,
+        76
+      ],
+      "yaw": 0,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_-1_1_0",
+      "position": [
+        -34,
+        6.8,
+        76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_-1_1_1",
+      "position": [
+        -51,
+        6.8,
+        76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_-1_1_2",
+      "position": [
+        -72,
+        6.8,
+        76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_-1_1_3",
+      "position": [
+        -88,
+        6.8,
+        76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B06_WING_ENVELOPE",
+      "instanceId": "VIC_WING_1_1",
+      "position": [
+        60.5,
+        6.8,
+        76
+      ],
+      "yaw": 0,
+      "triangles": 264,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_1_1_0",
+      "position": [
+        34,
+        6.8,
+        76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_1_1_1",
+      "position": [
+        51,
+        6.8,
+        76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_1_1_2",
+      "position": [
+        72,
+        6.8,
+        76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B07_WING_BAY",
+      "instanceId": "VIC_WING_BAY_1_1_3",
+      "position": [
+        88,
+        6.8,
+        76
+      ],
+      "yaw": 1.5707963267948966,
+      "triangles": 504,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B08_STAIR",
+      "instanceId": "VIC_STAIR_NORTH",
+      "position": [
+        11.5,
+        6.8,
+        -48
+      ],
+      "yaw": 0,
+      "triangles": 728,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B08_STAIR",
+      "instanceId": "VIC_STAIR_SOUTH",
+      "position": [
+        -11.5,
+        6.8,
+        48
+      ],
+      "yaw": 3.141592653589793,
+      "triangles": 728,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B09_STAIR_HALL",
+      "instanceId": "VIC_UPPER_VESTIBULE_-1",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 0,
+      "triangles": 284,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B09_STAIR_HALL",
+      "instanceId": "VIC_UPPER_VESTIBULE_1",
+      "position": [
+        0,
+        34,
+        0
+      ],
+      "yaw": 3.141592653589793,
+      "triangles": 284,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B10_UPPER_DOORS",
+      "instanceId": "VIC_WING_DOORS_-1_-1",
+      "position": [
+        -31,
+        0,
+        -76
+      ],
+      "yaw": 0,
+      "triangles": 60,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B10_UPPER_DOORS",
+      "instanceId": "VIC_WING_DOORS_-1_1",
+      "position": [
+        -31,
+        0,
+        76
+      ],
+      "yaw": 0,
+      "triangles": 60,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B10_UPPER_DOORS",
+      "instanceId": "VIC_WING_DOORS_1_-1",
+      "position": [
+        31,
+        0,
+        -76
+      ],
+      "yaw": 0,
+      "triangles": 60,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B10_UPPER_DOORS",
+      "instanceId": "VIC_WING_DOORS_1_1",
+      "position": [
+        31,
+        0,
+        76
+      ],
+      "yaw": 0,
+      "triangles": 60,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B11_HALL_CONNECTION",
+      "instanceId": "VIC_HALL_CONNECTION_-1",
+      "position": [
+        0,
+        0,
+        -33
+      ],
+      "yaw": 0,
+      "triangles": 60,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B11_HALL_CONNECTION",
+      "instanceId": "VIC_HALL_CONNECTION_1",
+      "position": [
+        0,
+        0,
+        33
+      ],
+      "yaw": 0,
+      "triangles": 60,
+      "role": "TwoStoreyArchitecture"
+    },
+    {
+      "assetId": "VIC_B13_HALL_FIGURE",
+      "instanceId": "VIC_HALL_HERO_STATUE",
+      "position": [
+        0,
+        8.4,
+        0
+      ],
+      "yaw": 0,
+      "triangles": 716,
+      "role": "TwoStoreyArchitecture"
+    }
+  ],
+  "uniqueTriangles": 6956,
+  "placedTriangles": 22156,
+  "preservedExteriorFingerprint": "8f878be33eba5d8fed118d37695b217aa9adee83e39293bdb9b7545e355273ff",
+  "originalInteriorArchived": [
+    "WingVault_-1_-1_0__Marble",
+    "WingVault_-1_-1_0__Trim",
+    "WingVault_-1_-1_1__Marble",
+    "WingVault_-1_-1_1__Trim",
+    "WingVault_-1_-1_2__Marble",
+    "WingVault_-1_-1_2__Trim",
+    "WingVault_-1_1_0__Marble",
+    "WingVault_-1_1_0__Trim",
+    "WingVault_-1_1_1__Marble",
+    "WingVault_-1_1_1__Trim",
+    "WingVault_-1_1_2__Marble",
+    "WingVault_-1_1_2__Trim",
+    "EntryVault_-47__Marble",
+    "EntryVault_-47__Trim",
+    "EntryVault_-70__Marble",
+    "EntryVault_-70__Trim",
+    "WingVault_1_-1_0__Marble",
+    "WingVault_1_-1_0__Trim",
+    "WingVault_1_-1_1__Marble",
+    "WingVault_1_-1_1__Trim",
+    "WingVault_1_-1_2__Marble",
+    "WingVault_1_-1_2__Trim",
+    "WingVault_1_1_0__Marble",
+    "WingVault_1_1_0__Trim",
+    "WingVault_1_1_1__Marble",
+    "WingVault_1_1_1__Trim",
+    "WingVault_1_1_2__Marble",
+    "WingVault_1_1_2__Trim",
+    "EntryVault_47__Marble",
+    "EntryVault_47__Trim",
+    "EntryVault_70__Marble",
+    "EntryVault_70__Trim",
+    "QueensHallArch_0__Trim",
+    "QueensHallArch_0__Marble",
+    "QueensHallArch_1__Trim",
+    "QueensHallArch_1__Marble",
+    "QueensHallArch_2__Trim",
+    "QueensHallArch_2__Marble",
+    "QueensHallArch_3__Trim",
+    "QueensHallArch_3__Marble",
+    "QueensHallArch_4__Trim",
+    "QueensHallArch_4__Marble",
+    "QueensHallArch_5__Trim",
+    "QueensHallArch_5__Marble",
+    "QueensHallArch_6__Trim",
+    "QueensHallArch_6__Marble",
+    "QueensHallArch_7__Trim",
+    "QueensHallArch_7__Marble",
+    "QueensHallArch_8__Trim",
+    "QueensHallArch_8__Marble",
+    "QueensHallArch_9__Trim",
+    "QueensHallArch_9__Marble",
+    "QueensHallArch_10__Trim",
+    "QueensHallArch_10__Marble",
+    "QueensHallArch_11__Trim",
+    "QueensHallArch_11__Marble",
+    "QueensHallInnerWall__Marble",
+    "QueensHallInnerWall__Trim",
+    "EntryDoorLintel",
+    "EntryDoorLintel.001",
+    "EntryDoorLintel.002",
+    "EntryDoorLintel.003",
+    "RotundaUpperWall.001",
+    "AxialPassageLintel.001",
+    "RotundaUpperWall.003",
+    "AxialPassageLintel.003",
+    "QueensHallFigure__Trim.001",
+    "QueensHallFigure__Gilt.001"
+  ],
+  "source": "assets\\victoria-memorial\\VictoriaMemorial.blend",
+  "heroExhibitTriangles": {
+    "VIC_H01_CEREMONIAL_URN": 500,
+    "VIC_H02_CEREMONIAL_CROWN": 500,
+    "VIC_H03_RIVER_TRADE_MODEL": 216
+  },
+  "preservedFacadeFingerprint": "f5403c0203ce2bbd1223afe22f6f4be3f2b728d7a47dbb5c42e04c71449e6342",
+  "authorizedGroundsRevision": {
+    "reason": "Latest user feedback: dress quadrangles, improve grounds materials/trees and increase property-boundary height",
+    "boundaryParts": [
+      {
+        "name": "BoundaryBase",
+        "heightScale": 1.35
+      },
+      {
+        "name": "BoundaryRail",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.001",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.002",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.003",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.004",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.005",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.006",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.007",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.008",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.009",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.010",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.011",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.012",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.013",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.014",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.015",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.016",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.017",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.018",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.019",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.020",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.021",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.022",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.023",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.024",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.025",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.026",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.027",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.028",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.029",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.030",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryBase.001",
+        "heightScale": 1.35
+      },
+      {
+        "name": "BoundaryRail.001",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.031",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.032",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.033",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.034",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.035",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.036",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.037",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.038",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.039",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.040",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.041",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.042",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.043",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.044",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.045",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.046",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.047",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.048",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.049",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.050",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.051",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.052",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.053",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.054",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.055",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.056",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.057",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.058",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.059",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.060",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.061",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundarySide",
+        "heightScale": 1.35
+      },
+      {
+        "name": "BoundarySideRail",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.062",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.063",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.064",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.065",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.066",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.067",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.068",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.069",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.070",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.071",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.072",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.073",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.074",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.075",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.076",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.077",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.078",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.079",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.080",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.081",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.082",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.083",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.084",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.085",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.086",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.087",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.088",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.089",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.090",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.091",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.092",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.093",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.094",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.095",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.096",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundarySide.001",
+        "heightScale": 1.35
+      },
+      {
+        "name": "BoundarySideRail.001",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.097",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.098",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.099",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.100",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.101",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.102",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.103",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.104",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.105",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.106",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.107",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.108",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.109",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.110",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.111",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.112",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.113",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.114",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.115",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.116",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.117",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.118",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.119",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.120",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.121",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.122",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.123",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.124",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.125",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.126",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.127",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.128",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.129",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.130",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.131",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryBase.002",
+        "heightScale": 1.35
+      },
+      {
+        "name": "BoundaryRail.002",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.132",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.133",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.134",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.135",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.136",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.137",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.138",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.139",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.140",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.141",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.142",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.143",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.144",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.145",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.146",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.147",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.148",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.149",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.150",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.151",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.152",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.153",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.154",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.155",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.156",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.157",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.158",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.159",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.160",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.161",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.162",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryBase.003",
+        "heightScale": 1.35
+      },
+      {
+        "name": "BoundaryRail.003",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.163",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.164",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.165",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.166",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.167",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.168",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.169",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.170",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.171",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.172",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.173",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.174",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.175",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.176",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.177",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.178",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.179",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.180",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.181",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.182",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.183",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.184",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.185",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.186",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.187",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.188",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.189",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.190",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.191",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.192",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.193",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundarySide.002",
+        "heightScale": 1.35
+      },
+      {
+        "name": "BoundarySideRail.002",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.194",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.195",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.196",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.197",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.198",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.199",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.200",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.201",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.202",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.203",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.204",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.205",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.206",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.207",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.208",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.209",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.210",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.211",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.212",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.213",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.214",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.215",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.216",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.217",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.218",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.219",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.220",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.221",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.222",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.223",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.224",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.225",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.226",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.227",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.228",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundarySide.003",
+        "heightScale": 1.35
+      },
+      {
+        "name": "BoundarySideRail.003",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.229",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.230",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.231",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.232",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.233",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.234",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.235",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.236",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.237",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.238",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.239",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.240",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.241",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.242",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.243",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.244",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.245",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.246",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.247",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.248",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.249",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.250",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.251",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.252",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.253",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.254",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.255",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.256",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.257",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.258",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.259",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.260",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.261",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.262",
+        "heightScale": 1.7
+      },
+      {
+        "name": "BoundaryPicket.263",
+        "heightScale": 1.7
+      }
+    ],
+    "newTrees": 24,
+    "newPlacedTreeTriangles": 5376,
+    "groundsMaterials": [
+      "Lawn",
+      "Path",
+      "Leaf",
+      "LeafLight",
+      "FloorDark",
+      "Bronze"
+    ],
+    "facadePreserved": true
+  }
+}

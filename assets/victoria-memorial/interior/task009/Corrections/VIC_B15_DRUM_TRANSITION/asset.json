@@ -1,0 +1,49 @@
+{
+  "assetId": "VIC_B15_DRUM_TRANSITION",
+  "category": "Corrections",
+  "name": "Fitted internal drum shoulder and clerestory backing",
+  "triangles": 76,
+  "triangleCap": 800,
+  "materialMeshes": 1,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 15.995,
+    "height": 25.65,
+    "depth": 3.978
+  },
+  "boundsMinStuds": [
+    -7.99751,
+    63.5,
+    26.80444
+  ],
+  "boundsMaxStuds": [
+    7.99751,
+    89.15,
+    30.78242
+  ],
+  "source": "Corrections/VIC_B15_DRUM_TRANSITION/VIC_B15_DRUM_TRANSITION.blend",
+  "export": "Corrections/VIC_B15_DRUM_TRANSITION/VIC_B15_DRUM_TRANSITION_Roblox.fbx",
+  "preview": "Corrections/VIC_B15_DRUM_TRANSITION/preview.png",
+  "materials": [
+    "Ivory"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Interior-only measured join; preserve original exterior meshes",
+  "components": [
+    {
+      "name": "VIC_B15_DRUM_TRANSITION__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 76
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

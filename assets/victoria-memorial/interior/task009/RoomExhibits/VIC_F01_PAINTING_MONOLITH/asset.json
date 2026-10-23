@@ -1,0 +1,84 @@
+{
+  "assetId": "VIC_F01_PAINTING_MONOLITH",
+  "category": "RoomExhibits",
+  "name": "Tall charcoal painting monolith with brass foot and integrated picture light",
+  "triangles": 84,
+  "triangleCap": 140,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 9.25,
+    "height": 11.47,
+    "depth": 2.55
+  },
+  "boundsMinStuds": [
+    -4.625,
+    0.0,
+    -1.275
+  ],
+  "boundsMaxStuds": [
+    4.625,
+    11.47,
+    1.275
+  ],
+  "source": "RoomExhibits/VIC_F01_PAINTING_MONOLITH/VIC_F01_PAINTING_MONOLITH.blend",
+  "export": "RoomExhibits/VIC_F01_PAINTING_MONOLITH/VIC_F01_PAINTING_MONOLITH_Roblox.fbx",
+  "preview": "RoomExhibits/VIC_F01_PAINTING_MONOLITH/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Paper"
+  ],
+  "sockets": {
+    "FrameMount": [
+      0,
+      3.5,
+      -0.38
+    ],
+    "LightMount": [
+      0,
+      10.56,
+      -0.42
+    ]
+  },
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original fictional exhibit; concept-led broad forms, reusable shared geometry, no gameplay",
+  "components": [
+    {
+      "name": "VIC_F01_PAINTING_MONOLITH__Brass.001",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    },
+    {
+      "name": "VIC_F01_PAINTING_MONOLITH__Charcoal.001",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_F01_PAINTING_MONOLITH__Diffuser__Paper.001",
+      "component": "Diffuser",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original room-specific reference-led Task009 geometry"
+}

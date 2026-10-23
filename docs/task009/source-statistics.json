@@ -1,0 +1,60 @@
+{
+  "importedArtInstances": 282,
+  "importedPlacedTriangles": 51676,
+  "legacyTreeInstances": 24,
+  "legacyPlacedTriangles": 5376,
+  "nativeVisualTriangles": 2736,
+  "nativeCollisionTriangles": 1440,
+  "lights": 52,
+  "groundLoot": 18,
+  "upperLoot": 10,
+  "securityReservations": 16,
+  "uniqueUsedDesigns": 46,
+  "uniqueUsedTriangles": 9952,
+  "reusedOriginalTreeUniqueTriangles": 224,
+  "newDesigns": 26,
+  "newUniqueTriangles": 6956,
+  "visibleAdditiveTriangles": 59788,
+  "maximumNewMeshTriangles": 576,
+  "newMaterialMeshes": 71,
+  "softReviewThreshold": 60000,
+  "studioRevisionIntegrated": true,
+  "categories": {
+    "Security": {
+      "instances": 16,
+      "placedTriangles": 1648
+    },
+    "Architecture": {
+      "instances": 12,
+      "placedTriangles": 2436
+    },
+    "Exhibition": {
+      "instances": 37,
+      "placedTriangles": 7164
+    },
+    "RoomExhibits": {
+      "instances": 30,
+      "placedTriangles": 7728
+    },
+    "TwoStorey": {
+      "instances": 144,
+      "placedTriangles": 24892
+    },
+    "Loot": {
+      "instances": 5,
+      "placedTriangles": 684
+    },
+    "HeroExhibits": {
+      "instances": 8,
+      "placedTriangles": 3716
+    },
+    "Courtyard": {
+      "instances": 16,
+      "placedTriangles": 2304
+    },
+    "Corrections": {
+      "instances": 14,
+      "placedTriangles": 1104
+    }
+  }
+}

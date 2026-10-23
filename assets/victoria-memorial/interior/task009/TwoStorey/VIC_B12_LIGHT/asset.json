@@ -1,0 +1,73 @@
+{
+  "assetId": "VIC_B12_LIGHT",
+  "category": "TwoStorey",
+  "name": "Reusable museum ceiling fixture / diffuser",
+  "triangles": 48,
+  "triangleCap": 200,
+  "materialMeshes": 3,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 4.0,
+    "height": 0.46,
+    "depth": 1.4
+  },
+  "boundsMinStuds": [
+    -2.0,
+    -0.285,
+    -0.7
+  ],
+  "boundsMaxStuds": [
+    2.0,
+    0.175,
+    0.7
+  ],
+  "source": "TwoStorey/VIC_B12_LIGHT/VIC_B12_LIGHT.blend",
+  "export": "TwoStorey/VIC_B12_LIGHT/VIC_B12_LIGHT_Roblox.fbx",
+  "preview": "TwoStorey/VIC_B12_LIGHT/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Paper"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+  "components": [
+    {
+      "name": "VIC_B12_LIGHT__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B12_LIGHT__Diffuser__Paper",
+      "component": "Diffuser",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B12_LIGHT__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original-source Victoria two-storey reconstruction"
+}

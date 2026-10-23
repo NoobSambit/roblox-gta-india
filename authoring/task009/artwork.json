@@ -1,0 +1,108 @@
+{
+  "uniqueImages": 4,
+  "releasePixelCount": 614400,
+  "paintingMarkerAssignments": {
+    "VIC_LOOT_002": "ART_01_RIVER_DAWN",
+    "VIC_LOOT_008": "ART_02_MONSOON_STREET",
+    "VIC_LOOT_009": "ART_04_HERITAGE_SKYLINE",
+    "VIC_LOOT_010": "ART_03_GARDEN_STUDY"
+  },
+  "artworks": [
+    {
+      "artworkId": "ART_01_RIVER_DAWN",
+      "name": "River at dawn",
+      "source": "artwork/source/ART_01_RIVER_DAWN.png",
+      "texture": "artwork/textures/ART_01_RIVER_DAWN_480x320.png",
+      "sourcePixels": [
+        1536,
+        1024
+      ],
+      "releasePixels": [
+        480,
+        320
+      ],
+      "aspectRatio": 1.5,
+      "sha256": "7c8924dedec44a49853452453215916e0727c3dd09998955ac137246a4c7f6b9",
+      "bytes": 187552,
+      "generator": "Built-in ImageGen",
+      "originalArt": true,
+      "frameBakedIntoImage": false,
+      "perspectiveDistortion": false,
+      "geometry": "None; apply image to reusable physical frame backing",
+      "robloxImageId": "rbxassetid://114887892688456",
+      "uploadStatus": "Uploaded through Studio MCP; moderation/render availability not tested"
+    },
+    {
+      "artworkId": "ART_02_MONSOON_STREET",
+      "name": "Monsoon boulevard",
+      "source": "artwork/source/ART_02_MONSOON_STREET.png",
+      "texture": "artwork/textures/ART_02_MONSOON_STREET_480x320.png",
+      "sourcePixels": [
+        1536,
+        1024
+      ],
+      "releasePixels": [
+        480,
+        320
+      ],
+      "aspectRatio": 1.5,
+      "sha256": "27b377b7cbbab95f441f3a06c419f7f33364a7ce6d9cb2b84a7702cce705cf82",
+      "bytes": 245416,
+      "generator": "Built-in ImageGen",
+      "originalArt": true,
+      "frameBakedIntoImage": false,
+      "perspectiveDistortion": false,
+      "geometry": "None; apply image to reusable physical frame backing",
+      "robloxImageId": "rbxassetid://129141760977791",
+      "uploadStatus": "Uploaded through Studio MCP; moderation/render availability not tested"
+    },
+    {
+      "artworkId": "ART_03_GARDEN_STUDY",
+      "name": "Maidan garden study",
+      "source": "artwork/source/ART_03_GARDEN_STUDY.png",
+      "texture": "artwork/textures/ART_03_GARDEN_STUDY_480x320.png",
+      "sourcePixels": [
+        1536,
+        1024
+      ],
+      "releasePixels": [
+        480,
+        320
+      ],
+      "aspectRatio": 1.5,
+      "sha256": "50f145a139a43a91b39b0a15e5c561b73aee2aee0b5d93ae0488a5d1f25be7f2",
+      "bytes": 205141,
+      "generator": "Built-in ImageGen",
+      "originalArt": true,
+      "frameBakedIntoImage": false,
+      "perspectiveDistortion": false,
+      "geometry": "None; apply image to reusable physical frame backing",
+      "robloxImageId": "rbxassetid://104257714526099",
+      "uploadStatus": "Uploaded through Studio MCP; moderation/render availability not tested"
+    },
+    {
+      "artworkId": "ART_04_HERITAGE_SKYLINE",
+      "name": "Heritage rooflines at dusk",
+      "source": "artwork/source/ART_04_HERITAGE_SKYLINE.png",
+      "texture": "artwork/textures/ART_04_HERITAGE_SKYLINE_480x320.png",
+      "sourcePixels": [
+        1536,
+        1024
+      ],
+      "releasePixels": [
+        480,
+        320
+      ],
+      "aspectRatio": 1.5,
+      "sha256": "aa570bc07d7db711f834d4183a0cf66e70f9c02de1851065fcedc06a92d05856",
+      "bytes": 178547,
+      "generator": "Built-in ImageGen",
+      "originalArt": true,
+      "frameBakedIntoImage": false,
+      "perspectiveDistortion": false,
+      "geometry": "None; apply image to reusable physical frame backing",
+      "robloxImageId": "rbxassetid://134263422572535",
+      "uploadStatus": "Uploaded through Studio MCP; moderation/render availability not tested"
+    }
+  ]
+}

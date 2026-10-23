@@ -1,0 +1,49 @@
+{
+  "assetId": "VIC_B05_LOWER_LINING",
+  "category": "TwoStorey",
+  "name": "Closed rotunda lining segment",
+  "triangles": 48,
+  "triangleCap": 2000,
+  "materialMeshes": 1,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 16.0468,
+    "height": 25.8,
+    "depth": 1.6359
+  },
+  "boundsMinStuds": [
+    -8.02339,
+    7.0,
+    29.36415
+  ],
+  "boundsMaxStuds": [
+    8.02339,
+    32.8,
+    31.0
+  ],
+  "source": "TwoStorey/VIC_B05_LOWER_LINING/VIC_B05_LOWER_LINING.blend",
+  "export": "TwoStorey/VIC_B05_LOWER_LINING/VIC_B05_LOWER_LINING_Roblox.fbx",
+  "preview": "TwoStorey/VIC_B05_LOWER_LINING/preview.png",
+  "materials": [
+    "Ivory"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+  "components": [
+    {
+      "name": "VIC_B05_LOWER_LINING__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original-source Victoria two-storey reconstruction"
+}

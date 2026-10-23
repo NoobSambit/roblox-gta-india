@@ -1,0 +1,82 @@
+{
+  "assetId": "VIC_B11_HALL_CONNECTION",
+  "category": "TwoStorey",
+  "name": "Ground axial opening and genuine upper hall connection",
+  "triangles": 60,
+  "triangleCap": 2000,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 70.0,
+    "height": 34.0,
+    "depth": 7.5
+  },
+  "boundsMinStuds": [
+    -35.0,
+    32.0,
+    -3.75
+  ],
+  "boundsMaxStuds": [
+    35.0,
+    66.0,
+    3.75
+  ],
+  "source": "TwoStorey/VIC_B11_HALL_CONNECTION/VIC_B11_HALL_CONNECTION.blend",
+  "export": "TwoStorey/VIC_B11_HALL_CONNECTION/VIC_B11_HALL_CONNECTION_Roblox.fbx",
+  "preview": "TwoStorey/VIC_B11_HALL_CONNECTION/preview.png",
+  "materials": [
+    "Ivory"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+  "components": [
+    {
+      "name": "VIC_B11_HALL_CONNECTION__Beam__Ivory",
+      "component": "Beam",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B11_HALL_CONNECTION__Jambs__Ivory",
+      "component": "Jambs",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_B11_HALL_CONNECTION__Header__Ivory",
+      "component": "Header",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_B11_HALL_CONNECTION__Floor__Ivory",
+      "component": "Floor",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original-source Victoria two-storey reconstruction"
+}

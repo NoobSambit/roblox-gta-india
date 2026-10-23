@@ -1,0 +1,84 @@
+{
+  "assetId": "VIC_B08_STAIR",
+  "category": "TwoStorey",
+  "name": "8.5-stud two-flight museum stair and balustrades",
+  "triangles": 728,
+  "triangleCap": 2000,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 19.04,
+    "height": 31.9445,
+    "depth": 36.115
+  },
+  "boundsMinStuds": [
+    -9.52,
+    -0.6,
+    -36.0
+  ],
+  "boundsMaxStuds": [
+    9.52,
+    31.34448,
+    0.115
+  ],
+  "source": "TwoStorey/VIC_B08_STAIR/VIC_B08_STAIR.blend",
+  "export": "TwoStorey/VIC_B08_STAIR/VIC_B08_STAIR_Roblox.fbx",
+  "preview": "TwoStorey/VIC_B08_STAIR/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Ivory"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Task009 original-source interior reconstruction; approved exterior unchanged",
+  "components": [
+    {
+      "name": "VIC_B08_STAIR__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 332
+    },
+    {
+      "name": "VIC_B08_STAIR__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 48
+    },
+    {
+      "name": "VIC_B08_STAIR__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 336
+    },
+    {
+      "name": "VIC_B08_STAIR__Landing__Ivory",
+      "component": "Landing",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original-source Victoria two-storey reconstruction"
+}

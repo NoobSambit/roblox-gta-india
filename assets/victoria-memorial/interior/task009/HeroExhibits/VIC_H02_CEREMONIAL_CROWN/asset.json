@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_H02_CEREMONIAL_CROWN",
+  "category": "HeroExhibits",
+  "name": "Fictional jewelled ceremonial crown",
+  "triangles": 500,
+  "triangleCap": 700,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.3,
+    "height": 2.26,
+    "depth": 2.4
+  },
+  "boundsMinStuds": [
+    -1.15,
+    0.0,
+    -1.2
+  ],
+  "boundsMaxStuds": [
+    1.15,
+    2.26,
+    1.2
+  ],
+  "source": "HeroExhibits/VIC_H02_CEREMONIAL_CROWN/VIC_H02_CEREMONIAL_CROWN.blend",
+  "export": "HeroExhibits/VIC_H02_CEREMONIAL_CROWN/VIC_H02_CEREMONIAL_CROWN_Roblox.fbx",
+  "preview": "HeroExhibits/VIC_H02_CEREMONIAL_CROWN/preview.png",
+  "materials": [
+    "Brass",
+    "Gem"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original fictional museum exhibit; shared mesh, no gameplay, no texture dependency",
+  "components": [
+    {
+      "name": "VIC_H02_CEREMONIAL_CROWN__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 264
+    },
+    {
+      "name": "VIC_H02_CEREMONIAL_CROWN__Gem",
+      "component": "Body",
+      "material": "Gem",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 236
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original optimized hero exhibit, guided by selected museum concepts"
+}

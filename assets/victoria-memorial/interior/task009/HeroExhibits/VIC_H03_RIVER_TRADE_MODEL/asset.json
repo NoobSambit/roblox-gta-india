@@ -1,0 +1,109 @@
+{
+  "assetId": "VIC_H03_RIVER_TRADE_MODEL",
+  "category": "HeroExhibits",
+  "name": "Faceted river-trade boat with cabin, sail and cargo",
+  "triangles": 216,
+  "triangleCap": 600,
+  "materialMeshes": 6,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.0,
+    "height": 2.02,
+    "depth": 1.1
+  },
+  "boundsMinStuds": [
+    -1.5,
+    0.08,
+    -0.55
+  ],
+  "boundsMaxStuds": [
+    1.5,
+    2.1,
+    0.55
+  ],
+  "source": "HeroExhibits/VIC_H03_RIVER_TRADE_MODEL/VIC_H03_RIVER_TRADE_MODEL.blend",
+  "export": "HeroExhibits/VIC_H03_RIVER_TRADE_MODEL/VIC_H03_RIVER_TRADE_MODEL_Roblox.fbx",
+  "preview": "HeroExhibits/VIC_H03_RIVER_TRADE_MODEL/preview.png",
+  "materials": [
+    "Brass",
+    "Bronze",
+    "Charcoal",
+    "Ivory",
+    "Paper",
+    "Teal"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original fictional museum exhibit; shared mesh, no gameplay, no texture dependency",
+  "components": [
+    {
+      "name": "VIC_H03_RIVER_TRADE_MODEL__Bronze",
+      "component": "Body",
+      "material": "Bronze",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 20
+    },
+    {
+      "name": "VIC_H03_RIVER_TRADE_MODEL__Paper",
+      "component": "Body",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 20
+    },
+    {
+      "name": "VIC_H03_RIVER_TRADE_MODEL__Teal",
+      "component": "Body",
+      "material": "Teal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_H03_RIVER_TRADE_MODEL__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 60
+    },
+    {
+      "name": "VIC_H03_RIVER_TRADE_MODEL__Brass",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 80
+    },
+    {
+      "name": "VIC_H03_RIVER_TRADE_MODEL__Charcoal",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original optimized hero exhibit, guided by selected museum concepts"
+}

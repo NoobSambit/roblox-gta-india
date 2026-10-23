@@ -1,0 +1,158 @@
+[
+  {
+    "assetId": "VIC_B01_HALL_ARCADE",
+    "file": "VIC_B01_HALL_ARCADE_Roblox.fbx",
+    "sha256": "66d4af17e8f5896aaac9bc4f00249ffaecee7bf6c5a74c7e4aebd1a2b8bf2664",
+    "triangles": 308
+  },
+  {
+    "assetId": "VIC_B02_UPPER_ARCADE",
+    "file": "VIC_B02_UPPER_ARCADE_Roblox.fbx",
+    "sha256": "f59b52373c8876b6ce68ad2d87bd45a423767dbffa60c71ae04ae390e361e447",
+    "triangles": 176
+  },
+  {
+    "assetId": "VIC_B03_BALCONY",
+    "file": "VIC_B03_BALCONY_Roblox.fbx",
+    "sha256": "b8e5de77dae8196821141fbe9789eab9ce48b2eb274f6e264c4630c16521a344",
+    "triangles": 264
+  },
+  {
+    "assetId": "VIC_B04_UPPER_LINING",
+    "file": "VIC_B04_UPPER_LINING_Roblox.fbx",
+    "sha256": "7d1a00d0424f8b46893d4dae0633e362e77ac7bc74a71d07bd4cbbb56d6fbd2d",
+    "triangles": 48
+  },
+  {
+    "assetId": "VIC_B05_LOWER_LINING",
+    "file": "VIC_B05_LOWER_LINING_Roblox.fbx",
+    "sha256": "69a8f0f20ca26561a6c72d1c2586364f2442e57363994b7a2c756505e008c5e8",
+    "triangles": 48
+  },
+  {
+    "assetId": "VIC_B06_WING_ENVELOPE",
+    "file": "VIC_B06_WING_ENVELOPE_Roblox.fbx",
+    "sha256": "b91c5e9d4aeb7cddf47d9cdd97136d784340c50b17feb087fbfe8a706f27ea1f",
+    "triangles": 264
+  },
+  {
+    "assetId": "VIC_B07_WING_BAY",
+    "file": "VIC_B07_WING_BAY_Roblox.fbx",
+    "sha256": "b7cef5f9e4aeae2b1b932195a15c10ab51493d37674ee6c59d6578a80abed6f9",
+    "triangles": 504
+  },
+  {
+    "assetId": "VIC_B08_STAIR",
+    "file": "VIC_B08_STAIR_Roblox.fbx",
+    "sha256": "eb5a855ea86243840d049ef33cd51f6aca50689d9b676964c26318c3fab8aecf",
+    "triangles": 728
+  },
+  {
+    "assetId": "VIC_B09_STAIR_HALL",
+    "file": "VIC_B09_STAIR_HALL_Roblox.fbx",
+    "sha256": "ed75590673d1346c40060f4f79e067283ac645b9719ce52e6796e0c86ea608d6",
+    "triangles": 284
+  },
+  {
+    "assetId": "VIC_B10_UPPER_DOORS",
+    "file": "VIC_B10_UPPER_DOORS_Roblox.fbx",
+    "sha256": "da120a3697ba67a92846456f359cb26fe3d1d2b630fdb47612704c76fd741221",
+    "triangles": 60
+  },
+  {
+    "assetId": "VIC_B11_HALL_CONNECTION",
+    "file": "VIC_B11_HALL_CONNECTION_Roblox.fbx",
+    "sha256": "3b712267aeace101a4fcbe330f4c78c926c91d0d8a4a68743e6e918792ea3746",
+    "triangles": 60
+  },
+  {
+    "assetId": "VIC_B12_LIGHT",
+    "file": "VIC_B12_LIGHT_Roblox.fbx",
+    "sha256": "5a0c8bab47169d8264bdecf818d1b59c68163d92618985211621211bda76f510",
+    "triangles": 48
+  },
+  {
+    "assetId": "VIC_B13_HALL_FIGURE",
+    "file": "VIC_B13_HALL_FIGURE_Roblox.fbx",
+    "sha256": "1ed956db768002c12bc0b15643a03c2d6c37781d470e9f7a62ae9cd4988c7c33",
+    "triangles": 716
+  },
+  {
+    "assetId": "VIC_H01_CEREMONIAL_URN",
+    "file": "VIC_H01_CEREMONIAL_URN_Roblox.fbx",
+    "sha256": "e70d672f6af02c4fcb772f4b4dee47bd1579785e48e6bb000687d7028210bf85",
+    "triangles": 500
+  },
+  {
+    "assetId": "VIC_H02_CEREMONIAL_CROWN",
+    "file": "VIC_H02_CEREMONIAL_CROWN_Roblox.fbx",
+    "sha256": "d04645b5ccacea075c0241f8a19953d7bd6d91f0dc40280975651073a036a1f3",
+    "triangles": 500
+  },
+  {
+    "assetId": "VIC_H03_RIVER_TRADE_MODEL",
+    "file": "VIC_H03_RIVER_TRADE_MODEL_Roblox.fbx",
+    "sha256": "42b0ec6150d683c75be780d246aab5f327dcdb01a705ca00962633e57b41e98e",
+    "triangles": 216
+  },
+  {
+    "assetId": "VIC_F01_PAINTING_MONOLITH",
+    "file": "VIC_F01_PAINTING_MONOLITH_Roblox.fbx",
+    "sha256": "6a63a3fd5b70d0b5d354e7812eed9e39d1402648d60b5f35bfaa00915d4fbe69",
+    "triangles": 84
+  },
+  {
+    "assetId": "VIC_H04_GILDED_KNOT",
+    "file": "VIC_H04_GILDED_KNOT_Roblox.fbx",
+    "sha256": "c80c8c8479e31c0ffe25d5ec505b4a352d36e3c1da73ea320f37052f0b3c93e7",
+    "triangles": 588
+  },
+  {
+    "assetId": "VIC_H05_OPEN_CHARTER",
+    "file": "VIC_H05_OPEN_CHARTER_Roblox.fbx",
+    "sha256": "66a8615ca84ca30720c1b3721949ac99d7d87e618b01dc0c42382caa3027d7f9",
+    "triangles": 200
+  },
+  {
+    "assetId": "VIC_H06_CEREMONIAL_SET",
+    "file": "VIC_H06_CEREMONIAL_SET_Roblox.fbx",
+    "sha256": "66b27a66e7a14ae098ffd542ffbfa6b5e72b485afe6c15414f50458e4ac836d4",
+    "triangles": 448
+  },
+  {
+    "assetId": "VIC_F02_MUSEUM_BANNER",
+    "file": "VIC_F02_MUSEUM_BANNER_Roblox.fbx",
+    "sha256": "df6501ed0446650355d510c57f4b5acf736affc59ca9c9f01f56bd07a92628d3",
+    "triangles": 236
+  },
+  {
+    "assetId": "VIC_B14_COURTYARD_SPANDREL",
+    "file": "VIC_B14_COURTYARD_SPANDREL_Roblox.fbx",
+    "sha256": "5fe4481ba7a28e96a1a503bcf66e73a4fcf4b0f1ee78a2b8865a23cc93eb6df6",
+    "triangles": 168
+  },
+  {
+    "assetId": "VIC_G01_FORMAL_PLANTER",
+    "file": "VIC_G01_FORMAL_PLANTER_Roblox.fbx",
+    "sha256": "ae038002f90a20058d5f360e23acb95037ab6ccd978a2d743ac28caa4f17c8e8",
+    "triangles": 264
+  },
+  {
+    "assetId": "VIC_G02_STONE_BENCH",
+    "file": "VIC_G02_STONE_BENCH_Roblox.fbx",
+    "sha256": "af146584e53ba625ff345037b65028562f42a7f5bcde6d73d7aff980869b280b",
+    "triangles": 72
+  },
+  {
+    "assetId": "VIC_B15_DRUM_TRANSITION",
+    "file": "VIC_B15_DRUM_TRANSITION_Roblox.fbx",
+    "sha256": "d6e00ad45f6e77d10b375877c3566bc7faf3b38b7d90a0b4ba7fbd80259f64b3",
+    "triangles": 76
+  },
+  {
+    "assetId": "VIC_B16_PORTAL_SPANDREL",
+    "file": "VIC_B16_PORTAL_SPANDREL_Roblox.fbx",
+    "sha256": "7d7c1d3673c802c2cbaec2bd92e7a7b8ac1fa41d4c6efc76c7516cb8579c8411",
+    "triangles": 96
+  }
+]

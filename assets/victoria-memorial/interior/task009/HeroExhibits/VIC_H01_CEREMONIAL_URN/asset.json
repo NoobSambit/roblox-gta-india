@@ -1,0 +1,61 @@
+{
+  "assetId": "VIC_H01_CEREMONIAL_URN",
+  "category": "HeroExhibits",
+  "name": "Handled ceremonial urn with lid and shaped foot",
+  "triangles": 500,
+  "triangleCap": 700,
+  "materialMeshes": 2,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 2.46,
+    "height": 2.48,
+    "depth": 1.6
+  },
+  "boundsMinStuds": [
+    -1.23,
+    0.0,
+    -0.8
+  ],
+  "boundsMaxStuds": [
+    1.23,
+    2.48,
+    0.8
+  ],
+  "source": "HeroExhibits/VIC_H01_CEREMONIAL_URN/VIC_H01_CEREMONIAL_URN.blend",
+  "export": "HeroExhibits/VIC_H01_CEREMONIAL_URN/VIC_H01_CEREMONIAL_URN_Roblox.fbx",
+  "preview": "HeroExhibits/VIC_H01_CEREMONIAL_URN/preview.png",
+  "materials": [
+    "Brass",
+    "Bronze"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original fictional museum exhibit; shared mesh, no gameplay, no texture dependency",
+  "components": [
+    {
+      "name": "VIC_H01_CEREMONIAL_URN__Bronze.001",
+      "component": "Body",
+      "material": "Bronze",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 236
+    },
+    {
+      "name": "VIC_H01_CEREMONIAL_URN__Brass.001",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 264
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original optimized hero exhibit, guided by selected museum concepts"
+}

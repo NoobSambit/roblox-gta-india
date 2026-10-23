@@ -1,0 +1,109 @@
+{
+  "bytes": 2738366,
+  "reopen": {
+    "hasVictoria": true,
+    "hasWorld": true,
+    "roots": 15,
+    "hasTerrain": true,
+    "lootCount": 18
+  },
+  "bindings": [
+    {
+      "class": "Folder",
+      "service": "Workspace",
+      "index": 1,
+      "name": "World"
+    },
+    {
+      "class": "Terrain",
+      "service": "Workspace",
+      "index": 2,
+      "name": "Terrain"
+    },
+    {
+      "class": "Sky",
+      "service": "Lighting",
+      "index": 3,
+      "name": "Sky"
+    },
+    {
+      "class": "SunRaysEffect",
+      "service": "Lighting",
+      "index": 4,
+      "name": "SunRays"
+    },
+    {
+      "class": "Atmosphere",
+      "service": "Lighting",
+      "index": 5,
+      "name": "KolkataAfternoonHaze"
+    },
+    {
+      "class": "BloomEffect",
+      "service": "Lighting",
+      "index": 6,
+      "name": "Bloom"
+    },
+    {
+      "class": "DepthOfFieldEffect",
+      "service": "Lighting",
+      "index": 7,
+      "name": "DepthOfField"
+    },
+    {
+      "class": "ColorCorrectionEffect",
+      "service": "Lighting",
+      "index": 8,
+      "name": "KolkataWarmGrade"
+    },
+    {
+      "class": "Folder",
+      "service": "ServerStorage",
+      "index": 9,
+      "name": "WorldAuthoring"
+    },
+    {
+      "class": "StarterPlayerScripts",
+      "service": "StarterPlayer",
+      "index": 10,
+      "name": "StarterPlayerScripts"
+    },
+    {
+      "class": "StarterCharacterScripts",
+      "service": "StarterPlayer",
+      "index": 11,
+      "name": "StarterCharacterScripts"
+    },
+    {
+      "class": "ChatWindowConfiguration",
+      "service": "TextChatService",
+      "index": 12,
+      "name": "ChatWindowConfiguration"
+    },
+    {
+      "class": "ChatInputBarConfiguration",
+      "service": "TextChatService",
+      "index": 13,
+      "name": "ChatInputBarConfiguration"
+    },
+    {
+      "class": "BubbleChatConfiguration",
+      "service": "TextChatService",
+      "index": 14,
+      "name": "BubbleChatConfiguration"
+    },
+    {
+      "class": "ChannelTabsConfiguration",
+      "service": "TextChatService",
+      "index": 15,
+      "name": "ChannelTabsConfiguration"
+    }
+  ],
+  "phase": "pre",
+  "placeId": 96105551033653,
+  "format": "Engine model package with service bindings; not native rbxl",
+  "path": "artifacts/recovery/HoodTesting-pre-Task009.rbxm",
+  "sha256": "3e092ba19f66c403ddf85907fd8fbf3e916c19e0f33d0ea663633f7512750d09",
+  "nativePlaceFileSaved": false,
+  "originalHttpEnabled": false
+}

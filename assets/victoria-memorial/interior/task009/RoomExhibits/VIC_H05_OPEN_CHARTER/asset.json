@@ -1,0 +1,97 @@
+{
+  "assetId": "VIC_H05_OPEN_CHARTER",
+  "category": "RoomExhibits",
+  "name": "Large inclined open charter folio and reading cradle",
+  "triangles": 200,
+  "triangleCap": 400,
+  "materialMeshes": 5,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 3.88,
+    "height": 2.2887,
+    "depth": 2.3
+  },
+  "boundsMinStuds": [
+    -1.94,
+    0.0,
+    -1.15
+  ],
+  "boundsMaxStuds": [
+    1.94,
+    2.28868,
+    1.15
+  ],
+  "source": "RoomExhibits/VIC_H05_OPEN_CHARTER/VIC_H05_OPEN_CHARTER.blend",
+  "export": "RoomExhibits/VIC_H05_OPEN_CHARTER/VIC_H05_OPEN_CHARTER_Roblox.fbx",
+  "preview": "RoomExhibits/VIC_H05_OPEN_CHARTER/preview.png",
+  "materials": [
+    "Brass",
+    "Charcoal",
+    "Ink",
+    "Oxblood",
+    "Paper"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original fictional exhibit; concept-led broad forms, reusable shared geometry, no gameplay",
+  "components": [
+    {
+      "name": "VIC_H05_OPEN_CHARTER__Paper.001",
+      "component": "Body",
+      "material": "Paper",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_H05_OPEN_CHARTER__Oxblood.001",
+      "component": "Body",
+      "material": "Oxblood",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_H05_OPEN_CHARTER__Brass.001",
+      "component": "Body",
+      "material": "Brass",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 24
+    },
+    {
+      "name": "VIC_H05_OPEN_CHARTER__Ink.001",
+      "component": "Body",
+      "material": "Ink",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 120
+    },
+    {
+      "name": "VIC_H05_OPEN_CHARTER__Charcoal.001",
+      "component": "Body",
+      "material": "Charcoal",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 8
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original room-specific reference-led Task009 geometry"
+}

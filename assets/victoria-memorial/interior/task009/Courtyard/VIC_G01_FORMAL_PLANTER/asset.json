@@ -1,0 +1,85 @@
+{
+  "assetId": "VIC_G01_FORMAL_PLANTER",
+  "category": "Courtyard",
+  "name": "Broad stone courtyard planter with three faceted shrubs",
+  "triangles": 264,
+  "triangleCap": 360,
+  "materialMeshes": 4,
+  "pivot": "Ground centre; front -Z",
+  "dimensionsStuds": {
+    "width": 12.0,
+    "height": 3.7,
+    "depth": 5.0
+  },
+  "boundsMinStuds": [
+    -6.0,
+    0.0,
+    -2.5
+  ],
+  "boundsMaxStuds": [
+    6.0,
+    3.7,
+    2.5
+  ],
+  "source": "Courtyard/VIC_G01_FORMAL_PLANTER/VIC_G01_FORMAL_PLANTER.blend",
+  "export": "Courtyard/VIC_G01_FORMAL_PLANTER/VIC_G01_FORMAL_PLANTER_Roblox.fbx",
+  "preview": "Courtyard/VIC_G01_FORMAL_PLANTER/preview.png",
+  "materials": [
+    "Ink",
+    "Ivory",
+    "Leaf",
+    "Stone"
+  ],
+  "sockets": {},
+  "componentPivots": {},
+  "collision": "Non-colliding visual; retain Task007 simple collision",
+  "note": "Original optimized correction/dressing; preserves the existing courtyard and routes",
+  "components": [
+    {
+      "name": "VIC_G01_FORMAL_PLANTER__Stone",
+      "component": "Body",
+      "material": "Stone",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 60
+    },
+    {
+      "name": "VIC_G01_FORMAL_PLANTER__Ivory",
+      "component": "Body",
+      "material": "Ivory",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_G01_FORMAL_PLANTER__Ink",
+      "component": "Body",
+      "material": "Ink",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 12
+    },
+    {
+      "name": "VIC_G01_FORMAL_PLANTER__Leaf",
+      "component": "Body",
+      "material": "Leaf",
+      "translationStuds": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "triangles": 180
+    }
+  ],
+  "textures": [],
+  "geometrySource": "Original project geometry; authored for Task008"
+}

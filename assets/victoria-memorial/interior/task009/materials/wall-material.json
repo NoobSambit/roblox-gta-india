@@ -1,0 +1,19 @@
+{
+  "name": "VIC009_WarmStone",
+  "source": "Original procedural colour texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "baseMaterial": "Limestone",
+  "studsPerTile": 14,
+  "uniqueRuntimeTextures": 1,
+  "maps": [
+    "ColorMap"
+  ],
+  "bakedLighting": false,
+  "periodic": true,
+  "sha256": "f2cfb8afe0b5f608a9881315430b761527accaca299f9d3655dfd9ca974fc73c",
+  "robloxImageId": "rbxassetid://74587698959678",
+  "uploadStatus": "Uploaded, assigned and visually reviewed in final Studio integration"
+}
