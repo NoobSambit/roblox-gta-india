@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 1223,
+  "sourceUniqueMeshes": 307,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 936,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_JORASANKO__00_Grounds.fbx",
+      "meshObjects": 11,
+      "triangles": 7052,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_JORASANKO__01_Bahir_Mahal.fbx",
+      "meshObjects": 26,
+      "triangles": 85320,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_JORASANKO__02_Andar_Mahal.fbx",
+      "meshObjects": 16,
+      "triangles": 51124,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_JORASANKO__03_Thakur_Dalan_Link.fbx",
+      "meshObjects": 9,
+      "triangles": 13168,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_cultural/KOL_T1_JORASANKO__01_Bahir_Mahal.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 2.2172927856445312e-05,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "openSkyCourts": 2,
+  "clearHeadHeightEntryRays": 4,
+  "mainBuildingCount": 2,
+  "nightLights": 29,
+  "previews": [
+    "preview-day.png",
+    "preview-rear.png",
+    "preview-courtyard.png",
+    "preview-night.png",
+    "preview-front.png"
+  ]
+}

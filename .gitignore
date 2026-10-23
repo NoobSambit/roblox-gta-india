@@ -33,3 +33,6 @@ artifacts/references/**
 
 # Tier 1 approved provenance is curated alongside each asset.
 artifacts/references/tier1/
+
+# User-supplied cultural reference photos stay local; track mapping and hashes.
+assets/kolkata/cultural_batch/*/references/photos/

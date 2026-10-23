@@ -1,0 +1,39 @@
+{
+  "origin": "User-supplied reference photographs/drawing, mapping explicitly confirmed in chat",
+  "usage": "Private visual study only. Photos kept locally and excluded from Git; redistribution rights not established.",
+  "mapping": "1 layout, 2\u20138 Jorasanko red/white galleries and green shutters",
+  "files": [
+    {
+      "file": "photos/image-1.png",
+      "sha256": "332ecb31bf392f0c87414a4c6abda58024ffaac2d0f81854ae19395cf1c92076"
+    },
+    {
+      "file": "photos/image-2.png",
+      "sha256": "50a8d655b89ef4873176fb56ad672e8d2fe4c48de7770d44b6a8664b6e3f97f4"
+    },
+    {
+      "file": "photos/image-3.png",
+      "sha256": "5330b03f087b453eeb8a32eab6a7067da02218b3d766eff014f7295652c307ef"
+    },
+    {
+      "file": "photos/image-4.png",
+      "sha256": "54cbc5900a0ac42c91e7352ac1562fbd67df2a3168322937b93244c250548adf"
+    },
+    {
+      "file": "photos/image-5.png",
+      "sha256": "5af953bd9b8eb939e4b0a8dd4ede7c0f5ddd390486095c110718c20c0bfe3cbc"
+    },
+    {
+      "file": "photos/image-6.png",
+      "sha256": "4ee78e2d3eca007b9e8c6082678e5d3495dee74c8699b433daf0a158dcd16f44"
+    },
+    {
+      "file": "photos/image-7.png",
+      "sha256": "4c66c067a38ce613d5099fc37e184aacbecb3b801cb74ee636824635f485c9bc"
+    },
+    {
+      "file": "photos/image-8.png",
+      "sha256": "e39fc2d8117868f6b0e5815696250b261ac79604af758be0577b59dc2d18a39f"
+    }
+  ]
+}

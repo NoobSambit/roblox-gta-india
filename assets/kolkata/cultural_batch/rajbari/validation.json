@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "sourceMeshInstances": 704,
+  "sourceUniqueMeshes": 127,
+  "degenerateFaces": 0,
+  "finiteVertices": true,
+  "largestSourceMeshTriangles": 1996,
+  "nonManifoldEdges": 0,
+  "inconsistentWindingEdges": 0,
+  "allExportMeshesClosed": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__00_Grounds.fbx",
+      "meshObjects": 10,
+      "triangles": 4048,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__01_Rear_Mansion.fbx",
+      "meshObjects": 14,
+      "triangles": 18544,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__02_Side_Wings.fbx",
+      "meshObjects": 13,
+      "triangles": 34360,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__03_Street_Front.fbx",
+      "meshObjects": 11,
+      "triangles": 23656,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__04_Roofline.fbx",
+      "meshObjects": 11,
+      "triangles": 37552,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__05_Puja_Mandap.fbx",
+      "meshObjects": 8,
+      "triangles": 5640,
+      "fbxVersion": 7400
+    }
+  ],
+  "columnBearingContactsPassed": null,
+  "representativeRoundTrip": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__04_Roofline.fbx",
+  "materialSlotsPresent": true,
+  "objectScalesOne": true,
+  "roundTripBoundsErrorStuds": 1.52587890625e-05,
+  "validationScope": "Blender source, FBX inventory and one section round trip. No Studio import, collisions, gameplay or device benchmark.",
+  "openSkyCourts": 2,
+  "clearHeadHeightEntryRays": 1,
+  "mainBuildingCount": 1,
+  "nightLights": 20,
+  "previews": [
+    "preview-day.png",
+    "preview-rear.png",
+    "preview-courtyard.png",
+    "preview-night.png"
+  ]
+}

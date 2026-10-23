@@ -1,0 +1,19 @@
+{
+  "origin": "User-supplied reference photographs/drawing, mapping explicitly confirmed in chat",
+  "usage": "Private visual study only. Photos kept locally and excluded from Git; redistribution rights not established.",
+  "mapping": "9\u201310 brick/cream Rajbari courtyard; 11 domed Rajbari street exterior",
+  "files": [
+    {
+      "file": "photos/image-9.png",
+      "sha256": "13b226e10b21ac0f32f3c338c2e99624f2ca1614e57be60876558868315e29be"
+    },
+    {
+      "file": "photos/image-10.png",
+      "sha256": "6a4a2680fd8be73f02b3a4c6961e830d9be125eae93909048bbfeb1e2a366f6b"
+    },
+    {
+      "file": "photos/image-11.png",
+      "sha256": "847af0fc6daeb4a1e3ea7b27ca6f2aa005785a48767277cfe2c36cbc7917b541"
+    }
+  ]
+}

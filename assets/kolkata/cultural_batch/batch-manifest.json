@@ -1,0 +1,122 @@
+{
+  "assets": [
+    {
+      "assetId": "KOL_T1_RAJBARI",
+      "name": "Bengali Rajbari Estate",
+      "dimensionsStuds": {
+        "width": 202.0,
+        "height": 66.0,
+        "depth": 220.0
+      },
+      "uniqueSourceTriangles": 27458,
+      "assembledTriangles": 123800,
+      "largestMeshTriangles": 1996,
+      "source": "rajbari/KOL_T1_RAJBARI.blend",
+      "exports": [
+        {
+          "section": "00_Grounds",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__00_Grounds.fbx",
+          "triangles": 4048,
+          "meshInstances": 10,
+          "largestExportMeshTriangles": 784
+        },
+        {
+          "section": "01_Rear_Mansion",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__01_Rear_Mansion.fbx",
+          "triangles": 18544,
+          "meshInstances": 14,
+          "largestExportMeshTriangles": 5500
+        },
+        {
+          "section": "02_Side_Wings",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__02_Side_Wings.fbx",
+          "triangles": 34360,
+          "meshInstances": 13,
+          "largestExportMeshTriangles": 5500
+        },
+        {
+          "section": "03_Street_Front",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__03_Street_Front.fbx",
+          "triangles": 23656,
+          "meshInstances": 11,
+          "largestExportMeshTriangles": 5500
+        },
+        {
+          "section": "04_Roofline",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__04_Roofline.fbx",
+          "triangles": 37552,
+          "meshInstances": 11,
+          "largestExportMeshTriangles": 5492
+        },
+        {
+          "section": "05_Puja_Mandap",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_RAJBARI__05_Puja_Mandap.fbx",
+          "triangles": 5640,
+          "meshInstances": 8,
+          "largestExportMeshTriangles": 1880
+        }
+      ],
+      "nightLights": 20,
+      "uniqueBudgetUpper": 38000,
+      "budgetOveragePercent": 0.0,
+      "headroomBelowUpperPercent": 27.74
+    },
+    {
+      "assetId": "KOL_T1_JORASANKO",
+      "name": "Jorasanko Thakurbari Two-Building Complex",
+      "dimensionsStuds": {
+        "width": 196.0,
+        "height": 51.9,
+        "depth": 282.0
+      },
+      "uniqueSourceTriangles": 30094,
+      "assembledTriangles": 156664,
+      "largestMeshTriangles": 936,
+      "source": "jorasanko/KOL_T1_JORASANKO.blend",
+      "exports": [
+        {
+          "section": "00_Grounds",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_JORASANKO__00_Grounds.fbx",
+          "triangles": 7052,
+          "meshInstances": 11,
+          "largestExportMeshTriangles": 1568
+        },
+        {
+          "section": "01_Bahir_Mahal",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_JORASANKO__01_Bahir_Mahal.fbx",
+          "triangles": 85320,
+          "meshInstances": 26,
+          "largestExportMeshTriangles": 5500
+        },
+        {
+          "section": "02_Andar_Mahal",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_JORASANKO__02_Andar_Mahal.fbx",
+          "triangles": 51124,
+          "meshInstances": 16,
+          "largestExportMeshTriangles": 5500
+        },
+        {
+          "section": "03_Thakur_Dalan_Link",
+          "file": "../../../../exports/kolkata_cultural/KOL_T1_JORASANKO__03_Thakur_Dalan_Link.fbx",
+          "triangles": 13168,
+          "meshInstances": 9,
+          "largestExportMeshTriangles": 5460
+        }
+      ],
+      "nightLights": 29,
+      "uniqueBudgetUpper": 34000,
+      "budgetOveragePercent": 0.0,
+      "headroomBelowUpperPercent": 11.49
+    }
+  ],
+  "totalUniqueSourceTriangles": 57552,
+  "totalPlacedTriangles": 280464,
+  "uniqueBudgetUpper": 72000,
+  "uniqueSoftReviewThreshold": 82000,
+  "budgetOveragePercent": 0.0,
+  "robloxIndividualMeshLimit": 20000,
+  "largestActualExportMeshTriangles": 5500,
+  "specification": "https://create.roblox.com/docs/art/modeling/specifications",
+  "specificationChecked": "2026-10-24",
+  "scope": "Original Blender exterior/compound assets. Studio integration excluded by task."
+}
