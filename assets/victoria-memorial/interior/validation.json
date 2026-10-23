@@ -1,0 +1,317 @@
+{
+  "assetCount": 37,
+  "uniqueLibraryTriangles": 4940,
+  "largestAsset": "VIC_E03_CASE_PREMIUM",
+  "largestTriangleCount": 348,
+  "categories": {
+    "Architecture": {
+      "assets": 12,
+      "triangles": 1108
+    },
+    "Exhibition": {
+      "assets": 10,
+      "triangles": 1704
+    },
+    "Loot": {
+      "assets": 11,
+      "triangles": 1688
+    },
+    "Security": {
+      "assets": 4,
+      "triangles": 440
+    }
+  },
+  "physicalKitTextureDependencies": 0,
+  "artworkTextures": 4,
+  "artworkReleasePixels": [
+    480,
+    320
+  ],
+  "sourceFilesUnchanged": {
+    "authoring/task007/BuildGreybox.luau": true,
+    "docs/task007/inspection.json": true,
+    "docs/task007/snapshot.json": true,
+    "artifacts/VictoriaMemorial-Task007.rbxm": true,
+    "assets/victoria-memorial/VictoriaMemorial.blend": true,
+    "assets/victoria-memorial/assembly-manifest.json": true
+  },
+  "representativeFbxRoundtrips": [
+    {
+      "assetId": "VIC_A03_ARCH_10",
+      "maxBoundsErrorStuds": 2.3096799850463867e-06,
+      "triangles": 264
+    },
+    {
+      "assetId": "VIC_E03_CASE_PREMIUM",
+      "maxBoundsErrorStuds": 4.76837158203125e-07,
+      "triangles": 348
+    },
+    {
+      "assetId": "VIC_S02_MOVING_HOUSING",
+      "maxBoundsErrorStuds": 1.1730289628530954e-07,
+      "triangles": 100
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "VIC_A01_COLUMN",
+      "triangles": 140,
+      "closedOutwardComponents": 5,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A02_PILASTER",
+      "triangles": 60,
+      "closedOutwardComponents": 5,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A03_ARCH_10",
+      "triangles": 264,
+      "closedOutwardComponents": 4,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A04_DADO_8",
+      "triangles": 48,
+      "closedOutwardComponents": 4,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A05_CORNICE_8",
+      "triangles": 60,
+      "closedOutwardComponents": 5,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A06_PLINTH_SQUARE",
+      "triangles": 60,
+      "closedOutwardComponents": 5,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A07_PLINTH_OCTAGON",
+      "triangles": 120,
+      "closedOutwardComponents": 2,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A08_BARRIER_4",
+      "triangles": 104,
+      "closedOutwardComponents": 6,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A09_RESTRICTED_PORTAL",
+      "triangles": 72,
+      "closedOutwardComponents": 6,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A10_FEATURE_PANEL",
+      "triangles": 72,
+      "closedOutwardComponents": 6,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A11_MUSEUM_BANNER",
+      "triangles": 48,
+      "closedOutwardComponents": 4,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "triangles": 60,
+      "closedOutwardComponents": 5,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E01_CASE_SMALL",
+      "triangles": 264,
+      "closedOutwardComponents": 22,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E02_CASE_MEDIUM",
+      "triangles": 264,
+      "closedOutwardComponents": 22,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E03_CASE_PREMIUM",
+      "triangles": 348,
+      "closedOutwardComponents": 29,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E04_FRAME_LANDSCAPE",
+      "triangles": 72,
+      "closedOutwardComponents": 6,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E05_FRAME_PORTRAIT",
+      "triangles": 72,
+      "closedOutwardComponents": 6,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E06_DOCUMENT_DESK",
+      "triangles": 120,
+      "closedOutwardComponents": 10,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E07_ARCHIVE_CABINET",
+      "triangles": 240,
+      "closedOutwardComponents": 20,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E08_INFO_STAND",
+      "triangles": 48,
+      "closedOutwardComponents": 4,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E09_PLAQUE",
+      "triangles": 48,
+      "closedOutwardComponents": 4,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_E10_ARCHIVE_SHELF",
+      "triangles": 228,
+      "closedOutwardComponents": 19,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L01_FOLIO",
+      "triangles": 72,
+      "closedOutwardComponents": 6,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L02_LETTER",
+      "triangles": 32,
+      "closedOutwardComponents": 3,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L05_TRADE_COLLECTION",
+      "triangles": 196,
+      "closedOutwardComponents": 3,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L06_ABSTRACT_BRONZE",
+      "triangles": 148,
+      "closedOutwardComponents": 3,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L07_PRESENTATION_SET",
+      "triangles": 180,
+      "closedOutwardComponents": 4,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L08_CEREMONIAL_VESSEL",
+      "triangles": 300,
+      "closedOutwardComponents": 3,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L09_KEEPSAKE",
+      "triangles": 160,
+      "closedOutwardComponents": 3,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L10_PREMIUM_INSIGNIA",
+      "triangles": 216,
+      "closedOutwardComponents": 14,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L11_RARE_ARCHIVE_FOLIO",
+      "triangles": 204,
+      "closedOutwardComponents": 17,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L12_MINIATURE",
+      "triangles": 108,
+      "closedOutwardComponents": 5,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_L14_RIVER_PORTFOLIO",
+      "triangles": 72,
+      "closedOutwardComponents": 6,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_S01_STATIC_EMITTER",
+      "triangles": 76,
+      "closedOutwardComponents": 5,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_S02_MOVING_HOUSING",
+      "triangles": 100,
+      "closedOutwardComponents": 5,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_S03_ELECTRIC_FLOOR",
+      "triangles": 108,
+      "closedOutwardComponents": 9,
+      "fbxVersion": 7400,
+      "status": "passed"
+    },
+    {
+      "assetId": "VIC_S04_TERMINAL",
+      "triangles": 156,
+      "closedOutwardComponents": 13,
+      "fbxVersion": 7400,
+      "status": "passed"
+    }
+  ],
+  "scope": "Mesh, normals, transforms/pivots, triangle caps, FBX completeness; three representative roundtrips. No Studio import, gameplay, multiplayer or device testing."
+}

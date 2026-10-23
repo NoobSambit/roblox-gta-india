@@ -2,6 +2,14 @@
 
 Git remote: [roblox-gta-india](https://github.com/NoobSambit/roblox-gta-india). See [repository workflow](docs/repository-workflow.md) for source ownership, commits and asset tracking.
 
+**Task 008: Victoria Memorial interior art kit** provides 37 reusable Blender
+assets with individual FBXs and previews, six stylized concept references and
+four original flat paintings. The offline placement proposal adds 14,600
+triangles around the unchanged Task 007 layout. See the
+[asset library, assembled views and integration handoff](assets/victoria-memorial/interior/README.md).
+Final Studio integration and gameplay remain for later tasks; the world has not
+been changed or published in this milestone.
+
 **Task 007: Victoria Memorial heist greybox** adds seven lower-floor rooms,
 18 distributed exhibit placeholders, nine inactive security reservations and
 four existing entry/escape routes. The approved exterior and original shell are

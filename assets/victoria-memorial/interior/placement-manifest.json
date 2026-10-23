@@ -1,0 +1,3115 @@
+{
+  "task": "008",
+  "status": "Offline integration plan; no Studio edits",
+  "units": "Roblox studs, landmark-local Y-up; Blender maps (x,-z,y)",
+  "rooms": [
+    {
+      "roomId": "VIC_ROOM_MAIN_HALL",
+      "name": "A  QUEEN'S HALL",
+      "centerXZ": [
+        0.0,
+        0.0
+      ],
+      "sizeXZ": [
+        54.0,
+        54.0
+      ],
+      "risk": "Orientation"
+    },
+    {
+      "roomId": "VIC_ROOM_PUBLIC",
+      "name": "B  PUBLIC EXHIBITION",
+      "centerXZ": [
+        -48.5,
+        -76.0
+      ],
+      "sizeXZ": [
+        33.0,
+        34.0
+      ],
+      "risk": "Public"
+    },
+    {
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "name": "C3  COLLECTIONS",
+      "centerXZ": [
+        -78.0,
+        -76.0
+      ],
+      "sizeXZ": [
+        22.0,
+        34.0
+      ],
+      "risk": "Medium"
+    },
+    {
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "name": "C1  PAINTING GALLERY",
+      "centerXZ": [
+        -60.5,
+        76.0
+      ],
+      "sizeXZ": [
+        57.0,
+        34.0
+      ],
+      "risk": "Medium"
+    },
+    {
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "name": "C2  SCULPTURE GALLERY",
+      "centerXZ": [
+        60.5,
+        76.0
+      ],
+      "sizeXZ": [
+        57.0,
+        34.0
+      ],
+      "risk": "Medium"
+    },
+    {
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "name": "D  HIGH SECURITY",
+      "centerXZ": [
+        50.0,
+        -76.0
+      ],
+      "sizeXZ": [
+        36.0,
+        34.0
+      ],
+      "risk": "High"
+    },
+    {
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "name": "E  RESTRICTED ARCHIVE",
+      "centerXZ": [
+        79.5,
+        -76.0
+      ],
+      "sizeXZ": [
+        19.0,
+        34.0
+      ],
+      "risk": "Restricted"
+    }
+  ],
+  "lootBindings": [
+    {
+      "lootId": "VIC_LOOT_001",
+      "sourceRootPosition": [
+        -39.0,
+        6.8,
+        -87.0
+      ],
+      "sourcePlaceholderCenter": [
+        -39.0,
+        9.6,
+        -87.0
+      ],
+      "supportAsset": "VIC_E06_DOCUMENT_DESK",
+      "lootAsset": "VIC_L02_LETTER",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_001",
+        "VIC_ART_002"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_002",
+      "sourceRootPosition": [
+        -56.0,
+        6.8,
+        -87.0
+      ],
+      "sourcePlaceholderCenter": [
+        -56.0,
+        9.6,
+        -87.0
+      ],
+      "supportAsset": "VIC_A10_FEATURE_PANEL",
+      "lootAsset": null,
+      "artworkId": "ART_01_RIVER_DAWN",
+      "instances": [
+        "VIC_ART_003",
+        "VIC_ART_004"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_003",
+      "sourceRootPosition": [
+        -39.0,
+        6.8,
+        -64.0
+      ],
+      "sourcePlaceholderCenter": [
+        -39.0,
+        9.6,
+        -64.0
+      ],
+      "supportAsset": "VIC_E06_DOCUMENT_DESK",
+      "lootAsset": "VIC_L01_FOLIO",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_005",
+        "VIC_ART_006"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_004",
+      "sourceRootPosition": [
+        -56.0,
+        6.8,
+        -64.0
+      ],
+      "sourcePlaceholderCenter": [
+        -56.0,
+        9.6,
+        -64.0
+      ],
+      "supportAsset": "VIC_E01_CASE_SMALL",
+      "lootAsset": "VIC_L12_MINIATURE",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_007",
+        "VIC_ART_008"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_005",
+      "sourceRootPosition": [
+        -72.0,
+        6.8,
+        -76.0
+      ],
+      "sourcePlaceholderCenter": [
+        -72.0,
+        9.6,
+        -76.0
+      ],
+      "supportAsset": "VIC_E02_CASE_MEDIUM",
+      "lootAsset": "VIC_L05_TRADE_COLLECTION",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_009",
+        "VIC_ART_010"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_006",
+      "sourceRootPosition": [
+        -84.0,
+        6.8,
+        -76.0
+      ],
+      "sourcePlaceholderCenter": [
+        -84.0,
+        9.6,
+        -76.0
+      ],
+      "supportAsset": "VIC_A07_PLINTH_OCTAGON",
+      "lootAsset": "VIC_L09_KEEPSAKE",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_011",
+        "VIC_ART_012"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_007",
+      "sourceRootPosition": [
+        -78.0,
+        6.8,
+        -76.0
+      ],
+      "sourcePlaceholderCenter": [
+        -78.0,
+        9.6,
+        -76.0
+      ],
+      "supportAsset": "VIC_E02_CASE_MEDIUM",
+      "lootAsset": "VIC_L07_PRESENTATION_SET",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_013",
+        "VIC_ART_014"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_008",
+      "sourceRootPosition": [
+        -40.0,
+        6.8,
+        65.0
+      ],
+      "sourcePlaceholderCenter": [
+        -40.0,
+        9.6,
+        65.0
+      ],
+      "supportAsset": "VIC_A10_FEATURE_PANEL",
+      "lootAsset": null,
+      "artworkId": "ART_02_MONSOON_STREET",
+      "instances": [
+        "VIC_ART_015",
+        "VIC_ART_016"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_009",
+      "sourceRootPosition": [
+        -58.0,
+        6.8,
+        87.0
+      ],
+      "sourcePlaceholderCenter": [
+        -58.0,
+        9.6,
+        87.0
+      ],
+      "supportAsset": "VIC_A10_FEATURE_PANEL",
+      "lootAsset": null,
+      "artworkId": "ART_04_HERITAGE_SKYLINE",
+      "instances": [
+        "VIC_ART_017",
+        "VIC_ART_018"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_010",
+      "sourceRootPosition": [
+        -78.0,
+        6.8,
+        87.0
+      ],
+      "sourcePlaceholderCenter": [
+        -78.0,
+        9.6,
+        87.0
+      ],
+      "supportAsset": "VIC_A10_FEATURE_PANEL",
+      "lootAsset": null,
+      "artworkId": "ART_03_GARDEN_STUDY",
+      "instances": [
+        "VIC_ART_019",
+        "VIC_ART_020"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_011",
+      "sourceRootPosition": [
+        -78.0,
+        6.8,
+        64.0
+      ],
+      "sourcePlaceholderCenter": [
+        -78.0,
+        9.6,
+        64.0
+      ],
+      "supportAsset": "VIC_E06_DOCUMENT_DESK",
+      "lootAsset": "VIC_L14_RIVER_PORTFOLIO",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_021",
+        "VIC_ART_022"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_012",
+      "sourceRootPosition": [
+        41.0,
+        6.8,
+        65.0
+      ],
+      "sourcePlaceholderCenter": [
+        41.0,
+        9.6,
+        65.0
+      ],
+      "supportAsset": "VIC_A07_PLINTH_OCTAGON",
+      "lootAsset": "VIC_L06_ABSTRACT_BRONZE",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_023",
+        "VIC_ART_024"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_013",
+      "sourceRootPosition": [
+        60.0,
+        6.8,
+        87.0
+      ],
+      "sourcePlaceholderCenter": [
+        60.0,
+        9.6,
+        87.0
+      ],
+      "supportAsset": "VIC_E02_CASE_MEDIUM",
+      "lootAsset": "VIC_L08_CEREMONIAL_VESSEL",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_025",
+        "VIC_ART_026"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_014",
+      "sourceRootPosition": [
+        80.0,
+        6.8,
+        65.0
+      ],
+      "sourcePlaceholderCenter": [
+        80.0,
+        9.6,
+        65.0
+      ],
+      "supportAsset": "VIC_A06_PLINTH_SQUARE",
+      "lootAsset": "VIC_L05_TRADE_COLLECTION",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_027",
+        "VIC_ART_028"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_015",
+      "sourceRootPosition": [
+        60.0,
+        6.8,
+        -87.0
+      ],
+      "sourcePlaceholderCenter": [
+        60.0,
+        9.6,
+        -87.0
+      ],
+      "supportAsset": "VIC_E03_CASE_PREMIUM",
+      "lootAsset": "VIC_L10_PREMIUM_INSIGNIA",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_029",
+        "VIC_ART_030"
+      ],
+      "allowedFootprintXZ": [
+        6,
+        6
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_016",
+      "sourceRootPosition": [
+        51.0,
+        6.8,
+        -87.0
+      ],
+      "sourcePlaceholderCenter": [
+        51.0,
+        9.6,
+        -87.0
+      ],
+      "supportAsset": "VIC_E03_CASE_PREMIUM",
+      "lootAsset": "VIC_L08_CEREMONIAL_VESSEL",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_031",
+        "VIC_ART_032"
+      ],
+      "allowedFootprintXZ": [
+        6,
+        6
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_017",
+      "sourceRootPosition": [
+        85.0,
+        6.8,
+        -76.0
+      ],
+      "sourcePlaceholderCenter": [
+        85.0,
+        9.6,
+        -76.0
+      ],
+      "supportAsset": "VIC_E03_CASE_PREMIUM",
+      "lootAsset": "VIC_L11_RARE_ARCHIVE_FOLIO",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_033",
+        "VIC_ART_034"
+      ],
+      "allowedFootprintXZ": [
+        6,
+        6
+      ]
+    },
+    {
+      "lootId": "VIC_LOOT_018",
+      "sourceRootPosition": [
+        76.0,
+        6.8,
+        -76.0
+      ],
+      "sourcePlaceholderCenter": [
+        76.0,
+        9.6,
+        -76.0
+      ],
+      "supportAsset": "VIC_E01_CASE_SMALL",
+      "lootAsset": "VIC_L07_PRESENTATION_SET",
+      "artworkId": null,
+      "instances": [
+        "VIC_ART_035",
+        "VIC_ART_036"
+      ],
+      "allowedFootprintXZ": [
+        4,
+        4
+      ]
+    }
+  ],
+  "securityBindings": [
+    {
+      "securityId": "VIC_SECURITY_LASER_001",
+      "sourcePadCenter": [
+        42.0,
+        6.98,
+        -85.0
+      ],
+      "reservedFootprintXZ": [
+        5.0,
+        10.0
+      ],
+      "instances": [
+        "VIC_ART_037",
+        "VIC_ART_038"
+      ]
+    },
+    {
+      "securityId": "VIC_SECURITY_LASER_002",
+      "sourcePadCenter": [
+        72.0,
+        6.98,
+        -84.0
+      ],
+      "reservedFootprintXZ": [
+        5.0,
+        10.0
+      ],
+      "instances": [
+        "VIC_ART_039",
+        "VIC_ART_040"
+      ]
+    },
+    {
+      "securityId": "VIC_SECURITY_MOVING_001",
+      "sourcePadCenter": [
+        49.0,
+        6.98,
+        -65.0
+      ],
+      "reservedFootprintXZ": [
+        8.0,
+        10.0
+      ],
+      "instances": [
+        "VIC_ART_041"
+      ]
+    },
+    {
+      "securityId": "VIC_SECURITY_ELECTRIC_001",
+      "sourcePadCenter": [
+        55.0,
+        6.98,
+        -76.0
+      ],
+      "reservedFootprintXZ": [
+        8.0,
+        8.0
+      ],
+      "instances": [
+        "VIC_ART_042"
+      ]
+    },
+    {
+      "securityId": "VIC_SECURITY_TERMINAL_001",
+      "sourcePadCenter": [
+        36.0,
+        6.98,
+        -62.0
+      ],
+      "reservedFootprintXZ": [
+        3.0,
+        3.0
+      ],
+      "instances": [
+        "VIC_ART_043"
+      ]
+    },
+    {
+      "securityId": "VIC_SECURITY_TERMINAL_002",
+      "sourcePadCenter": [
+        73.0,
+        6.98,
+        -62.0
+      ],
+      "reservedFootprintXZ": [
+        3.0,
+        3.0
+      ],
+      "instances": [
+        "VIC_ART_044"
+      ]
+    },
+    {
+      "securityId": "VIC_SECURITY_CASE_001",
+      "sourcePadCenter": [
+        60.0,
+        6.98,
+        -87.0
+      ],
+      "reservedFootprintXZ": [
+        6.0,
+        6.0
+      ],
+      "instances": [
+        "VIC_ART_029"
+      ]
+    },
+    {
+      "securityId": "VIC_SECURITY_CASE_002",
+      "sourcePadCenter": [
+        51.0,
+        6.98,
+        -87.0
+      ],
+      "reservedFootprintXZ": [
+        6.0,
+        6.0
+      ],
+      "instances": [
+        "VIC_ART_031"
+      ]
+    },
+    {
+      "securityId": "VIC_SECURITY_CASE_003",
+      "sourcePadCenter": [
+        85.0,
+        6.98,
+        -76.0
+      ],
+      "reservedFootprintXZ": [
+        6.0,
+        6.0
+      ],
+      "instances": [
+        "VIC_ART_033"
+      ]
+    }
+  ],
+  "artworkBindings": [
+    {
+      "lootId": "VIC_LOOT_002",
+      "artworkId": "ART_01_RIVER_DAWN",
+      "frameInstance": "VIC_ART_004",
+      "targetComponent": "Canvas",
+      "targetFace": "Front (-Z)",
+      "aspectRatio": 1.5,
+      "implementation": "Reuse uploaded image ID on existing frame backing; no sculpted art mesh"
+    },
+    {
+      "lootId": "VIC_LOOT_008",
+      "artworkId": "ART_02_MONSOON_STREET",
+      "frameInstance": "VIC_ART_016",
+      "targetComponent": "Canvas",
+      "targetFace": "Front (-Z)",
+      "aspectRatio": 1.5,
+      "implementation": "Reuse uploaded image ID on existing frame backing; no sculpted art mesh"
+    },
+    {
+      "lootId": "VIC_LOOT_009",
+      "artworkId": "ART_04_HERITAGE_SKYLINE",
+      "frameInstance": "VIC_ART_018",
+      "targetComponent": "Canvas",
+      "targetFace": "Front (-Z)",
+      "aspectRatio": 1.5,
+      "implementation": "Reuse uploaded image ID on existing frame backing; no sculpted art mesh"
+    },
+    {
+      "lootId": "VIC_LOOT_010",
+      "artworkId": "ART_03_GARDEN_STUDY",
+      "frameInstance": "VIC_ART_020",
+      "targetComponent": "Canvas",
+      "targetFace": "Front (-Z)",
+      "aspectRatio": 1.5,
+      "implementation": "Reuse uploaded image ID on existing frame backing; no sculpted art mesh"
+    }
+  ],
+  "instances": [
+    {
+      "instanceId": "VIC_ART_001",
+      "assetId": "VIC_E06_DOCUMENT_DESK",
+      "position": [
+        -39.0,
+        6.8,
+        -87.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "VIC_LOOT_001",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_002",
+      "assetId": "VIC_L02_LETTER",
+      "position": [
+        -39.0,
+        9.11,
+        -87.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "VIC_LOOT_001",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_003",
+      "assetId": "VIC_A10_FEATURE_PANEL",
+      "position": [
+        -56.0,
+        6.8,
+        -87.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "VIC_LOOT_002",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_004",
+      "assetId": "VIC_E04_FRAME_LANDSCAPE",
+      "position": [
+        -56.0,
+        8.95,
+        -86.96
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "VIC_LOOT_002",
+      "role": "Frame"
+    },
+    {
+      "instanceId": "VIC_ART_005",
+      "assetId": "VIC_E06_DOCUMENT_DESK",
+      "position": [
+        -39.0,
+        6.8,
+        -64.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "VIC_LOOT_003",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_006",
+      "assetId": "VIC_L01_FOLIO",
+      "position": [
+        -39.0,
+        9.11,
+        -64.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "VIC_LOOT_003",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_007",
+      "assetId": "VIC_E01_CASE_SMALL",
+      "position": [
+        -56.0,
+        6.8,
+        -64.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "VIC_LOOT_004",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_008",
+      "assetId": "VIC_L12_MINIATURE",
+      "position": [
+        -56.0,
+        8.52,
+        -64.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "VIC_LOOT_004",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_009",
+      "assetId": "VIC_E02_CASE_MEDIUM",
+      "position": [
+        -72.0,
+        6.8,
+        -76.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "VIC_LOOT_005",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_010",
+      "assetId": "VIC_L05_TRADE_COLLECTION",
+      "position": [
+        -72.0,
+        8.52,
+        -76.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "VIC_LOOT_005",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_011",
+      "assetId": "VIC_A07_PLINTH_OCTAGON",
+      "position": [
+        -84.0,
+        6.8,
+        -76.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "VIC_LOOT_006",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_012",
+      "assetId": "VIC_L09_KEEPSAKE",
+      "position": [
+        -84.0,
+        8.4,
+        -76.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "VIC_LOOT_006",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_013",
+      "assetId": "VIC_E02_CASE_MEDIUM",
+      "position": [
+        -78.0,
+        6.8,
+        -76.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "VIC_LOOT_007",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_014",
+      "assetId": "VIC_L07_PRESENTATION_SET",
+      "position": [
+        -78.0,
+        8.52,
+        -76.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "VIC_LOOT_007",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_015",
+      "assetId": "VIC_A10_FEATURE_PANEL",
+      "position": [
+        -40.0,
+        6.8,
+        65.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "VIC_LOOT_008",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_016",
+      "assetId": "VIC_E04_FRAME_LANDSCAPE",
+      "position": [
+        -40.0,
+        8.95,
+        65.04
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "VIC_LOOT_008",
+      "role": "Frame"
+    },
+    {
+      "instanceId": "VIC_ART_017",
+      "assetId": "VIC_A10_FEATURE_PANEL",
+      "position": [
+        -58.0,
+        6.8,
+        87.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "VIC_LOOT_009",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_018",
+      "assetId": "VIC_E04_FRAME_LANDSCAPE",
+      "position": [
+        -58.0,
+        8.95,
+        86.96
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "VIC_LOOT_009",
+      "role": "Frame"
+    },
+    {
+      "instanceId": "VIC_ART_019",
+      "assetId": "VIC_A10_FEATURE_PANEL",
+      "position": [
+        -78.0,
+        6.8,
+        87.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "VIC_LOOT_010",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_020",
+      "assetId": "VIC_E04_FRAME_LANDSCAPE",
+      "position": [
+        -78.0,
+        8.95,
+        86.96
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "VIC_LOOT_010",
+      "role": "Frame"
+    },
+    {
+      "instanceId": "VIC_ART_021",
+      "assetId": "VIC_E06_DOCUMENT_DESK",
+      "position": [
+        -78.0,
+        6.8,
+        64.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "VIC_LOOT_011",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_022",
+      "assetId": "VIC_L14_RIVER_PORTFOLIO",
+      "position": [
+        -78.0,
+        9.11,
+        64.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "VIC_LOOT_011",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_023",
+      "assetId": "VIC_A07_PLINTH_OCTAGON",
+      "position": [
+        41.0,
+        6.8,
+        65.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "VIC_LOOT_012",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_024",
+      "assetId": "VIC_L06_ABSTRACT_BRONZE",
+      "position": [
+        41.0,
+        8.4,
+        65.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "VIC_LOOT_012",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_025",
+      "assetId": "VIC_E02_CASE_MEDIUM",
+      "position": [
+        60.0,
+        6.8,
+        87.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "VIC_LOOT_013",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_026",
+      "assetId": "VIC_L08_CEREMONIAL_VESSEL",
+      "position": [
+        60.0,
+        8.52,
+        87.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "VIC_LOOT_013",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_027",
+      "assetId": "VIC_A06_PLINTH_SQUARE",
+      "position": [
+        80.0,
+        6.8,
+        65.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "VIC_LOOT_014",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_028",
+      "assetId": "VIC_L05_TRADE_COLLECTION",
+      "position": [
+        80.0,
+        8.4,
+        65.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "VIC_LOOT_014",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_029",
+      "assetId": "VIC_E03_CASE_PREMIUM",
+      "position": [
+        60.0,
+        6.8,
+        -87.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "VIC_LOOT_015",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_030",
+      "assetId": "VIC_L10_PREMIUM_INSIGNIA",
+      "position": [
+        60.0,
+        8.52,
+        -87.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "VIC_LOOT_015",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_031",
+      "assetId": "VIC_E03_CASE_PREMIUM",
+      "position": [
+        51.0,
+        6.8,
+        -87.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "VIC_LOOT_016",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_032",
+      "assetId": "VIC_L08_CEREMONIAL_VESSEL",
+      "position": [
+        51.0,
+        8.52,
+        -87.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "VIC_LOOT_016",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_033",
+      "assetId": "VIC_E03_CASE_PREMIUM",
+      "position": [
+        85.0,
+        6.8,
+        -76.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "VIC_LOOT_017",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_034",
+      "assetId": "VIC_L11_RARE_ARCHIVE_FOLIO",
+      "position": [
+        85.0,
+        8.52,
+        -76.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "VIC_LOOT_017",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_035",
+      "assetId": "VIC_E01_CASE_SMALL",
+      "position": [
+        76.0,
+        6.8,
+        -76.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "VIC_LOOT_018",
+      "role": "ExhibitSupport"
+    },
+    {
+      "instanceId": "VIC_ART_036",
+      "assetId": "VIC_L07_PRESENTATION_SET",
+      "position": [
+        76.0,
+        8.52,
+        -76.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "VIC_LOOT_018",
+      "role": "LootVisual"
+    },
+    {
+      "instanceId": "VIC_ART_037",
+      "assetId": "VIC_S01_STATIC_EMITTER",
+      "position": [
+        42.0,
+        6.8,
+        -90.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "VIC_SECURITY_LASER_001",
+      "role": "Emitter"
+    },
+    {
+      "instanceId": "VIC_ART_038",
+      "assetId": "VIC_S01_STATIC_EMITTER",
+      "position": [
+        42.0,
+        6.8,
+        -80.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "VIC_SECURITY_LASER_001",
+      "role": "Emitter"
+    },
+    {
+      "instanceId": "VIC_ART_039",
+      "assetId": "VIC_S01_STATIC_EMITTER",
+      "position": [
+        72.0,
+        6.8,
+        -89.0
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "VIC_SECURITY_LASER_002",
+      "role": "Emitter"
+    },
+    {
+      "instanceId": "VIC_ART_040",
+      "assetId": "VIC_S01_STATIC_EMITTER",
+      "position": [
+        72.0,
+        6.8,
+        -79.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "VIC_SECURITY_LASER_002",
+      "role": "Emitter"
+    },
+    {
+      "instanceId": "VIC_ART_041",
+      "assetId": "VIC_S02_MOVING_HOUSING",
+      "position": [
+        49.0,
+        6.8,
+        -65.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "VIC_SECURITY_MOVING_001",
+      "role": "Housing"
+    },
+    {
+      "instanceId": "VIC_ART_042",
+      "assetId": "VIC_S03_ELECTRIC_FLOOR",
+      "position": [
+        55.0,
+        6.8,
+        -76.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "VIC_SECURITY_ELECTRIC_001",
+      "role": "FloorInlay"
+    },
+    {
+      "instanceId": "VIC_ART_043",
+      "assetId": "VIC_S04_TERMINAL",
+      "position": [
+        36.0,
+        6.8,
+        -62.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "VIC_SECURITY_TERMINAL_001",
+      "role": "Terminal"
+    },
+    {
+      "instanceId": "VIC_ART_044",
+      "assetId": "VIC_S04_TERMINAL",
+      "position": [
+        73.0,
+        6.8,
+        -62.0
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "VIC_SECURITY_TERMINAL_002",
+      "role": "Terminal"
+    },
+    {
+      "instanceId": "VIC_ART_045",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -36.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_046",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -36.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_047",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -44.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_048",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -44.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_049",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -52.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_050",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -52.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_051",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -60.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_052",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -60.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_053",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -68.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_054",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -68.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_055",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -76.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_056",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -76.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_057",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -84.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_058",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -84.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_059",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -40,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_060",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -40,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_061",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -48,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_062",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -48,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_063",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -68.5,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_064",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -68.5,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_065",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -76.5,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_066",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -76.5,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_067",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -84.5,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_068",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -84.5,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_069",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        36.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_070",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        36.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_071",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        44.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_072",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        44.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_073",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        52.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_074",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        52.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_075",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        60.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_076",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        60.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_077",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        68.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_078",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        68.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_079",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        76.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_080",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        76.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_081",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        84.5,
+        6.8,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_082",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        84.5,
+        21.6,
+        -93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_083",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        40,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_084",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        40,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_085",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        48,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_086",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        48,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_087",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        68.5,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_088",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        68.5,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_089",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        76.5,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_090",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        76.5,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_091",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        84.5,
+        6.8,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_092",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        84.5,
+        21.6,
+        -58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_093",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -36.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_094",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -36.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_095",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -44.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_096",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -44.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_097",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -52.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_098",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -52.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_099",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -60.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_100",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -60.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_101",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -68.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_102",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -68.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_103",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -76.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_104",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -76.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_105",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -84.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_106",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -84.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_107",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -40,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_108",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -40,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_109",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -48,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_110",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -48,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_111",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -68.5,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_112",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -68.5,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_113",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -76.5,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_114",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -76.5,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_115",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        -84.5,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_116",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        -84.5,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_117",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        36.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_118",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        36.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_119",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        44.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_120",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        44.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_121",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        52.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_122",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        52.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_123",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        60.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_124",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        60.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_125",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        68.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_126",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        68.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_127",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        76.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_128",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        76.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_129",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        84.5,
+        6.8,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_130",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        84.5,
+        21.6,
+        93.1
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_131",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        40,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_132",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        40,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_133",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        48,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_134",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        48,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_135",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        68.5,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_136",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        68.5,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_137",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        76.5,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_138",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        76.5,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_139",
+      "assetId": "VIC_A04_DADO_8",
+      "position": [
+        84.5,
+        6.8,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallDado"
+    },
+    {
+      "instanceId": "VIC_ART_140",
+      "assetId": "VIC_A05_CORNICE_8",
+      "position": [
+        84.5,
+        21.6,
+        58.9
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingWall",
+      "role": "WallCornice"
+    },
+    {
+      "instanceId": "VIC_ART_141",
+      "assetId": "VIC_A03_ARCH_10",
+      "position": [
+        -65.3,
+        6.8,
+        -84
+      ],
+      "yaw": -1.5707963267948966,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingPartitionDoor",
+      "role": "ArchOverlay"
+    },
+    {
+      "instanceId": "VIC_ART_142",
+      "assetId": "VIC_A03_ARCH_10",
+      "position": [
+        -65.3,
+        6.8,
+        -66
+      ],
+      "yaw": -1.5707963267948966,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingPartitionDoor",
+      "role": "ArchOverlay"
+    },
+    {
+      "instanceId": "VIC_ART_143",
+      "assetId": "VIC_A03_ARCH_10",
+      "position": [
+        68.3,
+        6.8,
+        -84
+      ],
+      "yaw": 1.5707963267948966,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingPartitionDoor",
+      "role": "ArchOverlay"
+    },
+    {
+      "instanceId": "VIC_ART_144",
+      "assetId": "VIC_A09_RESTRICTED_PORTAL",
+      "position": [
+        68.1,
+        6.8,
+        -84
+      ],
+      "yaw": 1.5707963267948966,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingPartitionDoor",
+      "role": "RestrictedOverlay"
+    },
+    {
+      "instanceId": "VIC_ART_145",
+      "assetId": "VIC_A03_ARCH_10",
+      "position": [
+        68.3,
+        6.8,
+        -66
+      ],
+      "yaw": 1.5707963267948966,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingPartitionDoor",
+      "role": "ArchOverlay"
+    },
+    {
+      "instanceId": "VIC_ART_146",
+      "assetId": "VIC_A09_RESTRICTED_PORTAL",
+      "position": [
+        68.1,
+        6.8,
+        -66
+      ],
+      "yaw": 1.5707963267948966,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingPartitionDoor",
+      "role": "RestrictedOverlay"
+    },
+    {
+      "instanceId": "VIC_ART_147",
+      "assetId": "VIC_E08_INFO_STAND",
+      "position": [
+        -18,
+        7.04,
+        -17
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_MAIN_HALL",
+      "sourceMarker": "HallWayfinding",
+      "role": "InformationStand"
+    },
+    {
+      "instanceId": "VIC_ART_148",
+      "assetId": "VIC_E08_INFO_STAND",
+      "position": [
+        18,
+        7.04,
+        17
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_MAIN_HALL",
+      "sourceMarker": "HallWayfinding",
+      "role": "InformationStand"
+    },
+    {
+      "instanceId": "VIC_ART_149",
+      "assetId": "VIC_A11_MUSEUM_BANNER",
+      "position": [
+        -65.3,
+        14.0,
+        -75
+      ],
+      "yaw": -1.5707963267948966,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingPartitionPier",
+      "role": "MuseumBanner"
+    },
+    {
+      "instanceId": "VIC_ART_150",
+      "assetId": "VIC_A11_MUSEUM_BANNER",
+      "position": [
+        -66.7,
+        14.0,
+        -75
+      ],
+      "yaw": 1.5707963267948966,
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "sourceMarker": "ExistingPartitionPier",
+      "role": "MuseumBanner"
+    },
+    {
+      "instanceId": "VIC_ART_151",
+      "assetId": "VIC_A11_MUSEUM_BANNER",
+      "position": [
+        68.3,
+        14.0,
+        -75
+      ],
+      "yaw": 1.5707963267948966,
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "sourceMarker": "ExistingPartitionPier",
+      "role": "MuseumBanner"
+    },
+    {
+      "instanceId": "VIC_ART_152",
+      "assetId": "VIC_A11_MUSEUM_BANNER",
+      "position": [
+        69.7,
+        14.0,
+        -75
+      ],
+      "yaw": -1.5707963267948966,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ExistingPartitionPier",
+      "role": "MuseumBanner"
+    },
+    {
+      "instanceId": "VIC_ART_153",
+      "assetId": "VIC_E07_ARCHIVE_CABINET",
+      "position": [
+        79.5,
+        6.8,
+        -92.35
+      ],
+      "yaw": 3.141592653589793,
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "sourceMarker": "ArchiveWall",
+      "role": "SecureArchiveDressing"
+    },
+    {
+      "instanceId": "VIC_ART_154",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        -56,
+        6.805,
+        -76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_155",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        -48,
+        6.805,
+        -76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_156",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        -40,
+        6.805,
+        -76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_PUBLIC",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_157",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        -40,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_158",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        -48,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_159",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        -56,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_160",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        -64,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_161",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        -72,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_162",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        -80,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_163",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        40,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_164",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        48,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_165",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        56,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_166",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        64,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_167",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        72,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    },
+    {
+      "instanceId": "VIC_ART_168",
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "position": [
+        80,
+        6.805,
+        76
+      ],
+      "yaw": 0,
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "sourceMarker": "ExistingFloor",
+      "role": "FlatRunner"
+    }
+  ],
+  "countSummary": {
+    "assetsCreated": 37,
+    "assetsUsed": 31,
+    "instances": 168,
+    "uniqueCreatedTriangles": 4940,
+    "uniqueUsedTriangles": 4288,
+    "proposedPassTriangles": 14600,
+    "byCategory": {
+      "Architecture": 8064,
+      "Exhibition": 3348,
+      "Loot": 2364,
+      "Security": 824
+    }
+  },
+  "usage": [
+    {
+      "assetId": "VIC_A03_ARCH_10",
+      "instances": 4,
+      "trianglesPerAsset": 264,
+      "placedTriangles": 1056
+    },
+    {
+      "assetId": "VIC_A04_DADO_8",
+      "instances": 48,
+      "trianglesPerAsset": 48,
+      "placedTriangles": 2304
+    },
+    {
+      "assetId": "VIC_A05_CORNICE_8",
+      "instances": 48,
+      "trianglesPerAsset": 60,
+      "placedTriangles": 2880
+    },
+    {
+      "assetId": "VIC_A06_PLINTH_SQUARE",
+      "instances": 1,
+      "trianglesPerAsset": 60,
+      "placedTriangles": 60
+    },
+    {
+      "assetId": "VIC_A07_PLINTH_OCTAGON",
+      "instances": 2,
+      "trianglesPerAsset": 120,
+      "placedTriangles": 240
+    },
+    {
+      "assetId": "VIC_A09_RESTRICTED_PORTAL",
+      "instances": 2,
+      "trianglesPerAsset": 72,
+      "placedTriangles": 144
+    },
+    {
+      "assetId": "VIC_A10_FEATURE_PANEL",
+      "instances": 4,
+      "trianglesPerAsset": 72,
+      "placedTriangles": 288
+    },
+    {
+      "assetId": "VIC_A11_MUSEUM_BANNER",
+      "instances": 4,
+      "trianglesPerAsset": 48,
+      "placedTriangles": 192
+    },
+    {
+      "assetId": "VIC_A12_FLOOR_RUNNER_8",
+      "instances": 15,
+      "trianglesPerAsset": 60,
+      "placedTriangles": 900
+    },
+    {
+      "assetId": "VIC_E01_CASE_SMALL",
+      "instances": 2,
+      "trianglesPerAsset": 264,
+      "placedTriangles": 528
+    },
+    {
+      "assetId": "VIC_E02_CASE_MEDIUM",
+      "instances": 3,
+      "trianglesPerAsset": 264,
+      "placedTriangles": 792
+    },
+    {
+      "assetId": "VIC_E03_CASE_PREMIUM",
+      "instances": 3,
+      "trianglesPerAsset": 348,
+      "placedTriangles": 1044
+    },
+    {
+      "assetId": "VIC_E04_FRAME_LANDSCAPE",
+      "instances": 4,
+      "trianglesPerAsset": 72,
+      "placedTriangles": 288
+    },
+    {
+      "assetId": "VIC_E06_DOCUMENT_DESK",
+      "instances": 3,
+      "trianglesPerAsset": 120,
+      "placedTriangles": 360
+    },
+    {
+      "assetId": "VIC_E07_ARCHIVE_CABINET",
+      "instances": 1,
+      "trianglesPerAsset": 240,
+      "placedTriangles": 240
+    },
+    {
+      "assetId": "VIC_E08_INFO_STAND",
+      "instances": 2,
+      "trianglesPerAsset": 48,
+      "placedTriangles": 96
+    },
+    {
+      "assetId": "VIC_L01_FOLIO",
+      "instances": 1,
+      "trianglesPerAsset": 72,
+      "placedTriangles": 72
+    },
+    {
+      "assetId": "VIC_L02_LETTER",
+      "instances": 1,
+      "trianglesPerAsset": 32,
+      "placedTriangles": 32
+    },
+    {
+      "assetId": "VIC_L05_TRADE_COLLECTION",
+      "instances": 2,
+      "trianglesPerAsset": 196,
+      "placedTriangles": 392
+    },
+    {
+      "assetId": "VIC_L06_ABSTRACT_BRONZE",
+      "instances": 1,
+      "trianglesPerAsset": 148,
+      "placedTriangles": 148
+    },
+    {
+      "assetId": "VIC_L07_PRESENTATION_SET",
+      "instances": 2,
+      "trianglesPerAsset": 180,
+      "placedTriangles": 360
+    },
+    {
+      "assetId": "VIC_L08_CEREMONIAL_VESSEL",
+      "instances": 2,
+      "trianglesPerAsset": 300,
+      "placedTriangles": 600
+    },
+    {
+      "assetId": "VIC_L09_KEEPSAKE",
+      "instances": 1,
+      "trianglesPerAsset": 160,
+      "placedTriangles": 160
+    },
+    {
+      "assetId": "VIC_L10_PREMIUM_INSIGNIA",
+      "instances": 1,
+      "trianglesPerAsset": 216,
+      "placedTriangles": 216
+    },
+    {
+      "assetId": "VIC_L11_RARE_ARCHIVE_FOLIO",
+      "instances": 1,
+      "trianglesPerAsset": 204,
+      "placedTriangles": 204
+    },
+    {
+      "assetId": "VIC_L12_MINIATURE",
+      "instances": 1,
+      "trianglesPerAsset": 108,
+      "placedTriangles": 108
+    },
+    {
+      "assetId": "VIC_L14_RIVER_PORTFOLIO",
+      "instances": 1,
+      "trianglesPerAsset": 72,
+      "placedTriangles": 72
+    },
+    {
+      "assetId": "VIC_S01_STATIC_EMITTER",
+      "instances": 4,
+      "trianglesPerAsset": 76,
+      "placedTriangles": 304
+    },
+    {
+      "assetId": "VIC_S02_MOVING_HOUSING",
+      "instances": 1,
+      "trianglesPerAsset": 100,
+      "placedTriangles": 100
+    },
+    {
+      "assetId": "VIC_S03_ELECTRIC_FLOOR",
+      "instances": 1,
+      "trianglesPerAsset": 108,
+      "placedTriangles": 108
+    },
+    {
+      "assetId": "VIC_S04_TERMINAL",
+      "instances": 2,
+      "trianglesPerAsset": 156,
+      "placedTriangles": 312
+    }
+  ],
+  "optionalLibraryAssets": [
+    "VIC_A01_COLUMN",
+    "VIC_A02_PILASTER",
+    "VIC_A08_BARRIER_4",
+    "VIC_E05_FRAME_PORTRAIT",
+    "VIC_E09_PLAQUE",
+    "VIC_E10_ARCHIVE_SHELF"
+  ],
+  "collisionPolicy": "Decoration stays non-colliding; retain authored floor/wall and simple exhibit collision. No asset enables damage/touch logic.",
+  "upperFloor": "Unchanged and unused",
+  "sourceHashes": {
+    "authoring/task007/BuildGreybox.luau": "9968ea058db10ded731e24b226ea86cee6d3e06cac62d0fdf427ab85cce52953",
+    "docs/task007/inspection.json": "1766b5dd20d2f3c73ac7b7a03db1b8851d38608a8d54de68d56fb2f12316a964",
+    "docs/task007/snapshot.json": "c1f96716420536d4428bb0bb5919a969a131b34ab2597c5d374f97dcdd6ead94",
+    "artifacts/VictoriaMemorial-Task007.rbxm": "eff762c5b412a6d9db46803ca69bd89eeace002d36d092a841700b46e0929274",
+    "assets/victoria-memorial/VictoriaMemorial.blend": "c058b2d0344dedcc3b3506c81170536746162b3d5367b8915e7bb5f56cb0fef5",
+    "assets/victoria-memorial/assembly-manifest.json": "aa6763a0eaefa1f807c10ca4ae5777da24a35b792ed6c2c5574e30c3b0b54983"
+  }
+}

@@ -4,6 +4,12 @@
 
 ## Files and ownership
 
+Task 008's [interior art kit](interior/README.md) contains 37 reusable assets,
+individual Blender/FBX files, six concepts, four flat original painting images,
+an offline placement manifest and assembled review renders. It preserves Task
+007's exact layout and is not yet installed in Studio. Keep this additive kit
+separate from the original landmark sources below.
+
 Task 007 adds a Studio-owned interior heist greybox without changing this Blender
 shell or any approved original geometry. See [the layout and recovery notes](../../docs/task007/README.md).
 The old Blender/FBX exports do not contain this additive greybox. Preserve the
