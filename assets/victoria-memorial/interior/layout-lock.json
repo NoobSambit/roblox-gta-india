@@ -1,0 +1,709 @@
+{
+  "source": "authoring/task007/BuildGreybox.luau",
+  "units": "Roblox studs, landmark-local Y-up; Blender maps (x,-z,y)",
+  "rooms": [
+    {
+      "roomId": "VIC_ROOM_MAIN_HALL",
+      "name": "A  QUEEN'S HALL",
+      "centerXZ": [
+        0.0,
+        0.0
+      ],
+      "sizeXZ": [
+        54.0,
+        54.0
+      ],
+      "risk": "Orientation"
+    },
+    {
+      "roomId": "VIC_ROOM_PUBLIC",
+      "name": "B  PUBLIC EXHIBITION",
+      "centerXZ": [
+        -48.5,
+        -76.0
+      ],
+      "sizeXZ": [
+        33.0,
+        34.0
+      ],
+      "risk": "Public"
+    },
+    {
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "name": "C3  COLLECTIONS",
+      "centerXZ": [
+        -78.0,
+        -76.0
+      ],
+      "sizeXZ": [
+        22.0,
+        34.0
+      ],
+      "risk": "Medium"
+    },
+    {
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "name": "C1  PAINTING GALLERY",
+      "centerXZ": [
+        -60.5,
+        76.0
+      ],
+      "sizeXZ": [
+        57.0,
+        34.0
+      ],
+      "risk": "Medium"
+    },
+    {
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "name": "C2  SCULPTURE GALLERY",
+      "centerXZ": [
+        60.5,
+        76.0
+      ],
+      "sizeXZ": [
+        57.0,
+        34.0
+      ],
+      "risk": "Medium"
+    },
+    {
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "name": "D  HIGH SECURITY",
+      "centerXZ": [
+        50.0,
+        -76.0
+      ],
+      "sizeXZ": [
+        36.0,
+        34.0
+      ],
+      "risk": "High"
+    },
+    {
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "name": "E  RESTRICTED ARCHIVE",
+      "centerXZ": [
+        79.5,
+        -76.0
+      ],
+      "sizeXZ": [
+        19.0,
+        34.0
+      ],
+      "risk": "Restricted"
+    }
+  ],
+  "loot": [
+    {
+      "lootId": "VIC_LOOT_001",
+      "roomId": "VIC_ROOM_PUBLIC",
+      "rootPosition": [
+        -39.0,
+        6.8,
+        -87.0
+      ],
+      "placeholderCenter": [
+        -39.0,
+        9.6,
+        -87.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Common",
+      "name": "Reproduction-era correspondence"
+    },
+    {
+      "lootId": "VIC_LOOT_002",
+      "roomId": "VIC_ROOM_PUBLIC",
+      "rootPosition": [
+        -56.0,
+        6.8,
+        -87.0
+      ],
+      "placeholderCenter": [
+        -56.0,
+        9.6,
+        -87.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Standard",
+      "name": "Imagined river study"
+    },
+    {
+      "lootId": "VIC_LOOT_003",
+      "roomId": "VIC_ROOM_PUBLIC",
+      "rootPosition": [
+        -39.0,
+        6.8,
+        -64.0
+      ],
+      "placeholderCenter": [
+        -39.0,
+        9.6,
+        -64.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Common",
+      "name": "Historic print folio"
+    },
+    {
+      "lootId": "VIC_LOOT_004",
+      "roomId": "VIC_ROOM_PUBLIC",
+      "rootPosition": [
+        -56.0,
+        6.8,
+        -64.0
+      ],
+      "placeholderCenter": [
+        -56.0,
+        9.6,
+        -64.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Standard",
+      "name": "Decorative miniature"
+    },
+    {
+      "lootId": "VIC_LOOT_005",
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "rootPosition": [
+        -72.0,
+        6.8,
+        -76.0
+      ],
+      "placeholderCenter": [
+        -72.0,
+        9.6,
+        -76.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Valuable",
+      "name": "Fictional trade collection"
+    },
+    {
+      "lootId": "VIC_LOOT_006",
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "rootPosition": [
+        -84.0,
+        6.8,
+        -76.0
+      ],
+      "placeholderCenter": [
+        -84.0,
+        9.6,
+        -76.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Rare",
+      "name": "Ceremonial keepsake"
+    },
+    {
+      "lootId": "VIC_LOOT_007",
+      "roomId": "VIC_ROOM_GALLERY_C",
+      "rootPosition": [
+        -78.0,
+        6.8,
+        -76.0
+      ],
+      "placeholderCenter": [
+        -78.0,
+        9.6,
+        -76.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Valuable",
+      "name": "Engraved presentation set"
+    },
+    {
+      "lootId": "VIC_LOOT_008",
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "rootPosition": [
+        -40.0,
+        6.8,
+        65.0
+      ],
+      "placeholderCenter": [
+        -40.0,
+        9.6,
+        65.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Standard",
+      "name": "Monsoon street study"
+    },
+    {
+      "lootId": "VIC_LOOT_009",
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "rootPosition": [
+        -58.0,
+        6.8,
+        87.0
+      ],
+      "placeholderCenter": [
+        -58.0,
+        9.6,
+        87.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Valuable",
+      "name": "Fictional city panorama"
+    },
+    {
+      "lootId": "VIC_LOOT_010",
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "rootPosition": [
+        -78.0,
+        6.8,
+        87.0
+      ],
+      "placeholderCenter": [
+        -78.0,
+        9.6,
+        87.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Standard",
+      "name": "Imagined garden painting"
+    },
+    {
+      "lootId": "VIC_LOOT_011",
+      "roomId": "VIC_ROOM_GALLERY_A",
+      "rootPosition": [
+        -78.0,
+        6.8,
+        64.0
+      ],
+      "placeholderCenter": [
+        -78.0,
+        9.6,
+        64.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Valuable",
+      "name": "River-trade portfolio"
+    },
+    {
+      "lootId": "VIC_LOOT_012",
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "rootPosition": [
+        41.0,
+        6.8,
+        65.0
+      ],
+      "placeholderCenter": [
+        41.0,
+        9.6,
+        65.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Valuable",
+      "name": "Small abstract bronze"
+    },
+    {
+      "lootId": "VIC_LOOT_013",
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "rootPosition": [
+        60.0,
+        6.8,
+        87.0
+      ],
+      "placeholderCenter": [
+        60.0,
+        9.6,
+        87.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Rare",
+      "name": "Fictional ceremonial vessel"
+    },
+    {
+      "lootId": "VIC_LOOT_014",
+      "roomId": "VIC_ROOM_GALLERY_B",
+      "rootPosition": [
+        80.0,
+        6.8,
+        65.0
+      ],
+      "placeholderCenter": [
+        80.0,
+        9.6,
+        65.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Valuable",
+      "name": "Decorative sculpture set"
+    },
+    {
+      "lootId": "VIC_LOOT_015",
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "rootPosition": [
+        60.0,
+        6.8,
+        -87.0
+      ],
+      "placeholderCenter": [
+        60.0,
+        9.6,
+        -87.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Premium",
+      "name": "Fictional jewelled insignia"
+    },
+    {
+      "lootId": "VIC_LOOT_016",
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "rootPosition": [
+        51.0,
+        6.8,
+        -87.0
+      ],
+      "placeholderCenter": [
+        51.0,
+        9.6,
+        -87.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Rare",
+      "name": "Protected presentation artefact"
+    },
+    {
+      "lootId": "VIC_LOOT_017",
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "rootPosition": [
+        85.0,
+        6.8,
+        -76.0
+      ],
+      "placeholderCenter": [
+        85.0,
+        9.6,
+        -76.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Premium",
+      "name": "Fictional rare archive folio"
+    },
+    {
+      "lootId": "VIC_LOOT_018",
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "rootPosition": [
+        76.0,
+        6.8,
+        -76.0
+      ],
+      "placeholderCenter": [
+        76.0,
+        9.6,
+        -76.0
+      ],
+      "footprintXZ": [
+        4,
+        4
+      ],
+      "category": "Rare",
+      "name": "Restricted ceremonial collection"
+    }
+  ],
+  "security": [
+    {
+      "securityId": "VIC_SECURITY_LASER_001",
+      "type": "StaticLaserGrid",
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "tier": 2,
+      "padCenter": [
+        42.0,
+        6.98,
+        -85.0
+      ],
+      "footprintXZ": [
+        5.0,
+        10.0
+      ],
+      "note": "Side branch; clear central retreat lane"
+    },
+    {
+      "securityId": "VIC_SECURITY_LASER_002",
+      "type": "StaticLaserGrid",
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "tier": 3,
+      "padCenter": [
+        72.0,
+        6.98,
+        -84.0
+      ],
+      "footprintXZ": [
+        5.0,
+        10.0
+      ],
+      "note": "Archive north approach; alternate south door"
+    },
+    {
+      "securityId": "VIC_SECURITY_MOVING_001",
+      "type": "MovingLaser",
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "tier": 3,
+      "padCenter": [
+        49.0,
+        6.98,
+        -65.0
+      ],
+      "footprintXZ": [
+        8.0,
+        10.0
+      ],
+      "note": "Predictable sweep only within marked envelope"
+    },
+    {
+      "securityId": "VIC_SECURITY_ELECTRIC_001",
+      "type": "ElectricalFloor",
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "tier": 3,
+      "padCenter": [
+        55.0,
+        6.98,
+        -76.0
+      ],
+      "footprintXZ": [
+        8.0,
+        8.0
+      ],
+      "note": "Telegraphed short crossing; walk around either side"
+    },
+    {
+      "securityId": "VIC_SECURITY_TERMINAL_001",
+      "type": "SecurityTerminal",
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "tier": 2,
+      "padCenter": [
+        36.0,
+        6.98,
+        -62.0
+      ],
+      "footprintXZ": [
+        3.0,
+        3.0
+      ],
+      "note": "Future short disable for LASER_001 and MOVING_001"
+    },
+    {
+      "securityId": "VIC_SECURITY_TERMINAL_002",
+      "type": "SecurityTerminal",
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "tier": 3,
+      "padCenter": [
+        73.0,
+        6.98,
+        -62.0
+      ],
+      "footprintXZ": [
+        3.0,
+        3.0
+      ],
+      "note": "Future short disable for LASER_002"
+    },
+    {
+      "securityId": "VIC_SECURITY_CASE_001",
+      "type": "ProtectedCase",
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "tier": 3,
+      "padCenter": [
+        60.0,
+        6.98,
+        -87.0
+      ],
+      "footprintXZ": [
+        6.0,
+        6.0
+      ],
+      "note": "Associated loot VIC_LOOT_015"
+    },
+    {
+      "securityId": "VIC_SECURITY_CASE_002",
+      "type": "ProtectedCase",
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "tier": 2,
+      "padCenter": [
+        51.0,
+        6.98,
+        -87.0
+      ],
+      "footprintXZ": [
+        6.0,
+        6.0
+      ],
+      "note": "Associated loot VIC_LOOT_016"
+    },
+    {
+      "securityId": "VIC_SECURITY_CASE_003",
+      "type": "ProtectedCase",
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "tier": 3,
+      "padCenter": [
+        85.0,
+        6.98,
+        -76.0
+      ],
+      "footprintXZ": [
+        6.0,
+        6.0
+      ],
+      "note": "Associated loot VIC_LOOT_017"
+    }
+  ],
+  "exits": [
+    {
+      "routeId": "VIC_EXIT_MAIN",
+      "position": [
+        0.0,
+        6.12,
+        -102.0
+      ],
+      "note": "Main portal / approach stairs",
+      "footprintXZ": [
+        28.0,
+        10.0
+      ]
+    },
+    {
+      "routeId": "VIC_EXIT_REAR",
+      "position": [
+        0.0,
+        6.12,
+        102.0
+      ],
+      "note": "Opposite portal / approach stairs",
+      "footprintXZ": [
+        28.0,
+        10.0
+      ]
+    },
+    {
+      "routeId": "VIC_EXIT_SIDE_A",
+      "position": [
+        -130.0,
+        6.12,
+        0.0
+      ],
+      "note": "Open quadrangle / existing side stairs",
+      "footprintXZ": [
+        10.0,
+        18.0
+      ]
+    },
+    {
+      "routeId": "VIC_EXIT_SIDE_B",
+      "position": [
+        130.0,
+        6.12,
+        0.0
+      ],
+      "note": "Open quadrangle / existing side stairs",
+      "footprintXZ": [
+        10.0,
+        18.0
+      ]
+    }
+  ],
+  "restricted": [
+    {
+      "id": "VIC_RESTRICTED_001",
+      "roomId": "VIC_ROOM_HIGH_SECURITY",
+      "center": [
+        50,
+        17,
+        -76
+      ],
+      "size": [
+        36,
+        20.4,
+        34
+      ]
+    },
+    {
+      "id": "VIC_RESTRICTED_002",
+      "roomId": "VIC_ROOM_ARCHIVE",
+      "center": [
+        79.5,
+        17,
+        -76
+      ],
+      "size": [
+        19,
+        20.4,
+        34
+      ]
+    }
+  ],
+  "partitionDoorways": {
+    "partitionX": [
+      -66,
+      69
+    ],
+    "doorwayZ": [
+      -84,
+      -66
+    ],
+    "clearWidth": 10,
+    "clearHeight": 14
+  },
+  "sourceHashes": {
+    "authoring/task007/BuildGreybox.luau": "9968ea058db10ded731e24b226ea86cee6d3e06cac62d0fdf427ab85cce52953",
+    "docs/task007/inspection.json": "1766b5dd20d2f3c73ac7b7a03db1b8851d38608a8d54de68d56fb2f12316a964",
+    "docs/task007/snapshot.json": "c1f96716420536d4428bb0bb5919a969a131b34ab2597c5d374f97dcdd6ead94",
+    "artifacts/VictoriaMemorial-Task007.rbxm": "eff762c5b412a6d9db46803ca69bd89eeace002d36d092a841700b46e0929274",
+    "assets/victoria-memorial/VictoriaMemorial.blend": "c058b2d0344dedcc3b3506c81170536746162b3d5367b8915e7bb5f56cb0fef5",
+    "assets/victoria-memorial/assembly-manifest.json": "aa6763a0eaefa1f807c10ca4ae5777da24a35b792ed6c2c5574e30c3b0b54983"
+  }
+}
