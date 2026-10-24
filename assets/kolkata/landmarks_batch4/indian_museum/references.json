@@ -1,0 +1,25 @@
+{
+  "primarySources": [
+    {
+      "attachment": "image-4.png",
+      "sha256": "13b3f69cce6cfa3360903963a413411df3fe4548a5eff03fb4859bdb3b1fb85d",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    },
+    {
+      "attachment": "image-5.png",
+      "sha256": "a5ae2e8703ab1659dad2a73024b5719a445f6743da90fb4382103bf21eb96f13",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    },
+    {
+      "attachment": "image-6.png",
+      "sha256": "26073c2e6ffda39e8d67cda86d93f8110b67b23b174f2126df57a5568192c560",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    }
+  ],
+  "additionalReference": null,
+  "excludedImage11": "Different long retail/colonnaded elevation, inconsistent with the museum entry/court in images 4\u20136; not used for museum geometry.",
+  "modelProvenance": "Original procedural mesh/texture work; no external meshes, photo textures, AI generation or proprietary game assets"
+}

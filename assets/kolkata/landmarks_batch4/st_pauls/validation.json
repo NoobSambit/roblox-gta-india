@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "sourceUniqueMeshes": 88,
+  "sourceMeshInstances": 302,
+  "finiteVertices": true,
+  "nonManifoldEdges": 0,
+  "inconsistentWinding": 0,
+  "degenerateFaces": 0,
+  "sourceUVsPresent": true,
+  "allExportMeshesUnder15000": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__00_FoundationGrounds.fbx",
+      "triangles": 5016,
+      "meshObjects": 7,
+      "largestMeshTriangles": 3180,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__01_PrimaryStructure.fbx",
+      "triangles": 120,
+      "meshObjects": 1,
+      "largestMeshTriangles": 120,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__04_RoofsTower.fbx",
+      "triangles": 8956,
+      "meshObjects": 5,
+      "largestMeshTriangles": 3376,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__03_ModularArchitecture.fbx",
+      "triangles": 19264,
+      "meshObjects": 7,
+      "largestMeshTriangles": 11856,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__05_FacadeDetails.fbx",
+      "triangles": 11368,
+      "meshObjects": 5,
+      "largestMeshTriangles": 7968,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__02_EntrancePorches.fbx",
+      "triangles": 932,
+      "meshObjects": 5,
+      "largestMeshTriangles": 456,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__06_LightingFixtures.fbx",
+      "triangles": 640,
+      "meshObjects": 2,
+      "largestMeshTriangles": 520,
+      "fbxVersion": 7400
+    }
+  ],
+  "representativeRoundTrip": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__03_ModularArchitecture.fbx",
+  "roundTripBoundsErrorStuds": 1.5616416931152344e-05,
+  "roundTripMaterialsAndUVs": true,
+  "limitations": "No Studio integration, collision/player traversal test, gameplay test, or device performance measurement.",
+  "previews": [
+    "preview-hero.png",
+    "preview-elevated.png",
+    "preview-grounds.png",
+    "preview-night-rear.png",
+    "preview-night.png"
+  ]
+}

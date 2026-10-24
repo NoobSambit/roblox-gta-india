@@ -2,6 +2,8 @@
 
 Git remote: [roblox-gta-india](https://github.com/NoobSambit/roblox-gta-india). See [repository workflow](docs/repository-workflow.md) for source ownership, commits and asset tracking.
 
+**Tier 1 Batch 4** adds standalone Blender packages for **New Market, Indian Museum and St. Paul's Cathedral**, with modular FBXs, compact grounds, night-light positions and four original views each. See the [asset handoff](assets/kolkata/landmarks_batch4/README.md) and [combined contact sheet](assets/kolkata/landmarks_batch4/contact-sheet.png). These assets are prepared for later Studio integration; no city assembly, gameplay or publication is included.
+
 **Task 008: Victoria Memorial interior art kit** provides 37 reusable Blender
 assets with individual FBXs and previews, six stylized concept references and
 four original flat paintings. The offline placement proposal adds 14,600

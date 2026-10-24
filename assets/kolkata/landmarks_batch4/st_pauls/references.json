@@ -1,0 +1,25 @@
+{
+  "primarySources": [
+    {
+      "attachment": "image-1.png",
+      "sha256": "be654b31bd2134b33e80d5a023ff1e75e7c0350203d2d4a5c2674b690b34d11b",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    },
+    {
+      "attachment": "image-2.png",
+      "sha256": "3329f03c6c06232cabc5da73ac566ad578bb42888d06f038597955e4a2a9c18c",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    },
+    {
+      "attachment": "image-3.png",
+      "sha256": "498ba1825b76f4798e4236808ff82458480d0b1f2b591feaaee873d7f0aee46c",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    }
+  ],
+  "additionalReference": "Cathedral facade photograph supplied in later user feedback; used for tower/buttress/porch detailing. No local attachment path was exposed for this image.",
+  "excludedImage11": "Different long retail/colonnaded elevation, inconsistent with the museum entry/court in images 4\u20136; not used for museum geometry.",
+  "modelProvenance": "Original procedural mesh/texture work; no external meshes, photo textures, AI generation or proprietary game assets"
+}

@@ -1,0 +1,565 @@
+{
+  "assetId": "KOL_T1_INDIAN_MUSEUM",
+  "name": "Indian Museum, Kolkata",
+  "source": "KOL_T1_INDIAN_MUSEUM.blend",
+  "dimensionsStuds": {
+    "width": 282.0,
+    "height": 64.47,
+    "depth": 218.0
+  },
+  "buildingDimensionsStuds": {
+    "width": 249.6,
+    "height": 61.82,
+    "depth": 181.1
+  },
+  "assembledTriangles": 58900,
+  "uniqueSourceTriangles": 16836,
+  "largestMeshTriangles": 1992,
+  "uniqueMeshes": 97,
+  "meshInstances": 440,
+  "exports": [
+    {
+      "section": "00_FoundationGrounds",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__00_FoundationGrounds.fbx",
+      "triangles": 5776,
+      "meshInstances": 10,
+      "largestExportMeshTriangles": 3828
+    },
+    {
+      "section": "01_PrimaryStructure",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__01_PrimaryStructure.fbx",
+      "triangles": 168,
+      "meshInstances": 3,
+      "largestExportMeshTriangles": 96
+    },
+    {
+      "section": "04_RoofsCrown",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__04_RoofsCrown.fbx",
+      "triangles": 4476,
+      "meshInstances": 4,
+      "largestExportMeshTriangles": 1884
+    },
+    {
+      "section": "02_EntrancePortico",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__02_EntrancePortico.fbx",
+      "triangles": 3784,
+      "meshInstances": 4,
+      "largestExportMeshTriangles": 3316
+    },
+    {
+      "section": "05_FacadeDetails",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__05_FacadeDetails.fbx",
+      "triangles": 18740,
+      "meshInstances": 5,
+      "largestExportMeshTriangles": 11916
+    },
+    {
+      "section": "03_ModularArchitecture",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__03_ModularArchitecture.fbx",
+      "triangles": 24996,
+      "meshInstances": 5,
+      "largestExportMeshTriangles": 11972
+    },
+    {
+      "section": "06_LightingFixtures",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__06_LightingFixtures.fbx",
+      "triangles": 960,
+      "meshInstances": 2,
+      "largestExportMeshTriangles": 780
+    }
+  ],
+  "nightLights": [
+    {
+      "name": "Street_uplight_-108",
+      "positionStuds": [
+        -108,
+        0.4,
+        -96
+      ],
+      "targetStuds": [
+        -108,
+        34,
+        -83
+      ],
+      "rangeStuds": 48,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Street_uplight_-68",
+      "positionStuds": [
+        -68,
+        0.4,
+        -96
+      ],
+      "targetStuds": [
+        -68,
+        34,
+        -83
+      ],
+      "rangeStuds": 48,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Street_uplight_-32",
+      "positionStuds": [
+        -32,
+        0.4,
+        -96
+      ],
+      "targetStuds": [
+        -32,
+        34,
+        -83
+      ],
+      "rangeStuds": 48,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Street_uplight_32",
+      "positionStuds": [
+        32,
+        0.4,
+        -96
+      ],
+      "targetStuds": [
+        32,
+        34,
+        -83
+      ],
+      "rangeStuds": 48,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Street_uplight_68",
+      "positionStuds": [
+        68,
+        0.4,
+        -96
+      ],
+      "targetStuds": [
+        68,
+        34,
+        -83
+      ],
+      "rangeStuds": 48,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Street_uplight_108",
+      "positionStuds": [
+        108,
+        0.4,
+        -96
+      ],
+      "targetStuds": [
+        108,
+        34,
+        -83
+      ],
+      "rangeStuds": 48,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Portico_giant_column_-1",
+      "positionStuds": [
+        -15,
+        25,
+        -95
+      ],
+      "targetStuds": [
+        -12,
+        49,
+        -87
+      ],
+      "rangeStuds": 32,
+      "brightness": 1.8,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Side_wash_-1",
+      "positionStuds": [
+        -132,
+        0.4,
+        5
+      ],
+      "targetStuds": [
+        -124,
+        35,
+        5
+      ],
+      "rangeStuds": 46,
+      "brightness": 1.6,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Portico_giant_column_1",
+      "positionStuds": [
+        15,
+        25,
+        -95
+      ],
+      "targetStuds": [
+        12,
+        49,
+        -87
+      ],
+      "rangeStuds": 32,
+      "brightness": 1.8,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Side_wash_1",
+      "positionStuds": [
+        132,
+        0.4,
+        5
+      ],
+      "targetStuds": [
+        124,
+        35,
+        5
+      ],
+      "rangeStuds": 46,
+      "brightness": 1.6,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Court_arcade_-68_-44",
+      "positionStuds": [
+        -68,
+        0.45,
+        -44
+      ],
+      "targetStuds": [
+        -68,
+        30,
+        -53.0
+      ],
+      "rangeStuds": 40,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Court_arcade_68_-44",
+      "positionStuds": [
+        68,
+        0.45,
+        -44
+      ],
+      "targetStuds": [
+        68,
+        30,
+        -53.0
+      ],
+      "rangeStuds": 40,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Court_arcade_-68_44",
+      "positionStuds": [
+        -68,
+        0.45,
+        44
+      ],
+      "targetStuds": [
+        -68,
+        30,
+        53.0
+      ],
+      "rangeStuds": 40,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Court_arcade_68_44",
+      "positionStuds": [
+        68,
+        0.45,
+        44
+      ],
+      "targetStuds": [
+        68,
+        30,
+        53.0
+      ],
+      "rangeStuds": 40,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Entrance_vault",
+      "positionStuds": [
+        0,
+        22,
+        -77
+      ],
+      "targetStuds": [
+        0,
+        4,
+        -85
+      ],
+      "rangeStuds": 25,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Rear_institution_wash_-75",
+      "positionStuds": [
+        -75,
+        0.4,
+        100
+      ],
+      "targetStuds": [
+        -75,
+        35,
+        86
+      ],
+      "rangeStuds": 44,
+      "brightness": 1.6,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Rear_institution_wash_0",
+      "positionStuds": [
+        0,
+        0.4,
+        100
+      ],
+      "targetStuds": [
+        0,
+        35,
+        86
+      ],
+      "rangeStuds": 44,
+      "brightness": 1.6,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Rear_institution_wash_75",
+      "positionStuds": [
+        75,
+        0.4,
+        100
+      ],
+      "targetStuds": [
+        75,
+        35,
+        86
+      ],
+      "rangeStuds": 44,
+      "brightness": 1.6,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "KOL_T1_B4_Brass",
+      "color": "AD925F",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Dark",
+      "color": "202D30",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Glass",
+      "color": "435B60",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Glow",
+      "color": "E7C58B",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Green",
+      "color": "225D49",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Iron",
+      "color": "364747",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Lawn",
+      "color": "61764B",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Leaf",
+      "color": "3E6548",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_LeafLight",
+      "color": "69834E",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_MuseumBand",
+      "color": "C4B18C",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_MuseumRecess",
+      "color": "B3A68F",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_MuseumRoof",
+      "color": "4B5B5D",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_MuseumStone",
+      "color": "A6977D",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_MuseumTrim",
+      "color": "EDE5D1",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_MuseumWall",
+      "color": "CDBE9F",
+      "texture": "../textures/B4_MuseumWall.png"
+    },
+    {
+      "name": "KOL_T1_B4_Paving",
+      "color": "ACA38E",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Water",
+      "color": "5E9EA5",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Wood",
+      "color": "624E3C",
+      "texture": null
+    }
+  ],
+  "origin": "Ground center; Blender +Y front, Z up; Roblox -Z front, Y up; Stud/1",
+  "scope": "Standalone exterior package only; no Studio import or gameplay",
+  "sourceCollection": "KOL_T1_INDIAN_MUSEUM__SOURCE",
+  "exportCollection": "80_ExportReady__baked_sections.001"
+}

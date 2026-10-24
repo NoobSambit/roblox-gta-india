@@ -1,0 +1,37 @@
+{
+  "primarySources": [
+    {
+      "attachment": "image-7.png",
+      "sha256": "73079c46c545aad63055caaa41cf406a2e027c282e5e60f9bc2bb1234773c2dc",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    },
+    {
+      "attachment": "image-8.png",
+      "sha256": "80c0b6f1d6602221e5b35040f8aaf7fa2abb2d47e376b76605b88616a3e4e8d4",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    },
+    {
+      "attachment": "image-9.png",
+      "sha256": "6dc4466d3a42687b72f974a8be30b3def5050b255fbe8eb40d041eb0b035d35e",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    },
+    {
+      "attachment": "image-10.png",
+      "sha256": "824791f353c79652a17a6c8c245c933b0229515913acdf3fb2dc70863700b89a",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    },
+    {
+      "attachment": "image-12.png",
+      "sha256": "5f124b5c9a93160317d9532eed70edba42c5a51ad7cc7056001a07db7af4e36e",
+      "use": "Architectural observation only; no photographic pixels enter model textures",
+      "rights": "User supplied; photographer retains rights; not committed"
+    }
+  ],
+  "additionalReference": null,
+  "excludedImage11": "Different long retail/colonnaded elevation, inconsistent with the museum entry/court in images 4\u20136; not used for museum geometry.",
+  "modelProvenance": "Original procedural mesh/texture work; no external meshes, photo textures, AI generation or proprietary game assets"
+}

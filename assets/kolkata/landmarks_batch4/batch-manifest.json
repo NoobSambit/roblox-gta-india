@@ -1,0 +1,73 @@
+{
+  "assets": [
+    {
+      "key": "new_market",
+      "assetId": "KOL_T1_NEW_MARKET",
+      "source": "new_market/KOL_T1_NEW_MARKET.blend",
+      "metadata": "new_market/asset.json",
+      "dimensionsStuds": {
+        "width": 310.0,
+        "height": 97.0,
+        "depth": 184.0
+      },
+      "buildingDimensionsStuds": {
+        "width": 279.05,
+        "height": 94.95,
+        "depth": 148.04
+      },
+      "uniqueSourceTriangles": 11960,
+      "assembledTriangles": 39124,
+      "fbxSections": 7,
+      "exportMeshObjects": 31,
+      "lightStations": 21
+    },
+    {
+      "key": "indian_museum",
+      "assetId": "KOL_T1_INDIAN_MUSEUM",
+      "source": "indian_museum/KOL_T1_INDIAN_MUSEUM.blend",
+      "metadata": "indian_museum/asset.json",
+      "dimensionsStuds": {
+        "width": 282.0,
+        "height": 64.47,
+        "depth": 218.0
+      },
+      "buildingDimensionsStuds": {
+        "width": 249.6,
+        "height": 61.82,
+        "depth": 181.1
+      },
+      "uniqueSourceTriangles": 16836,
+      "assembledTriangles": 58900,
+      "fbxSections": 7,
+      "exportMeshObjects": 33,
+      "lightStations": 18
+    },
+    {
+      "key": "st_pauls",
+      "assetId": "KOL_T1_ST_PAULS",
+      "source": "st_pauls/KOL_T1_ST_PAULS.blend",
+      "metadata": "st_pauls/asset.json",
+      "dimensionsStuds": {
+        "width": 156.0,
+        "height": 114.1,
+        "depth": 252.0
+      },
+      "buildingDimensionsStuds": {
+        "width": 102.1,
+        "height": 111.65,
+        "depth": 198.75
+      },
+      "uniqueSourceTriangles": 19812,
+      "assembledTriangles": 46296,
+      "fbxSections": 7,
+      "exportMeshObjects": 32,
+      "lightStations": 14
+    }
+  ],
+  "uniqueSourceTriangles": 48608,
+  "assembledTriangles": 144320,
+  "budgetReview": "Unique count is below the preferred 53k floor because of linked authoring reuse; geometry is not inflated to meet a quota. Placed total is above the preferred 125k upper end but below the 145k soft review threshold. The museum compound and covered two-level arcades are the largest repeated cost.",
+  "validation": "Essential Blender/FBX checks passed. Original final preview PNGs inspected separately. No Studio or gameplay testing.",
+  "sourceOwnership": "Blender masters and their generators own these offline assets; no Studio synchronization. Rebuilding replaces manual edits to these batch assets.",
+  "provenance": "Original meshes and four original 512px maps. No third-party geometry, photographic textures or ImageGen."
+}

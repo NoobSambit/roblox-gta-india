@@ -1,0 +1,77 @@
+{
+  "status": "passed",
+  "sourceUniqueMeshes": 75,
+  "sourceMeshInstances": 261,
+  "finiteVertices": true,
+  "nonManifoldEdges": 0,
+  "inconsistentWinding": 0,
+  "degenerateFaces": 0,
+  "sourceUVsPresent": true,
+  "allExportMeshesUnder15000": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__00_FoundationGrounds.fbx",
+      "triangles": 916,
+      "meshObjects": 5,
+      "largestMeshTriangles": 420,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__01_PrimaryStructure.fbx",
+      "triangles": 228,
+      "meshObjects": 3,
+      "largestMeshTriangles": 156,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__04_RoofsTower.fbx",
+      "triangles": 19560,
+      "meshObjects": 8,
+      "largestMeshTriangles": 6432,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__02_Frontage.fbx",
+      "triangles": 8752,
+      "meshObjects": 8,
+      "largestMeshTriangles": 5348,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__03_ModularArchitecture.fbx",
+      "triangles": 6828,
+      "meshObjects": 3,
+      "largestMeshTriangles": 3948,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__05_FacadeDetails.fbx",
+      "triangles": 1944,
+      "meshObjects": 2,
+      "largestMeshTriangles": 1932,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__06_LightingFixtures.fbx",
+      "triangles": 896,
+      "meshObjects": 2,
+      "largestMeshTriangles": 728,
+      "fbxVersion": 7400
+    }
+  ],
+  "representativeRoundTrip": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__04_RoofsTower.fbx",
+  "roundTripBoundsErrorStuds": 1.1444091796875e-05,
+  "roundTripMaterialsAndUVs": true,
+  "limitations": "No Studio integration, collision/player traversal test, gameplay test, or device performance measurement.",
+  "frontRearRoofCoverageRays": 24,
+  "clearEntranceRays": 3,
+  "entranceWidthStuds": 22,
+  "entranceDepthStuds": 18,
+  "previews": [
+    "preview-hero.png",
+    "preview-elevated.png",
+    "preview-grounds.png",
+    "preview-night-rear.png",
+    "preview-night.png"
+  ]
+}

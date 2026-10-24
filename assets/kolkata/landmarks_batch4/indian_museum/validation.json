@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "sourceUniqueMeshes": 97,
+  "sourceMeshInstances": 440,
+  "finiteVertices": true,
+  "nonManifoldEdges": 0,
+  "inconsistentWinding": 0,
+  "degenerateFaces": 0,
+  "sourceUVsPresent": true,
+  "allExportMeshesUnder15000": true,
+  "exports": [
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__00_FoundationGrounds.fbx",
+      "triangles": 5776,
+      "meshObjects": 10,
+      "largestMeshTriangles": 3828,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__01_PrimaryStructure.fbx",
+      "triangles": 168,
+      "meshObjects": 3,
+      "largestMeshTriangles": 96,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__04_RoofsCrown.fbx",
+      "triangles": 4476,
+      "meshObjects": 4,
+      "largestMeshTriangles": 1884,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__02_EntrancePortico.fbx",
+      "triangles": 3784,
+      "meshObjects": 4,
+      "largestMeshTriangles": 3316,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__05_FacadeDetails.fbx",
+      "triangles": 18740,
+      "meshObjects": 5,
+      "largestMeshTriangles": 11916,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__03_ModularArchitecture.fbx",
+      "triangles": 24996,
+      "meshObjects": 5,
+      "largestMeshTriangles": 11972,
+      "fbxVersion": 7400
+    },
+    {
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__06_LightingFixtures.fbx",
+      "triangles": 960,
+      "meshObjects": 2,
+      "largestMeshTriangles": 780,
+      "fbxVersion": 7400
+    }
+  ],
+  "representativeRoundTrip": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_INDIAN_MUSEUM__03_ModularArchitecture.fbx",
+  "roundTripBoundsErrorStuds": 1.1444091796875e-05,
+  "roundTripMaterialsAndUVs": true,
+  "limitations": "No Studio integration, collision/player traversal test, gameplay test, or device performance measurement.",
+  "previews": [
+    "preview-hero.png",
+    "preview-elevated.png",
+    "preview-grounds.png",
+    "preview-night-rear.png",
+    "preview-night.png"
+  ]
+}

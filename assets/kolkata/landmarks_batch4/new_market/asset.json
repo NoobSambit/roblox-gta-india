@@ -1,0 +1,611 @@
+{
+  "assetId": "KOL_T1_NEW_MARKET",
+  "name": "New Market \u2014 Sir Stuart Hogg Market",
+  "source": "KOL_T1_NEW_MARKET.blend",
+  "dimensionsStuds": {
+    "width": 310.0,
+    "height": 97.0,
+    "depth": 184.0
+  },
+  "buildingDimensionsStuds": {
+    "width": 279.05,
+    "height": 94.95,
+    "depth": 148.04
+  },
+  "assembledTriangles": 39124,
+  "uniqueSourceTriangles": 11960,
+  "largestMeshTriangles": 1464,
+  "uniqueMeshes": 75,
+  "meshInstances": 261,
+  "exports": [
+    {
+      "section": "00_FoundationGrounds",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__00_FoundationGrounds.fbx",
+      "triangles": 916,
+      "meshInstances": 5,
+      "largestExportMeshTriangles": 420
+    },
+    {
+      "section": "01_PrimaryStructure",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__01_PrimaryStructure.fbx",
+      "triangles": 228,
+      "meshInstances": 3,
+      "largestExportMeshTriangles": 156
+    },
+    {
+      "section": "04_RoofsTower",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__04_RoofsTower.fbx",
+      "triangles": 19560,
+      "meshInstances": 8,
+      "largestExportMeshTriangles": 6432
+    },
+    {
+      "section": "02_Frontage",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__02_Frontage.fbx",
+      "triangles": 8752,
+      "meshInstances": 8,
+      "largestExportMeshTriangles": 5348
+    },
+    {
+      "section": "03_ModularArchitecture",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__03_ModularArchitecture.fbx",
+      "triangles": 6828,
+      "meshInstances": 3,
+      "largestExportMeshTriangles": 3948
+    },
+    {
+      "section": "05_FacadeDetails",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__05_FacadeDetails.fbx",
+      "triangles": 1944,
+      "meshInstances": 2,
+      "largestExportMeshTriangles": 1932
+    },
+    {
+      "section": "06_LightingFixtures",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_NEW_MARKET__06_LightingFixtures.fbx",
+      "triangles": 896,
+      "meshInstances": 2,
+      "largestExportMeshTriangles": 728
+    }
+  ],
+  "nightLights": [
+    {
+      "name": "Frontage_wash_-113",
+      "positionStuds": [
+        113,
+        0.5,
+        -73
+      ],
+      "targetStuds": [
+        113,
+        15,
+        -57
+      ],
+      "rangeStuds": 42,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Gabled_frontage_-113",
+      "positionStuds": [
+        113,
+        17.7,
+        -65
+      ],
+      "targetStuds": [
+        113,
+        30,
+        -57
+      ],
+      "rangeStuds": 27,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Frontage_wash_-62",
+      "positionStuds": [
+        62,
+        0.5,
+        -73
+      ],
+      "targetStuds": [
+        62,
+        15,
+        -57
+      ],
+      "rangeStuds": 42,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Gabled_frontage_-62",
+      "positionStuds": [
+        62,
+        17.7,
+        -65
+      ],
+      "targetStuds": [
+        62,
+        30,
+        -57
+      ],
+      "rangeStuds": 27,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Frontage_wash_15",
+      "positionStuds": [
+        -15,
+        0.5,
+        -73
+      ],
+      "targetStuds": [
+        -15,
+        15,
+        -57
+      ],
+      "rangeStuds": 42,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Gabled_frontage_15",
+      "positionStuds": [
+        -15,
+        17.7,
+        -65
+      ],
+      "targetStuds": [
+        -15,
+        30,
+        -57
+      ],
+      "rangeStuds": 27,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Frontage_wash_69",
+      "positionStuds": [
+        -69,
+        0.5,
+        -73
+      ],
+      "targetStuds": [
+        -69,
+        15,
+        -57
+      ],
+      "rangeStuds": 42,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Gabled_frontage_69",
+      "positionStuds": [
+        -69,
+        17.7,
+        -65
+      ],
+      "targetStuds": [
+        -69,
+        30,
+        -57
+      ],
+      "rangeStuds": 27,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Entrance_canopy",
+      "positionStuds": [
+        27,
+        15,
+        -67
+      ],
+      "targetStuds": [
+        27,
+        7,
+        -62
+      ],
+      "rangeStuds": 23,
+      "brightness": 1.6,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Clock_tower_0_-21",
+      "positionStuds": [
+        -128,
+        57,
+        -70
+      ],
+      "targetStuds": [
+        -128,
+        75,
+        -49
+      ],
+      "rangeStuds": 36,
+      "brightness": 2.3,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Clock_tower_21_0",
+      "positionStuds": [
+        -149,
+        57,
+        -49
+      ],
+      "targetStuds": [
+        -128,
+        75,
+        -49
+      ],
+      "rangeStuds": 36,
+      "brightness": 2.3,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Clock_tower_0_21",
+      "positionStuds": [
+        -128,
+        57,
+        -28
+      ],
+      "targetStuds": [
+        -128,
+        75,
+        -49
+      ],
+      "rangeStuds": 36,
+      "brightness": 2.3,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Clock_tower_-21_0",
+      "positionStuds": [
+        -107,
+        57,
+        -49
+      ],
+      "targetStuds": [
+        -128,
+        75,
+        -49
+      ],
+      "rangeStuds": 36,
+      "brightness": 2.3,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Crown_wash",
+      "positionStuds": [
+        -128,
+        79,
+        -67
+      ],
+      "targetStuds": [
+        -128,
+        87,
+        -49
+      ],
+      "rangeStuds": 25,
+      "brightness": 1.3,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Rear_range_-90",
+      "positionStuds": [
+        90,
+        0.5,
+        80
+      ],
+      "targetStuds": [
+        90,
+        23,
+        68
+      ],
+      "rangeStuds": 38,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Rear_range_65",
+      "positionStuds": [
+        -65,
+        0.5,
+        80
+      ],
+      "targetStuds": [
+        -65,
+        23,
+        68
+      ],
+      "rangeStuds": 38,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Side_range_-1_-28",
+      "positionStuds": [
+        144,
+        0.5,
+        -28
+      ],
+      "targetStuds": [
+        136,
+        23,
+        -28
+      ],
+      "rangeStuds": 37,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Side_range_-1_35",
+      "positionStuds": [
+        144,
+        0.5,
+        35
+      ],
+      "targetStuds": [
+        136,
+        23,
+        35
+      ],
+      "rangeStuds": 37,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Side_range_1_-28",
+      "positionStuds": [
+        -144,
+        0.5,
+        -28
+      ],
+      "targetStuds": [
+        -136,
+        23,
+        -28
+      ],
+      "rangeStuds": 37,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Side_range_1_35",
+      "positionStuds": [
+        -144,
+        0.5,
+        35
+      ],
+      "targetStuds": [
+        -136,
+        23,
+        35
+      ],
+      "rangeStuds": 37,
+      "brightness": 1.5,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Entrance_portal_wash",
+      "positionStuds": [
+        27,
+        1,
+        -79
+      ],
+      "targetStuds": [
+        27,
+        23,
+        -59
+      ],
+      "rangeStuds": 34,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "KOL_T1_B4_Brass",
+      "color": "AD925F",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Brick",
+      "color": "A74634",
+      "texture": "../textures/B4_Brick.png"
+    },
+    {
+      "name": "KOL_T1_B4_BrickLight",
+      "color": "B45540",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Dark",
+      "color": "202D30",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Glass",
+      "color": "435B60",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Glow",
+      "color": "E7C58B",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Green",
+      "color": "225D49",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Iron",
+      "color": "364747",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Ivory",
+      "color": "DFD3B6",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Lawn",
+      "color": "61764B",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Paving",
+      "color": "ACA38E",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Slate",
+      "color": "515C59",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Stone",
+      "color": "D2D0BE",
+      "texture": "../textures/B4_Stone.png"
+    },
+    {
+      "name": "KOL_T1_B4_Trim",
+      "color": "E8E2CE",
+      "texture": null
+    }
+  ],
+  "origin": "Ground center; Blender +Y front, Z up; Roblox -Z front, Y up; Stud/1",
+  "scope": "Standalone exterior package only; no Studio import or gameplay",
+  "sourceCollection": "KOL_T1_NEW_MARKET__SOURCE",
+  "exportCollection": "80_ExportReady__baked_sections"
+}

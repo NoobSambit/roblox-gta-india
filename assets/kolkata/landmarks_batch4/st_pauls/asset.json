@@ -1,0 +1,462 @@
+{
+  "assetId": "KOL_T1_ST_PAULS",
+  "name": "St. Paul's Cathedral, Kolkata",
+  "source": "KOL_T1_ST_PAULS.blend",
+  "dimensionsStuds": {
+    "width": 156.0,
+    "height": 114.1,
+    "depth": 252.0
+  },
+  "buildingDimensionsStuds": {
+    "width": 102.1,
+    "height": 111.65,
+    "depth": 198.75
+  },
+  "assembledTriangles": 46296,
+  "uniqueSourceTriangles": 19812,
+  "largestMeshTriangles": 2000,
+  "uniqueMeshes": 88,
+  "meshInstances": 302,
+  "exports": [
+    {
+      "section": "00_FoundationGrounds",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__00_FoundationGrounds.fbx",
+      "triangles": 5016,
+      "meshInstances": 7,
+      "largestExportMeshTriangles": 3180
+    },
+    {
+      "section": "01_PrimaryStructure",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__01_PrimaryStructure.fbx",
+      "triangles": 120,
+      "meshInstances": 1,
+      "largestExportMeshTriangles": 120
+    },
+    {
+      "section": "04_RoofsTower",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__04_RoofsTower.fbx",
+      "triangles": 8956,
+      "meshInstances": 5,
+      "largestExportMeshTriangles": 3376
+    },
+    {
+      "section": "03_ModularArchitecture",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__03_ModularArchitecture.fbx",
+      "triangles": 19264,
+      "meshInstances": 7,
+      "largestExportMeshTriangles": 11856
+    },
+    {
+      "section": "05_FacadeDetails",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__05_FacadeDetails.fbx",
+      "triangles": 11368,
+      "meshInstances": 5,
+      "largestExportMeshTriangles": 7968
+    },
+    {
+      "section": "02_EntrancePorches",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__02_EntrancePorches.fbx",
+      "triangles": 932,
+      "meshInstances": 5,
+      "largestExportMeshTriangles": 456
+    },
+    {
+      "section": "06_LightingFixtures",
+      "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__06_LightingFixtures.fbx",
+      "triangles": 640,
+      "meshInstances": 2,
+      "largestExportMeshTriangles": 520
+    }
+  ],
+  "nightLights": [
+    {
+      "name": "Nave_wash_-1_-79",
+      "positionStuds": [
+        -36,
+        0.4,
+        -79
+      ],
+      "targetStuds": [
+        -26,
+        35,
+        -79
+      ],
+      "rangeStuds": 42,
+      "brightness": 1.7,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Nave_wash_-1_-24",
+      "positionStuds": [
+        -36,
+        0.4,
+        -24
+      ],
+      "targetStuds": [
+        -26,
+        35,
+        -24
+      ],
+      "rangeStuds": 42,
+      "brightness": 1.7,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Nave_wash_-1_79",
+      "positionStuds": [
+        -36,
+        0.4,
+        79
+      ],
+      "targetStuds": [
+        -26,
+        35,
+        79
+      ],
+      "rangeStuds": 42,
+      "brightness": 1.7,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Transept_wash_-1",
+      "positionStuds": [
+        -61,
+        0.4,
+        40
+      ],
+      "targetStuds": [
+        -49,
+        49,
+        40
+      ],
+      "rangeStuds": 58,
+      "brightness": 2.1,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Nave_wash_1_-79",
+      "positionStuds": [
+        36,
+        0.4,
+        -79
+      ],
+      "targetStuds": [
+        26,
+        35,
+        -79
+      ],
+      "rangeStuds": 42,
+      "brightness": 1.7,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Nave_wash_1_-24",
+      "positionStuds": [
+        36,
+        0.4,
+        -24
+      ],
+      "targetStuds": [
+        26,
+        35,
+        -24
+      ],
+      "rangeStuds": 42,
+      "brightness": 1.7,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Nave_wash_1_79",
+      "positionStuds": [
+        36,
+        0.4,
+        79
+      ],
+      "targetStuds": [
+        26,
+        35,
+        79
+      ],
+      "rangeStuds": 42,
+      "brightness": 1.7,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Transept_wash_1",
+      "positionStuds": [
+        61,
+        0.4,
+        40
+      ],
+      "targetStuds": [
+        49,
+        49,
+        40
+      ],
+      "rangeStuds": 58,
+      "brightness": 2.1,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "West_window",
+      "positionStuds": [
+        0,
+        0.4,
+        -110
+      ],
+      "targetStuds": [
+        0,
+        42,
+        -96
+      ],
+      "rangeStuds": 54,
+      "brightness": 2.1,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "East_window",
+      "positionStuds": [
+        0,
+        0.4,
+        110
+      ],
+      "targetStuds": [
+        0,
+        40,
+        96
+      ],
+      "rangeStuds": 54,
+      "brightness": 1.8,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Tower_pinnacle_-1",
+      "positionStuds": [
+        -28,
+        54,
+        40
+      ],
+      "targetStuds": [
+        -8,
+        103,
+        40
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Tower_pinnacle_1",
+      "positionStuds": [
+        28,
+        54,
+        40
+      ],
+      "targetStuds": [
+        8,
+        103,
+        40
+      ],
+      "rangeStuds": 60,
+      "brightness": 2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Tower_front",
+      "positionStuds": [
+        0,
+        53,
+        17
+      ],
+      "targetStuds": [
+        0,
+        90,
+        28
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.8,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    },
+    {
+      "name": "Porch_entry",
+      "positionStuds": [
+        43,
+        13,
+        -59
+      ],
+      "targetStuds": [
+        37,
+        3,
+        -59
+      ],
+      "rangeStuds": 18,
+      "brightness": 1.2,
+      "angle": 85,
+      "shadows": false,
+      "color": [
+        1,
+        0.78,
+        0.48
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "KOL_T1_B4_Dark",
+      "color": "202D30",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Glass",
+      "color": "435B60",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Glow",
+      "color": "E7C58B",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_GothicRecess",
+      "color": "9EA494",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Iron",
+      "color": "364747",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Ivory",
+      "color": "DFD3B6",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Lawn",
+      "color": "61764B",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Leaf",
+      "color": "3E6548",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_LeafLight",
+      "color": "69834E",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Paving",
+      "color": "ACA38E",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Plaster",
+      "color": "E2DCCB",
+      "texture": "../textures/B4_Plaster.png"
+    },
+    {
+      "name": "KOL_T1_B4_Slate",
+      "color": "515C59",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Stone",
+      "color": "D2D0BE",
+      "texture": "../textures/B4_Stone.png"
+    },
+    {
+      "name": "KOL_T1_B4_Trim",
+      "color": "E8E2CE",
+      "texture": null
+    },
+    {
+      "name": "KOL_T1_B4_Wood",
+      "color": "624E3C",
+      "texture": null
+    }
+  ],
+  "origin": "Ground center; Blender +Y front, Z up; Roblox -Z front, Y up; Stud/1",
+  "scope": "Standalone exterior package only; no Studio import or gameplay",
+  "sourceCollection": "KOL_T1_ST_PAULS__SOURCE",
+  "exportCollection": "80_ExportReady__baked_sections.002"
+}
