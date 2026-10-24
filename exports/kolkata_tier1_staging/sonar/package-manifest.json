@@ -1,0 +1,3914 @@
+{
+  "assetId": "KOL_T1_SONAR",
+  "name": "ITC Sonar / terracotta water gardens and flaring canopy",
+  "dimensionsStuds": {
+    "width": 258.0,
+    "height": 81.9,
+    "depth": 228.0
+  },
+  "units": "Stud / 1; Blender +Y front, Z up; Roblox -Z front, Y up",
+  "origin": "Original authored ground origin; no showcase-grid offset in these FBXs",
+  "assembledTriangles": 25788,
+  "uniqueSourceTriangles": 13668,
+  "files": [
+    {
+      "section": "Foundation",
+      "file": "KOL_T1_SONAR__Foundation.fbx",
+      "sha256": "2c2cf18bde19aba9c2e16f6de6ca487fdeaa966c7ccbd14cf5b85f0a75d45956",
+      "triangles": 288,
+      "meshObjects": 4,
+      "largestMeshTriangles": 204,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "Landscape",
+      "file": "KOL_T1_SONAR__Landscape.fbx",
+      "sha256": "457036dcdeb07ea0d195c4174fe9bfb66489c1cfcd7ffb1dc3ef1283971d5305",
+      "triangles": 1344,
+      "meshObjects": 4,
+      "largestMeshTriangles": 768,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "Guest_Wing_1",
+      "file": "KOL_T1_SONAR__Guest_Wing_1.fbx",
+      "sha256": "e753a90fca94bb880ea56714379ea97272e2fbd9ffa1f63a718fd89dad10f284",
+      "triangles": 3552,
+      "meshObjects": 4,
+      "largestMeshTriangles": 2928,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "Internal_Shell",
+      "file": "KOL_T1_SONAR__Internal_Shell.fbx",
+      "sha256": "ef57264e8062abcb0225d22097ba46d036253e62ddd8ce3ac78b6886176f60db",
+      "triangles": 192,
+      "meshObjects": 1,
+      "largestMeshTriangles": 192,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "Guest_Wing_2",
+      "file": "KOL_T1_SONAR__Guest_Wing_2.fbx",
+      "sha256": "9eae2dc72c0116dfd3bd45129c9f5a6ec95b9cae29ddc2909ffecf4ca89af81a",
+      "triangles": 1296,
+      "meshObjects": 4,
+      "largestMeshTriangles": 1020,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "Guest_Wing_3",
+      "file": "KOL_T1_SONAR__Guest_Wing_3.fbx",
+      "sha256": "43fcba3a4de24743fd770b4155b87b32ac58681c2f6ba6144d2f9b3916674bb0",
+      "triangles": 1296,
+      "meshObjects": 4,
+      "largestMeshTriangles": 1020,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "Water_Gardens",
+      "file": "KOL_T1_SONAR__Water_Gardens.fbx",
+      "sha256": "2da93765e75187667ae827bdd62210fc93109b6c0d42f28c934bc8f3ee184964",
+      "triangles": 7320,
+      "meshObjects": 7,
+      "largestMeshTriangles": 5120,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "Tea_Pavilions",
+      "file": "KOL_T1_SONAR__Tea_Pavilions.fbx",
+      "sha256": "4105a18038b3e97a5c6176b9102d331f740dd1559c64497f98d53a36bc4b5c21",
+      "triangles": 8880,
+      "meshObjects": 5,
+      "largestMeshTriangles": 5496,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "Arrival",
+      "file": "KOL_T1_SONAR__Arrival.fbx",
+      "sha256": "9b509b5fcad956552434b4abcb97f990e6c1d8f1adeb70415bf3f3a09a82ba8f",
+      "triangles": 1620,
+      "meshObjects": 6,
+      "largestMeshTriangles": 1020,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    }
+  ],
+  "textures": [],
+  "helpers": [],
+  "provenance": {
+    "source": "assets/kolkata/tier1/sonar/KOL_T1_SONAR.blend",
+    "sourceSha256": "5d66e56e1bc146dcea23b4e8066dfaca4e6706dcc194b1b77e007761b042cc1f",
+    "metadata": "assets/kolkata/tier1/sonar/asset.json",
+    "metadataSha256": "32c77092b167953d5a40a1b981b8ec2664c27dd75ee7ba89c8363e56c479f48b"
+  },
+  "originalAuthoringMetadata": {
+    "assetId": "KOL_T1_SONAR",
+    "name": "ITC Sonar / terracotta water gardens and flaring canopy",
+    "source": "KOL_T1_SONAR.blend",
+    "dimensionsStuds": {
+      "width": 258.0,
+      "height": 81.9,
+      "depth": 228.0
+    },
+    "assembledTriangles": 25788,
+    "uniqueSourceTriangles": 13668,
+    "largestMeshTriangles": 1988,
+    "uniqueMeshes": 49,
+    "meshInstances": 115,
+    "exports": [
+      {
+        "section": "Foundation",
+        "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Foundation.fbx",
+        "triangles": 288,
+        "meshInstances": 4,
+        "largestExportMeshTriangles": 204
+      },
+      {
+        "section": "Landscape",
+        "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Landscape.fbx",
+        "triangles": 1344,
+        "meshInstances": 4,
+        "largestExportMeshTriangles": 768
+      },
+      {
+        "section": "Guest_Wing_1",
+        "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Guest_Wing_1.fbx",
+        "triangles": 3552,
+        "meshInstances": 4,
+        "largestExportMeshTriangles": 2928
+      },
+      {
+        "section": "Internal_Shell",
+        "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Internal_Shell.fbx",
+        "triangles": 192,
+        "meshInstances": 1,
+        "largestExportMeshTriangles": 192
+      },
+      {
+        "section": "Guest_Wing_2",
+        "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Guest_Wing_2.fbx",
+        "triangles": 1296,
+        "meshInstances": 4,
+        "largestExportMeshTriangles": 1020
+      },
+      {
+        "section": "Guest_Wing_3",
+        "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Guest_Wing_3.fbx",
+        "triangles": 1296,
+        "meshInstances": 4,
+        "largestExportMeshTriangles": 1020
+      },
+      {
+        "section": "Water_Gardens",
+        "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Water_Gardens.fbx",
+        "triangles": 7320,
+        "meshInstances": 7,
+        "largestExportMeshTriangles": 5120
+      },
+      {
+        "section": "Tea_Pavilions",
+        "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Tea_Pavilions.fbx",
+        "triangles": 8880,
+        "meshInstances": 5,
+        "largestExportMeshTriangles": 5496
+      },
+      {
+        "section": "Arrival",
+        "file": "../../../../exports/kolkata_tier1/KOL_T1_SONAR__Arrival.fbx",
+        "triangles": 1620,
+        "meshInstances": 6,
+        "largestExportMeshTriangles": 1020
+      }
+    ],
+    "origin": "Common ground center; front +Y in Blender / -Z in Roblox",
+    "sockets": {
+      "RoadArrival": {
+        "positionStuds": [
+          0,
+          1.3,
+          -96.0
+        ],
+        "laneWidthStuds": 28
+      },
+      "MainEntrance": {
+        "positionStuds": [
+          78,
+          2,
+          -77.6
+        ],
+        "clearWidthStuds": 20,
+        "clearHeightStuds": 13,
+        "exteriorOnly": true
+      }
+    },
+    "materials": [
+      "KOL_T1_Accent",
+      "KOL_T1_Asphalt",
+      "KOL_T1_Glass",
+      "KOL_T1_GlassBlue",
+      "KOL_T1_GlassLight",
+      "KOL_T1_Graphite",
+      "KOL_T1_Leaf",
+      "KOL_T1_LeafLight",
+      "KOL_T1_Louvre",
+      "KOL_T1_Paving",
+      "KOL_T1_Pearl",
+      "KOL_T1_PondWater",
+      "KOL_T1_Stone",
+      "KOL_T1_Terra",
+      "KOL_T1_WarmWindow"
+    ],
+    "assembly": [
+      {
+        "name": "site_plinth__KOL_T1_Stone.012",
+        "meshKey": "KOL_T1_SONAR__site_plinth__Stone_00.018",
+        "section": "Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndBoundary"
+      },
+      {
+        "name": "site_plinth__KOL_T1_Paving.012",
+        "meshKey": "KOL_T1_SONAR__site_plinth__Paving_00.018",
+        "section": "Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndBoundary"
+      },
+      {
+        "name": "site_plinth__KOL_T1_Asphalt.012",
+        "meshKey": "KOL_T1_SONAR__site_plinth__Asphalt_00.018",
+        "section": "Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndBoundary"
+      },
+      {
+        "name": "site_plinth__KOL_T1_Pearl.012",
+        "meshKey": "KOL_T1_SONAR__site_plinth__Pearl_00.018",
+        "section": "Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndBoundary"
+      },
+      {
+        "name": "edge_planter__KOL_T1_Stone.048",
+        "meshKey": "KOL_T1_SONAR__edge_planter__Stone_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "edge_planter__KOL_T1_Leaf.048",
+        "meshKey": "KOL_T1_SONAR__edge_planter__Leaf_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Louvre.092",
+        "meshKey": "KOL_T1_SONAR__palm__Louvre_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_LeafLight.092",
+        "meshKey": "KOL_T1_SONAR__palm__LeafLight_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Leaf.092",
+        "meshKey": "KOL_T1_SONAR__palm__Leaf_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "edge_planter__KOL_T1_Stone.049",
+        "meshKey": "KOL_T1_SONAR__edge_planter__Stone_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "edge_planter__KOL_T1_Leaf.049",
+        "meshKey": "KOL_T1_SONAR__edge_planter__Leaf_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Louvre.093",
+        "meshKey": "KOL_T1_SONAR__palm__Louvre_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_LeafLight.093",
+        "meshKey": "KOL_T1_SONAR__palm__LeafLight_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Leaf.093",
+        "meshKey": "KOL_T1_SONAR__palm__Leaf_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "edge_planter__KOL_T1_Stone.050",
+        "meshKey": "KOL_T1_SONAR__edge_planter__Stone_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "edge_planter__KOL_T1_Leaf.050",
+        "meshKey": "KOL_T1_SONAR__edge_planter__Leaf_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Louvre.094",
+        "meshKey": "KOL_T1_SONAR__palm__Louvre_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_LeafLight.094",
+        "meshKey": "KOL_T1_SONAR__palm__LeafLight_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Leaf.094",
+        "meshKey": "KOL_T1_SONAR__palm__Leaf_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            64.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "edge_planter__KOL_T1_Stone.051",
+        "meshKey": "KOL_T1_SONAR__edge_planter__Stone_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "edge_planter__KOL_T1_Leaf.051",
+        "meshKey": "KOL_T1_SONAR__edge_planter__Leaf_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Louvre.095",
+        "meshKey": "KOL_T1_SONAR__palm__Louvre_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_LeafLight.095",
+        "meshKey": "KOL_T1_SONAR__palm__LeafLight_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Leaf.095",
+        "meshKey": "KOL_T1_SONAR__palm__Leaf_00.018",
+        "section": "Landscape",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            101.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            69.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_brick_wing_0__KOL_T1_Terra.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_brick_wing_0__Terra_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "ShellWalls"
+      },
+      {
+        "name": "Sonar_brick_wing_0__KOL_T1_Louvre.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_brick_wing_0__Louvre_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "ShellWalls"
+      },
+      {
+        "name": "Sonar_glazing_0_0__KOL_T1_WarmWindow.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_0__WarmWindow_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_0__KOL_T1_GlassBlue.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_0__GlassBlue_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_1__KOL_T1_GlassBlue.003",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_1__GlassBlue_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            13.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_1__KOL_T1_WarmWindow.003",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_1__WarmWindow_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            13.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_0__KOL_T1_WarmWindow.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_0__WarmWindow_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_0__KOL_T1_GlassBlue.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_0__GlassBlue_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_1__KOL_T1_GlassBlue.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_1__GlassBlue_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            33.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_1__KOL_T1_WarmWindow.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_1__WarmWindow_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            33.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_0__KOL_T1_WarmWindow.006",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_0__WarmWindow_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            43.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_0__KOL_T1_GlassBlue.006",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_0__GlassBlue_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            43.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_1__KOL_T1_GlassBlue.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_1__GlassBlue_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            53.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_1__KOL_T1_WarmWindow.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_1__WarmWindow_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            53.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_0__KOL_T1_WarmWindow.007",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_0__WarmWindow_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            63.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_0_0__KOL_T1_GlassBlue.007",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_0_0__GlassBlue_00.001",
+        "section": "Guest_Wing_1",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            63.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_shell_floor_0__KOL_T1_Stone.008",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_0__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            1.600000023841858
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_0__KOL_T1_Stone.009",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_0__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            11.600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_0__KOL_T1_Stone.010",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_0__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            21.600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_0__KOL_T1_Stone.011",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_0__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            31.600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_0__KOL_T1_Stone.012",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_0__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            41.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_0__KOL_T1_Stone.013",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_0__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            51.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_0__KOL_T1_Stone.014",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_0__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            61.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_0__KOL_T1_Stone.015",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_0__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -63.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            71.5999984741211
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_1__KOL_T1_Stone.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_1__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            1.600000023841858
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_1__KOL_T1_Stone.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_1__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            11.600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_1__KOL_T1_Stone.006",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_1__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            21.600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_1__KOL_T1_Stone.007",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_1__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            31.600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_2__KOL_T1_Stone.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_2__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            1.600000023841858
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_2__KOL_T1_Stone.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_2__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            11.600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_2__KOL_T1_Stone.006",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_2__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            21.600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_shell_floor_2__KOL_T1_Stone.007",
+        "meshKey": "KOL_T1_SONAR__Sonar_shell_floor_2__Stone_00.001",
+        "section": "Internal_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            31.600000381469727
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "StructuralFloor"
+      },
+      {
+        "name": "Sonar_brick_wing_1__KOL_T1_Terra.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_brick_wing_1__Terra_00.001",
+        "section": "Guest_Wing_2",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "ShellWalls"
+      },
+      {
+        "name": "Sonar_brick_wing_1__KOL_T1_Louvre.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_brick_wing_1__Louvre_00.001",
+        "section": "Guest_Wing_2",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "ShellWalls"
+      },
+      {
+        "name": "Sonar_glazing_1_0__KOL_T1_WarmWindow.002",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_1_0__WarmWindow_00.001",
+        "section": "Guest_Wing_2",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_1_0__KOL_T1_GlassBlue.002",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_1_0__GlassBlue_00.001",
+        "section": "Guest_Wing_2",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_1_1__KOL_T1_GlassBlue.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_1_1__GlassBlue_00.001",
+        "section": "Guest_Wing_2",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            13.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_1_1__KOL_T1_WarmWindow.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_1_1__WarmWindow_00.001",
+        "section": "Guest_Wing_2",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            13.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_1_0__KOL_T1_WarmWindow.003",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_1_0__WarmWindow_00.001",
+        "section": "Guest_Wing_2",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_1_0__KOL_T1_GlassBlue.003",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_1_0__GlassBlue_00.001",
+        "section": "Guest_Wing_2",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_brick_wing_2__KOL_T1_Terra.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_brick_wing_2__Terra_00.001",
+        "section": "Guest_Wing_3",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "ShellWalls"
+      },
+      {
+        "name": "Sonar_brick_wing_2__KOL_T1_Louvre.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_brick_wing_2__Louvre_00.001",
+        "section": "Guest_Wing_3",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "ShellWalls"
+      },
+      {
+        "name": "Sonar_glazing_2_0__KOL_T1_WarmWindow.002",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_2_0__WarmWindow_00.001",
+        "section": "Guest_Wing_3",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_2_0__KOL_T1_GlassBlue.002",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_2_0__GlassBlue_00.001",
+        "section": "Guest_Wing_3",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            3.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_2_1__KOL_T1_GlassBlue.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_2_1__GlassBlue_00.001",
+        "section": "Guest_Wing_3",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            13.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_2_1__KOL_T1_WarmWindow.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_2_1__WarmWindow_00.001",
+        "section": "Guest_Wing_3",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            13.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_2_0__KOL_T1_WarmWindow.003",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_2_0__WarmWindow_00.001",
+        "section": "Guest_Wing_3",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_glazing_2_0__KOL_T1_GlassBlue.003",
+        "meshKey": "KOL_T1_SONAR__Sonar_glazing_2_0__GlassBlue_00.001",
+        "section": "Guest_Wing_3",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            82.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -40.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Louvre.096",
+        "meshKey": "KOL_T1_SONAR__palm__Louvre_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -64.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            43.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_LeafLight.096",
+        "meshKey": "KOL_T1_SONAR__palm__LeafLight_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -64.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            43.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Leaf.096",
+        "meshKey": "KOL_T1_SONAR__palm__Leaf_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -64.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            43.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Louvre.097",
+        "meshKey": "KOL_T1_SONAR__palm__Louvre_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            64.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            43.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_LeafLight.097",
+        "meshKey": "KOL_T1_SONAR__palm__LeafLight_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            64.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            43.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Leaf.097",
+        "meshKey": "KOL_T1_SONAR__palm__Leaf_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            64.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            43.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Louvre.098",
+        "meshKey": "KOL_T1_SONAR__palm__Louvre_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -30.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -45.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_LeafLight.098",
+        "meshKey": "KOL_T1_SONAR__palm__LeafLight_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -30.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -45.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Leaf.098",
+        "meshKey": "KOL_T1_SONAR__palm__Leaf_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -30.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -45.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Louvre.099",
+        "meshKey": "KOL_T1_SONAR__palm__Louvre_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            30.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -45.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_LeafLight.099",
+        "meshKey": "KOL_T1_SONAR__palm__LeafLight_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            30.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -45.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "palm__KOL_T1_Leaf.099",
+        "meshKey": "KOL_T1_SONAR__palm__Leaf_00.018",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            30.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -45.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            2.700000047683716
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_lily_courtyard_edges_walks__KOL_T1_Graphite.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_lily_courtyard_edges_walks__Graphite_00.001",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_lily_courtyard_edges_walks__KOL_T1_PondWater",
+        "meshKey": "KOL_T1_SONAR__Sonar_lily_courtyard_edges_walks__PondWater_00",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_lily_courtyard_edges_walks__KOL_T1_Stone.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_lily_courtyard_edges_walks__Stone_00.001",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_lily_courtyard_edges_walks__KOL_T1_LeafLight.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_lily_courtyard_edges_walks__LeafLight_00.001",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_lily_courtyard_edges_walks__KOL_T1_Pearl.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_lily_courtyard_edges_walks__Pearl_00.001",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_lily_courtyard_edges_walks__KOL_T1_Leaf.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_lily_courtyard_edges_walks__Leaf_00.001",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_lily_courtyard_edges_walks__KOL_T1_Leaf.002",
+        "meshKey": "KOL_T1_SONAR__Sonar_lily_courtyard_edges_walks__Leaf_01",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_lily_courtyard_edges_walks__KOL_T1_Leaf.003",
+        "meshKey": "KOL_T1_SONAR__Sonar_lily_courtyard_edges_walks__Leaf_02",
+        "section": "Water_Gardens",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Stone.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Stone_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            26.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Glass.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Glass_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            26.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Louvre.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Louvre_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            26.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Terra.004",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Terra_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            26.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Stone.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Stone_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            26.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Glass.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Glass_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            26.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Louvre.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Louvre_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            26.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Terra.005",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Terra_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            26.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Stone.006",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Stone_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -21.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Glass.006",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Glass_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -21.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Louvre.006",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Louvre_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -21.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Terra.006",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Terra_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -21.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Stone.007",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Stone_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -21.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Glass.007",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Glass_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -21.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Louvre.007",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Louvre_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -21.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_screened_tea_pavilion__KOL_T1_Terra.007",
+        "meshKey": "KOL_T1_SONAR__Sonar_screened_tea_pavilion__Terra_00.001",
+        "section": "Tea_Pavilions",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -21.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Sonar_white_flaring_arrival__KOL_T1_Terra.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_white_flaring_arrival__Terra_00.001",
+        "section": "Arrival",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndPortico"
+      },
+      {
+        "name": "Sonar_white_flaring_arrival__KOL_T1_Stone.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_white_flaring_arrival__Stone_00.001",
+        "section": "Arrival",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndPortico"
+      },
+      {
+        "name": "Sonar_white_flaring_arrival__KOL_T1_GlassLight.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_white_flaring_arrival__GlassLight_00.001",
+        "section": "Arrival",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndPortico"
+      },
+      {
+        "name": "Sonar_white_flaring_arrival__KOL_T1_Louvre.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_white_flaring_arrival__Louvre_00.001",
+        "section": "Arrival",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndPortico"
+      },
+      {
+        "name": "Sonar_white_flaring_arrival__KOL_T1_Pearl.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_white_flaring_arrival__Pearl_00.001",
+        "section": "Arrival",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndPortico"
+      },
+      {
+        "name": "Sonar_white_flaring_arrival__KOL_T1_Accent.001",
+        "meshKey": "KOL_T1_SONAR__Sonar_white_flaring_arrival__Accent_00.001",
+        "section": "Arrival",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "GroundAndPortico"
+      },
+      {
+        "name": "ITC SONAR.002",
+        "meshKey": "KOL_T1_SONAR__SIGN_ITC SONAR",
+        "section": "Arrival",
+        "matrix": [
+          [
+            -1.0,
+            -3.821371353845884e-15,
+            -8.742277657347586e-08,
+            49.0
+          ],
+          [
+            -8.742277657347586e-08,
+            4.371138828673793e-08,
+            1.0,
+            77.5999984741211
+          ],
+          [
+            0.0,
+            1.0,
+            -4.371138828673793e-08,
+            12.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Decoration"
+      }
+    ]
+  },
+  "originalMetadataPathNote": "Paths inside originalAuthoringMetadata refer to the canonical source folder in the repository; use files above for this portable export package."
+}

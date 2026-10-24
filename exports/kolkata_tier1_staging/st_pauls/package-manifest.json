@@ -1,0 +1,569 @@
+{
+  "assetId": "KOL_T1_ST_PAULS",
+  "name": "St. Paul's Cathedral, Kolkata",
+  "dimensionsStuds": {
+    "width": 156.0,
+    "height": 114.1,
+    "depth": 252.0
+  },
+  "units": "Stud / 1; Blender +Y front, Z up; Roblox -Z front, Y up",
+  "origin": "Original authored ground origin; no showcase-grid offset in these FBXs",
+  "assembledTriangles": 46296,
+  "uniqueSourceTriangles": 19812,
+  "files": [
+    {
+      "section": "00_FoundationGrounds",
+      "file": "KOL_T1_ST_PAULS__00_FoundationGrounds.fbx",
+      "sha256": "22629c438b67de729a4aa9f35e875bbe0a71f43765df1c9e491e7b8c9ef85040",
+      "triangles": 5016,
+      "meshObjects": 7,
+      "largestMeshTriangles": 3180,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "01_PrimaryStructure",
+      "file": "KOL_T1_ST_PAULS__01_PrimaryStructure.fbx",
+      "sha256": "1c85d0521199e75ddf6fc5f1b2bbca3dbcae70c96a97aae1e566a7f0139b983c",
+      "triangles": 120,
+      "meshObjects": 1,
+      "largestMeshTriangles": 120,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "04_RoofsTower",
+      "file": "KOL_T1_ST_PAULS__04_RoofsTower.fbx",
+      "sha256": "3ad6a9257361d2258dd05f99f051df028be154e1c1a0b574223ff4c462ed82b0",
+      "triangles": 8956,
+      "meshObjects": 5,
+      "largestMeshTriangles": 3376,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "03_ModularArchitecture",
+      "file": "KOL_T1_ST_PAULS__03_ModularArchitecture.fbx",
+      "sha256": "a63117241e5231cec648eebfc4c8b8e5d2cf6f49d2df65270586c527c20828f4",
+      "triangles": 19264,
+      "meshObjects": 7,
+      "largestMeshTriangles": 11856,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "05_FacadeDetails",
+      "file": "KOL_T1_ST_PAULS__05_FacadeDetails.fbx",
+      "sha256": "67249df6044b3b9ac1d10fe03457583b2ed1981dfc287eb9d912a696db421b1b",
+      "triangles": 11368,
+      "meshObjects": 5,
+      "largestMeshTriangles": 7968,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "02_EntrancePorches",
+      "file": "KOL_T1_ST_PAULS__02_EntrancePorches.fbx",
+      "sha256": "a825376d7e6e4530ddafc70c7e3598f9f064aea5f48db67ba551d553935fbe39",
+      "triangles": 932,
+      "meshObjects": 5,
+      "largestMeshTriangles": 456,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "06_LightingFixtures",
+      "file": "KOL_T1_ST_PAULS__06_LightingFixtures.fbx",
+      "sha256": "f24a29cea139341484d522dfec392a39e35bc31f4a440ae11723d1297c10b67a",
+      "triangles": 640,
+      "meshObjects": 2,
+      "largestMeshTriangles": 520,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    }
+  ],
+  "textures": [
+    {
+      "image": "B4_Plaster.png",
+      "file": "../shared/textures/d48a0d5bc3ff_B4_Plaster.png",
+      "sha256": "d48a0d5bc3ff16be5b6e67bb2b8ab9dc53a0c2dbea2471f8d77ec5c2ed7dba8a",
+      "packedInMaster": true
+    },
+    {
+      "image": "B4_Stone.png.001",
+      "file": "../shared/textures/4aad459f5057_B4_Stone.png",
+      "sha256": "4aad459f5057304ce6ca616119340221bca6f375885a5172dea2186381fbe8a3",
+      "packedInMaster": true
+    }
+  ],
+  "helpers": [],
+  "provenance": {
+    "source": "assets/kolkata/landmarks_batch4/st_pauls/KOL_T1_ST_PAULS.blend",
+    "sourceSha256": "32b1513c408177df909e460653d9775896ba14db8a60da402accef1c11e0646f",
+    "metadata": "assets/kolkata/landmarks_batch4/st_pauls/asset.json",
+    "metadataSha256": "c5d7d92c282ee978da7b5e750dffa36385fb861a18c67e5710270fed7b725845"
+  },
+  "originalAuthoringMetadata": {
+    "assetId": "KOL_T1_ST_PAULS",
+    "name": "St. Paul's Cathedral, Kolkata",
+    "source": "KOL_T1_ST_PAULS.blend",
+    "dimensionsStuds": {
+      "width": 156.0,
+      "height": 114.1,
+      "depth": 252.0
+    },
+    "buildingDimensionsStuds": {
+      "width": 102.1,
+      "height": 111.65,
+      "depth": 198.75
+    },
+    "assembledTriangles": 46296,
+    "uniqueSourceTriangles": 19812,
+    "largestMeshTriangles": 2000,
+    "uniqueMeshes": 88,
+    "meshInstances": 302,
+    "exports": [
+      {
+        "section": "00_FoundationGrounds",
+        "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__00_FoundationGrounds.fbx",
+        "triangles": 5016,
+        "meshInstances": 7,
+        "largestExportMeshTriangles": 3180
+      },
+      {
+        "section": "01_PrimaryStructure",
+        "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__01_PrimaryStructure.fbx",
+        "triangles": 120,
+        "meshInstances": 1,
+        "largestExportMeshTriangles": 120
+      },
+      {
+        "section": "04_RoofsTower",
+        "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__04_RoofsTower.fbx",
+        "triangles": 8956,
+        "meshInstances": 5,
+        "largestExportMeshTriangles": 3376
+      },
+      {
+        "section": "03_ModularArchitecture",
+        "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__03_ModularArchitecture.fbx",
+        "triangles": 19264,
+        "meshInstances": 7,
+        "largestExportMeshTriangles": 11856
+      },
+      {
+        "section": "05_FacadeDetails",
+        "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__05_FacadeDetails.fbx",
+        "triangles": 11368,
+        "meshInstances": 5,
+        "largestExportMeshTriangles": 7968
+      },
+      {
+        "section": "02_EntrancePorches",
+        "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__02_EntrancePorches.fbx",
+        "triangles": 932,
+        "meshInstances": 5,
+        "largestExportMeshTriangles": 456
+      },
+      {
+        "section": "06_LightingFixtures",
+        "file": "../../../../exports/kolkata_landmarks_batch4/KOL_T1_ST_PAULS__06_LightingFixtures.fbx",
+        "triangles": 640,
+        "meshInstances": 2,
+        "largestExportMeshTriangles": 520
+      }
+    ],
+    "nightLights": [
+      {
+        "name": "Nave_wash_-1_-79",
+        "positionStuds": [
+          -36,
+          0.4,
+          -79
+        ],
+        "targetStuds": [
+          -26,
+          35,
+          -79
+        ],
+        "rangeStuds": 42,
+        "brightness": 1.7,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Nave_wash_-1_-24",
+        "positionStuds": [
+          -36,
+          0.4,
+          -24
+        ],
+        "targetStuds": [
+          -26,
+          35,
+          -24
+        ],
+        "rangeStuds": 42,
+        "brightness": 1.7,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Nave_wash_-1_79",
+        "positionStuds": [
+          -36,
+          0.4,
+          79
+        ],
+        "targetStuds": [
+          -26,
+          35,
+          79
+        ],
+        "rangeStuds": 42,
+        "brightness": 1.7,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Transept_wash_-1",
+        "positionStuds": [
+          -61,
+          0.4,
+          40
+        ],
+        "targetStuds": [
+          -49,
+          49,
+          40
+        ],
+        "rangeStuds": 58,
+        "brightness": 2.1,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Nave_wash_1_-79",
+        "positionStuds": [
+          36,
+          0.4,
+          -79
+        ],
+        "targetStuds": [
+          26,
+          35,
+          -79
+        ],
+        "rangeStuds": 42,
+        "brightness": 1.7,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Nave_wash_1_-24",
+        "positionStuds": [
+          36,
+          0.4,
+          -24
+        ],
+        "targetStuds": [
+          26,
+          35,
+          -24
+        ],
+        "rangeStuds": 42,
+        "brightness": 1.7,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Nave_wash_1_79",
+        "positionStuds": [
+          36,
+          0.4,
+          79
+        ],
+        "targetStuds": [
+          26,
+          35,
+          79
+        ],
+        "rangeStuds": 42,
+        "brightness": 1.7,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Transept_wash_1",
+        "positionStuds": [
+          61,
+          0.4,
+          40
+        ],
+        "targetStuds": [
+          49,
+          49,
+          40
+        ],
+        "rangeStuds": 58,
+        "brightness": 2.1,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "West_window",
+        "positionStuds": [
+          0,
+          0.4,
+          -110
+        ],
+        "targetStuds": [
+          0,
+          42,
+          -96
+        ],
+        "rangeStuds": 54,
+        "brightness": 2.1,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "East_window",
+        "positionStuds": [
+          0,
+          0.4,
+          110
+        ],
+        "targetStuds": [
+          0,
+          40,
+          96
+        ],
+        "rangeStuds": 54,
+        "brightness": 1.8,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Tower_pinnacle_-1",
+        "positionStuds": [
+          -28,
+          54,
+          40
+        ],
+        "targetStuds": [
+          -8,
+          103,
+          40
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Tower_pinnacle_1",
+        "positionStuds": [
+          28,
+          54,
+          40
+        ],
+        "targetStuds": [
+          8,
+          103,
+          40
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Tower_front",
+        "positionStuds": [
+          0,
+          53,
+          17
+        ],
+        "targetStuds": [
+          0,
+          90,
+          28
+        ],
+        "rangeStuds": 48,
+        "brightness": 1.8,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      },
+      {
+        "name": "Porch_entry",
+        "positionStuds": [
+          43,
+          13,
+          -59
+        ],
+        "targetStuds": [
+          37,
+          3,
+          -59
+        ],
+        "rangeStuds": 18,
+        "brightness": 1.2,
+        "angle": 85,
+        "shadows": false,
+        "color": [
+          1,
+          0.78,
+          0.48
+        ]
+      }
+    ],
+    "materials": [
+      {
+        "name": "KOL_T1_B4_Dark",
+        "color": "202D30",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Glass",
+        "color": "435B60",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Glow",
+        "color": "E7C58B",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_GothicRecess",
+        "color": "9EA494",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Iron",
+        "color": "364747",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Ivory",
+        "color": "DFD3B6",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Lawn",
+        "color": "61764B",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Leaf",
+        "color": "3E6548",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_LeafLight",
+        "color": "69834E",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Paving",
+        "color": "ACA38E",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Plaster",
+        "color": "E2DCCB",
+        "texture": "../textures/B4_Plaster.png"
+      },
+      {
+        "name": "KOL_T1_B4_Slate",
+        "color": "515C59",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Stone",
+        "color": "D2D0BE",
+        "texture": "../textures/B4_Stone.png"
+      },
+      {
+        "name": "KOL_T1_B4_Trim",
+        "color": "E8E2CE",
+        "texture": null
+      },
+      {
+        "name": "KOL_T1_B4_Wood",
+        "color": "624E3C",
+        "texture": null
+      }
+    ],
+    "origin": "Ground center; Blender +Y front, Z up; Roblox -Z front, Y up; Stud/1",
+    "scope": "Standalone exterior package only; no Studio import or gameplay",
+    "sourceCollection": "KOL_T1_ST_PAULS__SOURCE",
+    "exportCollection": "80_ExportReady__baked_sections.002"
+  },
+  "originalMetadataPathNote": "Paths inside originalAuthoringMetadata refer to the canonical source folder in the repository; use files above for this portable export package."
+}

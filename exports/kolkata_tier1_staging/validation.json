@@ -1,0 +1,1218 @@
+{
+  "status": "passed",
+  "assetCount": 16,
+  "sceneCount": 1,
+  "sourceMeshInstances": 9561,
+  "preservedRepeatedMeshPlacements": 8233,
+  "materials": 231,
+  "packedMaterialImages": 5,
+  "sourceFilesUnchanged": true,
+  "geometryAndUVFingerprintsUnchanged": true,
+  "materialGraphsUnchanged": true,
+  "minimumGapStuds": 218.0,
+  "defaultFBXCount": 131,
+  "optionalModuleFBXCount": 1,
+  "totalAssembledTriangles": 1136464,
+  "totalUniqueSourceTriangles": 298998,
+  "largestExportMeshTriangles": 11972,
+  "finiteCoordinatesAndNormals": true,
+  "degenerateExportTriangles": 0,
+  "shrineRowRoundTrip": {
+    "triangles": 18192,
+    "meshObjects": 48,
+    "boundsErrorStuds": 6.103515625e-05,
+    "unitScale": true,
+    "materialsAndUVInventoryPreserved": true
+  },
+  "exports": [
+    {
+      "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__00_FoundationGrounds.fbx",
+      "triangles": 916,
+      "meshObjects": 5,
+      "largestMeshTriangles": 420,
+      "meshesWithUVs": 5,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__01_PrimaryStructure.fbx",
+      "triangles": 228,
+      "meshObjects": 3,
+      "largestMeshTriangles": 156,
+      "meshesWithUVs": 3,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__04_RoofsTower.fbx",
+      "triangles": 19560,
+      "meshObjects": 8,
+      "largestMeshTriangles": 6432,
+      "meshesWithUVs": 8,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__02_Frontage.fbx",
+      "triangles": 8752,
+      "meshObjects": 8,
+      "largestMeshTriangles": 5348,
+      "meshesWithUVs": 8,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__03_ModularArchitecture.fbx",
+      "triangles": 6828,
+      "meshObjects": 3,
+      "largestMeshTriangles": 3948,
+      "meshesWithUVs": 3,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__05_FacadeDetails.fbx",
+      "triangles": 1944,
+      "meshObjects": 2,
+      "largestMeshTriangles": 1932,
+      "meshesWithUVs": 2,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__06_LightingFixtures.fbx",
+      "triangles": 896,
+      "meshObjects": 2,
+      "largestMeshTriangles": 728,
+      "meshesWithUVs": 2,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__00_FoundationGrounds.fbx",
+      "triangles": 5776,
+      "meshObjects": 10,
+      "largestMeshTriangles": 3828,
+      "meshesWithUVs": 10,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__01_PrimaryStructure.fbx",
+      "triangles": 168,
+      "meshObjects": 3,
+      "largestMeshTriangles": 96,
+      "meshesWithUVs": 3,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__04_RoofsCrown.fbx",
+      "triangles": 4476,
+      "meshObjects": 4,
+      "largestMeshTriangles": 1884,
+      "meshesWithUVs": 4,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__02_EntrancePortico.fbx",
+      "triangles": 3784,
+      "meshObjects": 4,
+      "largestMeshTriangles": 3316,
+      "meshesWithUVs": 4,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__05_FacadeDetails.fbx",
+      "triangles": 18740,
+      "meshObjects": 5,
+      "largestMeshTriangles": 11916,
+      "meshesWithUVs": 5,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__03_ModularArchitecture.fbx",
+      "triangles": 24996,
+      "meshObjects": 5,
+      "largestMeshTriangles": 11972,
+      "meshesWithUVs": 5,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__06_LightingFixtures.fbx",
+      "triangles": 960,
+      "meshObjects": 2,
+      "largestMeshTriangles": 780,
+      "meshesWithUVs": 2,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__00_FoundationGrounds.fbx",
+      "triangles": 5016,
+      "meshObjects": 7,
+      "largestMeshTriangles": 3180,
+      "meshesWithUVs": 7,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__01_PrimaryStructure.fbx",
+      "triangles": 120,
+      "meshObjects": 1,
+      "largestMeshTriangles": 120,
+      "meshesWithUVs": 1,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__04_RoofsTower.fbx",
+      "triangles": 8956,
+      "meshObjects": 5,
+      "largestMeshTriangles": 3376,
+      "meshesWithUVs": 5,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__03_ModularArchitecture.fbx",
+      "triangles": 19264,
+      "meshObjects": 7,
+      "largestMeshTriangles": 11856,
+      "meshesWithUVs": 7,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__05_FacadeDetails.fbx",
+      "triangles": 11368,
+      "meshObjects": 5,
+      "largestMeshTriangles": 7968,
+      "meshesWithUVs": 5,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__02_EntrancePorches.fbx",
+      "triangles": 932,
+      "meshObjects": 5,
+      "largestMeshTriangles": 456,
+      "meshesWithUVs": 5,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__06_LightingFixtures.fbx",
+      "triangles": 640,
+      "meshObjects": 2,
+      "largestMeshTriangles": 520,
+      "meshesWithUVs": 2,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__01_Campus.fbx",
+      "triangles": 960,
+      "meshObjects": 3,
+      "largestMeshTriangles": 936,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__02_Main_Platform.fbx",
+      "triangles": 432,
+      "meshObjects": 3,
+      "largestMeshTriangles": 336,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__03_Main_Envelope.fbx",
+      "triangles": 84,
+      "meshObjects": 2,
+      "largestMeshTriangles": 60,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__04_Main_Arcades.fbx",
+      "triangles": 11700,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5416,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__05_Curved_Roofs.fbx",
+      "triangles": 22976,
+      "meshObjects": 5,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__06_Nine_Spires.fbx",
+      "triangles": 8604,
+      "meshObjects": 4,
+      "largestMeshTriangles": 4644,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__07_Shrine_Chamber.fbx",
+      "triangles": 580,
+      "meshObjects": 4,
+      "largestMeshTriangles": 336,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__08_Kali_Murti.fbx",
+      "triangles": 3584,
+      "meshObjects": 7,
+      "largestMeshTriangles": 1008,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__09_Shrine_Frame.fbx",
+      "triangles": 1220,
+      "meshObjects": 6,
+      "largestMeshTriangles": 400,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__11_Ghat.fbx",
+      "triangles": 2868,
+      "meshObjects": 4,
+      "largestMeshTriangles": 1488,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__12_River_Gateway.fbx",
+      "triangles": 1412,
+      "meshObjects": 2,
+      "largestMeshTriangles": 992,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__13_Boundary_Support.fbx",
+      "triangles": 704,
+      "meshObjects": 2,
+      "largestMeshTriangles": 520,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__14_Landscape_Fixtures.fbx",
+      "triangles": 2264,
+      "meshObjects": 8,
+      "largestMeshTriangles": 768,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/modules/KOL_T1_DAKSHINESHWAR__10_Shiva_Temple_Master.fbx",
+      "triangles": 1516,
+      "meshObjects": 4,
+      "largestMeshTriangles": 728,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": false
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__10_Shiva_Temples.fbx",
+      "triangles": 18192,
+      "meshObjects": 48,
+      "largestMeshTriangles": 728,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__00_Foundation.fbx",
+      "triangles": 120,
+      "meshObjects": 3,
+      "largestMeshTriangles": 84,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__01_Shell.fbx",
+      "triangles": 48,
+      "meshObjects": 1,
+      "largestMeshTriangles": 48,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__02_Cornices.fbx",
+      "triangles": 6528,
+      "meshObjects": 3,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__03_Facades.fbx",
+      "triangles": 59400,
+      "meshObjects": 13,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__04_Returns.fbx",
+      "triangles": 29268,
+      "meshObjects": 9,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__05_Central_Portico.fbx",
+      "triangles": 6248,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5360,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__06_Roofs.fbx",
+      "triangles": 60,
+      "meshObjects": 1,
+      "largestMeshTriangles": 60,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__07_Roof_Ornaments.fbx",
+      "triangles": 14972,
+      "meshObjects": 5,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__09_Foundation_Detail.fbx",
+      "triangles": 5828,
+      "meshObjects": 6,
+      "largestMeshTriangles": 5216,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__10_Rear_Architecture.fbx",
+      "triangles": 4568,
+      "meshObjects": 6,
+      "largestMeshTriangles": 3996,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__00_Foundation.fbx",
+      "triangles": 108,
+      "meshObjects": 3,
+      "largestMeshTriangles": 72,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__01_Shell.fbx",
+      "triangles": 16,
+      "meshObjects": 1,
+      "largestMeshTriangles": 16,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__02_Cornices.fbx",
+      "triangles": 192,
+      "meshObjects": 1,
+      "largestMeshTriangles": 192,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__03_Facades.fbx",
+      "triangles": 23408,
+      "meshObjects": 7,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__04_Returns.fbx",
+      "triangles": 16332,
+      "meshObjects": 6,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__05_Clock_Corner.fbx",
+      "triangles": 6760,
+      "meshObjects": 3,
+      "largestMeshTriangles": 4864,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__06_Cupolas.fbx",
+      "triangles": 26906,
+      "meshObjects": 9,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__07_Street_Crowns.fbx",
+      "triangles": 14552,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__09_Foundation_Detail.fbx",
+      "triangles": 1128,
+      "meshObjects": 5,
+      "largestMeshTriangles": 684,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__10_Rear_Architecture.fbx",
+      "triangles": 1472,
+      "meshObjects": 4,
+      "largestMeshTriangles": 1356,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__00_Foundation.fbx",
+      "triangles": 104,
+      "meshObjects": 1,
+      "largestMeshTriangles": 104,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__01_Shell.fbx",
+      "triangles": 484,
+      "meshObjects": 2,
+      "largestMeshTriangles": 296,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__03_Colonnades.fbx",
+      "triangles": 18824,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5492,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__02_Entablature.fbx",
+      "triangles": 1916,
+      "meshObjects": 2,
+      "largestMeshTriangles": 1320,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__04_Recesses.fbx",
+      "triangles": 6336,
+      "meshObjects": 2,
+      "largestMeshTriangles": 5104,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__05_Dome_Drum.fbx",
+      "triangles": 5948,
+      "meshObjects": 3,
+      "largestMeshTriangles": 4096,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__06_Dome.fbx",
+      "triangles": 3026,
+      "meshObjects": 2,
+      "largestMeshTriangles": 2166,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__07_Civic_Details.fbx",
+      "triangles": 8896,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5472,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__08_Secondary.fbx",
+      "triangles": 1944,
+      "meshObjects": 2,
+      "largestMeshTriangles": 1728,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__09_Foundation_Detail.fbx",
+      "triangles": 1012,
+      "meshObjects": 5,
+      "largestMeshTriangles": 448,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__10_Rear_Architecture.fbx",
+      "triangles": 3236,
+      "meshObjects": 4,
+      "largestMeshTriangles": 3012,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__00_Foundation.fbx",
+      "triangles": 180,
+      "meshObjects": 3,
+      "largestMeshTriangles": 144,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__01_Shell.fbx",
+      "triangles": 12,
+      "meshObjects": 1,
+      "largestMeshTriangles": 12,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__02_Cornices.fbx",
+      "triangles": 108,
+      "meshObjects": 1,
+      "largestMeshTriangles": 108,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__03_Portico.fbx",
+      "triangles": 6696,
+      "meshObjects": 3,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__04_Facades.fbx",
+      "triangles": 11784,
+      "meshObjects": 6,
+      "largestMeshTriangles": 5492,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__05_Rear.fbx",
+      "triangles": 3480,
+      "meshObjects": 3,
+      "largestMeshTriangles": 3120,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__06_Roofline.fbx",
+      "triangles": 11536,
+      "meshObjects": 3,
+      "largestMeshTriangles": 5460,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__09_Foundation_Detail.fbx",
+      "triangles": 812,
+      "meshObjects": 6,
+      "largestMeshTriangles": 368,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__10_Rear_Architecture.fbx",
+      "triangles": 1912,
+      "meshObjects": 5,
+      "largestMeshTriangles": 1824,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__00_Grounds.fbx",
+      "triangles": 4048,
+      "meshObjects": 10,
+      "largestMeshTriangles": 784,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__01_Rear_Mansion.fbx",
+      "triangles": 18544,
+      "meshObjects": 14,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__02_Side_Wings.fbx",
+      "triangles": 34360,
+      "meshObjects": 13,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__03_Street_Front.fbx",
+      "triangles": 23656,
+      "meshObjects": 11,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__04_Roofline.fbx",
+      "triangles": 37552,
+      "meshObjects": 11,
+      "largestMeshTriangles": 5492,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__05_Puja_Mandap.fbx",
+      "triangles": 5640,
+      "meshObjects": 8,
+      "largestMeshTriangles": 1880,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jorasanko/KOL_T1_JORASANKO__00_Grounds.fbx",
+      "triangles": 7052,
+      "meshObjects": 11,
+      "largestMeshTriangles": 1568,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jorasanko/KOL_T1_JORASANKO__01_Bahir_Mahal.fbx",
+      "triangles": 85320,
+      "meshObjects": 26,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jorasanko/KOL_T1_JORASANKO__02_Andar_Mahal.fbx",
+      "triangles": 51124,
+      "meshObjects": 16,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jorasanko/KOL_T1_JORASANKO__03_Thakur_Dalan_Link.fbx",
+      "triangles": 13168,
+      "meshObjects": 9,
+      "largestMeshTriangles": 5460,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Foundation.fbx",
+      "triangles": 288,
+      "meshObjects": 4,
+      "largestMeshTriangles": 204,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Landscape.fbx",
+      "triangles": 1344,
+      "meshObjects": 4,
+      "largestMeshTriangles": 768,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Guest_Wing_1.fbx",
+      "triangles": 3552,
+      "meshObjects": 4,
+      "largestMeshTriangles": 2928,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Internal_Shell.fbx",
+      "triangles": 192,
+      "meshObjects": 1,
+      "largestMeshTriangles": 192,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Guest_Wing_2.fbx",
+      "triangles": 1296,
+      "meshObjects": 4,
+      "largestMeshTriangles": 1020,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Guest_Wing_3.fbx",
+      "triangles": 1296,
+      "meshObjects": 4,
+      "largestMeshTriangles": 1020,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Water_Gardens.fbx",
+      "triangles": 7320,
+      "meshObjects": 7,
+      "largestMeshTriangles": 5120,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Tea_Pavilions.fbx",
+      "triangles": 8880,
+      "meshObjects": 5,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Arrival.fbx",
+      "triangles": 1620,
+      "meshObjects": 6,
+      "largestMeshTriangles": 1020,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__Foundation.fbx",
+      "triangles": 276,
+      "meshObjects": 4,
+      "largestMeshTriangles": 192,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__Landscape.fbx",
+      "triangles": 1344,
+      "meshObjects": 4,
+      "largestMeshTriangles": 768,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__01_Massing.fbx",
+      "triangles": 432,
+      "meshObjects": 4,
+      "largestMeshTriangles": 192,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__02_Window_Bays.fbx",
+      "triangles": 85824,
+      "meshObjects": 16,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__03_Arcades.fbx",
+      "triangles": 17488,
+      "meshObjects": 6,
+      "largestMeshTriangles": 5456,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__04_Columns_Loggias.fbx",
+      "triangles": 4480,
+      "meshObjects": 2,
+      "largestMeshTriangles": 3520,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__05_Crown_Cornices.fbx",
+      "triangles": 6356,
+      "meshObjects": 4,
+      "largestMeshTriangles": 3880,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__06_Arrival.fbx",
+      "triangles": 1360,
+      "meshObjects": 10,
+      "largestMeshTriangles": 604,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Foundation.fbx",
+      "triangles": 312,
+      "meshObjects": 4,
+      "largestMeshTriangles": 228,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Landscape.fbx",
+      "triangles": 1344,
+      "meshObjects": 4,
+      "largestMeshTriangles": 768,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Tower_1.fbx",
+      "triangles": 13140,
+      "meshObjects": 10,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Tower_2.fbx",
+      "triangles": 13140,
+      "meshObjects": 10,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Deya_Skybridge.fbx",
+      "triangles": 19428,
+      "meshObjects": 12,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Podium.fbx",
+      "triangles": 1276,
+      "meshObjects": 6,
+      "largestMeshTriangles": 580,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Foundation.fbx",
+      "triangles": 192,
+      "meshObjects": 4,
+      "largestMeshTriangles": 108,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Landscape.fbx",
+      "triangles": 1344,
+      "meshObjects": 4,
+      "largestMeshTriangles": 768,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Tower.fbx",
+      "triangles": 11040,
+      "meshObjects": 6,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Crown.fbx",
+      "triangles": 492,
+      "meshObjects": 3,
+      "largestMeshTriangles": 324,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Podium.fbx",
+      "triangles": 736,
+      "meshObjects": 5,
+      "largestMeshTriangles": 616,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Foundation.fbx",
+      "triangles": 408,
+      "meshObjects": 4,
+      "largestMeshTriangles": 324,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Landscape.fbx",
+      "triangles": 1344,
+      "meshObjects": 4,
+      "largestMeshTriangles": 768,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_01.fbx",
+      "triangles": 7820,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_02.fbx",
+      "triangles": 7484,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_03.fbx",
+      "triangles": 7148,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_04.fbx",
+      "triangles": 7820,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_05.fbx",
+      "triangles": 7316,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_06.fbx",
+      "triangles": 6980,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_07.fbx",
+      "triangles": 7484,
+      "meshObjects": 4,
+      "largestMeshTriangles": 5500,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Clubhouse.fbx",
+      "triangles": 3656,
+      "meshObjects": 9,
+      "largestMeshTriangles": 768,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Foundation.fbx",
+      "triangles": 324,
+      "meshObjects": 4,
+      "largestMeshTriangles": 240,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Landscape.fbx",
+      "triangles": 1344,
+      "meshObjects": 4,
+      "largestMeshTriangles": 768,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Podium_Base.fbx",
+      "triangles": 456,
+      "meshObjects": 4,
+      "largestMeshTriangles": 276,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Hotel_Tower.fbx",
+      "triangles": 27812,
+      "meshObjects": 11,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Companion_Tower.fbx",
+      "triangles": 18600,
+      "meshObjects": 8,
+      "largestMeshTriangles": 5496,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Hero_Diagrid.fbx",
+      "triangles": 8552,
+      "meshObjects": 3,
+      "largestMeshTriangles": 5376,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Roof_Terrace.fbx",
+      "triangles": 6652,
+      "meshObjects": 7,
+      "largestMeshTriangles": 2536,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    },
+    {
+      "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Arrival.fbx",
+      "triangles": 2948,
+      "meshObjects": 7,
+      "largestMeshTriangles": 1968,
+      "meshesWithUVs": 0,
+      "fbxVersion": 7400,
+      "defaultImport": true
+    }
+  ],
+  "limitations": "Offline staging/export checks only. Existing Studio world untouched; no Studio import, gameplay or device performance tests."
+}

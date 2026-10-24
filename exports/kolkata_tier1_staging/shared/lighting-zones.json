@@ -1,0 +1,1133 @@
+{
+  "KOL_T1_RAJBARI": [
+    {
+      "name": "Mandap_stage",
+      "positionStuds": [
+        33,
+        22,
+        4
+      ],
+      "targetStuds": [
+        33,
+        9,
+        21
+      ],
+      "rangeStuds": 32,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 7000,
+      "shadows": false
+    },
+    {
+      "name": "Street_-65",
+      "positionStuds": [
+        -65,
+        2,
+        -99
+      ],
+      "targetStuds": [
+        -65,
+        26,
+        -91
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 19000,
+      "shadows": false
+    },
+    {
+      "name": "Street_-32",
+      "positionStuds": [
+        -32,
+        2,
+        -99
+      ],
+      "targetStuds": [
+        -32,
+        26,
+        -91
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 19000,
+      "shadows": false
+    },
+    {
+      "name": "Street_32",
+      "positionStuds": [
+        32,
+        2,
+        -99
+      ],
+      "targetStuds": [
+        32,
+        26,
+        -91
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 19000,
+      "shadows": false
+    },
+    {
+      "name": "Street_65",
+      "positionStuds": [
+        65,
+        2,
+        -99
+      ],
+      "targetStuds": [
+        65,
+        26,
+        -91
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 19000,
+      "shadows": false
+    },
+    {
+      "name": "Arrival_portico",
+      "positionStuds": [
+        0,
+        3,
+        -107
+      ],
+      "targetStuds": [
+        0,
+        19,
+        -100
+      ],
+      "rangeStuds": 35,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 12000,
+      "shadows": false
+    },
+    {
+      "name": "Rear_-64",
+      "positionStuds": [
+        -64,
+        2,
+        87
+      ],
+      "targetStuds": [
+        -64,
+        26,
+        77
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "Rear_0",
+      "positionStuds": [
+        0,
+        2,
+        87
+      ],
+      "targetStuds": [
+        0,
+        26,
+        77
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "Rear_64",
+      "positionStuds": [
+        64,
+        2,
+        87
+      ],
+      "targetStuds": [
+        64,
+        26,
+        77
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_-1_-42",
+      "positionStuds": [
+        -95,
+        2,
+        -42
+      ],
+      "targetStuds": [
+        -87,
+        26,
+        -42
+      ],
+      "rangeStuds": 50,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_-1_17",
+      "positionStuds": [
+        -95,
+        2,
+        17
+      ],
+      "targetStuds": [
+        -87,
+        26,
+        17
+      ],
+      "rangeStuds": 50,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "Court_wing_-1_-36",
+      "positionStuds": [
+        -50,
+        2,
+        -36
+      ],
+      "targetStuds": [
+        -64,
+        29,
+        -36
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 13000,
+      "shadows": false
+    },
+    {
+      "name": "Court_wing_-1_15",
+      "positionStuds": [
+        -50,
+        2,
+        15
+      ],
+      "targetStuds": [
+        -64,
+        29,
+        15
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 13000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_1_-42",
+      "positionStuds": [
+        95,
+        2,
+        -42
+      ],
+      "targetStuds": [
+        87,
+        26,
+        -42
+      ],
+      "rangeStuds": 50,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_1_17",
+      "positionStuds": [
+        95,
+        2,
+        17
+      ],
+      "targetStuds": [
+        87,
+        26,
+        17
+      ],
+      "rangeStuds": 50,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "Court_wing_1_-36",
+      "positionStuds": [
+        50,
+        2,
+        -36
+      ],
+      "targetStuds": [
+        64,
+        29,
+        -36
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 13000,
+      "shadows": false
+    },
+    {
+      "name": "Court_wing_1_15",
+      "positionStuds": [
+        50,
+        2,
+        15
+      ],
+      "targetStuds": [
+        64,
+        29,
+        15
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 13000,
+      "shadows": false
+    },
+    {
+      "name": "Courtyard_Dalan",
+      "positionStuds": [
+        0,
+        3,
+        19
+      ],
+      "targetStuds": [
+        0,
+        28,
+        37
+      ],
+      "rangeStuds": 55,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 22000,
+      "shadows": false
+    },
+    {
+      "name": "Front_dome",
+      "positionStuds": [
+        0,
+        41,
+        -94
+      ],
+      "targetStuds": [
+        0,
+        56,
+        -76
+      ],
+      "rangeStuds": 40,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 9000,
+      "shadows": false
+    },
+    {
+      "name": "Rear_dome",
+      "positionStuds": [
+        0,
+        41,
+        -58
+      ],
+      "targetStuds": [
+        0,
+        56,
+        -76
+      ],
+      "rangeStuds": 40,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 9000,
+      "shadows": false
+    }
+  ],
+  "KOL_T1_JORASANKO": [
+    {
+      "name": "Front_roof_gallery_-56",
+      "positionStuds": [
+        -56,
+        43,
+        -124
+      ],
+      "targetStuds": [
+        -56,
+        49,
+        -119
+      ],
+      "rangeStuds": 25,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 3000,
+      "shadows": false
+    },
+    {
+      "name": "Front_roof_gallery_56",
+      "positionStuds": [
+        56,
+        43,
+        -124
+      ],
+      "targetStuds": [
+        56,
+        49,
+        -119
+      ],
+      "rangeStuds": 25,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 3000,
+      "shadows": false
+    },
+    {
+      "name": "South_front_-60",
+      "positionStuds": [
+        -60,
+        2,
+        -137
+      ],
+      "targetStuds": [
+        -60,
+        28,
+        -122
+      ],
+      "rangeStuds": 50,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 18000,
+      "shadows": false
+    },
+    {
+      "name": "South_front_-25",
+      "positionStuds": [
+        -25,
+        2,
+        -137
+      ],
+      "targetStuds": [
+        -25,
+        28,
+        -122
+      ],
+      "rangeStuds": 50,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 18000,
+      "shadows": false
+    },
+    {
+      "name": "South_front_25",
+      "positionStuds": [
+        25,
+        2,
+        -137
+      ],
+      "targetStuds": [
+        25,
+        28,
+        -122
+      ],
+      "rangeStuds": 50,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 18000,
+      "shadows": false
+    },
+    {
+      "name": "South_front_60",
+      "positionStuds": [
+        60,
+        2,
+        -137
+      ],
+      "targetStuds": [
+        60,
+        28,
+        -122
+      ],
+      "rangeStuds": 50,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 18000,
+      "shadows": false
+    },
+    {
+      "name": "North_rear_-55",
+      "positionStuds": [
+        -55,
+        2,
+        126
+      ],
+      "targetStuds": [
+        -55,
+        27,
+        120
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "North_rear_0",
+      "positionStuds": [
+        0,
+        2,
+        126
+      ],
+      "targetStuds": [
+        0,
+        27,
+        120
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "North_rear_55",
+      "positionStuds": [
+        55,
+        2,
+        126
+      ],
+      "targetStuds": [
+        55,
+        27,
+        120
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 17000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_-1_-75",
+      "positionStuds": [
+        -90,
+        3,
+        -75
+      ],
+      "targetStuds": [
+        -82,
+        27,
+        -75
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_-1_-28",
+      "positionStuds": [
+        -90,
+        3,
+        -28
+      ],
+      "targetStuds": [
+        -82,
+        27,
+        -28
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_-1_48",
+      "positionStuds": [
+        -90,
+        3,
+        48
+      ],
+      "targetStuds": [
+        -82,
+        27,
+        48
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_-1_97",
+      "positionStuds": [
+        -90,
+        3,
+        97
+      ],
+      "targetStuds": [
+        -82,
+        27,
+        97
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Inner_gallery_-1_-67",
+      "positionStuds": [
+        -49,
+        2,
+        -67
+      ],
+      "targetStuds": [
+        -61,
+        28,
+        -67
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Inner_gallery_-1_69",
+      "positionStuds": [
+        -49,
+        2,
+        69
+      ],
+      "targetStuds": [
+        -61,
+        28,
+        69
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_1_-75",
+      "positionStuds": [
+        90,
+        3,
+        -75
+      ],
+      "targetStuds": [
+        82,
+        27,
+        -75
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_1_-28",
+      "positionStuds": [
+        90,
+        3,
+        -28
+      ],
+      "targetStuds": [
+        82,
+        27,
+        -28
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_1_48",
+      "positionStuds": [
+        90,
+        3,
+        48
+      ],
+      "targetStuds": [
+        82,
+        27,
+        48
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Outer_side_1_97",
+      "positionStuds": [
+        90,
+        3,
+        97
+      ],
+      "targetStuds": [
+        82,
+        27,
+        97
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Inner_gallery_1_-67",
+      "positionStuds": [
+        49,
+        2,
+        -67
+      ],
+      "targetStuds": [
+        61,
+        28,
+        -67
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Inner_gallery_1_69",
+      "positionStuds": [
+        49,
+        2,
+        69
+      ],
+      "targetStuds": [
+        61,
+        28,
+        69
+      ],
+      "rangeStuds": 48,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "White_Dalan_front",
+      "positionStuds": [
+        0,
+        3,
+        -25
+      ],
+      "targetStuds": [
+        0,
+        29,
+        -2
+      ],
+      "rangeStuds": 55,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 20000,
+      "shadows": false
+    },
+    {
+      "name": "Bahir_inner_south",
+      "positionStuds": [
+        0,
+        3,
+        -82
+      ],
+      "targetStuds": [
+        0,
+        28,
+        -96
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Andar_inner_south",
+      "positionStuds": [
+        0,
+        3,
+        62
+      ],
+      "targetStuds": [
+        0,
+        28,
+        43
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Andar_inner_north",
+      "positionStuds": [
+        0,
+        3,
+        85
+      ],
+      "targetStuds": [
+        0,
+        28,
+        99
+      ],
+      "rangeStuds": 45,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 14000,
+      "shadows": false
+    },
+    {
+      "name": "Bahir_roof_pavilion",
+      "positionStuds": [
+        0,
+        41,
+        -122
+      ],
+      "targetStuds": [
+        0,
+        47,
+        -108
+      ],
+      "rangeStuds": 30,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 7000,
+      "shadows": false
+    },
+    {
+      "name": "South_entry_canopy",
+      "positionStuds": [
+        0,
+        16,
+        -130
+      ],
+      "targetStuds": [
+        0,
+        3,
+        -132
+      ],
+      "rangeStuds": 25,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 3000,
+      "shadows": false
+    },
+    {
+      "name": "West_main_entry",
+      "positionStuds": [
+        -88,
+        14,
+        -14
+      ],
+      "targetStuds": [
+        -78,
+        5,
+        -14
+      ],
+      "rangeStuds": 28,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 5000,
+      "shadows": false
+    },
+    {
+      "name": "Northeast_rear_entry",
+      "positionStuds": [
+        65,
+        17,
+        126
+      ],
+      "targetStuds": [
+        65,
+        5,
+        117
+      ],
+      "rangeStuds": 28,
+      "brightness": 1.7,
+      "angleDegrees": 100,
+      "colorRGB": [
+        255,
+        218,
+        170
+      ],
+      "blenderWatts": 5000,
+      "shadows": false
+    }
+  ]
+}

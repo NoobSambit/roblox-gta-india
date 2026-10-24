@@ -1,0 +1,6596 @@
+{
+  "scene": "KOLKATA_TIER1_ASSET_STAGING",
+  "master": "assets/kolkata/tier1_showcase/Kolkata_Tier1_Staging.blend",
+  "purpose": "Offline asset staging and inspection; not a city layout or Studio world",
+  "units": "Neutral Blender/Stud 1",
+  "front": "Blender +Y; Roblox -Z",
+  "layout": {
+    "columns": 4,
+    "rows": 4,
+    "cellWidthStuds": 598.0,
+    "cellDepthStuds": 484.0,
+    "minimumMeasuredGapStuds": 218.0
+  },
+  "assetCount": 16,
+  "totalAssembledTriangles": 1136464,
+  "totalUniqueSourceTriangles": 298998,
+  "geometryAndUVFingerprintsUnchanged": true,
+  "materialGraphsUnchanged": true,
+  "sourceFilesUnchanged": true,
+  "checkedUniqueMeshDatablocks": 1328,
+  "checkedMaterials": 231,
+  "assets": [
+    {
+      "index": 1,
+      "label": "New Market",
+      "batch": "Batch 4",
+      "folder": "assets/kolkata/landmarks_batch4/new_market",
+      "metadata": "assets/kolkata/landmarks_batch4/new_market/asset.json",
+      "metadataSha256": "9ab8af1a2568da4a93d506fd9cf152fa6ea2beee891eb83e3be3e11458f4f467",
+      "source": "assets/kolkata/landmarks_batch4/new_market/KOL_T1_NEW_MARKET.blend",
+      "sourceSha256": "2cdda956880e66615abb8ce11f761868f39a3eeb1117ca459afbc7916b2a3066",
+      "packageKey": "new_market",
+      "sourceBoundsBlender": [
+        -155.0,
+        -92.0,
+        -1.0,
+        155.0,
+        92.0,
+        96.0
+      ],
+      "sourceUniqueMeshCount": 75,
+      "sourceMeshInstances": 261,
+      "uniqueTrianglesMeasured": 11960,
+      "sourceSectionCount": 7,
+      "textures": [
+        {
+          "image": "B4_Stone.png",
+          "file": "exports/kolkata_tier1_staging/shared/textures/4aad459f5057_B4_Stone.png",
+          "sha256": "4aad459f5057304ce6ca616119340221bca6f375885a5172dea2186381fbe8a3",
+          "packedInMaster": true
+        },
+        {
+          "image": "B4_Brick.png",
+          "file": "exports/kolkata_tier1_staging/shared/textures/41c0249e04bb_B4_Brick.png",
+          "sha256": "41c0249e04bbc4af889adadd6071caebe1c3b0dbef5c8d37951ff667239c7310",
+          "packedInMaster": true
+        }
+      ],
+      "files": [
+        {
+          "section": "00_FoundationGrounds",
+          "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__00_FoundationGrounds.fbx",
+          "sha256": "c85a13613d937b95454c30be5675999e49abdac67514d31338372d1b30f4af7f",
+          "triangles": 916,
+          "meshObjects": 5,
+          "largestMeshTriangles": 420,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_PrimaryStructure",
+          "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__01_PrimaryStructure.fbx",
+          "sha256": "8ea7cc68757d01904cafe924d6ceaa5d07d70511f3f25a301305586a54a1a7e8",
+          "triangles": 228,
+          "meshObjects": 3,
+          "largestMeshTriangles": 156,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_RoofsTower",
+          "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__04_RoofsTower.fbx",
+          "sha256": "9850db363b2c02a2bb5f00a700ff1300cb8e7abdc8659d20a9e7cc1dd3194c2f",
+          "triangles": 19560,
+          "meshObjects": 8,
+          "largestMeshTriangles": 6432,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_Frontage",
+          "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__02_Frontage.fbx",
+          "sha256": "d81f0410c5bde646ddf2bbcb01799a830947638d36f0684bb7497f1e00394caf",
+          "triangles": 8752,
+          "meshObjects": 8,
+          "largestMeshTriangles": 5348,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_ModularArchitecture",
+          "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__03_ModularArchitecture.fbx",
+          "sha256": "39d06e72c780eb3ef4841dd34b90277e2586fd19e7e108e2346b877c5fa774bc",
+          "triangles": 6828,
+          "meshObjects": 3,
+          "largestMeshTriangles": 3948,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_FacadeDetails",
+          "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__05_FacadeDetails.fbx",
+          "sha256": "cbb4bb8ff91990d011c35cbeafaa26c5ea6dbe7068fddb2601739f8e6e0c92ca",
+          "triangles": 1944,
+          "meshObjects": 2,
+          "largestMeshTriangles": 1932,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "06_LightingFixtures",
+          "file": "exports/kolkata_tier1_staging/new_market/KOL_T1_NEW_MARKET__06_LightingFixtures.fbx",
+          "sha256": "3f51cadccc2d63c952978984afde045b5485af214b7a98cfc6a107f151e80696",
+          "triangles": 896,
+          "meshObjects": 2,
+          "largestMeshTriangles": 728,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [],
+      "collection": "01 | New Market",
+      "pivot": "PIVOT | New Market",
+      "stagingOffsetBlender": [
+        -897.0,
+        726.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        -1052.0,
+        634.0,
+        -1.0,
+        -742.0,
+        818.0,
+        96.0
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [],
+      "lightCollections": [],
+      "preservedArchitecturalLightCount": 21,
+      "assetId": "KOL_T1_NEW_MARKET",
+      "name": "New Market \u2014 Sir Stuart Hogg Market",
+      "dimensionsStuds": {
+        "width": 310.0,
+        "height": 97.0,
+        "depth": 184.0
+      },
+      "assembledTriangles": 39124,
+      "uniqueSourceTriangles": 11960,
+      "nightLights": [
+        {
+          "name": "Frontage_wash_-113",
+          "positionStuds": [
+            113,
+            0.5,
+            -73
+          ],
+          "targetStuds": [
+            113,
+            15,
+            -57
+          ],
+          "rangeStuds": 42,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Gabled_frontage_-113",
+          "positionStuds": [
+            113,
+            17.7,
+            -65
+          ],
+          "targetStuds": [
+            113,
+            30,
+            -57
+          ],
+          "rangeStuds": 27,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Frontage_wash_-62",
+          "positionStuds": [
+            62,
+            0.5,
+            -73
+          ],
+          "targetStuds": [
+            62,
+            15,
+            -57
+          ],
+          "rangeStuds": 42,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Gabled_frontage_-62",
+          "positionStuds": [
+            62,
+            17.7,
+            -65
+          ],
+          "targetStuds": [
+            62,
+            30,
+            -57
+          ],
+          "rangeStuds": 27,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Frontage_wash_15",
+          "positionStuds": [
+            -15,
+            0.5,
+            -73
+          ],
+          "targetStuds": [
+            -15,
+            15,
+            -57
+          ],
+          "rangeStuds": 42,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Gabled_frontage_15",
+          "positionStuds": [
+            -15,
+            17.7,
+            -65
+          ],
+          "targetStuds": [
+            -15,
+            30,
+            -57
+          ],
+          "rangeStuds": 27,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Frontage_wash_69",
+          "positionStuds": [
+            -69,
+            0.5,
+            -73
+          ],
+          "targetStuds": [
+            -69,
+            15,
+            -57
+          ],
+          "rangeStuds": 42,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Gabled_frontage_69",
+          "positionStuds": [
+            -69,
+            17.7,
+            -65
+          ],
+          "targetStuds": [
+            -69,
+            30,
+            -57
+          ],
+          "rangeStuds": 27,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Entrance_canopy",
+          "positionStuds": [
+            27,
+            15,
+            -67
+          ],
+          "targetStuds": [
+            27,
+            7,
+            -62
+          ],
+          "rangeStuds": 23,
+          "brightness": 1.6,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Clock_tower_0_-21",
+          "positionStuds": [
+            -128,
+            57,
+            -70
+          ],
+          "targetStuds": [
+            -128,
+            75,
+            -49
+          ],
+          "rangeStuds": 36,
+          "brightness": 2.3,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Clock_tower_21_0",
+          "positionStuds": [
+            -149,
+            57,
+            -49
+          ],
+          "targetStuds": [
+            -128,
+            75,
+            -49
+          ],
+          "rangeStuds": 36,
+          "brightness": 2.3,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Clock_tower_0_21",
+          "positionStuds": [
+            -128,
+            57,
+            -28
+          ],
+          "targetStuds": [
+            -128,
+            75,
+            -49
+          ],
+          "rangeStuds": 36,
+          "brightness": 2.3,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Clock_tower_-21_0",
+          "positionStuds": [
+            -107,
+            57,
+            -49
+          ],
+          "targetStuds": [
+            -128,
+            75,
+            -49
+          ],
+          "rangeStuds": 36,
+          "brightness": 2.3,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Crown_wash",
+          "positionStuds": [
+            -128,
+            79,
+            -67
+          ],
+          "targetStuds": [
+            -128,
+            87,
+            -49
+          ],
+          "rangeStuds": 25,
+          "brightness": 1.3,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Rear_range_-90",
+          "positionStuds": [
+            90,
+            0.5,
+            80
+          ],
+          "targetStuds": [
+            90,
+            23,
+            68
+          ],
+          "rangeStuds": 38,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Rear_range_65",
+          "positionStuds": [
+            -65,
+            0.5,
+            80
+          ],
+          "targetStuds": [
+            -65,
+            23,
+            68
+          ],
+          "rangeStuds": 38,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Side_range_-1_-28",
+          "positionStuds": [
+            144,
+            0.5,
+            -28
+          ],
+          "targetStuds": [
+            136,
+            23,
+            -28
+          ],
+          "rangeStuds": 37,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Side_range_-1_35",
+          "positionStuds": [
+            144,
+            0.5,
+            35
+          ],
+          "targetStuds": [
+            136,
+            23,
+            35
+          ],
+          "rangeStuds": 37,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Side_range_1_-28",
+          "positionStuds": [
+            -144,
+            0.5,
+            -28
+          ],
+          "targetStuds": [
+            -136,
+            23,
+            -28
+          ],
+          "rangeStuds": 37,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Side_range_1_35",
+          "positionStuds": [
+            -144,
+            0.5,
+            35
+          ],
+          "targetStuds": [
+            -136,
+            23,
+            35
+          ],
+          "rangeStuds": 37,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Entrance_portal_wash",
+          "positionStuds": [
+            27,
+            1,
+            -79
+          ],
+          "targetStuds": [
+            27,
+            23,
+            -59
+          ],
+          "rangeStuds": 34,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        }
+      ],
+      "reusedModules": {},
+      "defaultImportTriangles": 39124
+    },
+    {
+      "index": 2,
+      "label": "Indian Museum",
+      "batch": "Batch 4",
+      "folder": "assets/kolkata/landmarks_batch4/indian_museum",
+      "metadata": "assets/kolkata/landmarks_batch4/indian_museum/asset.json",
+      "metadataSha256": "9b6291a14b241c342fa99a7a87fab6193769ff906001c3a9a1db0c96a584f8cf",
+      "source": "assets/kolkata/landmarks_batch4/indian_museum/KOL_T1_INDIAN_MUSEUM.blend",
+      "sourceSha256": "57c7acbabbc6ca73a3f11c2e55fe2048977ea21776c9d657f2acd7ebb1c3816c",
+      "packageKey": "indian_museum",
+      "sourceBoundsBlender": [
+        -141.0,
+        -109.0,
+        -1.0,
+        141.0,
+        109.0,
+        63.474998474121094
+      ],
+      "sourceUniqueMeshCount": 97,
+      "sourceMeshInstances": 440,
+      "uniqueTrianglesMeasured": 16836,
+      "sourceSectionCount": 7,
+      "textures": [
+        {
+          "image": "B4_MuseumWall.png",
+          "file": "exports/kolkata_tier1_staging/shared/textures/6f083192a12a_B4_MuseumWall.png",
+          "sha256": "6f083192a12aac2efc506189c9c348297168ef521cec1b300ffabd2b966b2c47",
+          "packedInMaster": true
+        }
+      ],
+      "files": [
+        {
+          "section": "00_FoundationGrounds",
+          "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__00_FoundationGrounds.fbx",
+          "sha256": "9bd99d5830a4721405ba8a12ced32cfd2829ffb16f5623a54075ee3cc66f71c8",
+          "triangles": 5776,
+          "meshObjects": 10,
+          "largestMeshTriangles": 3828,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_PrimaryStructure",
+          "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__01_PrimaryStructure.fbx",
+          "sha256": "7ad25149436fc0bb589ff94bd20c026821af6b69ae1107168347647b5e48a3b7",
+          "triangles": 168,
+          "meshObjects": 3,
+          "largestMeshTriangles": 96,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_RoofsCrown",
+          "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__04_RoofsCrown.fbx",
+          "sha256": "8c3f894ba182c2418630e5681bf2f14c394ab2a44cd4d53b46dcd0a8618390d3",
+          "triangles": 4476,
+          "meshObjects": 4,
+          "largestMeshTriangles": 1884,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_EntrancePortico",
+          "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__02_EntrancePortico.fbx",
+          "sha256": "b525d6c3cde0f3ff11fa3d6f8e7bf03df212af23d357a7edc39b9be0b8b3aefe",
+          "triangles": 3784,
+          "meshObjects": 4,
+          "largestMeshTriangles": 3316,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_FacadeDetails",
+          "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__05_FacadeDetails.fbx",
+          "sha256": "6d6c4e393dabb7fd9e98d32c6771e21795a06a9ea7ca946a9b25ebfcdbb57bbc",
+          "triangles": 18740,
+          "meshObjects": 5,
+          "largestMeshTriangles": 11916,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_ModularArchitecture",
+          "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__03_ModularArchitecture.fbx",
+          "sha256": "cd7774de5069d51a1e95bc226bf13cf8324e7fae79285854bd9188d1e2f7f555",
+          "triangles": 24996,
+          "meshObjects": 5,
+          "largestMeshTriangles": 11972,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "06_LightingFixtures",
+          "file": "exports/kolkata_tier1_staging/indian_museum/KOL_T1_INDIAN_MUSEUM__06_LightingFixtures.fbx",
+          "sha256": "d799bc4b55e512afdbc8ffaba5fc3ba7c52cc1472408c7fb2cf9c16f400a919f",
+          "triangles": 960,
+          "meshObjects": 2,
+          "largestMeshTriangles": 780,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [],
+      "collection": "02 | Indian Museum",
+      "pivot": "PIVOT | Indian Museum",
+      "stagingOffsetBlender": [
+        -299.0,
+        726.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        -440.0,
+        617.0,
+        -1.0,
+        -158.0,
+        835.0,
+        63.474998474121094
+      ],
+      "transformErrorStuds": 2.3841858620698986e-07,
+      "guideCollections": [],
+      "lightCollections": [],
+      "preservedArchitecturalLightCount": 18,
+      "assetId": "KOL_T1_INDIAN_MUSEUM",
+      "name": "Indian Museum, Kolkata",
+      "dimensionsStuds": {
+        "width": 282.0,
+        "height": 64.47,
+        "depth": 218.0
+      },
+      "assembledTriangles": 58900,
+      "uniqueSourceTriangles": 16836,
+      "nightLights": [
+        {
+          "name": "Street_uplight_-108",
+          "positionStuds": [
+            -108,
+            0.4,
+            -96
+          ],
+          "targetStuds": [
+            -108,
+            34,
+            -83
+          ],
+          "rangeStuds": 48,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Street_uplight_-68",
+          "positionStuds": [
+            -68,
+            0.4,
+            -96
+          ],
+          "targetStuds": [
+            -68,
+            34,
+            -83
+          ],
+          "rangeStuds": 48,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Street_uplight_-32",
+          "positionStuds": [
+            -32,
+            0.4,
+            -96
+          ],
+          "targetStuds": [
+            -32,
+            34,
+            -83
+          ],
+          "rangeStuds": 48,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Street_uplight_32",
+          "positionStuds": [
+            32,
+            0.4,
+            -96
+          ],
+          "targetStuds": [
+            32,
+            34,
+            -83
+          ],
+          "rangeStuds": 48,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Street_uplight_68",
+          "positionStuds": [
+            68,
+            0.4,
+            -96
+          ],
+          "targetStuds": [
+            68,
+            34,
+            -83
+          ],
+          "rangeStuds": 48,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Street_uplight_108",
+          "positionStuds": [
+            108,
+            0.4,
+            -96
+          ],
+          "targetStuds": [
+            108,
+            34,
+            -83
+          ],
+          "rangeStuds": 48,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Portico_giant_column_-1",
+          "positionStuds": [
+            -15,
+            25,
+            -95
+          ],
+          "targetStuds": [
+            -12,
+            49,
+            -87
+          ],
+          "rangeStuds": 32,
+          "brightness": 1.8,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Side_wash_-1",
+          "positionStuds": [
+            -132,
+            0.4,
+            5
+          ],
+          "targetStuds": [
+            -124,
+            35,
+            5
+          ],
+          "rangeStuds": 46,
+          "brightness": 1.6,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Portico_giant_column_1",
+          "positionStuds": [
+            15,
+            25,
+            -95
+          ],
+          "targetStuds": [
+            12,
+            49,
+            -87
+          ],
+          "rangeStuds": 32,
+          "brightness": 1.8,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Side_wash_1",
+          "positionStuds": [
+            132,
+            0.4,
+            5
+          ],
+          "targetStuds": [
+            124,
+            35,
+            5
+          ],
+          "rangeStuds": 46,
+          "brightness": 1.6,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Court_arcade_-68_-44",
+          "positionStuds": [
+            -68,
+            0.45,
+            -44
+          ],
+          "targetStuds": [
+            -68,
+            30,
+            -53.0
+          ],
+          "rangeStuds": 40,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Court_arcade_68_-44",
+          "positionStuds": [
+            68,
+            0.45,
+            -44
+          ],
+          "targetStuds": [
+            68,
+            30,
+            -53.0
+          ],
+          "rangeStuds": 40,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Court_arcade_-68_44",
+          "positionStuds": [
+            -68,
+            0.45,
+            44
+          ],
+          "targetStuds": [
+            -68,
+            30,
+            53.0
+          ],
+          "rangeStuds": 40,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Court_arcade_68_44",
+          "positionStuds": [
+            68,
+            0.45,
+            44
+          ],
+          "targetStuds": [
+            68,
+            30,
+            53.0
+          ],
+          "rangeStuds": 40,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Entrance_vault",
+          "positionStuds": [
+            0,
+            22,
+            -77
+          ],
+          "targetStuds": [
+            0,
+            4,
+            -85
+          ],
+          "rangeStuds": 25,
+          "brightness": 1.5,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Rear_institution_wash_-75",
+          "positionStuds": [
+            -75,
+            0.4,
+            100
+          ],
+          "targetStuds": [
+            -75,
+            35,
+            86
+          ],
+          "rangeStuds": 44,
+          "brightness": 1.6,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Rear_institution_wash_0",
+          "positionStuds": [
+            0,
+            0.4,
+            100
+          ],
+          "targetStuds": [
+            0,
+            35,
+            86
+          ],
+          "rangeStuds": 44,
+          "brightness": 1.6,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Rear_institution_wash_75",
+          "positionStuds": [
+            75,
+            0.4,
+            100
+          ],
+          "targetStuds": [
+            75,
+            35,
+            86
+          ],
+          "rangeStuds": 44,
+          "brightness": 1.6,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        }
+      ],
+      "reusedModules": {},
+      "defaultImportTriangles": 58900
+    },
+    {
+      "index": 3,
+      "label": "St Pauls Cathedral",
+      "batch": "Batch 4",
+      "folder": "assets/kolkata/landmarks_batch4/st_pauls",
+      "metadata": "assets/kolkata/landmarks_batch4/st_pauls/asset.json",
+      "metadataSha256": "c5d7d92c282ee978da7b5e750dffa36385fb861a18c67e5710270fed7b725845",
+      "source": "assets/kolkata/landmarks_batch4/st_pauls/KOL_T1_ST_PAULS.blend",
+      "sourceSha256": "32b1513c408177df909e460653d9775896ba14db8a60da402accef1c11e0646f",
+      "packageKey": "st_pauls",
+      "sourceBoundsBlender": [
+        -78.0,
+        -126.0,
+        -1.0,
+        78.0,
+        126.0,
+        113.0999984741211
+      ],
+      "sourceUniqueMeshCount": 88,
+      "sourceMeshInstances": 302,
+      "uniqueTrianglesMeasured": 19812,
+      "sourceSectionCount": 7,
+      "textures": [
+        {
+          "image": "B4_Stone.png.001",
+          "file": "exports/kolkata_tier1_staging/shared/textures/4aad459f5057_B4_Stone.png",
+          "sha256": "4aad459f5057304ce6ca616119340221bca6f375885a5172dea2186381fbe8a3",
+          "packedInMaster": true
+        },
+        {
+          "image": "B4_Plaster.png",
+          "file": "exports/kolkata_tier1_staging/shared/textures/d48a0d5bc3ff_B4_Plaster.png",
+          "sha256": "d48a0d5bc3ff16be5b6e67bb2b8ab9dc53a0c2dbea2471f8d77ec5c2ed7dba8a",
+          "packedInMaster": true
+        }
+      ],
+      "files": [
+        {
+          "section": "00_FoundationGrounds",
+          "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__00_FoundationGrounds.fbx",
+          "sha256": "22629c438b67de729a4aa9f35e875bbe0a71f43765df1c9e491e7b8c9ef85040",
+          "triangles": 5016,
+          "meshObjects": 7,
+          "largestMeshTriangles": 3180,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_PrimaryStructure",
+          "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__01_PrimaryStructure.fbx",
+          "sha256": "1c85d0521199e75ddf6fc5f1b2bbca3dbcae70c96a97aae1e566a7f0139b983c",
+          "triangles": 120,
+          "meshObjects": 1,
+          "largestMeshTriangles": 120,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_RoofsTower",
+          "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__04_RoofsTower.fbx",
+          "sha256": "3ad6a9257361d2258dd05f99f051df028be154e1c1a0b574223ff4c462ed82b0",
+          "triangles": 8956,
+          "meshObjects": 5,
+          "largestMeshTriangles": 3376,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_ModularArchitecture",
+          "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__03_ModularArchitecture.fbx",
+          "sha256": "a63117241e5231cec648eebfc4c8b8e5d2cf6f49d2df65270586c527c20828f4",
+          "triangles": 19264,
+          "meshObjects": 7,
+          "largestMeshTriangles": 11856,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_FacadeDetails",
+          "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__05_FacadeDetails.fbx",
+          "sha256": "67249df6044b3b9ac1d10fe03457583b2ed1981dfc287eb9d912a696db421b1b",
+          "triangles": 11368,
+          "meshObjects": 5,
+          "largestMeshTriangles": 7968,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_EntrancePorches",
+          "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__02_EntrancePorches.fbx",
+          "sha256": "a825376d7e6e4530ddafc70c7e3598f9f064aea5f48db67ba551d553935fbe39",
+          "triangles": 932,
+          "meshObjects": 5,
+          "largestMeshTriangles": 456,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "06_LightingFixtures",
+          "file": "exports/kolkata_tier1_staging/st_pauls/KOL_T1_ST_PAULS__06_LightingFixtures.fbx",
+          "sha256": "f24a29cea139341484d522dfec392a39e35bc31f4a440ae11723d1297c10b67a",
+          "triangles": 640,
+          "meshObjects": 2,
+          "largestMeshTriangles": 520,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [],
+      "collection": "03 | St Pauls Cathedral",
+      "pivot": "PIVOT | St Pauls Cathedral",
+      "stagingOffsetBlender": [
+        299.0,
+        726.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        221.0,
+        600.0,
+        -1.0,
+        377.0,
+        852.0,
+        113.0999984741211
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [],
+      "lightCollections": [],
+      "preservedArchitecturalLightCount": 14,
+      "assetId": "KOL_T1_ST_PAULS",
+      "name": "St. Paul's Cathedral, Kolkata",
+      "dimensionsStuds": {
+        "width": 156.0,
+        "height": 114.1,
+        "depth": 252.0
+      },
+      "assembledTriangles": 46296,
+      "uniqueSourceTriangles": 19812,
+      "nightLights": [
+        {
+          "name": "Nave_wash_-1_-79",
+          "positionStuds": [
+            -36,
+            0.4,
+            -79
+          ],
+          "targetStuds": [
+            -26,
+            35,
+            -79
+          ],
+          "rangeStuds": 42,
+          "brightness": 1.7,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Nave_wash_-1_-24",
+          "positionStuds": [
+            -36,
+            0.4,
+            -24
+          ],
+          "targetStuds": [
+            -26,
+            35,
+            -24
+          ],
+          "rangeStuds": 42,
+          "brightness": 1.7,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Nave_wash_-1_79",
+          "positionStuds": [
+            -36,
+            0.4,
+            79
+          ],
+          "targetStuds": [
+            -26,
+            35,
+            79
+          ],
+          "rangeStuds": 42,
+          "brightness": 1.7,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Transept_wash_-1",
+          "positionStuds": [
+            -61,
+            0.4,
+            40
+          ],
+          "targetStuds": [
+            -49,
+            49,
+            40
+          ],
+          "rangeStuds": 58,
+          "brightness": 2.1,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Nave_wash_1_-79",
+          "positionStuds": [
+            36,
+            0.4,
+            -79
+          ],
+          "targetStuds": [
+            26,
+            35,
+            -79
+          ],
+          "rangeStuds": 42,
+          "brightness": 1.7,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Nave_wash_1_-24",
+          "positionStuds": [
+            36,
+            0.4,
+            -24
+          ],
+          "targetStuds": [
+            26,
+            35,
+            -24
+          ],
+          "rangeStuds": 42,
+          "brightness": 1.7,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Nave_wash_1_79",
+          "positionStuds": [
+            36,
+            0.4,
+            79
+          ],
+          "targetStuds": [
+            26,
+            35,
+            79
+          ],
+          "rangeStuds": 42,
+          "brightness": 1.7,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Transept_wash_1",
+          "positionStuds": [
+            61,
+            0.4,
+            40
+          ],
+          "targetStuds": [
+            49,
+            49,
+            40
+          ],
+          "rangeStuds": 58,
+          "brightness": 2.1,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "West_window",
+          "positionStuds": [
+            0,
+            0.4,
+            -110
+          ],
+          "targetStuds": [
+            0,
+            42,
+            -96
+          ],
+          "rangeStuds": 54,
+          "brightness": 2.1,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "East_window",
+          "positionStuds": [
+            0,
+            0.4,
+            110
+          ],
+          "targetStuds": [
+            0,
+            40,
+            96
+          ],
+          "rangeStuds": 54,
+          "brightness": 1.8,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Tower_pinnacle_-1",
+          "positionStuds": [
+            -28,
+            54,
+            40
+          ],
+          "targetStuds": [
+            -8,
+            103,
+            40
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Tower_pinnacle_1",
+          "positionStuds": [
+            28,
+            54,
+            40
+          ],
+          "targetStuds": [
+            8,
+            103,
+            40
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Tower_front",
+          "positionStuds": [
+            0,
+            53,
+            17
+          ],
+          "targetStuds": [
+            0,
+            90,
+            28
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.8,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        },
+        {
+          "name": "Porch_entry",
+          "positionStuds": [
+            43,
+            13,
+            -59
+          ],
+          "targetStuds": [
+            37,
+            3,
+            -59
+          ],
+          "rangeStuds": 18,
+          "brightness": 1.2,
+          "angle": 85,
+          "shadows": false,
+          "color": [
+            1,
+            0.78,
+            0.48
+          ]
+        }
+      ],
+      "reusedModules": {},
+      "defaultImportTriangles": 46296
+    },
+    {
+      "index": 4,
+      "label": "Dakshineshwar",
+      "batch": "Temple",
+      "folder": "assets/kolkata/dakshineshwar",
+      "metadata": "assets/kolkata/dakshineshwar/asset.json",
+      "metadataSha256": "adf7e12ff7d0c37bfab9da0dd627a96f55dc93b32b0041f6d9cd264af0d256eb",
+      "source": "assets/kolkata/dakshineshwar/KOL_T1_DAKSHINESHWAR.blend",
+      "sourceSha256": "bc4563b8bec00881c92f20880d55dd45d46c2b978b577b7f1e37a2593ae97048",
+      "packageKey": "dakshineshwar",
+      "sourceBoundsBlender": [
+        -209.0,
+        -86.0,
+        -10.600000381469727,
+        209.0,
+        133.8531036376953,
+        149.0
+      ],
+      "sourceUniqueMeshCount": 102,
+      "sourceMeshInstances": 294,
+      "uniqueTrianglesMeasured": 40772,
+      "sourceSectionCount": 14,
+      "textures": [],
+      "files": [
+        {
+          "section": "01_Campus",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__01_Campus.fbx",
+          "sha256": "576b45f1b410a0b00e613dc27c6ae6cbfd7f8cee231da6e1114dc833f1bb67b4",
+          "triangles": 960,
+          "meshObjects": 3,
+          "largestMeshTriangles": 936,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_Main_Platform",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__02_Main_Platform.fbx",
+          "sha256": "85bbb395f40f8cb8db0d9ac6ce71ed3a8822569f831e0de332858f293dcaae4a",
+          "triangles": 432,
+          "meshObjects": 3,
+          "largestMeshTriangles": 336,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_Main_Envelope",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__03_Main_Envelope.fbx",
+          "sha256": "f1023d6a2ea458b180ab7be15e34d10b2195fadd19a7f148f84b1d88f2a543d0",
+          "triangles": 84,
+          "meshObjects": 2,
+          "largestMeshTriangles": 60,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_Main_Arcades",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__04_Main_Arcades.fbx",
+          "sha256": "9d2f7b85040a4e3a968bb3841cd9d9f991e94f633c2bf30c0881f03f52cded3f",
+          "triangles": 11700,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5416,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_Curved_Roofs",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__05_Curved_Roofs.fbx",
+          "sha256": "e4729c49b62a21971a716c48dfe2f4a2849d3d26faf425a7665617eb462f8047",
+          "triangles": 22976,
+          "meshObjects": 5,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "06_Nine_Spires",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__06_Nine_Spires.fbx",
+          "sha256": "4a7f97aeeeed57b291f7157b23eab8f3b9399a16567b5d81655552c96e90e489",
+          "triangles": 8604,
+          "meshObjects": 4,
+          "largestMeshTriangles": 4644,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "07_Shrine_Chamber",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__07_Shrine_Chamber.fbx",
+          "sha256": "fedb8a2cf8e7f0a813f9f460c801bc047e5c2d3059038f5a288de6c70c072084",
+          "triangles": 580,
+          "meshObjects": 4,
+          "largestMeshTriangles": 336,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "08_Kali_Murti",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__08_Kali_Murti.fbx",
+          "sha256": "2dd80abd99b4f43e2163403fd6d86bed89d3b4762779a8f63592af9473e880ff",
+          "triangles": 3584,
+          "meshObjects": 7,
+          "largestMeshTriangles": 1008,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "09_Shrine_Frame",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__09_Shrine_Frame.fbx",
+          "sha256": "a72ef8d5b756581cad50180417ed93787bd65a638780d1716ee2e4ea78984539",
+          "triangles": 1220,
+          "meshObjects": 6,
+          "largestMeshTriangles": 400,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "11_Ghat",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__11_Ghat.fbx",
+          "sha256": "a69cea700f493538d9192be100952277aa5bda016913c112022da44f22476db3",
+          "triangles": 2868,
+          "meshObjects": 4,
+          "largestMeshTriangles": 1488,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "12_River_Gateway",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__12_River_Gateway.fbx",
+          "sha256": "f58c9ffea5166812da6a8ff0e048b3dcf33144765a589e8950710439c196c39b",
+          "triangles": 1412,
+          "meshObjects": 2,
+          "largestMeshTriangles": 992,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "13_Boundary_Support",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__13_Boundary_Support.fbx",
+          "sha256": "8f7ca58b6be2eccc150e54bff8a3d0671aaef96dfef2bf07bff590e70c56de94",
+          "triangles": 704,
+          "meshObjects": 2,
+          "largestMeshTriangles": 520,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "14_Landscape_Fixtures",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__14_Landscape_Fixtures.fbx",
+          "sha256": "6370a6b98bb6a94900ba07b566b8f573bf9a57840ccb2fafd3fc6f57b7bae990",
+          "triangles": 2264,
+          "meshObjects": 8,
+          "largestMeshTriangles": 768,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "10_Shiva_Temple_Master",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/modules/KOL_T1_DAKSHINESHWAR__10_Shiva_Temple_Master.fbx",
+          "sha256": "36d97d9b11c033cb206af2ca3dab31203a2988d22f8eb112cad56c8c2dfe2754",
+          "triangles": 1516,
+          "meshObjects": 4,
+          "largestMeshTriangles": 728,
+          "defaultImport": false,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "10_Shiva_Temples",
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/KOL_T1_DAKSHINESHWAR__10_Shiva_Temples.fbx",
+          "sha256": "c671b8916983b17cdfaf88ce8af52150a283d93c94af6f7756966321b54f2c1f",
+          "triangles": 18192,
+          "meshObjects": 48,
+          "largestMeshTriangles": 728,
+          "defaultImport": true,
+          "provenance": "Existing twelve linked shrine placements exported at original ground origin"
+        }
+      ],
+      "helpers": [
+        {
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/modules/shiva-placements.json",
+          "canonicalFile": "exports/dakshineshwar/shiva-placements.json",
+          "sha256": "f49f0032988e87c2ce2e844fd48299ac8ba74835d283ab5284d25c19528c11e4"
+        },
+        {
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/modules/AssembleShivaRow.luau",
+          "canonicalFile": "exports/dakshineshwar/AssembleShivaRow.luau",
+          "sha256": "f4187d765d009d629a025f079d1afe3ae5820544c7d6a0fd7a469bb095bbdbe0"
+        },
+        {
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/InstallNightLights.luau",
+          "canonicalFile": "exports/dakshineshwar/InstallNightLights.luau",
+          "sha256": "5f9bf770c3717b892971589fc7fb5b64e2a466a253ba9445decf0664f91a3aeb"
+        },
+        {
+          "file": "exports/kolkata_tier1_staging/dakshineshwar/night-lights.json",
+          "canonicalFile": "assets/kolkata/dakshineshwar/night-lights.json",
+          "sha256": "6ca86aef68c51be1efa4a3d4775dc51064f0a7e369c32c08218bf43da8abbba3"
+        }
+      ],
+      "collection": "04 | Dakshineshwar",
+      "pivot": "PIVOT | Dakshineshwar",
+      "stagingOffsetBlender": [
+        897.0,
+        702.0734252929688,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        688.0,
+        616.0734252929688,
+        -10.600000381469727,
+        1106.0,
+        835.926513671875,
+        149.0
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [],
+      "lightCollections": [
+        "NIGHT_LIGHTS__native_Roblox_install_plan"
+      ],
+      "preservedArchitecturalLightCount": 20,
+      "assetId": "KOL_T1_DAKSHINESHWAR",
+      "name": "Dakshineshwar Kali temple complex and attached ghat",
+      "dimensionsStuds": {
+        "width": 418.0,
+        "height": 159.6,
+        "depth": 219.853
+      },
+      "assembledTriangles": 75580,
+      "uniqueSourceTriangles": 40772,
+      "nightLights": [
+        {
+          "name": "Courtyard_01",
+          "positionStuds": [
+            -151,
+            10,
+            -66
+          ],
+          "rangeStuds": 22,
+          "brightness": 1.2,
+          "blenderWatts": 1500,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Courtyard_02",
+          "positionStuds": [
+            -51,
+            10,
+            -66
+          ],
+          "rangeStuds": 22,
+          "brightness": 1.2,
+          "blenderWatts": 1500,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Courtyard_03",
+          "positionStuds": [
+            51,
+            10,
+            -66
+          ],
+          "rangeStuds": 22,
+          "brightness": 1.2,
+          "blenderWatts": 1500,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Courtyard_04",
+          "positionStuds": [
+            151,
+            10,
+            -66
+          ],
+          "rangeStuds": 22,
+          "brightness": 1.2,
+          "blenderWatts": 1500,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Courtyard_05",
+          "positionStuds": [
+            -48,
+            10,
+            70
+          ],
+          "rangeStuds": 22,
+          "brightness": 1.2,
+          "blenderWatts": 1500,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Courtyard_06",
+          "positionStuds": [
+            48,
+            10,
+            70
+          ],
+          "rangeStuds": 22,
+          "brightness": 1.2,
+          "blenderWatts": 1500,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Ghat_01",
+          "positionStuds": [
+            -95,
+            7.2,
+            -102
+          ],
+          "rangeStuds": 38,
+          "brightness": 1.5,
+          "blenderWatts": 2400,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Ghat_02",
+          "positionStuds": [
+            95,
+            7.2,
+            -102
+          ],
+          "rangeStuds": 38,
+          "brightness": 1.5,
+          "blenderWatts": 2400,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Kali_face",
+          "positionStuds": [
+            0,
+            24,
+            18
+          ],
+          "rangeStuds": 26,
+          "brightness": 2.2,
+          "blenderWatts": 950,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": true
+        },
+        {
+          "name": "Shrine_fill",
+          "positionStuds": [
+            0,
+            16,
+            23
+          ],
+          "rangeStuds": 18,
+          "brightness": 1.1,
+          "blenderWatts": 350,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Shiva_row_01",
+          "positionStuds": [
+            -157,
+            14.7,
+            15
+          ],
+          "rangeStuds": 36,
+          "brightness": 1.1,
+          "blenderWatts": 2000,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Shiva_row_02",
+          "positionStuds": [
+            -85,
+            14.7,
+            15
+          ],
+          "rangeStuds": 36,
+          "brightness": 1.1,
+          "blenderWatts": 2000,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Shiva_row_03",
+          "positionStuds": [
+            85,
+            14.7,
+            15
+          ],
+          "rangeStuds": 36,
+          "brightness": 1.1,
+          "blenderWatts": 2000,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Shiva_row_04",
+          "positionStuds": [
+            157,
+            14.7,
+            15
+          ],
+          "rangeStuds": 36,
+          "brightness": 1.1,
+          "blenderWatts": 2000,
+          "type": "POINT",
+          "targetStuds": null,
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Temple_wash_01",
+          "positionStuds": [
+            -28,
+            12,
+            -28
+          ],
+          "rangeStuds": 60,
+          "brightness": 2.4,
+          "blenderWatts": 42000,
+          "type": "SPOT",
+          "targetStuds": [
+            -20,
+            42,
+            -10
+          ],
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Temple_wash_02",
+          "positionStuds": [
+            28,
+            12,
+            -28
+          ],
+          "rangeStuds": 60,
+          "brightness": 2.4,
+          "blenderWatts": 42000,
+          "type": "SPOT",
+          "targetStuds": [
+            20,
+            42,
+            -10
+          ],
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Temple_wash_03",
+          "positionStuds": [
+            -23,
+            57,
+            -3
+          ],
+          "rangeStuds": 60,
+          "brightness": 2.4,
+          "blenderWatts": 42000,
+          "type": "SPOT",
+          "targetStuds": [
+            -18,
+            101,
+            10
+          ],
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Temple_wash_04",
+          "positionStuds": [
+            23,
+            57,
+            -3
+          ],
+          "rangeStuds": 60,
+          "brightness": 2.4,
+          "blenderWatts": 42000,
+          "type": "SPOT",
+          "targetStuds": [
+            18,
+            101,
+            10
+          ],
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Temple_wash_05",
+          "positionStuds": [
+            -12,
+            93,
+            17
+          ],
+          "rangeStuds": 60,
+          "brightness": 2.4,
+          "blenderWatts": 42000,
+          "type": "SPOT",
+          "targetStuds": [
+            0,
+            137,
+            22
+          ],
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        },
+        {
+          "name": "Temple_wash_06",
+          "positionStuds": [
+            12,
+            93,
+            17
+          ],
+          "rangeStuds": 60,
+          "brightness": 2.4,
+          "blenderWatts": 42000,
+          "type": "SPOT",
+          "targetStuds": [
+            0,
+            137,
+            22
+          ],
+          "colorRGB": [
+            255,
+            209,
+            147
+          ],
+          "angleDegrees": 75,
+          "shadows": false
+        }
+      ],
+      "reusedModules": {
+        "ShivaTemple": {
+          "masterFile": "KOL_T1_DAKSHINESHWAR__10_Shiva_Temple_Master.fbx",
+          "placements": [
+            {
+              "index": 1,
+              "positionStuds": [
+                -61,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 2,
+              "positionStuds": [
+                -85,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 3,
+              "positionStuds": [
+                -109,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 4,
+              "positionStuds": [
+                -133,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 5,
+              "positionStuds": [
+                -157,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 6,
+              "positionStuds": [
+                -181,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 7,
+              "positionStuds": [
+                61,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 8,
+              "positionStuds": [
+                85,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 9,
+              "positionStuds": [
+                109,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 10,
+              "positionStuds": [
+                133,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 11,
+              "positionStuds": [
+                157,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            },
+            {
+              "index": 12,
+              "positionStuds": [
+                181,
+                3.4,
+                30
+              ],
+              "yawDegrees": 0
+            }
+          ]
+        }
+      },
+      "defaultImportTriangles": 75580
+    },
+    {
+      "index": 5,
+      "label": "Writers Building",
+      "batch": "Heritage",
+      "folder": "assets/kolkata/heritage_batch2/writers",
+      "metadata": "assets/kolkata/heritage_batch2/writers/asset.json",
+      "metadataSha256": "90bce8bd3e0a01756c8d9b32d28f74f6a69ceb6bad235cd6e1efa920fa9b0798",
+      "source": "assets/kolkata/heritage_batch2/writers/KOL_T1_WRITERS.blend",
+      "sourceSha256": "c48fdcf716425c8a59cd4c6e6a2831fda53193179575761f846dea6a55708574",
+      "packageKey": "writers",
+      "sourceBoundsBlender": [
+        -163.0,
+        -43.0,
+        -0.20000000298023224,
+        163.0,
+        59.0,
+        85.29000091552734
+      ],
+      "sourceUniqueMeshCount": 79,
+      "sourceMeshInstances": 386,
+      "uniqueTrianglesMeasured": 28344,
+      "sourceSectionCount": 10,
+      "textures": [],
+      "files": [
+        {
+          "section": "00_Foundation",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__00_Foundation.fbx",
+          "sha256": "dd73d9330e66feb983c94b8848dbe876171a14869a397a68a5994ad138c8255e",
+          "triangles": 120,
+          "meshObjects": 3,
+          "largestMeshTriangles": 84,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_Shell",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__01_Shell.fbx",
+          "sha256": "434ebbd94a6a32b62bfd790ae7046d2695e6a50e15b7d0325c9deb129cfdb911",
+          "triangles": 48,
+          "meshObjects": 1,
+          "largestMeshTriangles": 48,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_Cornices",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__02_Cornices.fbx",
+          "sha256": "1c78dd12be8ce6518687927aa683f152d4814a4cdf15d1acd6b185da33aa6688",
+          "triangles": 6528,
+          "meshObjects": 3,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_Facades",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__03_Facades.fbx",
+          "sha256": "8835dfe3fbdc5055f62b939f38da958c6a56e83d32db432370dd7c7d8e0fba1a",
+          "triangles": 59400,
+          "meshObjects": 13,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_Returns",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__04_Returns.fbx",
+          "sha256": "786083faffc1a94b5bff3f3159ec552d5dc74e40fed2cb5a12bd5a52db00764f",
+          "triangles": 29268,
+          "meshObjects": 9,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_Central_Portico",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__05_Central_Portico.fbx",
+          "sha256": "ded0d3bb40bd4b08a7f87f1bcf122579c7b3a4adcabdc85ed3a17ea89ef4fb06",
+          "triangles": 6248,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5360,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "06_Roofs",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__06_Roofs.fbx",
+          "sha256": "813ff9ddb1e078f7543a2c855511cc4b9d5581793a3fb1fa3c61be4b63112dee",
+          "triangles": 60,
+          "meshObjects": 1,
+          "largestMeshTriangles": 60,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "07_Roof_Ornaments",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__07_Roof_Ornaments.fbx",
+          "sha256": "62e450314a8f2517c1a033deb58339d234362502ccbf395713b0847d110e0659",
+          "triangles": 14972,
+          "meshObjects": 5,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "09_Foundation_Detail",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__09_Foundation_Detail.fbx",
+          "sha256": "b6cbfed35f1d3f3c353bec07856b6ec322506745d5d73114c955a9bb3f459f73",
+          "triangles": 5828,
+          "meshObjects": 6,
+          "largestMeshTriangles": 5216,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "10_Rear_Architecture",
+          "file": "exports/kolkata_tier1_staging/writers/KOL_T1_WRITERS__10_Rear_Architecture.fbx",
+          "sha256": "473d9b54f41f77894fe682910187f445edbf59cf605198d0833e7c973d816bc6",
+          "triangles": 4568,
+          "meshObjects": 6,
+          "largestMeshTriangles": 3996,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [
+        {
+          "file": "exports/kolkata_tier1_staging/shared/InstallHeritageLights.luau",
+          "canonicalFile": "exports/kolkata_heritage_batch2/InstallHeritageLights.luau",
+          "sha256": "961f47dff05527d20593bcfc715c85752bfa22cebc1dc25a4b27cef56134e123"
+        }
+      ],
+      "collection": "05 | Writers Building",
+      "pivot": "PIVOT | Writers Building",
+      "stagingOffsetBlender": [
+        -897.0,
+        234.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        -1060.0,
+        191.0,
+        -0.20000000298023224,
+        -734.0,
+        293.0,
+        85.29000091552734
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [
+        "COLLISION_GUIDES__NOT_EXPORTED.016"
+      ],
+      "lightCollections": [
+        "INSTALLED_NIGHT_LIGHTS__NOT_FBX.007"
+      ],
+      "preservedArchitecturalLightCount": 19,
+      "assetId": "KOL_T1_WRITERS",
+      "name": "Writers' Building",
+      "dimensionsStuds": {
+        "width": 326.0,
+        "height": 85.49,
+        "depth": 102.0
+      },
+      "assembledTriangles": 127040,
+      "uniqueSourceTriangles": 28344,
+      "nightLights": [
+        {
+          "name": "Front_0",
+          "positionStuds": [
+            -137,
+            3,
+            -53
+          ],
+          "targetStuds": [
+            -137,
+            40,
+            -35
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_1",
+          "positionStuds": [
+            -94,
+            3,
+            -53
+          ],
+          "targetStuds": [
+            -94,
+            40,
+            -35
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_2",
+          "positionStuds": [
+            -48,
+            3,
+            -53
+          ],
+          "targetStuds": [
+            -48,
+            40,
+            -35
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_3",
+          "positionStuds": [
+            0,
+            3,
+            -53
+          ],
+          "targetStuds": [
+            0,
+            40,
+            -35
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_4",
+          "positionStuds": [
+            48,
+            3,
+            -53
+          ],
+          "targetStuds": [
+            48,
+            40,
+            -35
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_5",
+          "positionStuds": [
+            94,
+            3,
+            -53
+          ],
+          "targetStuds": [
+            94,
+            40,
+            -35
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_6",
+          "positionStuds": [
+            137,
+            3,
+            -53
+          ],
+          "targetStuds": [
+            137,
+            40,
+            -35
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_0",
+          "positionStuds": [
+            -137,
+            3,
+            41
+          ],
+          "targetStuds": [
+            -137,
+            38,
+            32
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_1",
+          "positionStuds": [
+            -70,
+            3,
+            41
+          ],
+          "targetStuds": [
+            -70,
+            38,
+            32
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_2",
+          "positionStuds": [
+            0,
+            3,
+            41
+          ],
+          "targetStuds": [
+            0,
+            38,
+            32
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_3",
+          "positionStuds": [
+            70,
+            3,
+            41
+          ],
+          "targetStuds": [
+            70,
+            38,
+            32
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_4",
+          "positionStuds": [
+            137,
+            3,
+            41
+          ],
+          "targetStuds": [
+            137,
+            38,
+            32
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_-1_-17",
+          "positionStuds": [
+            -161,
+            3,
+            -17
+          ],
+          "targetStuds": [
+            -156,
+            37,
+            -17
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_-1_20",
+          "positionStuds": [
+            -161,
+            3,
+            20
+          ],
+          "targetStuds": [
+            -156,
+            37,
+            20
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_1_-17",
+          "positionStuds": [
+            161,
+            3,
+            -17
+          ],
+          "targetStuds": [
+            156,
+            37,
+            -17
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_1_20",
+          "positionStuds": [
+            161,
+            3,
+            20
+          ],
+          "targetStuds": [
+            156,
+            37,
+            20
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Crown_0",
+          "positionStuds": [
+            -137,
+            64,
+            -36
+          ],
+          "targetStuds": [
+            -137,
+            80,
+            -25
+          ],
+          "rangeStuds": 40,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 10000,
+          "shadows": false
+        },
+        {
+          "name": "Crown_1",
+          "positionStuds": [
+            0,
+            64,
+            -36
+          ],
+          "targetStuds": [
+            0,
+            80,
+            -25
+          ],
+          "rangeStuds": 40,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 10000,
+          "shadows": false
+        },
+        {
+          "name": "Crown_2",
+          "positionStuds": [
+            137,
+            64,
+            -36
+          ],
+          "targetStuds": [
+            137,
+            80,
+            -25
+          ],
+          "rangeStuds": 40,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 10000,
+          "shadows": false
+        }
+      ],
+      "reusedModules": {},
+      "defaultImportTriangles": 127040
+    },
+    {
+      "index": 6,
+      "label": "Metropolitan Building",
+      "batch": "Heritage",
+      "folder": "assets/kolkata/heritage_batch2/metropolitan",
+      "metadata": "assets/kolkata/heritage_batch2/metropolitan/asset.json",
+      "metadataSha256": "954f5fd55fbc5d3da42ab8cccec51ec40010e30da40973b0f4c1b31ccc2ca5e3",
+      "source": "assets/kolkata/heritage_batch2/metropolitan/KOL_T1_METROPOLITAN.blend",
+      "sourceSha256": "d1ce1d1f31ac3099c4eb01be455d4688a82a1ae7f9331ab38a0fc79bb4431637",
+      "packageKey": "metropolitan",
+      "sourceBoundsBlender": [
+        -80.0,
+        -53.0,
+        -0.20000000298023224,
+        80.0,
+        63.0,
+        91.4000015258789
+      ],
+      "sourceUniqueMeshCount": 58,
+      "sourceMeshInstances": 278,
+      "uniqueTrianglesMeasured": 16744,
+      "sourceSectionCount": 10,
+      "textures": [],
+      "files": [
+        {
+          "section": "00_Foundation",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__00_Foundation.fbx",
+          "sha256": "2927c18e0a96e2b7fba929e436236f140a6b2738c51ba19c05204e0a301b7bcc",
+          "triangles": 108,
+          "meshObjects": 3,
+          "largestMeshTriangles": 72,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_Shell",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__01_Shell.fbx",
+          "sha256": "8bc194def8416d62008ae11999cf3f0b3d154a9d92a1fb597dbd8a464a37caa4",
+          "triangles": 16,
+          "meshObjects": 1,
+          "largestMeshTriangles": 16,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_Cornices",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__02_Cornices.fbx",
+          "sha256": "5753d577d41f5511c352646d3a99f6c514202e94f9d71ecb5951056f14c8ee3c",
+          "triangles": 192,
+          "meshObjects": 1,
+          "largestMeshTriangles": 192,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_Facades",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__03_Facades.fbx",
+          "sha256": "df02779359137201f65974a1d8d92ccef129513f1f63d3040bdce745c58cc8b0",
+          "triangles": 23408,
+          "meshObjects": 7,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_Returns",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__04_Returns.fbx",
+          "sha256": "282570d0659adab14d1ebe882c4c87244ad856a186b9e690d778e2c2c38a93c8",
+          "triangles": 16332,
+          "meshObjects": 6,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_Clock_Corner",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__05_Clock_Corner.fbx",
+          "sha256": "febb66ceb77e414ef9cfae0f848fcf0991b5ff8dbc2781892ea4cc485af926f7",
+          "triangles": 6760,
+          "meshObjects": 3,
+          "largestMeshTriangles": 4864,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "06_Cupolas",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__06_Cupolas.fbx",
+          "sha256": "6629215230b550798d60ef9143ab80f329a1b8b27a9957fd77f1bf8c61c16406",
+          "triangles": 26906,
+          "meshObjects": 9,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "07_Street_Crowns",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__07_Street_Crowns.fbx",
+          "sha256": "62653bbd528f41abf1829ffff5f18f566c01ba115563798006a8697006ae1164",
+          "triangles": 14552,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "09_Foundation_Detail",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__09_Foundation_Detail.fbx",
+          "sha256": "1401437a516e6c2d77b9ca0c339939b28bbafa31c1f2eb7409d5cee1fc2e1ec9",
+          "triangles": 1128,
+          "meshObjects": 5,
+          "largestMeshTriangles": 684,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "10_Rear_Architecture",
+          "file": "exports/kolkata_tier1_staging/metropolitan/KOL_T1_METROPOLITAN__10_Rear_Architecture.fbx",
+          "sha256": "68e1cf5667ee667336d1ac6a1d8a058eae2e9b553ae0ab5738b6570159cd303a",
+          "triangles": 1472,
+          "meshObjects": 4,
+          "largestMeshTriangles": 1356,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [
+        {
+          "file": "exports/kolkata_tier1_staging/shared/InstallHeritageLights.luau",
+          "canonicalFile": "exports/kolkata_heritage_batch2/InstallHeritageLights.luau",
+          "sha256": "961f47dff05527d20593bcfc715c85752bfa22cebc1dc25a4b27cef56134e123"
+        }
+      ],
+      "collection": "06 | Metropolitan Building",
+      "pivot": "PIVOT | Metropolitan Building",
+      "stagingOffsetBlender": [
+        -299.0,
+        237.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        -379.0,
+        184.0,
+        -0.20000000298023224,
+        -219.0,
+        300.0,
+        91.4000015258789
+      ],
+      "transformErrorStuds": 2.384185791015625e-07,
+      "guideCollections": [
+        "COLLISION_GUIDES__NOT_EXPORTED.010"
+      ],
+      "lightCollections": [
+        "INSTALLED_NIGHT_LIGHTS__NOT_FBX.001"
+      ],
+      "preservedArchitecturalLightCount": 14,
+      "assetId": "KOL_T1_METROPOLITAN",
+      "name": "Metropolitan Building",
+      "dimensionsStuds": {
+        "width": 160.0,
+        "height": 91.6,
+        "depth": 116.0
+      },
+      "assembledTriangles": 90874,
+      "uniqueSourceTriangles": 16744,
+      "nightLights": [
+        {
+          "name": "Front_0",
+          "positionStuds": [
+            -60,
+            3,
+            -60
+          ],
+          "targetStuds": [
+            -60,
+            38,
+            -47
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_1",
+          "positionStuds": [
+            -25,
+            3,
+            -60
+          ],
+          "targetStuds": [
+            -25,
+            38,
+            -47
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_2",
+          "positionStuds": [
+            15,
+            3,
+            -60
+          ],
+          "targetStuds": [
+            15,
+            38,
+            -47
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_3",
+          "positionStuds": [
+            55,
+            3,
+            -60
+          ],
+          "targetStuds": [
+            55,
+            38,
+            -47
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_0",
+          "positionStuds": [
+            -58,
+            3,
+            51
+          ],
+          "targetStuds": [
+            -58,
+            38,
+            47
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_1",
+          "positionStuds": [
+            -18,
+            3,
+            51
+          ],
+          "targetStuds": [
+            -18,
+            38,
+            47
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_2",
+          "positionStuds": [
+            22,
+            3,
+            51
+          ],
+          "targetStuds": [
+            22,
+            38,
+            47
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_3",
+          "positionStuds": [
+            62,
+            3,
+            51
+          ],
+          "targetStuds": [
+            62,
+            38,
+            47
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_-1_-14",
+          "positionStuds": [
+            -78,
+            3,
+            -14
+          ],
+          "targetStuds": [
+            -74,
+            36,
+            -14
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_-1_26",
+          "positionStuds": [
+            -78,
+            3,
+            26
+          ],
+          "targetStuds": [
+            -74,
+            36,
+            26
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_1_-14",
+          "positionStuds": [
+            78,
+            3,
+            -14
+          ],
+          "targetStuds": [
+            74,
+            36,
+            -14
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_1_26",
+          "positionStuds": [
+            78,
+            3,
+            26
+          ],
+          "targetStuds": [
+            74,
+            36,
+            26
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Clock_crown",
+          "positionStuds": [
+            61,
+            60,
+            -45
+          ],
+          "targetStuds": [
+            61,
+            82,
+            -34
+          ],
+          "rangeStuds": 42,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 16000,
+          "shadows": false
+        },
+        {
+          "name": "Satellite_crown",
+          "positionStuds": [
+            -65,
+            59,
+            -42
+          ],
+          "targetStuds": [
+            -65,
+            71,
+            -38
+          ],
+          "rangeStuds": 30,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 8000,
+          "shadows": false
+        }
+      ],
+      "reusedModules": {},
+      "defaultImportTriangles": 90874
+    },
+    {
+      "index": 7,
+      "label": "General Post Office",
+      "batch": "Heritage",
+      "folder": "assets/kolkata/heritage_batch2/gpo",
+      "metadata": "assets/kolkata/heritage_batch2/gpo/asset.json",
+      "metadataSha256": "3e61627878b0724c35d33846ba931f83ff1f20ecc0ca9df1cca124fe20e9b5d6",
+      "source": "assets/kolkata/heritage_batch2/gpo/KOL_T1_GPO.blend",
+      "sourceSha256": "945ec18a4d25df6cc1850a71f27fec1cf56ccb86200a88c526fd00bfc7f6e183",
+      "packageKey": "gpo",
+      "sourceBoundsBlender": [
+        -76.25,
+        -79.0,
+        0.0,
+        84.0,
+        70.0,
+        99.19999694824219
+      ],
+      "sourceUniqueMeshCount": 52,
+      "sourceMeshInstances": 264,
+      "uniqueTrianglesMeasured": 11742,
+      "sourceSectionCount": 11,
+      "textures": [],
+      "files": [
+        {
+          "section": "00_Foundation",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__00_Foundation.fbx",
+          "sha256": "0b6a715a3021680c0e73fea0266f7df12f4f57dd3a0f2bbfe4849fb021ec8380",
+          "triangles": 104,
+          "meshObjects": 1,
+          "largestMeshTriangles": 104,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_Shell",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__01_Shell.fbx",
+          "sha256": "cc3c04970dd36138168a01048068bfb265c58e8af91f69b9b82ab80113f9a16a",
+          "triangles": 484,
+          "meshObjects": 2,
+          "largestMeshTriangles": 296,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_Colonnades",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__03_Colonnades.fbx",
+          "sha256": "b9ae5327d5c8afa8df50cc85c360adda63e6e8202330e9fa453c6a70b2323232",
+          "triangles": 18824,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5492,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_Entablature",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__02_Entablature.fbx",
+          "sha256": "cd1eb625cc0a1783600766d385f61c99fa1cee07806d549579c824b5b061e059",
+          "triangles": 1916,
+          "meshObjects": 2,
+          "largestMeshTriangles": 1320,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_Recesses",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__04_Recesses.fbx",
+          "sha256": "c49f16d7bffb3a4843134a4947c466d0e9292063cde6edcce576ea263117d5d2",
+          "triangles": 6336,
+          "meshObjects": 2,
+          "largestMeshTriangles": 5104,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_Dome_Drum",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__05_Dome_Drum.fbx",
+          "sha256": "2d8dfdec29ac870bb89bb416e1067dcca179f9d40af363f117a1ca0f76e5788e",
+          "triangles": 5948,
+          "meshObjects": 3,
+          "largestMeshTriangles": 4096,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "06_Dome",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__06_Dome.fbx",
+          "sha256": "dc367a2aa8288193e6168c49448e19be0082639969e5470e9425bae6ff415bd5",
+          "triangles": 3026,
+          "meshObjects": 2,
+          "largestMeshTriangles": 2166,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "07_Civic_Details",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__07_Civic_Details.fbx",
+          "sha256": "bc1bb16fc226d01a82abc119081209323deea5385ae1b3ffa0f0ea25522f83d0",
+          "triangles": 8896,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5472,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "08_Secondary",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__08_Secondary.fbx",
+          "sha256": "68919aa7d83355de6b6dd4eed8f9a4171a2a1d73b3530b56a6317792c98d20a1",
+          "triangles": 1944,
+          "meshObjects": 2,
+          "largestMeshTriangles": 1728,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "09_Foundation_Detail",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__09_Foundation_Detail.fbx",
+          "sha256": "09a155ac3191f65ee66b3671c4c842c7ede3bfe88dd9fbc9b59ea84677755fe0",
+          "triangles": 1012,
+          "meshObjects": 5,
+          "largestMeshTriangles": 448,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "10_Rear_Architecture",
+          "file": "exports/kolkata_tier1_staging/gpo/KOL_T1_GPO__10_Rear_Architecture.fbx",
+          "sha256": "1ef7b6cba3ca8d3077d1ccf02f3864b9b072de1f280e112300c0e3aba1346adb",
+          "triangles": 3236,
+          "meshObjects": 4,
+          "largestMeshTriangles": 3012,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [
+        {
+          "file": "exports/kolkata_tier1_staging/shared/InstallHeritageLights.luau",
+          "canonicalFile": "exports/kolkata_heritage_batch2/InstallHeritageLights.luau",
+          "sha256": "961f47dff05527d20593bcfc715c85752bfa22cebc1dc25a4b27cef56134e123"
+        }
+      ],
+      "collection": "07 | General Post Office",
+      "pivot": "PIVOT | General Post Office",
+      "stagingOffsetBlender": [
+        295.125,
+        246.5,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        218.875,
+        167.5,
+        0.0,
+        379.125,
+        316.5,
+        99.19999694824219
+      ],
+      "transformErrorStuds": 2.384185791015625e-07,
+      "guideCollections": [
+        "COLLISION_GUIDES__NOT_EXPORTED.017"
+      ],
+      "lightCollections": [
+        "INSTALLED_NIGHT_LIGHTS__NOT_FBX.008"
+      ],
+      "preservedArchitecturalLightCount": 16,
+      "assetId": "KOL_T1_GPO",
+      "name": "General Post Office",
+      "dimensionsStuds": {
+        "width": 160.25,
+        "height": 99.2,
+        "depth": 149.0
+      },
+      "assembledTriangles": 51726,
+      "uniqueSourceTriangles": 11742,
+      "nightLights": [
+        {
+          "name": "Front_0",
+          "positionStuds": [
+            -52,
+            3,
+            -66
+          ],
+          "targetStuds": [
+            -52,
+            29,
+            -51
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_1",
+          "positionStuds": [
+            -20,
+            3,
+            -66
+          ],
+          "targetStuds": [
+            -20,
+            29,
+            -51
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_2",
+          "positionStuds": [
+            16,
+            3,
+            -66
+          ],
+          "targetStuds": [
+            16,
+            29,
+            -51
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_3",
+          "positionStuds": [
+            54,
+            3,
+            -66
+          ],
+          "targetStuds": [
+            54,
+            29,
+            -51
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_return_0",
+          "positionStuds": [
+            -48,
+            3,
+            77
+          ],
+          "targetStuds": [
+            -48,
+            33,
+            74
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_return_1",
+          "positionStuds": [
+            -24,
+            3,
+            77
+          ],
+          "targetStuds": [
+            -24,
+            33,
+            74
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_east_0",
+          "positionStuds": [
+            5,
+            3,
+            7
+          ],
+          "targetStuds": [
+            5,
+            30,
+            3
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_east_1",
+          "positionStuds": [
+            44,
+            3,
+            7
+          ],
+          "targetStuds": [
+            44,
+            30,
+            3
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_east_2",
+          "positionStuds": [
+            74,
+            3,
+            7
+          ],
+          "targetStuds": [
+            74,
+            30,
+            3
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "West_0",
+          "positionStuds": [
+            -73,
+            3,
+            -15
+          ],
+          "targetStuds": [
+            -61,
+            30,
+            -15
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "West_1",
+          "positionStuds": [
+            -73,
+            3,
+            26
+          ],
+          "targetStuds": [
+            -61,
+            30,
+            26
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "West_2",
+          "positionStuds": [
+            -73,
+            3,
+            62
+          ],
+          "targetStuds": [
+            -61,
+            30,
+            62
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Inner_return_0",
+          "positionStuds": [
+            -12,
+            3,
+            23
+          ],
+          "targetStuds": [
+            -17,
+            30,
+            23
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Inner_return_1",
+          "positionStuds": [
+            -12,
+            3,
+            59
+          ],
+          "targetStuds": [
+            -17,
+            30,
+            59
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Dome_front",
+          "positionStuds": [
+            -50,
+            46,
+            -56
+          ],
+          "targetStuds": [
+            -39,
+            87,
+            -30
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 25000,
+          "shadows": false
+        },
+        {
+          "name": "Dome_back",
+          "positionStuds": [
+            -27,
+            46,
+            -17
+          ],
+          "targetStuds": [
+            -39,
+            87,
+            -30
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 25000,
+          "shadows": false
+        }
+      ],
+      "reusedModules": {},
+      "defaultImportTriangles": 51726
+    },
+    {
+      "index": 8,
+      "label": "Town Hall",
+      "batch": "Heritage",
+      "folder": "assets/kolkata/heritage_batch2/town_hall",
+      "metadata": "assets/kolkata/heritage_batch2/town_hall/asset.json",
+      "metadataSha256": "1019b1f1d22cfa51fa49fa56c528a0a2c8aa2becee89754c644aa220042f1b9b",
+      "source": "assets/kolkata/heritage_batch2/town_hall/KOL_T1_TOWN_HALL.blend",
+      "sourceSha256": "341c2821e687be3f5cd726429abe6d4dd9c0513da2f166592d3bc95647bce0a0",
+      "packageKey": "town_hall",
+      "sourceBoundsBlender": [
+        -62.0,
+        -40.0,
+        -0.20000000298023224,
+        62.0,
+        70.0,
+        49.54999923706055
+      ],
+      "sourceUniqueMeshCount": 45,
+      "sourceMeshInstances": 190,
+      "uniqueTrianglesMeasured": 8564,
+      "sourceSectionCount": 9,
+      "textures": [],
+      "files": [
+        {
+          "section": "00_Foundation",
+          "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__00_Foundation.fbx",
+          "sha256": "376deac30ce72435a50fa2b9335a7df191b5d27ef242286ff39f21a6367823f1",
+          "triangles": 180,
+          "meshObjects": 3,
+          "largestMeshTriangles": 144,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_Shell",
+          "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__01_Shell.fbx",
+          "sha256": "09dcddbe2723e02d0cd69b99475735ae334e99536bd6b33517529f82d04390b5",
+          "triangles": 12,
+          "meshObjects": 1,
+          "largestMeshTriangles": 12,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_Cornices",
+          "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__02_Cornices.fbx",
+          "sha256": "9fc6bef49647dc20b63beba4653cffaf046aed6937eb22ad01a54392ad82a82d",
+          "triangles": 108,
+          "meshObjects": 1,
+          "largestMeshTriangles": 108,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_Portico",
+          "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__03_Portico.fbx",
+          "sha256": "0990c93d0abd3e4f36d4f2dd4ab2c5608bb7b8d29a4db0844dc00e11f5eeb5ef",
+          "triangles": 6696,
+          "meshObjects": 3,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_Facades",
+          "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__04_Facades.fbx",
+          "sha256": "f09e79f61cca724beae4b14b0156d704dcadc2448dcae7bdbf2340f3ecb75127",
+          "triangles": 11784,
+          "meshObjects": 6,
+          "largestMeshTriangles": 5492,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_Rear",
+          "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__05_Rear.fbx",
+          "sha256": "a7e202f77936011bd60114a0bd7815d0302a9a7c824071334dd7b1fd79c1d726",
+          "triangles": 3480,
+          "meshObjects": 3,
+          "largestMeshTriangles": 3120,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "06_Roofline",
+          "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__06_Roofline.fbx",
+          "sha256": "af0c9b321e3ac23563bc9be8e6470a123f2ffbb63c125aed659fedc7d080daf6",
+          "triangles": 11536,
+          "meshObjects": 3,
+          "largestMeshTriangles": 5460,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "09_Foundation_Detail",
+          "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__09_Foundation_Detail.fbx",
+          "sha256": "9ce6c65bbee190a1187425f75b8860f5ee34d8eb647067d0f3843a6bff15fb95",
+          "triangles": 812,
+          "meshObjects": 6,
+          "largestMeshTriangles": 368,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "10_Rear_Architecture",
+          "file": "exports/kolkata_tier1_staging/town_hall/KOL_T1_TOWN_HALL__10_Rear_Architecture.fbx",
+          "sha256": "55d78054cc50753b946aea70088ff2380d6d1d14cebddaf51900a77a27a89baf",
+          "triangles": 1912,
+          "meshObjects": 5,
+          "largestMeshTriangles": 1824,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [
+        {
+          "file": "exports/kolkata_tier1_staging/shared/InstallHeritageLights.luau",
+          "canonicalFile": "exports/kolkata_heritage_batch2/InstallHeritageLights.luau",
+          "sha256": "961f47dff05527d20593bcfc715c85752bfa22cebc1dc25a4b27cef56134e123"
+        }
+      ],
+      "collection": "08 | Town Hall",
+      "pivot": "PIVOT | Town Hall",
+      "stagingOffsetBlender": [
+        897.0,
+        227.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        835.0,
+        187.0,
+        -0.20000000298023224,
+        959.0,
+        297.0,
+        49.54999923706055
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [
+        "COLLISION_GUIDES__NOT_EXPORTED.012"
+      ],
+      "lightCollections": [
+        "INSTALLED_NIGHT_LIGHTS__NOT_FBX.003"
+      ],
+      "preservedArchitecturalLightCount": 10,
+      "assetId": "KOL_T1_TOWN_HALL",
+      "name": "Kolkata Town Hall",
+      "dimensionsStuds": {
+        "width": 124.0,
+        "height": 49.75,
+        "depth": 110.0
+      },
+      "assembledTriangles": 36520,
+      "uniqueSourceTriangles": 8564,
+      "nightLights": [
+        {
+          "name": "Portico_0",
+          "positionStuds": [
+            -32,
+            3,
+            -65
+          ],
+          "targetStuds": [
+            -32,
+            32,
+            -40
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Portico_1",
+          "positionStuds": [
+            0,
+            3,
+            -65
+          ],
+          "targetStuds": [
+            0,
+            32,
+            -40
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Portico_2",
+          "positionStuds": [
+            32,
+            3,
+            -65
+          ],
+          "targetStuds": [
+            32,
+            32,
+            -40
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_0",
+          "positionStuds": [
+            -39,
+            3,
+            39
+          ],
+          "targetStuds": [
+            -39,
+            30,
+            36
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_1",
+          "positionStuds": [
+            0,
+            3,
+            39
+          ],
+          "targetStuds": [
+            0,
+            30,
+            36
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_2",
+          "positionStuds": [
+            39,
+            3,
+            39
+          ],
+          "targetStuds": [
+            39,
+            30,
+            36
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_-1_-14",
+          "positionStuds": [
+            -60,
+            3,
+            -14
+          ],
+          "targetStuds": [
+            -56,
+            30,
+            -14
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_-1_20",
+          "positionStuds": [
+            -60,
+            3,
+            20
+          ],
+          "targetStuds": [
+            -56,
+            30,
+            20
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_1_-14",
+          "positionStuds": [
+            60,
+            3,
+            -14
+          ],
+          "targetStuds": [
+            56,
+            30,
+            -14
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Side_1_20",
+          "positionStuds": [
+            60,
+            3,
+            20
+          ],
+          "targetStuds": [
+            56,
+            30,
+            20
+          ],
+          "rangeStuds": 60,
+          "brightness": 2,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            167
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        }
+      ],
+      "reusedModules": {},
+      "defaultImportTriangles": 36520
+    },
+    {
+      "index": 9,
+      "label": "Rajbari Estate",
+      "batch": "Cultural",
+      "folder": "assets/kolkata/cultural_batch/rajbari",
+      "metadata": "assets/kolkata/cultural_batch/rajbari/asset.json",
+      "metadataSha256": "493ce77210a61e2b883bb59799661a844ed8e691e27d2cb8fa4d07783ba6355c",
+      "source": "assets/kolkata/cultural_batch/rajbari/KOL_T1_RAJBARI.blend",
+      "sourceSha256": "a78d6a1a99a86210381d4b6d1a3caf2cadc417c512e9d4f473a99766d817e1b7",
+      "packageKey": "rajbari",
+      "sourceBoundsBlender": [
+        -101.0,
+        -110.0,
+        -0.4000000059604645,
+        101.0,
+        110.0,
+        65.5999984741211
+      ],
+      "sourceUniqueMeshCount": 127,
+      "sourceMeshInstances": 704,
+      "uniqueTrianglesMeasured": 27458,
+      "sourceSectionCount": 6,
+      "textures": [],
+      "files": [
+        {
+          "section": "00_Grounds",
+          "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__00_Grounds.fbx",
+          "sha256": "f2d53c4f237e034169704e628b33bcbba87cc0ed0c7b01d96e367501778f6698",
+          "triangles": 4048,
+          "meshObjects": 10,
+          "largestMeshTriangles": 784,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_Rear_Mansion",
+          "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__01_Rear_Mansion.fbx",
+          "sha256": "14f6d22484fdda6d0797cb4cbdf59ee58657690bfbc47149bf463fc21af854e8",
+          "triangles": 18544,
+          "meshObjects": 14,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_Side_Wings",
+          "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__02_Side_Wings.fbx",
+          "sha256": "047fd846a097e01713d87fc015996db369d389e06042bd96df3f628b77670702",
+          "triangles": 34360,
+          "meshObjects": 13,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_Street_Front",
+          "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__03_Street_Front.fbx",
+          "sha256": "bb7d65b471de9eabf12e4a54041e215a8e165924401c0a1165adc8790d262503",
+          "triangles": 23656,
+          "meshObjects": 11,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_Roofline",
+          "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__04_Roofline.fbx",
+          "sha256": "5c76a6f6c2711d262af381aa94dcc29fc89ee25eb8df50c90e9f1ad7770f96c1",
+          "triangles": 37552,
+          "meshObjects": 11,
+          "largestMeshTriangles": 5492,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_Puja_Mandap",
+          "file": "exports/kolkata_tier1_staging/rajbari/KOL_T1_RAJBARI__05_Puja_Mandap.fbx",
+          "sha256": "bd39ed26d49b6cc2b345eb5d8286e7d7b53579c0be65e2477965bc895adb00c7",
+          "triangles": 5640,
+          "meshObjects": 8,
+          "largestMeshTriangles": 1880,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [
+        {
+          "file": "exports/kolkata_tier1_staging/shared/CulturalLighting.luau",
+          "canonicalFile": "exports/kolkata_cultural/CulturalLighting.luau",
+          "sha256": "8cdc7d6b7cacb88e0615cf99e718b701318227352f72d030eecb44fd5cb9afb5"
+        },
+        {
+          "file": "exports/kolkata_tier1_staging/shared/lighting-zones.json",
+          "canonicalFile": "exports/kolkata_cultural/lighting-zones.json",
+          "sha256": "e3af6fbe2ce258b3c6b335e1bee0bc25e80e0b5db9b6dd2ad8c9a886d6d55583"
+        }
+      ],
+      "collection": "09 | Rajbari Estate",
+      "pivot": "PIVOT | Rajbari Estate",
+      "stagingOffsetBlender": [
+        -897.0,
+        -242.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        -998.0,
+        -352.0,
+        -0.4000000059604645,
+        -796.0,
+        -132.0,
+        65.5999984741211
+      ],
+      "transformErrorStuds": 6.67572021484375e-06,
+      "guideCollections": [
+        "COLLISION_GUIDES__NOT_FBX.015"
+      ],
+      "lightCollections": [
+        "NIGHT_LIGHTS__NOT_FBX.015"
+      ],
+      "preservedArchitecturalLightCount": 20,
+      "assetId": "KOL_T1_RAJBARI",
+      "name": "Bengali Rajbari Estate",
+      "dimensionsStuds": {
+        "width": 202.0,
+        "height": 66.0,
+        "depth": 220.0
+      },
+      "assembledTriangles": 123800,
+      "uniqueSourceTriangles": 27458,
+      "nightLights": [
+        {
+          "name": "Mandap_stage",
+          "positionStuds": [
+            33,
+            22,
+            4
+          ],
+          "targetStuds": [
+            33,
+            9,
+            21
+          ],
+          "rangeStuds": 32,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 7000,
+          "shadows": false
+        },
+        {
+          "name": "Street_-65",
+          "positionStuds": [
+            -65,
+            2,
+            -99
+          ],
+          "targetStuds": [
+            -65,
+            26,
+            -91
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 19000,
+          "shadows": false
+        },
+        {
+          "name": "Street_-32",
+          "positionStuds": [
+            -32,
+            2,
+            -99
+          ],
+          "targetStuds": [
+            -32,
+            26,
+            -91
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 19000,
+          "shadows": false
+        },
+        {
+          "name": "Street_32",
+          "positionStuds": [
+            32,
+            2,
+            -99
+          ],
+          "targetStuds": [
+            32,
+            26,
+            -91
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 19000,
+          "shadows": false
+        },
+        {
+          "name": "Street_65",
+          "positionStuds": [
+            65,
+            2,
+            -99
+          ],
+          "targetStuds": [
+            65,
+            26,
+            -91
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 19000,
+          "shadows": false
+        },
+        {
+          "name": "Arrival_portico",
+          "positionStuds": [
+            0,
+            3,
+            -107
+          ],
+          "targetStuds": [
+            0,
+            19,
+            -100
+          ],
+          "rangeStuds": 35,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 12000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_-64",
+          "positionStuds": [
+            -64,
+            2,
+            87
+          ],
+          "targetStuds": [
+            -64,
+            26,
+            77
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_0",
+          "positionStuds": [
+            0,
+            2,
+            87
+          ],
+          "targetStuds": [
+            0,
+            26,
+            77
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_64",
+          "positionStuds": [
+            64,
+            2,
+            87
+          ],
+          "targetStuds": [
+            64,
+            26,
+            77
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_-1_-42",
+          "positionStuds": [
+            -95,
+            2,
+            -42
+          ],
+          "targetStuds": [
+            -87,
+            26,
+            -42
+          ],
+          "rangeStuds": 50,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_-1_17",
+          "positionStuds": [
+            -95,
+            2,
+            17
+          ],
+          "targetStuds": [
+            -87,
+            26,
+            17
+          ],
+          "rangeStuds": 50,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "Court_wing_-1_-36",
+          "positionStuds": [
+            -50,
+            2,
+            -36
+          ],
+          "targetStuds": [
+            -64,
+            29,
+            -36
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 13000,
+          "shadows": false
+        },
+        {
+          "name": "Court_wing_-1_15",
+          "positionStuds": [
+            -50,
+            2,
+            15
+          ],
+          "targetStuds": [
+            -64,
+            29,
+            15
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 13000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_1_-42",
+          "positionStuds": [
+            95,
+            2,
+            -42
+          ],
+          "targetStuds": [
+            87,
+            26,
+            -42
+          ],
+          "rangeStuds": 50,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_1_17",
+          "positionStuds": [
+            95,
+            2,
+            17
+          ],
+          "targetStuds": [
+            87,
+            26,
+            17
+          ],
+          "rangeStuds": 50,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "Court_wing_1_-36",
+          "positionStuds": [
+            50,
+            2,
+            -36
+          ],
+          "targetStuds": [
+            64,
+            29,
+            -36
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 13000,
+          "shadows": false
+        },
+        {
+          "name": "Court_wing_1_15",
+          "positionStuds": [
+            50,
+            2,
+            15
+          ],
+          "targetStuds": [
+            64,
+            29,
+            15
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 13000,
+          "shadows": false
+        },
+        {
+          "name": "Courtyard_Dalan",
+          "positionStuds": [
+            0,
+            3,
+            19
+          ],
+          "targetStuds": [
+            0,
+            28,
+            37
+          ],
+          "rangeStuds": 55,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 22000,
+          "shadows": false
+        },
+        {
+          "name": "Front_dome",
+          "positionStuds": [
+            0,
+            41,
+            -94
+          ],
+          "targetStuds": [
+            0,
+            56,
+            -76
+          ],
+          "rangeStuds": 40,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 9000,
+          "shadows": false
+        },
+        {
+          "name": "Rear_dome",
+          "positionStuds": [
+            0,
+            41,
+            -58
+          ],
+          "targetStuds": [
+            0,
+            56,
+            -76
+          ],
+          "rangeStuds": 40,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 9000,
+          "shadows": false
+        }
+      ],
+      "reusedModules": {},
+      "defaultImportTriangles": 123800
+    },
+    {
+      "index": 10,
+      "label": "Jorasanko Thakurbari",
+      "batch": "Cultural",
+      "folder": "assets/kolkata/cultural_batch/jorasanko",
+      "metadata": "assets/kolkata/cultural_batch/jorasanko/asset.json",
+      "metadataSha256": "031c987bd0e52cd54e12db3d1024cc398f60655c89f1607178f1c1ab8232b79b",
+      "source": "assets/kolkata/cultural_batch/jorasanko/KOL_T1_JORASANKO.blend",
+      "sourceSha256": "cfd4a3a707d7dfbd51aab4a863251bd39b660402ba30918af74dfac6b33e89ca",
+      "packageKey": "jorasanko",
+      "sourceBoundsBlender": [
+        -98.0,
+        -141.0,
+        -0.4000000059604645,
+        98.0,
+        141.0,
+        51.5
+      ],
+      "sourceUniqueMeshCount": 307,
+      "sourceMeshInstances": 1223,
+      "uniqueTrianglesMeasured": 30094,
+      "sourceSectionCount": 4,
+      "textures": [],
+      "files": [
+        {
+          "section": "00_Grounds",
+          "file": "exports/kolkata_tier1_staging/jorasanko/KOL_T1_JORASANKO__00_Grounds.fbx",
+          "sha256": "1933e2430ca326faba2fdd50080cbc27614a1d1a3c89f4667fe1c7d7e9cdb7d2",
+          "triangles": 7052,
+          "meshObjects": 11,
+          "largestMeshTriangles": 1568,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_Bahir_Mahal",
+          "file": "exports/kolkata_tier1_staging/jorasanko/KOL_T1_JORASANKO__01_Bahir_Mahal.fbx",
+          "sha256": "86918fc2f8e4d4fc5a96f5ce85acaf576a8058aa0fe83430212bef2a155bcd5c",
+          "triangles": 85320,
+          "meshObjects": 26,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_Andar_Mahal",
+          "file": "exports/kolkata_tier1_staging/jorasanko/KOL_T1_JORASANKO__02_Andar_Mahal.fbx",
+          "sha256": "b6b7a5272f6d5c1d4e8ec46c0aba9fbb0f3f16c948d68698c93057c2afea17fb",
+          "triangles": 51124,
+          "meshObjects": 16,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_Thakur_Dalan_Link",
+          "file": "exports/kolkata_tier1_staging/jorasanko/KOL_T1_JORASANKO__03_Thakur_Dalan_Link.fbx",
+          "sha256": "73c0a10cacacc8ebc770d339808d5ec48d308c3ae2d8cd3cef8c8561fa27dd84",
+          "triangles": 13168,
+          "meshObjects": 9,
+          "largestMeshTriangles": 5460,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [
+        {
+          "file": "exports/kolkata_tier1_staging/shared/CulturalLighting.luau",
+          "canonicalFile": "exports/kolkata_cultural/CulturalLighting.luau",
+          "sha256": "8cdc7d6b7cacb88e0615cf99e718b701318227352f72d030eecb44fd5cb9afb5"
+        },
+        {
+          "file": "exports/kolkata_tier1_staging/shared/lighting-zones.json",
+          "canonicalFile": "exports/kolkata_cultural/lighting-zones.json",
+          "sha256": "e3af6fbe2ce258b3c6b335e1bee0bc25e80e0b5db9b6dd2ad8c9a886d6d55583"
+        }
+      ],
+      "collection": "10 | Jorasanko Thakurbari",
+      "pivot": "PIVOT | Jorasanko Thakurbari",
+      "stagingOffsetBlender": [
+        -299.0,
+        -242.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        -397.0,
+        -383.0,
+        -0.4000000059604645,
+        -201.0,
+        -101.0,
+        51.5
+      ],
+      "transformErrorStuds": 4.470348358154297e-06,
+      "guideCollections": [
+        "COLLISION_GUIDES__NOT_FBX.017"
+      ],
+      "lightCollections": [
+        "NIGHT_LIGHTS__NOT_FBX.017"
+      ],
+      "preservedArchitecturalLightCount": 29,
+      "assetId": "KOL_T1_JORASANKO",
+      "name": "Jorasanko Thakurbari Two-Building Complex",
+      "dimensionsStuds": {
+        "width": 196.0,
+        "height": 51.9,
+        "depth": 282.0
+      },
+      "assembledTriangles": 156664,
+      "uniqueSourceTriangles": 30094,
+      "nightLights": [
+        {
+          "name": "Front_roof_gallery_-56",
+          "positionStuds": [
+            -56,
+            43,
+            -124
+          ],
+          "targetStuds": [
+            -56,
+            49,
+            -119
+          ],
+          "rangeStuds": 25,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 3000,
+          "shadows": false
+        },
+        {
+          "name": "Front_roof_gallery_56",
+          "positionStuds": [
+            56,
+            43,
+            -124
+          ],
+          "targetStuds": [
+            56,
+            49,
+            -119
+          ],
+          "rangeStuds": 25,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 3000,
+          "shadows": false
+        },
+        {
+          "name": "South_front_-60",
+          "positionStuds": [
+            -60,
+            2,
+            -137
+          ],
+          "targetStuds": [
+            -60,
+            28,
+            -122
+          ],
+          "rangeStuds": 50,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 18000,
+          "shadows": false
+        },
+        {
+          "name": "South_front_-25",
+          "positionStuds": [
+            -25,
+            2,
+            -137
+          ],
+          "targetStuds": [
+            -25,
+            28,
+            -122
+          ],
+          "rangeStuds": 50,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 18000,
+          "shadows": false
+        },
+        {
+          "name": "South_front_25",
+          "positionStuds": [
+            25,
+            2,
+            -137
+          ],
+          "targetStuds": [
+            25,
+            28,
+            -122
+          ],
+          "rangeStuds": 50,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 18000,
+          "shadows": false
+        },
+        {
+          "name": "South_front_60",
+          "positionStuds": [
+            60,
+            2,
+            -137
+          ],
+          "targetStuds": [
+            60,
+            28,
+            -122
+          ],
+          "rangeStuds": 50,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 18000,
+          "shadows": false
+        },
+        {
+          "name": "North_rear_-55",
+          "positionStuds": [
+            -55,
+            2,
+            126
+          ],
+          "targetStuds": [
+            -55,
+            27,
+            120
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "North_rear_0",
+          "positionStuds": [
+            0,
+            2,
+            126
+          ],
+          "targetStuds": [
+            0,
+            27,
+            120
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "North_rear_55",
+          "positionStuds": [
+            55,
+            2,
+            126
+          ],
+          "targetStuds": [
+            55,
+            27,
+            120
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 17000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_-1_-75",
+          "positionStuds": [
+            -90,
+            3,
+            -75
+          ],
+          "targetStuds": [
+            -82,
+            27,
+            -75
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_-1_-28",
+          "positionStuds": [
+            -90,
+            3,
+            -28
+          ],
+          "targetStuds": [
+            -82,
+            27,
+            -28
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_-1_48",
+          "positionStuds": [
+            -90,
+            3,
+            48
+          ],
+          "targetStuds": [
+            -82,
+            27,
+            48
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_-1_97",
+          "positionStuds": [
+            -90,
+            3,
+            97
+          ],
+          "targetStuds": [
+            -82,
+            27,
+            97
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Inner_gallery_-1_-67",
+          "positionStuds": [
+            -49,
+            2,
+            -67
+          ],
+          "targetStuds": [
+            -61,
+            28,
+            -67
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Inner_gallery_-1_69",
+          "positionStuds": [
+            -49,
+            2,
+            69
+          ],
+          "targetStuds": [
+            -61,
+            28,
+            69
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_1_-75",
+          "positionStuds": [
+            90,
+            3,
+            -75
+          ],
+          "targetStuds": [
+            82,
+            27,
+            -75
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_1_-28",
+          "positionStuds": [
+            90,
+            3,
+            -28
+          ],
+          "targetStuds": [
+            82,
+            27,
+            -28
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_1_48",
+          "positionStuds": [
+            90,
+            3,
+            48
+          ],
+          "targetStuds": [
+            82,
+            27,
+            48
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Outer_side_1_97",
+          "positionStuds": [
+            90,
+            3,
+            97
+          ],
+          "targetStuds": [
+            82,
+            27,
+            97
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Inner_gallery_1_-67",
+          "positionStuds": [
+            49,
+            2,
+            -67
+          ],
+          "targetStuds": [
+            61,
+            28,
+            -67
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Inner_gallery_1_69",
+          "positionStuds": [
+            49,
+            2,
+            69
+          ],
+          "targetStuds": [
+            61,
+            28,
+            69
+          ],
+          "rangeStuds": 48,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "White_Dalan_front",
+          "positionStuds": [
+            0,
+            3,
+            -25
+          ],
+          "targetStuds": [
+            0,
+            29,
+            -2
+          ],
+          "rangeStuds": 55,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 20000,
+          "shadows": false
+        },
+        {
+          "name": "Bahir_inner_south",
+          "positionStuds": [
+            0,
+            3,
+            -82
+          ],
+          "targetStuds": [
+            0,
+            28,
+            -96
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Andar_inner_south",
+          "positionStuds": [
+            0,
+            3,
+            62
+          ],
+          "targetStuds": [
+            0,
+            28,
+            43
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Andar_inner_north",
+          "positionStuds": [
+            0,
+            3,
+            85
+          ],
+          "targetStuds": [
+            0,
+            28,
+            99
+          ],
+          "rangeStuds": 45,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 14000,
+          "shadows": false
+        },
+        {
+          "name": "Bahir_roof_pavilion",
+          "positionStuds": [
+            0,
+            41,
+            -122
+          ],
+          "targetStuds": [
+            0,
+            47,
+            -108
+          ],
+          "rangeStuds": 30,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 7000,
+          "shadows": false
+        },
+        {
+          "name": "South_entry_canopy",
+          "positionStuds": [
+            0,
+            16,
+            -130
+          ],
+          "targetStuds": [
+            0,
+            3,
+            -132
+          ],
+          "rangeStuds": 25,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 3000,
+          "shadows": false
+        },
+        {
+          "name": "West_main_entry",
+          "positionStuds": [
+            -88,
+            14,
+            -14
+          ],
+          "targetStuds": [
+            -78,
+            5,
+            -14
+          ],
+          "rangeStuds": 28,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 5000,
+          "shadows": false
+        },
+        {
+          "name": "Northeast_rear_entry",
+          "positionStuds": [
+            65,
+            17,
+            126
+          ],
+          "targetStuds": [
+            65,
+            5,
+            117
+          ],
+          "rangeStuds": 28,
+          "brightness": 1.7,
+          "angleDegrees": 100,
+          "colorRGB": [
+            255,
+            218,
+            170
+          ],
+          "blenderWatts": 5000,
+          "shadows": false
+        }
+      ],
+      "reusedModules": {},
+      "defaultImportTriangles": 156664
+    },
+    {
+      "index": 11,
+      "label": "ITC Sonar",
+      "batch": "Skyline",
+      "folder": "assets/kolkata/tier1/sonar",
+      "metadata": "assets/kolkata/tier1/sonar/asset.json",
+      "metadataSha256": "32c77092b167953d5a40a1b981b8ec2664c27dd75ee7ba89c8363e56c479f48b",
+      "source": "assets/kolkata/tier1/sonar/KOL_T1_SONAR.blend",
+      "sourceSha256": "5d66e56e1bc146dcea23b4e8066dfaca4e6706dcc194b1b77e007761b042cc1f",
+      "packageKey": "sonar",
+      "sourceBoundsBlender": [
+        -129.0,
+        -114.0,
+        0.0,
+        129.0,
+        114.0,
+        81.9000015258789
+      ],
+      "sourceUniqueMeshCount": 49,
+      "sourceMeshInstances": 115,
+      "uniqueTrianglesMeasured": 13668,
+      "sourceSectionCount": 9,
+      "textures": [],
+      "files": [
+        {
+          "section": "Foundation",
+          "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Foundation.fbx",
+          "sha256": "2c2cf18bde19aba9c2e16f6de6ca487fdeaa966c7ccbd14cf5b85f0a75d45956",
+          "triangles": 288,
+          "meshObjects": 4,
+          "largestMeshTriangles": 204,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Landscape",
+          "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Landscape.fbx",
+          "sha256": "457036dcdeb07ea0d195c4174fe9bfb66489c1cfcd7ffb1dc3ef1283971d5305",
+          "triangles": 1344,
+          "meshObjects": 4,
+          "largestMeshTriangles": 768,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Guest_Wing_1",
+          "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Guest_Wing_1.fbx",
+          "sha256": "e753a90fca94bb880ea56714379ea97272e2fbd9ffa1f63a718fd89dad10f284",
+          "triangles": 3552,
+          "meshObjects": 4,
+          "largestMeshTriangles": 2928,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Internal_Shell",
+          "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Internal_Shell.fbx",
+          "sha256": "ef57264e8062abcb0225d22097ba46d036253e62ddd8ce3ac78b6886176f60db",
+          "triangles": 192,
+          "meshObjects": 1,
+          "largestMeshTriangles": 192,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Guest_Wing_2",
+          "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Guest_Wing_2.fbx",
+          "sha256": "9eae2dc72c0116dfd3bd45129c9f5a6ec95b9cae29ddc2909ffecf4ca89af81a",
+          "triangles": 1296,
+          "meshObjects": 4,
+          "largestMeshTriangles": 1020,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Guest_Wing_3",
+          "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Guest_Wing_3.fbx",
+          "sha256": "43fcba3a4de24743fd770b4155b87b32ac58681c2f6ba6144d2f9b3916674bb0",
+          "triangles": 1296,
+          "meshObjects": 4,
+          "largestMeshTriangles": 1020,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Water_Gardens",
+          "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Water_Gardens.fbx",
+          "sha256": "2da93765e75187667ae827bdd62210fc93109b6c0d42f28c934bc8f3ee184964",
+          "triangles": 7320,
+          "meshObjects": 7,
+          "largestMeshTriangles": 5120,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tea_Pavilions",
+          "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Tea_Pavilions.fbx",
+          "sha256": "4105a18038b3e97a5c6176b9102d331f740dd1559c64497f98d53a36bc4b5c21",
+          "triangles": 8880,
+          "meshObjects": 5,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Arrival",
+          "file": "exports/kolkata_tier1_staging/sonar/KOL_T1_SONAR__Arrival.fbx",
+          "sha256": "9b509b5fcad956552434b4abcb97f990e6c1d8f1adeb70415bf3f3a09a82ba8f",
+          "triangles": 1620,
+          "meshObjects": 6,
+          "largestMeshTriangles": 1020,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [],
+      "collection": "11 | ITC Sonar",
+      "pivot": "PIVOT | ITC Sonar",
+      "stagingOffsetBlender": [
+        299.0,
+        -242.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        170.0,
+        -356.0,
+        0.0,
+        428.0,
+        -128.0,
+        81.9000015258789
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [],
+      "lightCollections": [],
+      "preservedArchitecturalLightCount": 0,
+      "assetId": "KOL_T1_SONAR",
+      "name": "ITC Sonar / terracotta water gardens and flaring canopy",
+      "dimensionsStuds": {
+        "width": 258.0,
+        "height": 81.9,
+        "depth": 228.0
+      },
+      "assembledTriangles": 25788,
+      "uniqueSourceTriangles": 13668,
+      "nightLights": [],
+      "reusedModules": {},
+      "defaultImportTriangles": 25788
+    },
+    {
+      "index": 12,
+      "label": "ITC Royal Bengal",
+      "batch": "Skyline",
+      "folder": "assets/kolkata/tier1/royal",
+      "metadata": "assets/kolkata/tier1/royal/asset.json",
+      "metadataSha256": "52f070e3164e99fcc25ee9f8f9d3ada4f59e0c50aea2a2da17fde979262fec9c",
+      "source": "assets/kolkata/tier1/royal/KOL_T1_ROYAL.blend",
+      "sourceSha256": "598fdaaa1fef7c41a618f9e2cad1ac850789cd941bb7fbbbecb02e842fab02d5",
+      "packageKey": "royal",
+      "sourceBoundsBlender": [
+        -120.0,
+        -105.0,
+        0.0,
+        120.0,
+        105.0,
+        297.5997314453125
+      ],
+      "sourceUniqueMeshCount": 57,
+      "sourceMeshInstances": 3924,
+      "uniqueTrianglesMeasured": 12900,
+      "sourceSectionCount": 8,
+      "textures": [],
+      "files": [
+        {
+          "section": "Foundation",
+          "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__Foundation.fbx",
+          "sha256": "7b76e4c80578fe9933756a5c7cf0980383faf08bf278f4cfc86ba8838a6208c6",
+          "triangles": 276,
+          "meshObjects": 4,
+          "largestMeshTriangles": 192,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Landscape",
+          "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__Landscape.fbx",
+          "sha256": "90036612cd2339593bb47b3f4f6110857e65a4ae1c9d0dcdb0c31ac7cfd07127",
+          "triangles": 1344,
+          "meshObjects": 4,
+          "largestMeshTriangles": 768,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "01_Massing",
+          "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__01_Massing.fbx",
+          "sha256": "bc5c669ce8f59b27de11ace2ac9ac5919333bbd8178909b169ad6e679cc2d563",
+          "triangles": 432,
+          "meshObjects": 4,
+          "largestMeshTriangles": 192,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "02_Window_Bays",
+          "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__02_Window_Bays.fbx",
+          "sha256": "d6c5ff4fa547281b2e4be96181dabe79865a2515142e91dcd3d0ec9673e0aea6",
+          "triangles": 85824,
+          "meshObjects": 16,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "03_Arcades",
+          "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__03_Arcades.fbx",
+          "sha256": "4f10bc84ed26c1e6a3c1b49eda4d8b0102817b598ff8e9b68a0aa013026156aa",
+          "triangles": 17488,
+          "meshObjects": 6,
+          "largestMeshTriangles": 5456,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "04_Columns_Loggias",
+          "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__04_Columns_Loggias.fbx",
+          "sha256": "63bc481afbf38b1a14c2e37776f66c1197bede496ec05603b36ca92ecf6889d9",
+          "triangles": 4480,
+          "meshObjects": 2,
+          "largestMeshTriangles": 3520,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "05_Crown_Cornices",
+          "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__05_Crown_Cornices.fbx",
+          "sha256": "23ebd4dbb09c6eba3cbbcb369841cd8fad2825bfdfc253e0b222f8e29c6460d5",
+          "triangles": 6356,
+          "meshObjects": 4,
+          "largestMeshTriangles": 3880,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "06_Arrival",
+          "file": "exports/kolkata_tier1_staging/royal/KOL_T1_ROYAL__06_Arrival.fbx",
+          "sha256": "122408e82820686d95305217412e39701dbf188e437ac319f2568bb4eaf081a9",
+          "triangles": 1360,
+          "meshObjects": 10,
+          "largestMeshTriangles": 604,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [],
+      "collection": "12 | ITC Royal Bengal",
+      "pivot": "PIVOT | ITC Royal Bengal",
+      "stagingOffsetBlender": [
+        897.0,
+        -242.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        777.0,
+        -347.0,
+        0.0,
+        1017.0,
+        -137.0,
+        297.5997314453125
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [],
+      "lightCollections": [],
+      "preservedArchitecturalLightCount": 0,
+      "assetId": "KOL_T1_ROYAL",
+      "name": "ITC Royal Bengal / hero exterior",
+      "dimensionsStuds": {
+        "width": 240.0,
+        "height": 297.6,
+        "depth": 210.0
+      },
+      "assembledTriangles": 117560,
+      "uniqueSourceTriangles": 12900,
+      "nightLights": [],
+      "reusedModules": {},
+      "defaultImportTriangles": 117560
+    },
+    {
+      "index": 13,
+      "label": "Atmosphere and Deya",
+      "batch": "Skyline",
+      "folder": "assets/kolkata/tier1/atmosphere",
+      "metadata": "assets/kolkata/tier1/atmosphere/asset.json",
+      "metadataSha256": "d8df854c7817ba49b7bb09ecda8dc310fe72c68d857ea463f1c7ce6fa191043c",
+      "source": "assets/kolkata/tier1/atmosphere/KOL_T1_ATMOSPHERE.blend",
+      "sourceSha256": "0a5c1acf61d7900e450e71ae4566607b6480c9d80ea20709aaf29b1c442d7b8e",
+      "packageKey": "atmosphere",
+      "sourceBoundsBlender": [
+        -146.0,
+        -78.0,
+        0.0,
+        146.0,
+        78.0,
+        390.2580871582031
+      ],
+      "sourceUniqueMeshCount": 46,
+      "sourceMeshInstances": 362,
+      "uniqueTrianglesMeasured": 21508,
+      "sourceSectionCount": 6,
+      "textures": [],
+      "files": [
+        {
+          "section": "Foundation",
+          "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Foundation.fbx",
+          "sha256": "6777dc4b8d2358906a0ba117fc23a1e3a554377d7f808a4b95dc0a364ba92cbb",
+          "triangles": 312,
+          "meshObjects": 4,
+          "largestMeshTriangles": 228,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Landscape",
+          "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Landscape.fbx",
+          "sha256": "45db8a024ee04fbdaced667c160fd679f4f95adb32591fbb04b69fcc2bb0dcd4",
+          "triangles": 1344,
+          "meshObjects": 4,
+          "largestMeshTriangles": 768,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower_1",
+          "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Tower_1.fbx",
+          "sha256": "feed98823dd5232e0e6d868db93bda95be776512559e103b8eb4ff8793b42e7f",
+          "triangles": 13140,
+          "meshObjects": 10,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower_2",
+          "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Tower_2.fbx",
+          "sha256": "ddaca2dc5284f9b2f3db7210b66b06779d4ff4ff4a936cc340e92154b5fb6dac",
+          "triangles": 13140,
+          "meshObjects": 10,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Deya_Skybridge",
+          "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Deya_Skybridge.fbx",
+          "sha256": "0bace332e960aea034a6a865df2bcbccce266d7f5cf97d9bc0778d88d6625b4f",
+          "triangles": 19428,
+          "meshObjects": 12,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Podium",
+          "file": "exports/kolkata_tier1_staging/atmosphere/KOL_T1_ATMOSPHERE__Podium.fbx",
+          "sha256": "2fa58ab833871417938a407b413690dce6a91ef1048807de4b0b7e81d7045035",
+          "triangles": 1276,
+          "meshObjects": 6,
+          "largestMeshTriangles": 580,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [],
+      "collection": "13 | Atmosphere and Deya",
+      "pivot": "PIVOT | Atmosphere and Deya",
+      "stagingOffsetBlender": [
+        -897.0,
+        -726.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        -1043.0,
+        -804.0,
+        0.0,
+        -751.0,
+        -648.0,
+        390.2580871582031
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [],
+      "lightCollections": [],
+      "preservedArchitecturalLightCount": 0,
+      "assetId": "KOL_T1_ATMOSPHERE",
+      "name": "Atmosphere Twin Towers / Deya",
+      "dimensionsStuds": {
+        "width": 292.0,
+        "height": 390.258,
+        "depth": 156.0
+      },
+      "assembledTriangles": 48640,
+      "uniqueSourceTriangles": 21508,
+      "nightLights": [],
+      "reusedModules": {},
+      "defaultImportTriangles": 48640
+    },
+    {
+      "index": 14,
+      "label": "Trump Tower Kolkata",
+      "batch": "Skyline",
+      "folder": "assets/kolkata/tier1/trump",
+      "metadata": "assets/kolkata/tier1/trump/asset.json",
+      "metadataSha256": "7cb315df6e3621357c15854887c9ead043125c06c4ba2aa6763cdfd74bfb45a9",
+      "source": "assets/kolkata/tier1/trump/KOL_T1_TRUMP.blend",
+      "sourceSha256": "a989c6e1bf51624dcf63290133dc90d74afb7b2407c5bd7b79ba3b869060f760",
+      "packageKey": "trump",
+      "sourceBoundsBlender": [
+        -71.0,
+        -66.0,
+        0.0,
+        71.0,
+        66.0,
+        351.0
+      ],
+      "sourceUniqueMeshCount": 32,
+      "sourceMeshInstances": 141,
+      "uniqueTrianglesMeasured": 3076,
+      "sourceSectionCount": 5,
+      "textures": [],
+      "files": [
+        {
+          "section": "Foundation",
+          "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Foundation.fbx",
+          "sha256": "dbea8586f4e0c3a73f13bbf1f25698eb49adc5eccb18dd672fd5c42fa98b45e1",
+          "triangles": 192,
+          "meshObjects": 4,
+          "largestMeshTriangles": 108,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Landscape",
+          "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Landscape.fbx",
+          "sha256": "f08dcca25252afba65f91ed0222e284c69aeb64461f8b0de00e596aae2ae781d",
+          "triangles": 1344,
+          "meshObjects": 4,
+          "largestMeshTriangles": 768,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower",
+          "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Tower.fbx",
+          "sha256": "8ad2a192b204b47507becfc49b387fd9ac8b466fb287aa99f46acfd3d0957e72",
+          "triangles": 11040,
+          "meshObjects": 6,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Crown",
+          "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Crown.fbx",
+          "sha256": "f37a5ced3494620449d125c1f90a782e5309cdbe467314a6b1a7f7ac7c6541f2",
+          "triangles": 492,
+          "meshObjects": 3,
+          "largestMeshTriangles": 324,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Podium",
+          "file": "exports/kolkata_tier1_staging/trump/KOL_T1_TRUMP__Podium.fbx",
+          "sha256": "cda96aade884fc6f1efa27895fae014bd2bf19d35c40f062d1afba698da08e75",
+          "triangles": 736,
+          "meshObjects": 5,
+          "largestMeshTriangles": 616,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [],
+      "collection": "14 | Trump Tower Kolkata",
+      "pivot": "PIVOT | Trump Tower Kolkata",
+      "stagingOffsetBlender": [
+        -299.0,
+        -726.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        -370.0,
+        -792.0,
+        0.0,
+        -228.0,
+        -660.0,
+        351.0
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [],
+      "lightCollections": [],
+      "preservedArchitecturalLightCount": 0,
+      "assetId": "KOL_T1_TRUMP",
+      "name": "Trump Tower Kolkata",
+      "dimensionsStuds": {
+        "width": 142.0,
+        "height": 351.0,
+        "depth": 132.0
+      },
+      "assembledTriangles": 13804,
+      "uniqueSourceTriangles": 3076,
+      "nightLights": [],
+      "reusedModules": {},
+      "defaultImportTriangles": 13804
+    },
+    {
+      "index": 15,
+      "label": "Urbana Seven Towers",
+      "batch": "Skyline",
+      "folder": "assets/kolkata/tier1/urbana",
+      "metadata": "assets/kolkata/tier1/urbana/asset.json",
+      "metadataSha256": "177f0afdea7d0f4af00a1ff147cfd4ffa0f31f47e83ce6ed10f5036f76690875",
+      "source": "assets/kolkata/tier1/urbana/KOL_T1_URBANA.blend",
+      "sourceSha256": "94b157a8055658565e7649d4f97811884b77aa0b61841d148df39b5c5e7738b0",
+      "packageKey": "urbana",
+      "sourceBoundsBlender": [
+        -208.0,
+        -152.0,
+        -0.75,
+        208.0,
+        152.0,
+        378.25
+      ],
+      "sourceUniqueMeshCount": 41,
+      "sourceMeshInstances": 334,
+      "uniqueTrianglesMeasured": 10748,
+      "sourceSectionCount": 10,
+      "textures": [],
+      "files": [
+        {
+          "section": "Foundation",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Foundation.fbx",
+          "sha256": "d74e269e82c4a7cce5545cfbfabe5ecc19719f24997d0c94df4a32f632d4d3ea",
+          "triangles": 408,
+          "meshObjects": 4,
+          "largestMeshTriangles": 324,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Landscape",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Landscape.fbx",
+          "sha256": "ea33f87b2c01ec02f8a0ec50bc012bab0cf874c6bb2f610718ac60ebf709239f",
+          "triangles": 1344,
+          "meshObjects": 4,
+          "largestMeshTriangles": 768,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower_01",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_01.fbx",
+          "sha256": "05f9f3efe1e5ff883fa01381c07246c418f14749a9df110a2227370eb726146a",
+          "triangles": 7820,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower_02",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_02.fbx",
+          "sha256": "ed4c855fcd6c7f5440469846702a645cd6ff66ebcc4f26ce335e7f9a6d03f3cc",
+          "triangles": 7484,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower_03",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_03.fbx",
+          "sha256": "0252b0ae0413702dd99f91aec3f533d24f03400247e621a7f609410be1716a11",
+          "triangles": 7148,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower_04",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_04.fbx",
+          "sha256": "a208d63dadc2ceebe16a4797ad3ab41ed9d27e127df7aeb498d19ba55e66a17b",
+          "triangles": 7820,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower_05",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_05.fbx",
+          "sha256": "8b727313f6a0bc5991e40d225408e9c6e691bbcbd31d84cb7f1adebdbf35a5ca",
+          "triangles": 7316,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower_06",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_06.fbx",
+          "sha256": "d6f77eb65aa5644da92618e511e3a3c4ba4083ea6342fb67f6b3d06fddb95f4d",
+          "triangles": 6980,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Tower_07",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Tower_07.fbx",
+          "sha256": "57d92e0669900c1451a43ab2a5cc542db54da64c8daaf6455ce275403bd53022",
+          "triangles": 7484,
+          "meshObjects": 4,
+          "largestMeshTriangles": 5500,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Clubhouse",
+          "file": "exports/kolkata_tier1_staging/urbana/KOL_T1_URBANA__Clubhouse.fbx",
+          "sha256": "848f1493ea164c78d66aaab75a0e11dea16ca9b8f3e2cb2ab4dd0190b840d5c1",
+          "triangles": 3656,
+          "meshObjects": 9,
+          "largestMeshTriangles": 768,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [],
+      "collection": "15 | Urbana Seven Towers",
+      "pivot": "PIVOT | Urbana Seven Towers",
+      "stagingOffsetBlender": [
+        299.0,
+        -726.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        91.0,
+        -878.0,
+        -0.75,
+        507.0,
+        -574.0,
+        378.25
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [],
+      "lightCollections": [],
+      "preservedArchitecturalLightCount": 0,
+      "assetId": "KOL_T1_URBANA",
+      "name": "Urbana / seven towers with folded facade wings",
+      "dimensionsStuds": {
+        "width": 416.0,
+        "height": 379.0,
+        "depth": 304.0
+      },
+      "assembledTriangles": 57460,
+      "uniqueSourceTriangles": 10748,
+      "nightLights": [],
+      "reusedModules": {},
+      "defaultImportTriangles": 57460
+    },
+    {
+      "index": 16,
+      "label": "JW Marriott Kolkata",
+      "batch": "Skyline",
+      "folder": "assets/kolkata/tier1/jw",
+      "metadata": "assets/kolkata/tier1/jw/asset.json",
+      "metadataSha256": "0462a08b279c283da2e75e10124ef1f0937c065a81a82a2024fcbe6770697f8b",
+      "source": "assets/kolkata/tier1/jw/KOL_T1_JW.blend",
+      "sourceSha256": "1ac81a683185d2d495ee09cacafe9014229d84f0ed875c0c42ea069f64b1df84",
+      "packageKey": "jw",
+      "sourceBoundsBlender": [
+        -158.0,
+        -118.0,
+        0.0,
+        158.0,
+        118.0,
+        251.89999389648438
+      ],
+      "sourceUniqueMeshCount": 73,
+      "sourceMeshInstances": 343,
+      "uniqueTrianglesMeasured": 24772,
+      "sourceSectionCount": 8,
+      "textures": [],
+      "files": [
+        {
+          "section": "Foundation",
+          "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Foundation.fbx",
+          "sha256": "70289cd7cc289c39d72a629696c79f6f4cf7ee10b02a6423dd9f878abc6e6b9a",
+          "triangles": 324,
+          "meshObjects": 4,
+          "largestMeshTriangles": 240,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Landscape",
+          "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Landscape.fbx",
+          "sha256": "9bc762bbd4ac0cea69d9c53c94e227ef8c6677cc3fe8433bb3f5c391edb87747",
+          "triangles": 1344,
+          "meshObjects": 4,
+          "largestMeshTriangles": 768,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Podium_Base",
+          "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Podium_Base.fbx",
+          "sha256": "447aabeb37ca54a68a123692d2a2d23a29854fe892394349eef657d03711e04c",
+          "triangles": 456,
+          "meshObjects": 4,
+          "largestMeshTriangles": 276,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Hotel_Tower",
+          "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Hotel_Tower.fbx",
+          "sha256": "30d439576aeffc182878c98151748368002ac276dd204805a3200313de5c8d6f",
+          "triangles": 27812,
+          "meshObjects": 11,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Companion_Tower",
+          "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Companion_Tower.fbx",
+          "sha256": "0480e903bb5915aa1500400916b00ff4fea8f5f921f1ca79dd8aaf7c435a885b",
+          "triangles": 18600,
+          "meshObjects": 8,
+          "largestMeshTriangles": 5496,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Hero_Diagrid",
+          "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Hero_Diagrid.fbx",
+          "sha256": "a477e8fdb76748c4373a09b6157bc2870df57575d6112f92ccd3ef698fcc1226",
+          "triangles": 8552,
+          "meshObjects": 3,
+          "largestMeshTriangles": 5376,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Roof_Terrace",
+          "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Roof_Terrace.fbx",
+          "sha256": "b70bbc52a2d7c05ad0f9fc833112862dc8eba144682b3818202074a7876b3534",
+          "triangles": 6652,
+          "meshObjects": 7,
+          "largestMeshTriangles": 2536,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        },
+        {
+          "section": "Arrival",
+          "file": "exports/kolkata_tier1_staging/jw/KOL_T1_JW__Arrival.fbx",
+          "sha256": "04ba3d0576fd02401c3e14e4cd87a97a396a014c9c0d89886677b3f183fe1584",
+          "triangles": 2948,
+          "meshObjects": 7,
+          "largestMeshTriangles": 1968,
+          "defaultImport": true,
+          "provenance": "Unchanged copy of completed modular export"
+        }
+      ],
+      "helpers": [],
+      "collection": "16 | JW Marriott Kolkata",
+      "pivot": "PIVOT | JW Marriott Kolkata",
+      "stagingOffsetBlender": [
+        897.0,
+        -726.0,
+        0.0
+      ],
+      "stagingBoundsBlender": [
+        739.0,
+        -844.0,
+        0.0,
+        1055.0,
+        -608.0,
+        251.89999389648438
+      ],
+      "transformErrorStuds": 1.1920928955078125e-07,
+      "guideCollections": [],
+      "lightCollections": [],
+      "preservedArchitecturalLightCount": 0,
+      "assetId": "KOL_T1_JW",
+      "name": "JW Marriott Kolkata / swept diagrid arrival",
+      "dimensionsStuds": {
+        "width": 316.0,
+        "height": 251.9,
+        "depth": 236.0
+      },
+      "assembledTriangles": 66688,
+      "uniqueSourceTriangles": 24772,
+      "nightLights": [],
+      "reusedModules": {},
+      "defaultImportTriangles": 66688
+    }
+  ]
+}

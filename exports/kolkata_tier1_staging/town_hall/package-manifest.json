@@ -1,0 +1,6803 @@
+{
+  "assetId": "KOL_T1_TOWN_HALL",
+  "name": "Kolkata Town Hall",
+  "dimensionsStuds": {
+    "width": 124.0,
+    "height": 49.75,
+    "depth": 110.0
+  },
+  "units": "Stud / 1; Blender +Y front, Z up; Roblox -Z front, Y up",
+  "origin": "Original authored ground origin; no showcase-grid offset in these FBXs",
+  "assembledTriangles": 36520,
+  "uniqueSourceTriangles": 8564,
+  "files": [
+    {
+      "section": "00_Foundation",
+      "file": "KOL_T1_TOWN_HALL__00_Foundation.fbx",
+      "sha256": "376deac30ce72435a50fa2b9335a7df191b5d27ef242286ff39f21a6367823f1",
+      "triangles": 180,
+      "meshObjects": 3,
+      "largestMeshTriangles": 144,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "01_Shell",
+      "file": "KOL_T1_TOWN_HALL__01_Shell.fbx",
+      "sha256": "09dcddbe2723e02d0cd69b99475735ae334e99536bd6b33517529f82d04390b5",
+      "triangles": 12,
+      "meshObjects": 1,
+      "largestMeshTriangles": 12,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "02_Cornices",
+      "file": "KOL_T1_TOWN_HALL__02_Cornices.fbx",
+      "sha256": "9fc6bef49647dc20b63beba4653cffaf046aed6937eb22ad01a54392ad82a82d",
+      "triangles": 108,
+      "meshObjects": 1,
+      "largestMeshTriangles": 108,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "03_Portico",
+      "file": "KOL_T1_TOWN_HALL__03_Portico.fbx",
+      "sha256": "0990c93d0abd3e4f36d4f2dd4ab2c5608bb7b8d29a4db0844dc00e11f5eeb5ef",
+      "triangles": 6696,
+      "meshObjects": 3,
+      "largestMeshTriangles": 5496,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "04_Facades",
+      "file": "KOL_T1_TOWN_HALL__04_Facades.fbx",
+      "sha256": "f09e79f61cca724beae4b14b0156d704dcadc2448dcae7bdbf2340f3ecb75127",
+      "triangles": 11784,
+      "meshObjects": 6,
+      "largestMeshTriangles": 5492,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "05_Rear",
+      "file": "KOL_T1_TOWN_HALL__05_Rear.fbx",
+      "sha256": "a7e202f77936011bd60114a0bd7815d0302a9a7c824071334dd7b1fd79c1d726",
+      "triangles": 3480,
+      "meshObjects": 3,
+      "largestMeshTriangles": 3120,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "06_Roofline",
+      "file": "KOL_T1_TOWN_HALL__06_Roofline.fbx",
+      "sha256": "af0c9b321e3ac23563bc9be8e6470a123f2ffbb63c125aed659fedc7d080daf6",
+      "triangles": 11536,
+      "meshObjects": 3,
+      "largestMeshTriangles": 5460,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "09_Foundation_Detail",
+      "file": "KOL_T1_TOWN_HALL__09_Foundation_Detail.fbx",
+      "sha256": "9ce6c65bbee190a1187425f75b8860f5ee34d8eb647067d0f3843a6bff15fb95",
+      "triangles": 812,
+      "meshObjects": 6,
+      "largestMeshTriangles": 368,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    },
+    {
+      "section": "10_Rear_Architecture",
+      "file": "KOL_T1_TOWN_HALL__10_Rear_Architecture.fbx",
+      "sha256": "55d78054cc50753b946aea70088ff2380d6d1d14cebddaf51900a77a27a89baf",
+      "triangles": 1912,
+      "meshObjects": 5,
+      "largestMeshTriangles": 1824,
+      "defaultImport": true,
+      "provenance": "Unchanged copy of completed modular export"
+    }
+  ],
+  "textures": [],
+  "helpers": [
+    {
+      "file": "../shared/InstallHeritageLights.luau",
+      "canonicalFile": "exports/kolkata_heritage_batch2/InstallHeritageLights.luau",
+      "sha256": "961f47dff05527d20593bcfc715c85752bfa22cebc1dc25a4b27cef56134e123"
+    }
+  ],
+  "provenance": {
+    "source": "assets/kolkata/heritage_batch2/town_hall/KOL_T1_TOWN_HALL.blend",
+    "sourceSha256": "341c2821e687be3f5cd726429abe6d4dd9c0513da2f166592d3bc95647bce0a0",
+    "metadata": "assets/kolkata/heritage_batch2/town_hall/asset.json",
+    "metadataSha256": "1019b1f1d22cfa51fa49fa56c528a0a2c8aa2becee89754c644aa220042f1b9b"
+  },
+  "originalAuthoringMetadata": {
+    "assetId": "KOL_T1_TOWN_HALL",
+    "name": "Kolkata Town Hall",
+    "source": "KOL_T1_TOWN_HALL.blend",
+    "dimensionsStuds": {
+      "width": 124.0,
+      "height": 49.75,
+      "depth": 110.0
+    },
+    "assembledTriangles": 36520,
+    "uniqueSourceTriangles": 8564,
+    "largestMeshTriangles": 1992,
+    "uniqueMeshes": 45,
+    "meshInstances": 190,
+    "exports": [
+      {
+        "section": "00_Foundation",
+        "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__00_Foundation.fbx",
+        "triangles": 180,
+        "meshInstances": 3,
+        "largestExportMeshTriangles": 144
+      },
+      {
+        "section": "01_Shell",
+        "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__01_Shell.fbx",
+        "triangles": 12,
+        "meshInstances": 1,
+        "largestExportMeshTriangles": 12
+      },
+      {
+        "section": "02_Cornices",
+        "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__02_Cornices.fbx",
+        "triangles": 108,
+        "meshInstances": 1,
+        "largestExportMeshTriangles": 108
+      },
+      {
+        "section": "03_Portico",
+        "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__03_Portico.fbx",
+        "triangles": 6696,
+        "meshInstances": 3,
+        "largestExportMeshTriangles": 5496
+      },
+      {
+        "section": "04_Facades",
+        "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__04_Facades.fbx",
+        "triangles": 11784,
+        "meshInstances": 6,
+        "largestExportMeshTriangles": 5492
+      },
+      {
+        "section": "05_Rear",
+        "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__05_Rear.fbx",
+        "triangles": 3480,
+        "meshInstances": 3,
+        "largestExportMeshTriangles": 3120
+      },
+      {
+        "section": "06_Roofline",
+        "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__06_Roofline.fbx",
+        "triangles": 11536,
+        "meshInstances": 3,
+        "largestExportMeshTriangles": 5460
+      },
+      {
+        "section": "09_Foundation_Detail",
+        "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__09_Foundation_Detail.fbx",
+        "triangles": 812,
+        "meshInstances": 6,
+        "largestExportMeshTriangles": 368
+      },
+      {
+        "section": "10_Rear_Architecture",
+        "file": "../../../../exports/kolkata_heritage_batch2/KOL_T1_TOWN_HALL__10_Rear_Architecture.fbx",
+        "triangles": 1912,
+        "meshInstances": 5,
+        "largestExportMeshTriangles": 1824
+      }
+    ],
+    "origin": "Common ground center; front +Y in Blender / -Z in Roblox",
+    "sockets": {},
+    "materials": [
+      "KOL_T1_HeritageCream",
+      "KOL_T1_HeritageDark",
+      "KOL_T1_HeritageGlass",
+      "KOL_T1_HeritageGlow",
+      "KOL_T1_HeritageIron",
+      "KOL_T1_HeritagePaving",
+      "KOL_T1_HeritageShutter",
+      "KOL_T1_HeritageSlate",
+      "KOL_T1_HeritageStone",
+      "KOL_T1_HeritageWhite",
+      "KOL_T1_Leaf"
+    ],
+    "assembly": [
+      {
+        "name": "Foundation__KOL_T1_HeritageStone.007",
+        "meshKey": "KOL_T1_TOWN_HALL__Foundation__HeritageStone_00.009",
+        "section": "00_Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Shell"
+      },
+      {
+        "name": "Forecourt_finish__KOL_T1_HeritagePaving.007",
+        "meshKey": "KOL_T1_TOWN_HALL__Forecourt_finish__HeritagePaving_00.009",
+        "section": "00_Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Forecourt_finish__KOL_T1_HeritageCream.007",
+        "meshKey": "KOL_T1_TOWN_HALL__Forecourt_finish__HeritageCream_00.009",
+        "section": "00_Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Raised_hall_base__KOL_T1_HeritageStone.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Raised_hall_base__HeritageStone_00.001",
+        "section": "00_Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Shell"
+      },
+      {
+        "name": "Deep_portico_landing__KOL_T1_HeritageStone",
+        "meshKey": "KOL_T1_TOWN_HALL__Deep_portico_landing__HeritageStone_00",
+        "section": "00_Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Shell"
+      },
+      {
+        "name": "Broad_entry_stairs__KOL_T1_HeritageStone.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Broad_entry_stairs__HeritageStone_00.001",
+        "section": "00_Foundation",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "WalkableSteps"
+      },
+      {
+        "name": "Classical_main_shell__KOL_T1_HeritageWhite.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Classical_main_shell__HeritageWhite_00.001",
+        "section": "01_Shell",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Shell"
+      },
+      {
+        "name": "Hall_horizontal_cornices__KOL_T1_HeritageCream.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_horizontal_cornices__HeritageCream_00.001",
+        "section": "02_Cornices",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_portico_column__KOL_T1_HeritageWhite.006",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_portico_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -34.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            46.5
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_portico_column__KOL_T1_HeritageWhite.007",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_portico_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -20.399999618530273
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            46.5
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_portico_column__KOL_T1_HeritageWhite.008",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_portico_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -6.800000190734863
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            46.5
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_portico_column__KOL_T1_HeritageWhite.009",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_portico_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            6.800000190734863
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            46.5
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_portico_column__KOL_T1_HeritageWhite.010",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_portico_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            20.399999618530273
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            46.5
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_portico_column__KOL_T1_HeritageWhite.011",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_portico_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            34.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            46.5
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_return_column__KOL_T1_HeritageWhite.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_return_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -34.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            37.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_return_column__KOL_T1_HeritageWhite.005",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_return_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -34.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            27.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_return_column__KOL_T1_HeritageWhite.006",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_return_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            34.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            37.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_return_column__KOL_T1_HeritageWhite.007",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_return_column__HeritageWhite_00.001",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            34.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            27.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_entablature_rosettes_and_modillions__KOL_T1_HeritageWhite",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_entablature_rosettes_and_modillions__HeritageWhite_00",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_entablature_rosettes_and_modillions__KOL_T1_HeritageWhite.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_entablature_rosettes_and_modillions__HeritageWhite_01",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Doric_entablature_rosettes_and_modillions__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Doric_entablature_rosettes_and_modillions__HeritageCream_00",
+        "section": "03_Portico",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageDark",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageDark_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -27.200000762939453
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -27.200000762939453
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageGlass",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -27.200000762939453
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageShutter",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -27.200000762939453
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageDark.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageDark_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -13.600000381469727
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageCream.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -13.600000381469727
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageGlass.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -13.600000381469727
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageShutter.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -13.600000381469727
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageDark.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageDark_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageCream.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageGlass.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageShutter.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageDark.003",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageDark_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            13.600000381469727
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageCream.003",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            13.600000381469727
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageGlass.003",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            13.600000381469727
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageShutter.003",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            13.600000381469727
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageDark.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageDark_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            27.200000762939453
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageCream.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            27.200000762939453
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageGlass.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            27.200000762939453
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Main_hall_arch_and_shutter_bay__KOL_T1_HeritageShutter.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Main_hall_arch_and_shutter_bay__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            27.200000762939453
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -41.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -41.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -41.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            41.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            41.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            41.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.003",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.003",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.003",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            48.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.005",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            8.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.005",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            8.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.005",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            8.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.006",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -7.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.006",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -7.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.006",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -7.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.007",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -22.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.007",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -22.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.007",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.150001525878906
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -22.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.008",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.008",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.008",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            23.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.009",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            8.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.009",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            8.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.009",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            8.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.010",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -7.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.010",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -7.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.010",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -7.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.011",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -22.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.011",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -22.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.011",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.150001525878906
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -22.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Central_door_crown_and_upper_fanlight__KOL_T1_HeritageWhite",
+        "meshKey": "KOL_T1_TOWN_HALL__Central_door_crown_and_upper_fanlight__HeritageWhite_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.29999923706055
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Central_door_crown_and_upper_fanlight__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Central_door_crown_and_upper_fanlight__HeritageCream_00",
+        "section": "04_Facades",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            32.29999923706055
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.012",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            -43.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.012",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            -43.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.012",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            -43.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.013",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            -22.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.013",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            -22.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.013",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            -22.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.014",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            0.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.014",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            0.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.014",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            0.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.015",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            22.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.015",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            22.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.015",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            22.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageGlass.016",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageGlass_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            43.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageCream.016",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageCream_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            43.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_flank_window__KOL_T1_HeritageShutter.016",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_flank_window__HeritageShutter_00",
+        "section": "05_Rear",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            43.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.150001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_roof_rail__KOL_T1_HeritageWhite.008",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -38.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.099998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_roof_rail__KOL_T1_HeritageWhite.009",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -27.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.099998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_roof_rail__KOL_T1_HeritageWhite.010",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -16.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.099998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_roof_rail__KOL_T1_HeritageWhite.011",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -5.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.099998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_roof_rail__KOL_T1_HeritageWhite.012",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            5.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.099998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_roof_rail__KOL_T1_HeritageWhite.013",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            16.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.099998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_roof_rail__KOL_T1_HeritageWhite.014",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            27.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.099998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_roof_rail__KOL_T1_HeritageWhite.015",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            38.5
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.099998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.010",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -50.400001525878906
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.011",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -39.20000076293945
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.012",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -28.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.013",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -16.799999237060547
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.014",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -5.599999904632568
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.015",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            5.599999904632568
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.016",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            16.799999237060547
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.017",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            28.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.018",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            39.20000076293945
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_roof_rail__KOL_T1_HeritageWhite.019",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            50.400001525878906
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -35.599998474121094
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.012",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -55.79999923706055
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            26.33333396911621
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.013",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -55.79999923706055
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            15.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.014",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -55.79999923706055
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            3.6666667461395264
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.015",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -55.79999923706055
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -7.666666507720947
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.016",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -55.79999923706055
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -19.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.017",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -55.79999923706055
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -30.33333396911621
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.018",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            55.79999923706055
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            26.33333396911621
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.019",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            55.79999923706055
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            15.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.020",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            55.79999923706055
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            3.6666667461395264
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.021",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            55.79999923706055
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -7.666666507720947
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.022",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            55.79999923706055
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -19.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Side_roof_rail__KOL_T1_HeritageWhite.023",
+        "meshKey": "KOL_T1_TOWN_HALL__Side_roof_rail__HeritageWhite_00.001",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            55.79999923706055
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -30.33333396911621
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            46.20000076293945
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Balustrade_masonry_piers__KOL_T1_HeritageWhite",
+        "meshKey": "KOL_T1_TOWN_HALL__Balustrade_masonry_piers__HeritageWhite_00",
+        "section": "06_Roofline",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Molded_masonry_socle__KOL_T1_HeritageStone.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Molded_masonry_socle__HeritageStone_00.002",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_urn_planter__KOL_T1_HeritageStone",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_urn_planter__HeritageStone_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -52.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_urn_planter__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_urn_planter__HeritageCream_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -52.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_urn_planter__KOL_T1_Leaf",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_urn_planter__Leaf_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -52.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_urn_planter__KOL_T1_HeritageStone.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_urn_planter__HeritageStone_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            52.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_urn_planter__KOL_T1_HeritageCream.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_urn_planter__HeritageCream_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            52.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_urn_planter__KOL_T1_Leaf.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_urn_planter__Leaf_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            52.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            50.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_bench__KOL_T1_HeritageIron",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_bench__HeritageIron_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -51.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_bench__KOL_T1_HeritageSlate",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_bench__HeritageSlate_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -51.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_bench__KOL_T1_HeritageIron.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_bench__HeritageIron_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            51.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Town_Hall_bench__KOL_T1_HeritageSlate.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Town_Hall_bench__HeritageSlate_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            51.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            61.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_retaining_edges_and_coping__KOL_T1_HeritageStone",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_retaining_edges_and_coping__HeritageStone_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Portico_retaining_edges_and_coping__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Portico_retaining_edges_and_coping__HeritageCream_00",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.042",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -32.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.042",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -32.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.042",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -32.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.043",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.043",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.043",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.044",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            32.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.044",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            32.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.044",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            32.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            65.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.045",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.045",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.045",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.046",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.046",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.046",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.047",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            39.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.047",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            39.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.047",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            39.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -39.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.048",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            14.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.048",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            14.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.048",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            14.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.049",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -20.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.049",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -20.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.049",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            -60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -20.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.050",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            14.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.050",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            14.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.050",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            14.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageStone.051",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageStone_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -20.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageIron.051",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageIron_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -20.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Installed_ground_flood_fixture__KOL_T1_HeritageGlow.051",
+        "meshKey": "KOL_T1_TOWN_HALL__Installed_ground_flood_fixture__HeritageGlow_00.003",
+        "section": "09_Foundation_Detail",
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            60.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -20.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_pilaster__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            -53.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_pilaster__KOL_T1_HeritageCream.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            -32.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_pilaster__KOL_T1_HeritageCream.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            -11.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_pilaster__KOL_T1_HeritageCream.003",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            11.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_pilaster__KOL_T1_HeritageCream.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            32.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_pilaster__KOL_T1_HeritageCream.005",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            53.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.25
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.25
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            29.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream.001",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.25
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            15.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream.002",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.25
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream.003",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.25
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -15.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream.004",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            -1.0,
+            0.0,
+            -56.25
+          ],
+          [
+            1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -31.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream.005",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.25
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            29.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream.006",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.25
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            15.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream.007",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.25
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream.008",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.25
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -15.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_side_pilaster__KOL_T1_HeritageCream.009",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_side_pilaster__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -4.371138828673793e-08,
+            1.0,
+            0.0,
+            56.25
+          ],
+          [
+            -1.0,
+            -4.371138828673793e-08,
+            0.0,
+            -31.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            5.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_service_entry__KOL_T1_HeritageGlass",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_service_entry__HeritageGlass_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            0.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.400001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_service_entry__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_service_entry__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            0.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.400001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_service_entry__KOL_T1_HeritageDark",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_service_entry__HeritageDark_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            0.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.400001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Hall_rear_service_entry__KOL_T1_HeritageStone",
+        "meshKey": "KOL_T1_TOWN_HALL__Hall_rear_service_entry__HeritageStone_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            0.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.400001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            4.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_civic_pavilion_crown__KOL_T1_HeritageWhite",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_civic_pavilion_crown__HeritageWhite_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            0.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.400001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      },
+      {
+        "name": "Rear_civic_pavilion_crown__KOL_T1_HeritageCream",
+        "meshKey": "KOL_T1_TOWN_HALL__Rear_civic_pavilion_crown__HeritageCream_00",
+        "section": "10_Rear_Architecture",
+        "matrix": [
+          [
+            -1.0,
+            8.742277657347586e-08,
+            0.0,
+            0.0
+          ],
+          [
+            -8.742277657347586e-08,
+            -1.0,
+            0.0,
+            -36.400001525878906
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "collisionRole": "Visual"
+      }
+    ],
+    "collisionBoxes": [
+      {
+        "name": "Foundation",
+        "positionStuds": [
+          0,
+          0.2,
+          -15.0
+        ],
+        "sizeStuds": [
+          124,
+          0.8,
+          110
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Classical_main_shell",
+        "positionStuds": [
+          0,
+          24,
+          2
+        ],
+        "sizeStuds": [
+          112,
+          44,
+          68
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Raised_hall_base",
+        "positionStuds": [
+          0,
+          2.4,
+          2
+        ],
+        "sizeStuds": [
+          114,
+          3.2,
+          70
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Deep_portico_landing",
+        "positionStuds": [
+          0,
+          2.4,
+          -41
+        ],
+        "sizeStuds": [
+          88,
+          3.2,
+          23
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Broad_entry_stairs0",
+        "positionStuds": [
+          0,
+          0.9777777777777779,
+          -64.4
+        ],
+        "sizeStuds": [
+          86,
+          0.3555555555555556,
+          1.42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Broad_entry_stairs1",
+        "positionStuds": [
+          0,
+          1.1555555555555554,
+          -63.0
+        ],
+        "sizeStuds": [
+          86,
+          0.711111111111111,
+          1.42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Broad_entry_stairs2",
+        "positionStuds": [
+          0,
+          1.3333333333333335,
+          -61.6
+        ],
+        "sizeStuds": [
+          86,
+          1.0666666666666669,
+          1.42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Broad_entry_stairs3",
+        "positionStuds": [
+          0,
+          1.511111111111111,
+          -60.2
+        ],
+        "sizeStuds": [
+          86,
+          1.4222222222222223,
+          1.42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Broad_entry_stairs4",
+        "positionStuds": [
+          0,
+          1.6888888888888887,
+          -58.8
+        ],
+        "sizeStuds": [
+          86,
+          1.7777777777777775,
+          1.42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Broad_entry_stairs5",
+        "positionStuds": [
+          0,
+          1.8666666666666667,
+          -57.4
+        ],
+        "sizeStuds": [
+          86,
+          2.1333333333333337,
+          1.42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Broad_entry_stairs6",
+        "positionStuds": [
+          0,
+          2.0444444444444443,
+          -56.0
+        ],
+        "sizeStuds": [
+          86,
+          2.488888888888889,
+          1.42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Broad_entry_stairs7",
+        "positionStuds": [
+          0,
+          2.2222222222222223,
+          -54.6
+        ],
+        "sizeStuds": [
+          86,
+          2.844444444444445,
+          1.42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Broad_entry_stairs8",
+        "positionStuds": [
+          0,
+          2.4,
+          -53.2
+        ],
+        "sizeStuds": [
+          86,
+          3.2,
+          1.42
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Portico_column",
+        "positionStuds": [
+          -34,
+          21.8,
+          -46.5
+        ],
+        "sizeStuds": [
+          4.2,
+          35.6,
+          4.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Portico_column",
+        "positionStuds": [
+          -20.4,
+          21.8,
+          -46.5
+        ],
+        "sizeStuds": [
+          4.2,
+          35.6,
+          4.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Portico_column",
+        "positionStuds": [
+          -6.8,
+          21.8,
+          -46.5
+        ],
+        "sizeStuds": [
+          4.2,
+          35.6,
+          4.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Portico_column",
+        "positionStuds": [
+          6.8,
+          21.8,
+          -46.5
+        ],
+        "sizeStuds": [
+          4.2,
+          35.6,
+          4.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Portico_column",
+        "positionStuds": [
+          20.4,
+          21.8,
+          -46.5
+        ],
+        "sizeStuds": [
+          4.2,
+          35.6,
+          4.2
+        ],
+        "yaw": 0
+      },
+      {
+        "name": "Portico_column",
+        "positionStuds": [
+          34,
+          21.8,
+          -46.5
+        ],
+        "sizeStuds": [
+          4.2,
+          35.6,
+          4.2
+        ],
+        "yaw": 0
+      }
+    ],
+    "nightLightingZones": [
+      "Heavy Doric portico and rosette entablature",
+      "Side and rear pilasters/entrances",
+      "Roof balustrade and broad entry stairs"
+    ],
+    "nightLights": [
+      {
+        "name": "Portico_0",
+        "positionStuds": [
+          -32,
+          3,
+          -65
+        ],
+        "targetStuds": [
+          -32,
+          32,
+          -40
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      },
+      {
+        "name": "Portico_1",
+        "positionStuds": [
+          0,
+          3,
+          -65
+        ],
+        "targetStuds": [
+          0,
+          32,
+          -40
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      },
+      {
+        "name": "Portico_2",
+        "positionStuds": [
+          32,
+          3,
+          -65
+        ],
+        "targetStuds": [
+          32,
+          32,
+          -40
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      },
+      {
+        "name": "Rear_0",
+        "positionStuds": [
+          -39,
+          3,
+          39
+        ],
+        "targetStuds": [
+          -39,
+          30,
+          36
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      },
+      {
+        "name": "Rear_1",
+        "positionStuds": [
+          0,
+          3,
+          39
+        ],
+        "targetStuds": [
+          0,
+          30,
+          36
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      },
+      {
+        "name": "Rear_2",
+        "positionStuds": [
+          39,
+          3,
+          39
+        ],
+        "targetStuds": [
+          39,
+          30,
+          36
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      },
+      {
+        "name": "Side_-1_-14",
+        "positionStuds": [
+          -60,
+          3,
+          -14
+        ],
+        "targetStuds": [
+          -56,
+          30,
+          -14
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      },
+      {
+        "name": "Side_-1_20",
+        "positionStuds": [
+          -60,
+          3,
+          20
+        ],
+        "targetStuds": [
+          -56,
+          30,
+          20
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      },
+      {
+        "name": "Side_1_-14",
+        "positionStuds": [
+          60,
+          3,
+          -14
+        ],
+        "targetStuds": [
+          56,
+          30,
+          -14
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      },
+      {
+        "name": "Side_1_20",
+        "positionStuds": [
+          60,
+          3,
+          20
+        ],
+        "targetStuds": [
+          56,
+          30,
+          20
+        ],
+        "rangeStuds": 60,
+        "brightness": 2,
+        "angleDegrees": 100,
+        "colorRGB": [
+          255,
+          218,
+          167
+        ],
+        "blenderWatts": 22000,
+        "shadows": false
+      }
+    ],
+    "scope": "Exterior landmark only; no Studio integration, full interiors or gameplay"
+  },
+  "originalMetadataPathNote": "Paths inside originalAuthoringMetadata refer to the canonical source folder in the repository; use files above for this portable export package."
+}

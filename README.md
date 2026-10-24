@@ -2,6 +2,8 @@
 
 Git remote: [roblox-gta-india](https://github.com/NoobSambit/roblox-gta-india). See [repository workflow](docs/repository-workflow.md) for source ownership, commits and asset tracking.
 
+The [completed Tier 1 showcase](assets/kolkata/tier1_showcase/README.md) brings all **16 newly rebuilt landmark packages** into one spaced Blender staging scene. [Final export packages](exports/kolkata_tier1_staging/README.md) contain **131 modular FBXs**, shared texture dependencies and an optional reusable Shiva shrine master. Existing source assets and the Studio world are unchanged.
+
 **Tier 1 Batch 4** adds standalone Blender packages for **New Market, Indian Museum and St. Paul's Cathedral**, with modular FBXs, compact grounds, night-light positions and four original views each. See the [asset handoff](assets/kolkata/landmarks_batch4/README.md) and [combined contact sheet](assets/kolkata/landmarks_batch4/contact-sheet.png). These assets are prepared for later Studio integration; no city assembly, gameplay or publication is included.
 
 **Task 008: Victoria Memorial interior art kit** provides 37 reusable Blender
