@@ -1,0 +1,3516 @@
+{
+  "stage": "A: proposed layout for review, not Studio integration",
+  "conversion": {
+    "blender_from_roblox": "(X,-Z,Y)",
+    "roblox_from_blender": "(X,Z,-Y)",
+    "units": "1 neutral Blender unit = 1 Roblox stud",
+    "yaw": "Roblox +Y yaw = Blender +Z rotation",
+    "origin": "Existing world origin retained; no scene offset"
+  },
+  "premium_boundary_xz": [
+    -280,
+    -1100,
+    1920,
+    1100
+  ],
+  "premium_dimensions_studs": [
+    2200,
+    2200
+  ],
+  "district_plots_xz": {
+    "A Colonial Heritage": [
+      -250,
+      -1070,
+      820,
+      -370
+    ],
+    "B Modern Skyline": [
+      820,
+      -1070,
+      1870,
+      -40
+    ],
+    "C Bengali Cultural": [
+      -250,
+      370,
+      820,
+      1070
+    ],
+    "D Commercial Cultural": [
+      820,
+      370,
+      1870,
+      1070
+    ]
+  },
+  "placements": [
+    {
+      "id": "VICTORIA",
+      "district": "Victoria Memorial",
+      "source": "assets/victoria-memorial/VictoriaMemorial.blend",
+      "source_sha256": "de7494ff0b613f1cb937d553686668157f2d05b312fa582e2b5cc3a794a2fe1f",
+      "source_collections": [
+        "VM_Architecture",
+        "VM_Structure_Collision",
+        "VM_Interior",
+        "VM_Grounds",
+        "VM009_NativeArchitecture"
+      ],
+      "position": [
+        820,
+        0,
+        0
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -300.0,
+          -310.0,
+          -14.0
+        ],
+        [
+          300.0,
+          310.0,
+          142.6
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          510.0,
+          -14.0,
+          -300.0
+        ],
+        [
+          1130.0,
+          142.6,
+          300.0
+        ]
+      ],
+      "dimensions_roblox": [
+        620.0,
+        156.6,
+        600.0
+      ],
+      "status": "historical_record_anchor",
+      "linked_mesh_objects": 1028
+    },
+    {
+      "id": "HOWRAH",
+      "district": "Existing World Anchors",
+      "source": "assets/kolkata/howrah_bridge/bridge/KOL_HBR_HOWRAH/KOL_HBR_HOWRAH.blend",
+      "source_sha256": "1a980620da8b472d85fdcdce9934ddb8d4bef51b11c17c1826ec3d51ba5a54d3",
+      "source_collections": [
+        "KOL_HBR_HOWRAH__Geometry.002"
+      ],
+      "position": [
+        -1092,
+        -13.5,
+        -180
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -46.14,
+          -451.0,
+          27.9
+        ],
+        [
+          46.14,
+          451.0,
+          145.3097
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          -1543.0,
+          14.4,
+          -226.14
+        ],
+        [
+          -641.0,
+          131.8097,
+          -133.86
+        ]
+      ],
+      "dimensions_roblox": [
+        902.0,
+        117.4097,
+        92.28
+      ],
+      "status": "historical_record_anchor",
+      "linked_mesh_objects": 91
+    },
+    {
+      "id": "GHAT",
+      "district": "Existing World Anchors",
+      "source": "assets/kolkata/howrah_bridge/ghat/KOL_HBR_GHAT/KOL_HBR_GHAT.blend",
+      "source_sha256": "bb6b20f28c8aaaf4c5f6e5120e4431d09f902c2dd48836e58c7be35438c2baf4",
+      "source_collections": [
+        "KOL_HBR_GHAT__Geometry.005"
+      ],
+      "position": [
+        -620,
+        -13.5,
+        380
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -74.5,
+          -66.0,
+          -1.6
+        ],
+        [
+          74.5,
+          62.0,
+          37.65
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          -682.0,
+          -15.1,
+          305.5
+        ],
+        [
+          -554.0,
+          24.15,
+          454.5
+        ]
+      ],
+      "dimensions_roblox": [
+        128.0,
+        39.25,
+        149.0
+      ],
+      "status": "historical_record_anchor",
+      "linked_mesh_objects": 51
+    },
+    {
+      "id": "KOL_T1_WRITERS",
+      "district": "Colonial Heritage",
+      "source": "assets/kolkata/heritage_batch2/writers/KOL_T1_WRITERS.blend",
+      "source_sha256": "c48fdcf716425c8a59cd4c6e6a2831fda53193179575761f846dea6a55708574",
+      "source_collections": [
+        "KOL_T1_WRITERS__SOURCE.005"
+      ],
+      "position": [
+        100,
+        0,
+        -930
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -163.0,
+          -43.0,
+          -0.2
+        ],
+        [
+          163.0,
+          59.0,
+          85.29
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          -63.0,
+          -0.2,
+          -973.0
+        ],
+        [
+          263.0,
+          85.29,
+          -871.0
+        ]
+      ],
+      "dimensions_roblox": [
+        326.0,
+        85.49,
+        102.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 386,
+      "plot_bounds_xz": [
+        -75.0,
+        -985.0,
+        275.0,
+        -859.0
+      ]
+    },
+    {
+      "id": "KOL_T1_GPO",
+      "district": "Colonial Heritage",
+      "source": "assets/kolkata/heritage_batch2/gpo/KOL_T1_GPO.blend",
+      "source_sha256": "945ec18a4d25df6cc1850a71f27fec1cf56ccb86200a88c526fd00bfc7f6e183",
+      "source_collections": [
+        "KOL_T1_GPO__SOURCE.005"
+      ],
+      "position": [
+        590,
+        0,
+        -930
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -76.25,
+          -79.0,
+          0.0
+        ],
+        [
+          84.0,
+          70.0,
+          99.2
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          506.0,
+          0.0,
+          -1009.0
+        ],
+        [
+          666.25,
+          99.2,
+          -860.0
+        ]
+      ],
+      "dimensions_roblox": [
+        160.25,
+        99.2,
+        149.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 264,
+      "plot_bounds_xz": [
+        494.0,
+        -1021.0,
+        678.25,
+        -848.0
+      ]
+    },
+    {
+      "id": "KOL_T1_TOWN_HALL",
+      "district": "Colonial Heritage",
+      "source": "assets/kolkata/heritage_batch2/town_hall/KOL_T1_TOWN_HALL.blend",
+      "source_sha256": "341c2821e687be3f5cd726429abe6d4dd9c0513da2f166592d3bc95647bce0a0",
+      "source_collections": [
+        "KOL_T1_TOWN_HALL__SOURCE.001"
+      ],
+      "position": [
+        80,
+        0,
+        -530
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -62.0,
+          -40.0,
+          -0.2
+        ],
+        [
+          62.0,
+          70.0,
+          49.55
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          18.0,
+          -0.2,
+          -570.0
+        ],
+        [
+          142.0,
+          49.55,
+          -460.0
+        ]
+      ],
+      "dimensions_roblox": [
+        124.0,
+        49.75,
+        110.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 190,
+      "plot_bounds_xz": [
+        6.0,
+        -582.0,
+        154.0,
+        -448.0
+      ]
+    },
+    {
+      "id": "KOL_T1_METROPOLITAN",
+      "district": "Colonial Heritage",
+      "source": "assets/kolkata/heritage_batch2/metropolitan/KOL_T1_METROPOLITAN.blend",
+      "source_sha256": "d1ce1d1f31ac3099c4eb01be455d4688a82a1ae7f9331ab38a0fc79bb4431637",
+      "source_collections": [
+        "KOL_T1_METROPOLITAN__SOURCE.003"
+      ],
+      "position": [
+        600,
+        0,
+        -540
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -80.0,
+          -53.0,
+          -0.2
+        ],
+        [
+          80.0,
+          63.0,
+          91.4
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          520.0,
+          -0.2,
+          -593.0
+        ],
+        [
+          680.0,
+          91.4,
+          -477.0
+        ]
+      ],
+      "dimensions_roblox": [
+        160.0,
+        91.6,
+        116.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 278,
+      "plot_bounds_xz": [
+        508.0,
+        -605.0,
+        692.0,
+        -465.0
+      ]
+    },
+    {
+      "id": "KOL_T1_ATMOSPHERE",
+      "district": "Modern Skyline",
+      "source": "assets/kolkata/tier1/atmosphere/KOL_T1_ATMOSPHERE.blend",
+      "source_sha256": "0a5c1acf61d7900e450e71ae4566607b6480c9d80ea20709aaf29b1c442d7b8e",
+      "source_collections": [
+        "KOL_T1_ATMOSPHERE__SOURCE"
+      ],
+      "position": [
+        1040,
+        0,
+        -850
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -146.0,
+          -78.0,
+          0.0
+        ],
+        [
+          146.0,
+          78.0,
+          390.2581
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          894.0,
+          0.0,
+          -928.0
+        ],
+        [
+          1186.0,
+          390.2581,
+          -772.0
+        ]
+      ],
+      "dimensions_roblox": [
+        292.0,
+        390.2581,
+        156.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 362,
+      "plot_bounds_xz": [
+        882.0,
+        -940.0,
+        1198.0,
+        -760.0
+      ]
+    },
+    {
+      "id": "KOL_T1_URBANA",
+      "district": "Modern Skyline",
+      "source": "assets/kolkata/tier1/urbana/KOL_T1_URBANA.blend",
+      "source_sha256": "94b157a8055658565e7649d4f97811884b77aa0b61841d148df39b5c5e7738b0",
+      "source_collections": [
+        "KOL_T1_URBANA__SOURCE.003"
+      ],
+      "position": [
+        1550,
+        0,
+        -800
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -208.0,
+          -152.0,
+          -0.75
+        ],
+        [
+          208.0,
+          152.0,
+          378.25
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          1342.0,
+          -0.75,
+          -952.0
+        ],
+        [
+          1758.0,
+          378.25,
+          -648.0
+        ]
+      ],
+      "dimensions_roblox": [
+        416.0,
+        379.0,
+        304.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 334,
+      "plot_bounds_xz": [
+        1330.0,
+        -964.0,
+        1770.0,
+        -636.0
+      ]
+    },
+    {
+      "id": "KOL_T1_JW",
+      "district": "Modern Skyline",
+      "source": "assets/kolkata/tier1/jw/KOL_T1_JW.blend",
+      "source_sha256": "1ac81a683185d2d495ee09cacafe9014229d84f0ed875c0c42ea069f64b1df84",
+      "source_collections": [
+        "KOL_T1_JW__SOURCE.004"
+      ],
+      "position": [
+        1080,
+        0,
+        -570
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -158.0,
+          -118.0,
+          0.0
+        ],
+        [
+          158.0,
+          118.0,
+          251.9
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          922.0,
+          0.0,
+          -688.0
+        ],
+        [
+          1238.0,
+          251.9,
+          -452.0
+        ]
+      ],
+      "dimensions_roblox": [
+        316.0,
+        251.9,
+        236.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 343,
+      "plot_bounds_xz": [
+        910.0,
+        -700.0,
+        1250.0,
+        -440.0
+      ]
+    },
+    {
+      "id": "KOL_T1_TRUMP",
+      "district": "Modern Skyline",
+      "source": "assets/kolkata/tier1/trump/KOL_T1_TRUMP.blend",
+      "source_sha256": "a989c6e1bf51624dcf63290133dc90d74afb7b2407c5bd7b79ba3b869060f760",
+      "source_collections": [
+        "KOL_T1_TRUMP__SOURCE"
+      ],
+      "position": [
+        1400,
+        0,
+        -480
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -71.0,
+          -66.0,
+          0.0
+        ],
+        [
+          71.0,
+          66.0,
+          351.0
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          1329.0,
+          0.0,
+          -546.0
+        ],
+        [
+          1471.0,
+          351.0,
+          -414.0
+        ]
+      ],
+      "dimensions_roblox": [
+        142.0,
+        351.0,
+        132.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 141,
+      "plot_bounds_xz": [
+        1317.0,
+        -558.0,
+        1483.0,
+        -402.0
+      ]
+    },
+    {
+      "id": "KOL_T1_ROYAL",
+      "district": "Modern Skyline",
+      "source": "assets/kolkata/tier1/royal/KOL_T1_ROYAL.blend",
+      "source_sha256": "598fdaaa1fef7c41a618f9e2cad1ac850789cd941bb7fbbbecb02e842fab02d5",
+      "source_collections": [
+        "KOL_T1_ROYAL__SOURCE.003"
+      ],
+      "position": [
+        1370,
+        0,
+        -190
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -120.0,
+          -105.0,
+          0.0
+        ],
+        [
+          120.0,
+          105.0,
+          297.5997
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          1250.0,
+          0.0,
+          -295.0
+        ],
+        [
+          1490.0,
+          297.5997,
+          -85.0
+        ]
+      ],
+      "dimensions_roblox": [
+        240.0,
+        297.5997,
+        210.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 3924,
+      "plot_bounds_xz": [
+        1238.0,
+        -307.0,
+        1502.0,
+        -73.0
+      ]
+    },
+    {
+      "id": "KOL_T1_SONAR",
+      "district": "Modern Skyline",
+      "source": "assets/kolkata/tier1/sonar/KOL_T1_SONAR.blend",
+      "source_sha256": "5d66e56e1bc146dcea23b4e8066dfaca4e6706dcc194b1b77e007761b042cc1f",
+      "source_collections": [
+        "KOL_T1_SONAR__SOURCE.003"
+      ],
+      "position": [
+        1660,
+        0,
+        -190
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -129.0,
+          -114.0,
+          0.0
+        ],
+        [
+          129.0,
+          114.0,
+          81.9
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          1531.0,
+          0.0,
+          -304.0
+        ],
+        [
+          1789.0,
+          81.9,
+          -76.0
+        ]
+      ],
+      "dimensions_roblox": [
+        258.0,
+        81.9,
+        228.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 115,
+      "plot_bounds_xz": [
+        1519.0,
+        -316.0,
+        1801.0,
+        -64.0
+      ]
+    },
+    {
+      "id": "KOL_T1_RAJBARI",
+      "district": "Bengali Cultural District",
+      "source": "assets/kolkata/cultural_batch/rajbari/KOL_T1_RAJBARI.blend",
+      "source_sha256": "a78d6a1a99a86210381d4b6d1a3caf2cadc417c512e9d4f473a99766d817e1b7",
+      "source_collections": [
+        "KOL_T1_RAJBARI__SOURCE.009"
+      ],
+      "position": [
+        70,
+        0,
+        620
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -101.0,
+          -110.0,
+          -0.4
+        ],
+        [
+          101.0,
+          110.0,
+          65.6
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          -31.0,
+          -0.4,
+          510.0
+        ],
+        [
+          171.0,
+          65.6,
+          730.0
+        ]
+      ],
+      "dimensions_roblox": [
+        202.0,
+        66.0,
+        220.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 704,
+      "plot_bounds_xz": [
+        -43.0,
+        498.0,
+        183.0,
+        742.0
+      ]
+    },
+    {
+      "id": "KOL_T1_JORASANKO",
+      "district": "Bengali Cultural District",
+      "source": "assets/kolkata/cultural_batch/jorasanko/KOL_T1_JORASANKO.blend",
+      "source_sha256": "cfd4a3a707d7dfbd51aab4a863251bd39b660402ba30918af74dfac6b33e89ca",
+      "source_collections": [
+        "KOL_T1_JORASANKO__SOURCE.007"
+      ],
+      "position": [
+        590,
+        0,
+        780
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -98.0,
+          -141.0,
+          -0.4
+        ],
+        [
+          98.0,
+          141.0,
+          51.5
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          492.0,
+          -0.4,
+          639.0
+        ],
+        [
+          688.0,
+          51.5,
+          921.0
+        ]
+      ],
+      "dimensions_roblox": [
+        196.0,
+        51.9,
+        282.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 1223,
+      "plot_bounds_xz": [
+        480.0,
+        627.0,
+        700.0,
+        933.0
+      ]
+    },
+    {
+      "id": "KOL_T1_INDIAN_MUSEUM",
+      "district": "Commercial Cultural District",
+      "source": "assets/kolkata/landmarks_batch4/indian_museum/KOL_T1_INDIAN_MUSEUM.blend",
+      "source_sha256": "57c7acbabbc6ca73a3f11c2e55fe2048977ea21776c9d657f2acd7ebb1c3816c",
+      "source_collections": [
+        "KOL_T1_INDIAN_MUSEUM__SOURCE"
+      ],
+      "position": [
+        1400,
+        0,
+        570
+      ],
+      "yaw_degrees": 180,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -141.0,
+          -109.0,
+          -1.0
+        ],
+        [
+          141.0,
+          109.0,
+          63.475
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          1259.0,
+          -1.0,
+          461.0
+        ],
+        [
+          1541.0,
+          63.475,
+          679.0
+        ]
+      ],
+      "dimensions_roblox": [
+        282.0,
+        64.475,
+        218.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 440,
+      "plot_bounds_xz": [
+        1247.0,
+        449.0,
+        1553.0,
+        691.0
+      ]
+    },
+    {
+      "id": "KOL_T1_NEW_MARKET",
+      "district": "Commercial Cultural District",
+      "source": "assets/kolkata/landmarks_batch4/new_market/KOL_T1_NEW_MARKET.blend",
+      "source_sha256": "2cdda956880e66615abb8ce11f761868f39a3eeb1117ca459afbc7916b2a3066",
+      "source_collections": [
+        "KOL_T1_NEW_MARKET__SOURCE"
+      ],
+      "position": [
+        1400,
+        0,
+        930
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -155.0,
+          -92.0,
+          -1.0
+        ],
+        [
+          155.0,
+          92.0,
+          96.0
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          1245.0,
+          -1.0,
+          838.0
+        ],
+        [
+          1555.0,
+          96.0,
+          1022.0
+        ]
+      ],
+      "dimensions_roblox": [
+        310.0,
+        97.0,
+        184.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 261,
+      "plot_bounds_xz": [
+        1233.0,
+        826.0,
+        1567.0,
+        1034.0
+      ]
+    },
+    {
+      "id": "KOL_T1_ST_PAULS",
+      "district": "Commercial Cultural District",
+      "source": "assets/kolkata/landmarks_batch4/st_pauls/KOL_T1_ST_PAULS.blend",
+      "source_sha256": "32b1513c408177df909e460653d9775896ba14db8a60da402accef1c11e0646f",
+      "source_collections": [
+        "KOL_T1_ST_PAULS__SOURCE"
+      ],
+      "position": [
+        1730,
+        0,
+        600
+      ],
+      "yaw_degrees": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -78.0,
+          -126.0,
+          -1.0
+        ],
+        [
+          78.0,
+          126.0,
+          113.1
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          1652.0,
+          -1.0,
+          474.0
+        ],
+        [
+          1808.0,
+          113.1,
+          726.0
+        ]
+      ],
+      "dimensions_roblox": [
+        156.0,
+        114.1,
+        252.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 302,
+      "plot_bounds_xz": [
+        1640.0,
+        462.0,
+        1820.0,
+        738.0
+      ]
+    },
+    {
+      "id": "KOL_T1_DAKSHINESHWAR",
+      "district": "Dakshineshwar Riverfront",
+      "source": "assets/kolkata/dakshineshwar/KOL_T1_DAKSHINESHWAR.blend",
+      "source_sha256": "bc4563b8bec00881c92f20880d55dd45d46c2b978b577b7f1e37a2593ae97048",
+      "source_collections": [
+        "KOL_T1_DAKSHINESHWAR__SOURCE.002"
+      ],
+      "position": [
+        -542,
+        -8.5,
+        -910
+      ],
+      "yaw_degrees": 90,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "source_bounds_blender": [
+        [
+          -209.0,
+          -86.0,
+          -10.6
+        ],
+        [
+          209.0,
+          133.8531,
+          149.0
+        ]
+      ],
+      "world_bounds_roblox": [
+        [
+          -675.8531,
+          -19.1,
+          -1119.0
+        ],
+        [
+          -456.0,
+          140.5,
+          -701.0
+        ]
+      ],
+      "dimensions_roblox": [
+        219.8531,
+        159.6,
+        418.0
+      ],
+      "status": "stage_a_proposal",
+      "linked_mesh_objects": 294
+    }
+  ],
+  "roads": [
+    {
+      "id": "R01_North_Boulevard",
+      "points_xz": [
+        [
+          -400,
+          -1070
+        ],
+        [
+          1870,
+          -1070
+        ]
+      ],
+      "width": 40,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R02_South_Boulevard",
+      "points_xz": [
+        [
+          -500,
+          1070
+        ],
+        [
+          1870,
+          1070
+        ]
+      ],
+      "width": 40,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R03_West_Perimeter",
+      "points_xz": [
+        [
+          -230,
+          -1070
+        ],
+        [
+          -230,
+          1070
+        ]
+      ],
+      "width": 36,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R04_East_Perimeter",
+      "points_xz": [
+        [
+          1870,
+          -1070
+        ],
+        [
+          1870,
+          1070
+        ]
+      ],
+      "width": 76,
+      "sidewalk": 10,
+      "median": 36
+    },
+    {
+      "id": "R05_Heritage_Metro_Boulevard",
+      "points_xz": [
+        [
+          -500,
+          -370
+        ],
+        [
+          2020,
+          -370
+        ]
+      ],
+      "width": 48,
+      "sidewalk": 10,
+      "median": 8
+    },
+    {
+      "id": "R06_South_Prestige_Boulevard",
+      "points_xz": [
+        [
+          -500,
+          370
+        ],
+        [
+          1870,
+          370
+        ]
+      ],
+      "width": 40,
+      "sidewalk": 12,
+      "median": 0
+    },
+    {
+      "id": "R07_Victoria_West",
+      "points_xz": [
+        [
+          450,
+          -370
+        ],
+        [
+          450,
+          370
+        ]
+      ],
+      "width": 36,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R08_Victoria_East",
+      "points_xz": [
+        [
+          1190,
+          -370
+        ],
+        [
+          1190,
+          370
+        ]
+      ],
+      "width": 36,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R09_North_Meridian",
+      "points_xz": [
+        [
+          820,
+          -1070
+        ],
+        [
+          820,
+          -370
+        ]
+      ],
+      "width": 32,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R10_South_Meridian",
+      "points_xz": [
+        [
+          820,
+          370
+        ],
+        [
+          820,
+          1070
+        ]
+      ],
+      "width": 32,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R11_Civic_Avenue",
+      "points_xz": [
+        [
+          -230,
+          -720
+        ],
+        [
+          820,
+          -720
+        ]
+      ],
+      "width": 28,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R12_Civic_Cross",
+      "points_xz": [
+        [
+          370,
+          -1070
+        ],
+        [
+          370,
+          -370
+        ]
+      ],
+      "width": 24,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R13_Skyline_Access",
+      "points_xz": [
+        [
+          1280,
+          -1070
+        ],
+        [
+          1280,
+          -370
+        ]
+      ],
+      "width": 28,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R14_Skyline_Cross",
+      "points_xz": [
+        [
+          820,
+          -730
+        ],
+        [
+          1280,
+          -730
+        ]
+      ],
+      "width": 24,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R15_Hotel_Arrival",
+      "points_xz": [
+        [
+          1190,
+          -40
+        ],
+        [
+          1870,
+          -40
+        ]
+      ],
+      "width": 24,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R16_Cultural_Avenue",
+      "points_xz": [
+        [
+          -230,
+          820
+        ],
+        [
+          370,
+          820
+        ]
+      ],
+      "width": 24,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R17_Cultural_Cross",
+      "points_xz": [
+        [
+          370,
+          370
+        ],
+        [
+          370,
+          1070
+        ]
+      ],
+      "width": 24,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R18_Jorasanko_Access",
+      "points_xz": [
+        [
+          370,
+          560
+        ],
+        [
+          820,
+          560
+        ]
+      ],
+      "width": 24,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R19_Market_Museum_Street",
+      "points_xz": [
+        [
+          820,
+          780
+        ],
+        [
+          1610,
+          780
+        ]
+      ],
+      "width": 28,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R20_Cathedral_Avenue",
+      "points_xz": [
+        [
+          1610,
+          370
+        ],
+        [
+          1610,
+          1070
+        ]
+      ],
+      "width": 24,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R21_River_Drive",
+      "points_xz": [
+        [
+          -500,
+          -600
+        ],
+        [
+          -500,
+          1070
+        ]
+      ],
+      "width": 32,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R22_Dakshineshwar_Drive",
+      "points_xz": [
+        [
+          -400,
+          -1230
+        ],
+        [
+          -400,
+          -700
+        ],
+        [
+          -500,
+          -600
+        ]
+      ],
+      "width": 32,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R23_North_River_Link",
+      "points_xz": [
+        [
+          -500,
+          -600
+        ],
+        [
+          -230,
+          -600
+        ]
+      ],
+      "width": 24,
+      "sidewalk": 10,
+      "median": 0
+    },
+    {
+      "id": "R24_Existing_Victoria_Connector",
+      "points_xz": [
+        [
+          -500,
+          0
+        ],
+        [
+          450,
+          0
+        ]
+      ],
+      "width": 40,
+      "sidewalk": 12,
+      "median": 0
+    },
+    {
+      "id": "R25_West_Bridge_Expansion",
+      "points_xz": [
+        [
+          -2020,
+          -180
+        ],
+        [
+          -1940,
+          -180
+        ]
+      ],
+      "width": 60,
+      "sidewalk": 10,
+      "median": 0
+    }
+  ],
+  "metro": {
+    "id": "KOL_METRO_01",
+    "points": [
+      [
+        -120,
+        60,
+        -370
+      ],
+      [
+        2020,
+        60,
+        -370
+      ]
+    ],
+    "rail_top": 60,
+    "deck_top": 58,
+    "deck_bottom": 54,
+    "deck_width": 24,
+    "train_envelope_height": 14,
+    "track_centres_offset": 7,
+    "normal_support_spacing": 60,
+    "special_crossing_span": 104,
+    "stations": [
+      {
+        "id": "M01",
+        "name": "Heritage",
+        "position": [
+          100,
+          0,
+          -370
+        ],
+        "length": 170,
+        "width": 46
+      },
+      {
+        "id": "M02",
+        "name": "Victoria Connector",
+        "position": [
+          820,
+          0,
+          -370
+        ],
+        "length": 180,
+        "width": 46
+      },
+      {
+        "id": "M03",
+        "name": "Skyline",
+        "position": [
+          1640,
+          0,
+          -370
+        ],
+        "length": 170,
+        "width": 46
+      }
+    ]
+  },
+  "water": {
+    "datum_y": -13.5,
+    "historical_bounds_xz": [
+      -1560,
+      -830,
+      -628,
+      750
+    ],
+    "proposed_visual_bounds_xz": [
+      -1560,
+      -1280,
+      -628,
+      1180
+    ],
+    "note": "Planning water proxy only. Native Terrain remains authoritative at integration."
+  },
+  "assumptions": [
+    "Fixed anchor transforms come from Task002/006/009 records, not a live Studio survey in Task014.",
+    "Historical districts and Tier3 within the proposed premium boundary require a preservation/relocation decision during integration. No live content changed.",
+    "No old Tier2 landmarks are linked. Existing external Tier3 context may remain outside the boundary.",
+    "Dakshineshwar Y=-8.5 aligns its local -5 water datum to world -13.5; paving is -7.7, with a separate descending approach.",
+    "Bridge-entry flyover supersedes the old short east approach only in this proposal. The bridge itself is untouched.",
+    "Station architecture is a shell/reservation only in Stage A; Tier2 detailing belongs to Stage B."
+  ],
+  "external_legacy_context": [
+    {
+      "id": "KOL_NORTHKOLKATA_006",
+      "asset_id": "KOL_T3_OLD_01",
+      "position": [
+        -440,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_01/KOL_T3_OLD_01.blend"
+    },
+    {
+      "id": "KOL_NORTHKOLKATA_007",
+      "asset_id": "KOL_T3_OLD_02",
+      "position": [
+        -392,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_02/KOL_T3_OLD_02.blend"
+    },
+    {
+      "id": "KOL_NORTHKOLKATA_008",
+      "asset_id": "KOL_T3_OLD_03",
+      "position": [
+        -344,
+        0,
+        -450
+      ],
+      "yaw": 180,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_03/KOL_T3_OLD_03.blend"
+    },
+    {
+      "id": "KOL_NORTHKOLKATA_016",
+      "asset_id": "KOL_T3_OLD_01",
+      "position": [
+        -440,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_01/KOL_T3_OLD_01.blend"
+    },
+    {
+      "id": "KOL_NORTHKOLKATA_017",
+      "asset_id": "KOL_T3_OLD_02",
+      "position": [
+        -392,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_02/KOL_T3_OLD_02.blend"
+    },
+    {
+      "id": "KOL_NORTHKOLKATA_018",
+      "asset_id": "KOL_T3_OLD_03",
+      "position": [
+        -344,
+        0,
+        -510
+      ],
+      "yaw": 0,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_03/KOL_T3_OLD_03.blend"
+    },
+    {
+      "id": "KOL_NORTHKOLKATA_026",
+      "asset_id": "KOL_T3_OLD_01",
+      "position": [
+        -440,
+        0,
+        -600
+      ],
+      "yaw": 180,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_01/KOL_T3_OLD_01.blend"
+    },
+    {
+      "id": "KOL_NORTHKOLKATA_027",
+      "asset_id": "KOL_T3_OLD_02",
+      "position": [
+        -386,
+        0,
+        -600
+      ],
+      "yaw": 180,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_02/KOL_T3_OLD_02.blend"
+    },
+    {
+      "id": "KOL_NORTHKOLKATA_028",
+      "asset_id": "KOL_T3_OLD_03",
+      "position": [
+        -338,
+        0,
+        -600
+      ],
+      "yaw": 180,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_03/KOL_T3_OLD_03.blend"
+    },
+    {
+      "id": "KOL_INFORMALRESIDENTIAL_080",
+      "asset_id": "KOL_T3_INF_01",
+      "position": [
+        -430,
+        0,
+        555
+      ],
+      "yaw": 180,
+      "source": "assets/kolkata/tier3/informal/KOL_T3_INF_01/KOL_T3_INF_01.blend"
+    },
+    {
+      "id": "KOL_INFORMALRESIDENTIAL_081",
+      "asset_id": "KOL_T3_INF_02",
+      "position": [
+        -395,
+        0,
+        555
+      ],
+      "yaw": 180,
+      "source": "assets/kolkata/tier3/informal/KOL_T3_INF_02/KOL_T3_INF_02.blend"
+    },
+    {
+      "id": "KOL_INFORMALRESIDENTIAL_082",
+      "asset_id": "KOL_T3_INF_03",
+      "position": [
+        -360,
+        0,
+        555
+      ],
+      "yaw": 180,
+      "source": "assets/kolkata/tier3/informal/KOL_T3_INF_03/KOL_T3_INF_03.blend"
+    },
+    {
+      "id": "KOL_INFORMALRESIDENTIAL_083",
+      "asset_id": "KOL_T3_INF_01",
+      "position": [
+        -430,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "source": "assets/kolkata/tier3/informal/KOL_T3_INF_01/KOL_T3_INF_01.blend"
+    },
+    {
+      "id": "KOL_INFORMALRESIDENTIAL_084",
+      "asset_id": "KOL_T3_INF_02",
+      "position": [
+        -395,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "source": "assets/kolkata/tier3/informal/KOL_T3_INF_02/KOL_T3_INF_02.blend"
+    },
+    {
+      "id": "KOL_INFORMALRESIDENTIAL_085",
+      "asset_id": "KOL_T3_INF_03",
+      "position": [
+        -360,
+        0,
+        610
+      ],
+      "yaw": 0,
+      "source": "assets/kolkata/tier3/informal/KOL_T3_INF_03/KOL_T3_INF_03.blend"
+    },
+    {
+      "id": "KOL_NORTHKOLKATA_091",
+      "asset_id": "KOL_T3_OLD_02",
+      "position": [
+        -338,
+        0,
+        -629
+      ],
+      "yaw": -90,
+      "source": "assets/kolkata/tier3/old_kolkata/KOL_T3_OLD_02/KOL_T3_OLD_02.blend"
+    }
+  ],
+  "flyovers": [
+    {
+      "id": "F01",
+      "name": "Bridge entry connector",
+      "points": [
+        [
+          -644.0,
+          18.5,
+          -180
+        ],
+        [
+          -632.0,
+          18.59370397770506,
+          -180
+        ],
+        [
+          -620.0,
+          18.868430139592792,
+          -180
+        ],
+        [
+          -608.0,
+          19.305456351736993,
+          -180
+        ],
+        [
+          -596.0,
+          19.875,
+          -180
+        ],
+        [
+          -584.0,
+          20.53824762596807,
+          -180
+        ],
+        [
+          -572.0,
+          21.25,
+          -180
+        ],
+        [
+          -560.0,
+          21.96175237403193,
+          -180
+        ],
+        [
+          -548.0,
+          22.625,
+          -180
+        ],
+        [
+          -536.0,
+          23.194543648263007,
+          -180
+        ],
+        [
+          -524.0,
+          23.631569860407204,
+          -180
+        ],
+        [
+          -512.0,
+          23.90629602229494,
+          -180
+        ],
+        [
+          -500.0,
+          24,
+          -180
+        ],
+        [
+          -488.0,
+          24,
+          -180
+        ],
+        [
+          -476.0,
+          24,
+          -180
+        ],
+        [
+          -464.0,
+          24,
+          -180
+        ],
+        [
+          -452.0,
+          24,
+          -180
+        ],
+        [
+          -440.0,
+          24,
+          -180
+        ],
+        [
+          -428.0,
+          24,
+          -180
+        ],
+        [
+          -416.0,
+          24,
+          -180
+        ],
+        [
+          -404.0,
+          24,
+          -180
+        ],
+        [
+          -392.0,
+          24,
+          -180
+        ],
+        [
+          -380.0,
+          24,
+          -180
+        ],
+        [
+          -368.0,
+          24,
+          -180
+        ],
+        [
+          -356.0,
+          24,
+          -180
+        ],
+        [
+          -344.0,
+          24,
+          -180
+        ],
+        [
+          -332.0,
+          24,
+          -180
+        ],
+        [
+          -320.0,
+          24,
+          -180
+        ],
+        [
+          -308.0,
+          24,
+          -180
+        ],
+        [
+          -296.0,
+          24,
+          -180
+        ],
+        [
+          -284.0,
+          24,
+          -180
+        ],
+        [
+          -272.0,
+          24,
+          -180
+        ],
+        [
+          -260.0,
+          24,
+          -180
+        ],
+        [
+          -248.0,
+          24,
+          -180
+        ],
+        [
+          -236.0,
+          24,
+          -180
+        ],
+        [
+          -224.0,
+          24,
+          -180
+        ],
+        [
+          -212.0,
+          24,
+          -180
+        ],
+        [
+          -200.0,
+          24,
+          -180
+        ],
+        [
+          -188.0,
+          24,
+          -180
+        ],
+        [
+          -176.0,
+          24,
+          -180
+        ],
+        [
+          -164.0,
+          24,
+          -180
+        ],
+        [
+          -152.0,
+          24,
+          -180
+        ],
+        [
+          -140.0,
+          24,
+          -180
+        ],
+        [
+          -128.0,
+          24,
+          -180
+        ],
+        [
+          -116.0,
+          24,
+          -180
+        ],
+        [
+          -104.0,
+          24,
+          -180
+        ],
+        [
+          -92.0,
+          24,
+          -180
+        ],
+        [
+          -80.0,
+          24,
+          -180
+        ],
+        [
+          -68.0,
+          24,
+          -180
+        ],
+        [
+          -56.0,
+          24,
+          -180
+        ],
+        [
+          -44.0,
+          24,
+          -180
+        ],
+        [
+          -32.0,
+          24,
+          -180
+        ],
+        [
+          -20.0,
+          24,
+          -180
+        ],
+        [
+          -8.0,
+          23.963008004797537,
+          -180
+        ],
+        [
+          4.0,
+          23.85226008714165,
+          -180
+        ],
+        [
+          16.0,
+          23.668439044772118,
+          -180
+        ],
+        [
+          28.0,
+          23.412678195541844,
+          -180
+        ],
+        [
+          40.0,
+          23.08655439013544,
+          -180
+        ],
+        [
+          52.0,
+          22.69207829026041,
+          -180
+        ],
+        [
+          64.0,
+          22.231681972249106,
+          -180
+        ],
+        [
+          76.0,
+          21.70820393249937,
+          -180
+        ],
+        [
+          88.0,
+          21.124871587200374,
+          -180
+        ],
+        [
+          100.0,
+          20.48528137423857,
+          -180
+        ],
+        [
+          112.0,
+          19.793376579962203,
+          -180
+        ],
+        [
+          124.0,
+          19.053423027509677,
+          -180
+        ],
+        [
+          136.0,
+          18.269982776591384,
+          -180
+        ],
+        [
+          148.0,
+          17.44788599687456,
+          -180
+        ],
+        [
+          160.0,
+          16.59220118838108,
+          -180
+        ],
+        [
+          172.0,
+          15.70820393249937,
+          -180
+        ],
+        [
+          184.0,
+          14.801344366270866,
+          -180
+        ],
+        [
+          196.0,
+          13.87721358048277,
+          -180
+        ],
+        [
+          208.0,
+          12.941509148734141,
+          -180
+        ],
+        [
+          220.0,
+          12.000000000000004,
+          -180
+        ],
+        [
+          232.0,
+          11.058490851265862,
+          -180
+        ],
+        [
+          244.0,
+          10.12278641951723,
+          -180
+        ],
+        [
+          256.0,
+          9.198655633729135,
+          -180
+        ],
+        [
+          268.0,
+          8.291796067500632,
+          -180
+        ],
+        [
+          280.0,
+          7.407798811618923,
+          -180
+        ],
+        [
+          292.0,
+          6.552114003125439,
+          -180
+        ],
+        [
+          304.0,
+          5.730017223408614,
+          -180
+        ],
+        [
+          316.0,
+          4.946576972490323,
+          -180
+        ],
+        [
+          328.0,
+          4.206623420037797,
+          -180
+        ],
+        [
+          340.0,
+          3.5147186257614305,
+          -180
+        ],
+        [
+          352.0,
+          2.875128412799629,
+          -180
+        ],
+        [
+          364.0,
+          2.291796067500632,
+          -180
+        ],
+        [
+          376.0,
+          1.7683180277508939,
+          -180
+        ],
+        [
+          388.0,
+          1.3079217097395865,
+          -180
+        ],
+        [
+          400.0,
+          0.9134456098645591,
+          -180
+        ],
+        [
+          412.0,
+          0.5873218044581576,
+          -180
+        ],
+        [
+          424.0,
+          0.3315609552278813,
+          -180
+        ],
+        [
+          436.0,
+          0.1477399128583481,
+          -180
+        ],
+        [
+          448.0,
+          0.036991995202464434,
+          -180
+        ],
+        [
+          460.0,
+          0.0,
+          -180
+        ]
+      ],
+      "width": 60,
+      "end_width": 32,
+      "taper_length": 244,
+      "depth": 4,
+      "pillars": [
+        [
+          -600,
+          15.875,
+          -180
+        ],
+        [
+          -540,
+          19.194543648263007,
+          -180
+        ],
+        [
+          -460,
+          20,
+          -180
+        ],
+        [
+          -400,
+          20,
+          -180
+        ],
+        [
+          -340,
+          20,
+          -180
+        ],
+        [
+          -280,
+          20,
+          -180
+        ],
+        [
+          -270,
+          20,
+          -180
+        ],
+        [
+          -190,
+          20,
+          -180
+        ],
+        [
+          -130,
+          20,
+          -180
+        ],
+        [
+          -70,
+          20,
+          -180
+        ],
+        [
+          -10,
+          19.963008004797537,
+          -180
+        ],
+        [
+          50,
+          18.69207829026041,
+          -180
+        ],
+        [
+          110,
+          15.793376579962203,
+          -180
+        ],
+        [
+          170,
+          11.70820393249937,
+          -180
+        ],
+        [
+          230,
+          7.058490851265862,
+          -180
+        ],
+        [
+          290,
+          2.552114003125439,
+          -180
+        ],
+        [
+          350,
+          -1.1248715872003712,
+          -180
+        ]
+      ],
+      "max_grade_percent": 7.85,
+      "note": "Exact bridge east road socket X=-644,Y=18.5,Z=-180; new bank ramps replace old east approach in proposal only."
+    },
+    {
+      "id": "F02",
+      "name": "Skyline eastern bypass",
+      "points": [
+        [
+          1870,
+          0.0,
+          -1070.0
+        ],
+        [
+          1870,
+          0.06046268489292983,
+          -1054.0298507462687
+        ],
+        [
+          1870,
+          0.2412883186079572,
+          -1038.0597014925372
+        ],
+        [
+          1870,
+          0.5407948698663296,
+          -1022.0895522388059
+        ],
+        [
+          1870,
+          0.9561963432477246,
+          -1006.1194029850747
+        ],
+        [
+          1870,
+          1.4836286943845862,
+          -990.1492537313433
+        ],
+        [
+          1870,
+          2.118185773115509,
+          -974.179104477612
+        ],
+        [
+          1870,
+          2.8539649602562074,
+          -958.2089552238806
+        ],
+        [
+          1870,
+          3.6841220734770004,
+          -942.2388059701493
+        ],
+        [
+          1870,
+          4.6009350315550845,
+          -926.2686567164179
+        ],
+        [
+          1870,
+          5.595875684799683,
+          -910.2985074626865
+        ],
+        [
+          1870,
+          6.659689143487048,
+          -894.3283582089553
+        ],
+        [
+          1870,
+          7.7824798663960495,
+          -878.3582089552239
+        ],
+        [
+          1870,
+          8.953803708652828,
+          -862.3880597014926
+        ],
+        [
+          1870,
+          10.162765072660179,
+          -846.4179104477612
+        ],
+        [
+          1870,
+          11.39811825841813,
+          -830.4477611940299
+        ],
+        [
+          1870,
+          12.648372070480244,
+          -814.4776119402985
+        ],
+        [
+          1870,
+          13.901896708496528,
+          -798.5074626865671
+        ],
+        [
+          1870,
+          15.147031947052525,
+          -782.5373134328358
+        ],
+        [
+          1870,
+          16.37219559852089,
+          -766.5671641791045
+        ],
+        [
+          1870,
+          17.565991250009144,
+          -750.5970149253731
+        ],
+        [
+          1870,
+          18.71731427223998,
+          -734.6268656716418
+        ],
+        [
+          1870,
+          19.815455114274464,
+          -718.6567164179105
+        ],
+        [
+          1870,
+          20.85019892323568,
+          -702.6865671641791
+        ],
+        [
+          1870,
+          21.811920562374986,
+          -686.7164179104477
+        ],
+        [
+          1870,
+          22.691674143627456,
+          -670.7462686567164
+        ],
+        [
+          1870,
+          23.48127624182898,
+          -654.7761194029852
+        ],
+        [
+          1870,
+          24.173382016540447,
+          -638.8059701492537
+        ],
+        [
+          1870,
+          24.761553533397386,
+          -622.8358208955224
+        ],
+        [
+          1870,
+          25.240319649463373,
+          -606.8656716417911
+        ],
+        [
+          1870,
+          25.605226905536405,
+          -590.8955223880597
+        ],
+        [
+          1870,
+          25.852880952010466,
+          -574.9253731343283
+        ],
+        [
+          1870,
+          25.980978122951022,
+          -558.955223880597
+        ],
+        [
+          1870,
+          26,
+          -542.9850746268656
+        ],
+        [
+          1870,
+          26,
+          -527.0149253731344
+        ],
+        [
+          1870,
+          26,
+          -511.04477611940297
+        ],
+        [
+          1870,
+          26,
+          -495.0746268656717
+        ],
+        [
+          1870,
+          26,
+          -479.1044776119403
+        ],
+        [
+          1870,
+          26,
+          -463.1343283582089
+        ],
+        [
+          1870,
+          26,
+          -447.1641791044776
+        ],
+        [
+          1870,
+          26,
+          -431.19402985074623
+        ],
+        [
+          1870,
+          26,
+          -415.22388059701495
+        ],
+        [
+          1870,
+          26,
+          -399.25373134328356
+        ],
+        [
+          1870,
+          26,
+          -383.2835820895523
+        ],
+        [
+          1870,
+          26,
+          -367.3134328358209
+        ],
+        [
+          1870,
+          26,
+          -351.3432835820895
+        ],
+        [
+          1870,
+          26,
+          -335.3731343283582
+        ],
+        [
+          1870,
+          26,
+          -319.4029850746268
+        ],
+        [
+          1870,
+          26,
+          -303.43283582089555
+        ],
+        [
+          1870,
+          26,
+          -287.46268656716416
+        ],
+        [
+          1870,
+          26,
+          -271.4925373134329
+        ],
+        [
+          1870,
+          26,
+          -255.52238805970148
+        ],
+        [
+          1870,
+          26,
+          -239.5522388059702
+        ],
+        [
+          1870,
+          26,
+          -223.5820895522388
+        ],
+        [
+          1870,
+          26,
+          -207.61194029850742
+        ],
+        [
+          1870,
+          26,
+          -191.64179104477614
+        ],
+        [
+          1870,
+          26,
+          -175.67164179104475
+        ],
+        [
+          1870,
+          26,
+          -159.70149253731347
+        ],
+        [
+          1870,
+          26,
+          -143.73134328358208
+        ],
+        [
+          1870,
+          26,
+          -127.7611940298508
+        ],
+        [
+          1870,
+          26,
+          -111.7910447761194
+        ],
+        [
+          1870,
+          26,
+          -95.82089552238801
+        ],
+        [
+          1870,
+          26,
+          -79.85074626865674
+        ],
+        [
+          1870,
+          26,
+          -63.88059701492534
+        ],
+        [
+          1870,
+          26,
+          -47.910447761194064
+        ],
+        [
+          1870,
+          26,
+          -31.940298507462785
+        ],
+        [
+          1870,
+          26,
+          -15.970149253731279
+        ],
+        [
+          1870,
+          26,
+          0.0
+        ],
+        [
+          1870,
+          26,
+          15.970149253731279
+        ],
+        [
+          1870,
+          26,
+          31.940298507462785
+        ],
+        [
+          1870,
+          26,
+          47.910447761194064
+        ],
+        [
+          1870,
+          26,
+          63.88059701492534
+        ],
+        [
+          1870,
+          26,
+          79.85074626865662
+        ],
+        [
+          1870,
+          26,
+          95.82089552238813
+        ],
+        [
+          1870,
+          26,
+          111.7910447761194
+        ],
+        [
+          1870,
+          26,
+          127.76119402985069
+        ],
+        [
+          1870,
+          26,
+          143.7313432835822
+        ],
+        [
+          1870,
+          26,
+          159.70149253731347
+        ],
+        [
+          1870,
+          26,
+          175.67164179104475
+        ],
+        [
+          1870,
+          26,
+          191.64179104477603
+        ],
+        [
+          1870,
+          26,
+          207.61194029850753
+        ],
+        [
+          1870,
+          26,
+          223.5820895522388
+        ],
+        [
+          1870,
+          26,
+          239.5522388059701
+        ],
+        [
+          1870,
+          26,
+          255.5223880597016
+        ],
+        [
+          1870,
+          26,
+          271.4925373134329
+        ],
+        [
+          1870,
+          26,
+          287.46268656716416
+        ],
+        [
+          1870,
+          26,
+          303.43283582089543
+        ],
+        [
+          1870,
+          26,
+          319.40298507462694
+        ],
+        [
+          1870,
+          26,
+          335.3731343283582
+        ],
+        [
+          1870,
+          26,
+          351.3432835820895
+        ],
+        [
+          1870,
+          26,
+          367.313432835821
+        ],
+        [
+          1870,
+          26,
+          383.2835820895523
+        ],
+        [
+          1870,
+          26,
+          399.25373134328356
+        ],
+        [
+          1870,
+          26,
+          415.22388059701484
+        ],
+        [
+          1870,
+          26,
+          431.19402985074635
+        ],
+        [
+          1870,
+          26,
+          447.1641791044776
+        ],
+        [
+          1870,
+          26,
+          463.1343283582089
+        ],
+        [
+          1870,
+          26,
+          479.1044776119404
+        ],
+        [
+          1870,
+          26,
+          495.0746268656717
+        ],
+        [
+          1870,
+          26,
+          511.04477611940297
+        ],
+        [
+          1870,
+          26,
+          527.0149253731342
+        ],
+        [
+          1870,
+          26,
+          542.9850746268658
+        ],
+        [
+          1870,
+          25.980978122951022,
+          558.955223880597
+        ],
+        [
+          1870,
+          25.852880952010466,
+          574.9253731343283
+        ],
+        [
+          1870,
+          25.605226905536412,
+          590.8955223880596
+        ],
+        [
+          1870,
+          25.240319649463373,
+          606.8656716417911
+        ],
+        [
+          1870,
+          24.761553533397386,
+          622.8358208955224
+        ],
+        [
+          1870,
+          24.173382016540454,
+          638.8059701492537
+        ],
+        [
+          1870,
+          23.481276241828983,
+          654.7761194029852
+        ],
+        [
+          1870,
+          22.691674143627456,
+          670.7462686567164
+        ],
+        [
+          1870,
+          21.81192056237499,
+          686.7164179104477
+        ],
+        [
+          1870,
+          20.85019892323569,
+          702.686567164179
+        ],
+        [
+          1870,
+          19.815455114274467,
+          718.6567164179105
+        ],
+        [
+          1870,
+          18.717314272239985,
+          734.6268656716418
+        ],
+        [
+          1870,
+          17.565991250009148,
+          750.5970149253731
+        ],
+        [
+          1870,
+          16.372195598520886,
+          766.5671641791046
+        ],
+        [
+          1870,
+          15.147031947052529,
+          782.5373134328358
+        ],
+        [
+          1870,
+          13.901896708496531,
+          798.5074626865671
+        ],
+        [
+          1870,
+          12.648372070480253,
+          814.4776119402984
+        ],
+        [
+          1870,
+          11.398118258418132,
+          830.4477611940299
+        ],
+        [
+          1870,
+          10.162765072660179,
+          846.4179104477612
+        ],
+        [
+          1870,
+          8.953803708652837,
+          862.3880597014925
+        ],
+        [
+          1870,
+          7.782479866396044,
+          878.358208955224
+        ],
+        [
+          1870,
+          6.659689143487053,
+          894.3283582089553
+        ],
+        [
+          1870,
+          5.5958756847996876,
+          910.2985074626865
+        ],
+        [
+          1870,
+          4.600935031555092,
+          926.2686567164178
+        ],
+        [
+          1870,
+          3.6841220734770004,
+          942.2388059701493
+        ],
+        [
+          1870,
+          2.8539649602562074,
+          958.2089552238806
+        ],
+        [
+          1870,
+          2.1181857731155143,
+          974.1791044776119
+        ],
+        [
+          1870,
+          1.483628694384585,
+          990.1492537313434
+        ],
+        [
+          1870,
+          0.956196343247729,
+          1006.1194029850744
+        ],
+        [
+          1870,
+          0.5407948698663296,
+          1022.0895522388059
+        ],
+        [
+          1870,
+          0.2412883186079543,
+          1038.0597014925374
+        ],
+        [
+          1870,
+          0.06046268489293127,
+          1054.0298507462685
+        ],
+        [
+          1870,
+          0.0,
+          1070.0
+        ]
+      ],
+      "width": 32,
+      "depth": 4,
+      "pillars": [
+        [
+          1870,
+          -0.3158779265229996,
+          -950
+        ],
+        [
+          1870,
+          2.659689143487048,
+          -890
+        ],
+        [
+          1870,
+          7.39811825841813,
+          -830
+        ],
+        [
+          1870,
+          12.37219559852089,
+          -770
+        ],
+        [
+          1870,
+          16.85019892323568,
+          -710
+        ],
+        [
+          1870,
+          19.48127624182898,
+          -650
+        ],
+        [
+          1870,
+          21.605226905536405,
+          -590
+        ],
+        [
+          1870,
+          22,
+          -530
+        ],
+        [
+          1870,
+          22,
+          -470
+        ],
+        [
+          1870,
+          22,
+          -418
+        ],
+        [
+          1870,
+          22,
+          -322
+        ],
+        [
+          1870,
+          22,
+          -290
+        ],
+        [
+          1870,
+          22,
+          -230
+        ],
+        [
+          1870,
+          22,
+          -170
+        ],
+        [
+          1870,
+          22,
+          -110
+        ],
+        [
+          1870,
+          22,
+          -88
+        ],
+        [
+          1870,
+          22,
+          8
+        ],
+        [
+          1870,
+          22,
+          10
+        ],
+        [
+          1870,
+          22,
+          70
+        ],
+        [
+          1870,
+          22,
+          130
+        ],
+        [
+          1870,
+          22,
+          190
+        ],
+        [
+          1870,
+          22,
+          250
+        ],
+        [
+          1870,
+          22,
+          310
+        ],
+        [
+          1870,
+          22,
+          322
+        ],
+        [
+          1870,
+          22,
+          418
+        ],
+        [
+          1870,
+          22,
+          430
+        ],
+        [
+          1870,
+          22,
+          490
+        ],
+        [
+          1870,
+          22,
+          550
+        ],
+        [
+          1870,
+          21.240319649463373,
+          610
+        ],
+        [
+          1870,
+          18.691674143627456,
+          670
+        ],
+        [
+          1870,
+          14.717314272239985,
+          730
+        ],
+        [
+          1870,
+          11.147031947052529,
+          790
+        ],
+        [
+          1870,
+          6.162765072660179,
+          850
+        ],
+        [
+          1870,
+          1.5958756847996876,
+          910
+        ],
+        [
+          1870,
+          -1.8818142268844857,
+          970
+        ]
+      ],
+      "max_grade_percent": 7.85,
+      "note": "520-stud eased ramps; 36-stud ground median leaves two 20-stud parallel service lanes. No intermediate ramp junctions."
+    }
+  ],
+  "western_bridge_approach": {
+    "points": [
+      [
+        -1940.0,
+        0.0,
+        -180
+      ],
+      [
+        -1924.0,
+        0.07293901284107965,
+        -180
+      ],
+      [
+        -1908.0,
+        0.29060575956016255,
+        -180
+      ],
+      [
+        -1892.0,
+        0.649567505533674,
+        -180
+      ],
+      [
+        -1876.0,
+        1.1441632095942618,
+        -180
+      ],
+      [
+        -1860.0,
+        1.766592802031736,
+        -180
+      ],
+      [
+        -1844.0,
+        2.507040196351943,
+        -180
+      ],
+      [
+        -1828.0,
+        3.353828094824621,
+        -180
+      ],
+      [
+        -1812.0,
+        4.293602146444282,
+        -180
+      ],
+      [
+        -1796.0,
+        5.311541553023078,
+        -180
+      ],
+      [
+        -1780.0,
+        6.391592802031736,
+        -180
+      ],
+      [
+        -1764.0,
+        7.516722840082046,
+        -180
+      ],
+      [
+        -1748.0,
+        8.66918769435385,
+        -180
+      ],
+      [
+        -1732.0,
+        9.83081230564615,
+        -180
+      ],
+      [
+        -1716.0,
+        10.983277159917954,
+        -180
+      ],
+      [
+        -1700.0,
+        12.108407197968264,
+        -180
+      ],
+      [
+        -1684.0,
+        13.188458446976922,
+        -180
+      ],
+      [
+        -1668.0,
+        14.206397853555723,
+        -180
+      ],
+      [
+        -1652.0,
+        15.14617190517538,
+        -180
+      ],
+      [
+        -1636.0,
+        15.992959803648056,
+        -180
+      ],
+      [
+        -1620.0,
+        16.733407197968265,
+        -180
+      ],
+      [
+        -1604.0,
+        17.355836790405736,
+        -180
+      ],
+      [
+        -1588.0,
+        17.850432494466325,
+        -180
+      ],
+      [
+        -1572.0,
+        18.20939424043984,
+        -180
+      ],
+      [
+        -1556.0,
+        18.42706098715892,
+        -180
+      ],
+      [
+        -1540.0,
+        18.5,
+        -180
+      ]
+    ],
+    "width": 60,
+    "max_grade_percent": 7.26,
+    "note": "New offline western landing at X=-1940. Historical expansion marker X=-1720 is recorded, not treated as an unchanged ground junction."
+  },
+  "destination_access": [
+    {
+      "id": "DAK_ACCESS",
+      "points": [
+        [
+          -435,
+          -0.0,
+          -1160.0
+        ],
+        [
+          -435,
+          -0.09652753809997906,
+          -1148.5714285714287
+        ],
+        [
+          -435,
+          -0.3812698585756863,
+          -1137.142857142857
+        ],
+        [
+          -435,
+          -0.8399487924980853,
+          -1125.7142857142858
+        ],
+        [
+          -435,
+          -1.4495642628438756,
+          -1114.2857142857142
+        ],
+        [
+          -435,
+          -2.179547604397401,
+          -1102.857142857143
+        ],
+        [
+          -435,
+          -2.9932944042681893,
+          -1091.4285714285713
+        ],
+        [
+          -435,
+          -3.8499999999999996,
+          -1080.0
+        ],
+        [
+          -435,
+          -4.70670559573181,
+          -1068.5714285714287
+        ],
+        [
+          -435,
+          -5.520452395602598,
+          -1057.142857142857
+        ],
+        [
+          -435,
+          -6.250435737156123,
+          -1045.7142857142858
+        ],
+        [
+          -435,
+          -6.860051207501915,
+          -1034.2857142857142
+        ],
+        [
+          -435,
+          -7.3187301414243136,
+          -1022.8571428571429
+        ],
+        [
+          -435,
+          -7.6034724619000205,
+          -1011.4285714285714
+        ],
+        [
+          -435,
+          -7.7,
+          -1000.0
+        ],
+        [
+          -435,
+          -7.7,
+          -910
+        ],
+        [
+          -459,
+          -7.7,
+          -910
+        ]
+      ],
+      "width": 16,
+      "max_grade_percent": 7.56,
+      "rear_gate": [
+        -459,
+        -7.7,
+        -910
+      ],
+      "note": "One low-speed access lane and parallel pedestrian reservation; meets the existing rear gate."
+    }
+  ],
+  "review_cameras": {
+    "01_Full_City_Top_Down": {
+      "eye_blender": [
+        70.0,
+        0.0,
+        4500.0
+      ],
+      "lens": 35.0,
+      "type": "ORTHO"
+    },
+    "02_Full_City_Isometric": {
+      "eye_blender": [
+        -2500.0,
+        -2550.0,
+        2800.0
+      ],
+      "lens": 35.0,
+      "type": "ORTHO"
+    },
+    "03_Howrah_Bridge_Entry": {
+      "eye_blender": [
+        -760.0,
+        200.0,
+        32.0
+      ],
+      "lens": 32.0,
+      "type": "PERSP"
+    },
+    "04_Victoria_Surroundings": {
+      "eye_blender": [
+        -40.0,
+        -650.0,
+        550.0
+      ],
+      "lens": 36.0,
+      "type": "PERSP"
+    },
+    "05_Modern_Skyline_Ground": {
+      "eye_blender": [
+        450.0,
+        720.0,
+        9.0
+      ],
+      "lens": 26,
+      "type": "PERSP"
+    },
+    "06_Road_Flyover_Metro": {
+      "eye_blender": [
+        2260.0,
+        730.0,
+        180.0
+      ],
+      "lens": 39.0,
+      "type": "PERSP"
+    },
+    "07_Premium_Centre_Top": {
+      "eye_blender": [
+        820.0,
+        0.0,
+        3500.0
+      ],
+      "lens": 35.0,
+      "type": "ORTHO"
+    },
+    "08_Dakshineshwar_Riverfront": {
+      "eye_blender": [
+        -1050.0,
+        1290.0,
+        300.0
+      ],
+      "lens": 43.0,
+      "type": "PERSP"
+    }
+  }
+}

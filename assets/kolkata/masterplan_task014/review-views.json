@@ -1,0 +1,50 @@
+[
+  {
+    "file": "01_Full_City_Top_Down.png",
+    "actual_camera": "01_Full_City_Top_Down",
+    "frame": 1,
+    "sha256": "7a3b3296e7f5a7b1257ca7d125b113bc215616c9e0352bf5e99647a2fa616453"
+  },
+  {
+    "file": "02_Full_City_Isometric.png",
+    "actual_camera": "02_Full_City_Isometric",
+    "frame": 2,
+    "sha256": "4c622e8dfbeb45f6bb7bfdf01e3da9ae4f9c387d79b5d1c2928bf57e34b02cbb"
+  },
+  {
+    "file": "03_Howrah_Bridge_Entry.png",
+    "actual_camera": "03_Howrah_Bridge_Entry",
+    "frame": 3,
+    "sha256": "84fc22cbb99225a9611d23738a7c65580b5b2abffa1ee9de4d3938bac8ef8747"
+  },
+  {
+    "file": "04_Victoria_Surroundings.png",
+    "actual_camera": "04_Victoria_Surroundings",
+    "frame": 4,
+    "sha256": "2cad6f89fb311fd33181855d5280851c5c152ecdf43822dc8b87734b248147cf"
+  },
+  {
+    "file": "05_Modern_Skyline_Ground.png",
+    "actual_camera": "05_Modern_Skyline_Ground",
+    "frame": 5,
+    "sha256": "d4cfe200d0ffe805c058484d349b98a6b66f5eff389514b96fd6e62f5d625bdf"
+  },
+  {
+    "file": "06_Road_Flyover_Metro.png",
+    "actual_camera": "06_Road_Flyover_Metro",
+    "frame": 6,
+    "sha256": "fbe47325b15ac12ddb2fbfeaaa2ffb1b42ec8a9da6f064eb37a8c12da5ea3e05"
+  },
+  {
+    "file": "07_Premium_Centre_Top.png",
+    "actual_camera": "07_Premium_Centre_Top",
+    "frame": 7,
+    "sha256": "84f74339ba76447e6af76f732127bc41879fb32f297eed6c9b1072faac24881e"
+  },
+  {
+    "file": "08_Dakshineshwar_Riverfront.png",
+    "actual_camera": "08_Dakshineshwar_Riverfront",
+    "frame": 8,
+    "sha256": "c770a6808c2e64de0ef74481bd0d44aedd08dbb2cefb75f11558849f67518aa4"
+  }
+]

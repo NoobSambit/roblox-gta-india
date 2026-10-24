@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "landmark_count": 19,
+  "external_tier3_count": 16,
+  "connected_road_routes": 29,
+  "total_road_routes": 29,
+  "flyover_ground_crossings": [
+    {
+      "flyover": "F01",
+      "road": "R03_West_Perimeter",
+      "conservative_road_clearance": 20
+    },
+    {
+      "flyover": "F01",
+      "road": "R21_River_Drive",
+      "conservative_road_clearance": 19.906
+    },
+    {
+      "flyover": "F01",
+      "road": "R21_River_Drive",
+      "conservative_road_clearance": 20
+    },
+    {
+      "flyover": "F02",
+      "road": "R05_Heritage_Metro_Boulevard",
+      "conservative_road_clearance": 22
+    },
+    {
+      "flyover": "F02",
+      "road": "R06_South_Prestige_Boulevard",
+      "conservative_road_clearance": 22
+    },
+    {
+      "flyover": "F02",
+      "road": "R15_Hotel_Arrival",
+      "conservative_road_clearance": 22
+    }
+  ],
+  "metro_flyover_vertical_gap": 19,
+  "bridge_pedestrian_underpass_clearances": [
+    23.847,
+    23.929,
+    23.81,
+    23.847,
+    23.929,
+    23.81
+  ],
+  "notes": [
+    "Bounds are conservative whole-compound AABBs at yaw multiples of 90 degrees; internal courtyards are preserved.",
+    "All 19 source file SHA256 hashes match the read-only survey; all landmark instance scales are exactly 1.",
+    "Ground routes form one connected network including both approaches and the unchanged bridge; 16-stud lower Dakshineshwar access branches from River Drive.",
+    "Metro is one straight dual-track line; three shell stations. Rail top 60; future train envelope to 74; canopy underside 81.",
+    "Metro special 104-stud span crosses outside both eastern service lanes. Girder underside 48 clears flyover parapet 29 by 19 studs.",
+    "Ramps are sampled eased vertical profiles; maximum analytical grades are planning constraints, not a vehicle test.",
+    "Stage A avoids detailed architectural/station assets and structural simulation. Sidewalk corners, collision proxies, final junction radii and barrier terminals require Stage B refinement.",
+    "Historical coordinates have not been re-surveyed in live Studio. No live world operations were performed."
+  ]
+}

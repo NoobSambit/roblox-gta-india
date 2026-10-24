@@ -1,0 +1,1348 @@
+{
+  "source": "authoring/task006/world-plan.json",
+  "note": "Historical records only. No live object was deleted, moved or verified in Task014.",
+  "placements": [
+    {
+      "placement_id": "KOL_CIVIC_001",
+      "asset_id": "kolkata.tier2.writers_building",
+      "historical_position": [
+        -130,
+        0,
+        -280
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "superseded_old_Tier2_preserve_before_later_integration"
+    },
+    {
+      "placement_id": "KOL_CIVIC_002",
+      "asset_id": "kolkata.tier2.town_hall",
+      "historical_position": [
+        270,
+        0,
+        -285
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "superseded_old_Tier2_preserve_before_later_integration"
+    },
+    {
+      "placement_id": "KOL_CIVIC_003",
+      "asset_id": "kolkata.tier2.gpo",
+      "historical_position": [
+        -340,
+        0,
+        150
+      ],
+      "historical_yaw": 90,
+      "proposal_status": "superseded_old_Tier2_preserve_before_later_integration"
+    },
+    {
+      "placement_id": "KOL_CIVIC_004",
+      "asset_id": "kolkata.tier2.metropolitan_building",
+      "historical_position": [
+        240,
+        0,
+        290
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "superseded_old_Tier2_preserve_before_later_integration"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_005",
+      "asset_id": "kolkata.tier2.jorasanko_thakur_bari",
+      "historical_position": [
+        -230,
+        0,
+        -650
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "superseded_old_Tier2_preserve_before_later_integration"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_006",
+      "asset_id": "KOL_T3_OLD_01",
+      "historical_position": [
+        -440,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_007",
+      "asset_id": "KOL_T3_OLD_02",
+      "historical_position": [
+        -392,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_008",
+      "asset_id": "KOL_T3_OLD_03",
+      "historical_position": [
+        -344,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_009",
+      "asset_id": "KOL_T3_OLD_04",
+      "historical_position": [
+        -296,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_010",
+      "asset_id": "KOL_T3_OLD_05",
+      "historical_position": [
+        -248,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_011",
+      "asset_id": "KOL_T3_OLD_06",
+      "historical_position": [
+        -200,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_012",
+      "asset_id": "KOL_T3_OLD_07",
+      "historical_position": [
+        -152,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_013",
+      "asset_id": "KOL_T3_OLD_08",
+      "historical_position": [
+        -104,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_014",
+      "asset_id": "KOL_T3_OLD_09",
+      "historical_position": [
+        -56,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_015",
+      "asset_id": "KOL_T3_OLD_10",
+      "historical_position": [
+        -8,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_016",
+      "asset_id": "KOL_T3_OLD_01",
+      "historical_position": [
+        -440,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_017",
+      "asset_id": "KOL_T3_OLD_02",
+      "historical_position": [
+        -392,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_018",
+      "asset_id": "KOL_T3_OLD_03",
+      "historical_position": [
+        -344,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_019",
+      "asset_id": "KOL_T3_OLD_04",
+      "historical_position": [
+        -296,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_020",
+      "asset_id": "KOL_T3_OLD_05",
+      "historical_position": [
+        -248,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_021",
+      "asset_id": "KOL_T3_OLD_06",
+      "historical_position": [
+        -200,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_022",
+      "asset_id": "KOL_T3_OLD_07",
+      "historical_position": [
+        -152,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_023",
+      "asset_id": "KOL_T3_OLD_08",
+      "historical_position": [
+        -104,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_024",
+      "asset_id": "KOL_T3_OLD_09",
+      "historical_position": [
+        -56,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_025",
+      "asset_id": "KOL_T3_OLD_10",
+      "historical_position": [
+        -8,
+        0,
+        -510
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_026",
+      "asset_id": "KOL_T3_OLD_01",
+      "historical_position": [
+        -440,
+        0,
+        -600
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_027",
+      "asset_id": "KOL_T3_OLD_02",
+      "historical_position": [
+        -386,
+        0,
+        -600
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_028",
+      "asset_id": "KOL_T3_OLD_03",
+      "historical_position": [
+        -338,
+        0,
+        -600
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_029",
+      "asset_id": "KOL_T3_OLD_04",
+      "historical_position": [
+        -100,
+        0,
+        -600
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_030",
+      "asset_id": "KOL_T3_OLD_05",
+      "historical_position": [
+        -46,
+        0,
+        -600
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_031",
+      "asset_id": "KOL_T3_OLD_06",
+      "historical_position": [
+        8,
+        0,
+        -600
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_032",
+      "asset_id": "KOL_T3_OLD_07",
+      "historical_position": [
+        -440,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_033",
+      "asset_id": "KOL_T3_OLD_08",
+      "historical_position": [
+        -386,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_034",
+      "asset_id": "KOL_T3_OLD_09",
+      "historical_position": [
+        -338,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_035",
+      "asset_id": "KOL_T3_OLD_10",
+      "historical_position": [
+        -100,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_036",
+      "asset_id": "KOL_T3_OLD_01",
+      "historical_position": [
+        -46,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_037",
+      "asset_id": "KOL_T3_OLD_02",
+      "historical_position": [
+        8,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_038",
+      "asset_id": "KOL_T3_MOD_01",
+      "historical_position": [
+        120,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_039",
+      "asset_id": "KOL_T3_MOD_02",
+      "historical_position": [
+        180,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_040",
+      "asset_id": "KOL_T3_MOD_03",
+      "historical_position": [
+        240,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_041",
+      "asset_id": "KOL_T3_MOD_04",
+      "historical_position": [
+        300,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_042",
+      "asset_id": "KOL_T3_MOD_05",
+      "historical_position": [
+        360,
+        0,
+        -450
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_043",
+      "asset_id": "KOL_T3_MOD_06",
+      "historical_position": [
+        120,
+        0,
+        -540
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_044",
+      "asset_id": "KOL_T3_MOD_07",
+      "historical_position": [
+        180,
+        0,
+        -540
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_045",
+      "asset_id": "KOL_T3_MOD_08",
+      "historical_position": [
+        240,
+        0,
+        -540
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_046",
+      "asset_id": "KOL_T3_MOD_09",
+      "historical_position": [
+        300,
+        0,
+        -540
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_047",
+      "asset_id": "KOL_T3_MOD_01",
+      "historical_position": [
+        360,
+        0,
+        -540
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_048",
+      "asset_id": "KOL_T3_MOD_02",
+      "historical_position": [
+        120,
+        0,
+        -630
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_049",
+      "asset_id": "KOL_T3_MOD_03",
+      "historical_position": [
+        180,
+        0,
+        -630
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_050",
+      "asset_id": "KOL_T3_MOD_04",
+      "historical_position": [
+        240,
+        0,
+        -630
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_051",
+      "asset_id": "KOL_T3_MOD_05",
+      "historical_position": [
+        300,
+        0,
+        -630
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_052",
+      "asset_id": "KOL_T3_MOD_06",
+      "historical_position": [
+        360,
+        0,
+        -630
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_053",
+      "asset_id": "KOL_T3_MOD_07",
+      "historical_position": [
+        120,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_054",
+      "asset_id": "KOL_T3_MOD_08",
+      "historical_position": [
+        180,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_055",
+      "asset_id": "KOL_T3_MOD_09",
+      "historical_position": [
+        240,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_056",
+      "asset_id": "KOL_T3_MOD_01",
+      "historical_position": [
+        300,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_057",
+      "asset_id": "KOL_T3_MOD_02",
+      "historical_position": [
+        360,
+        0,
+        -720
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_058",
+      "asset_id": "KOL_T3_MIX_01",
+      "historical_position": [
+        -410,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_059",
+      "asset_id": "KOL_T3_MIX_02",
+      "historical_position": [
+        -345,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_060",
+      "asset_id": "KOL_T3_MIX_03",
+      "historical_position": [
+        -280,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_061",
+      "asset_id": "KOL_T3_MIX_04",
+      "historical_position": [
+        -205,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_062",
+      "asset_id": "KOL_T3_MIX_05",
+      "historical_position": [
+        -135,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_063",
+      "asset_id": "KOL_T3_MIX_01",
+      "historical_position": [
+        -65,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_064",
+      "asset_id": "KOL_T3_MOD_01",
+      "historical_position": [
+        -430,
+        0,
+        -350
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_065",
+      "asset_id": "KOL_T3_MOD_02",
+      "historical_position": [
+        -370,
+        0,
+        -350
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_066",
+      "asset_id": "KOL_T3_MOD_03",
+      "historical_position": [
+        -310,
+        0,
+        -350
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_067",
+      "asset_id": "KOL_T3_MOD_04",
+      "historical_position": [
+        -30,
+        0,
+        -350
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_068",
+      "asset_id": "KOL_T3_MOD_05",
+      "historical_position": [
+        40,
+        0,
+        -350
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_069",
+      "asset_id": "KOL_T3_MOD_06",
+      "historical_position": [
+        130,
+        0,
+        -350
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_070",
+      "asset_id": "KOL_T3_MIX_01",
+      "historical_position": [
+        -230,
+        0,
+        70
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_071",
+      "asset_id": "KOL_T3_MIX_02",
+      "historical_position": [
+        -75,
+        0,
+        70
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_072",
+      "asset_id": "KOL_T3_MIX_03",
+      "historical_position": [
+        140,
+        0,
+        70
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_073",
+      "asset_id": "KOL_T3_MIX_04",
+      "historical_position": [
+        350,
+        0,
+        70
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_074",
+      "asset_id": "KOL_T3_MIX_05",
+      "historical_position": [
+        -300,
+        0,
+        340
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_075",
+      "asset_id": "KOL_T3_MIX_01",
+      "historical_position": [
+        -75,
+        0,
+        340
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_076",
+      "asset_id": "KOL_T3_MIX_02",
+      "historical_position": [
+        140,
+        0,
+        340
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_077",
+      "asset_id": "KOL_T3_MIX_03",
+      "historical_position": [
+        350,
+        0,
+        340
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_078",
+      "asset_id": "KOL_T3_MIX_04",
+      "historical_position": [
+        -170,
+        0,
+        460
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_079",
+      "asset_id": "KOL_T3_MIX_05",
+      "historical_position": [
+        15,
+        0,
+        460
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_INFORMALRESIDENTIAL_080",
+      "asset_id": "KOL_T3_INF_01",
+      "historical_position": [
+        -430,
+        0,
+        555
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_INFORMALRESIDENTIAL_081",
+      "asset_id": "KOL_T3_INF_02",
+      "historical_position": [
+        -395,
+        0,
+        555
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_INFORMALRESIDENTIAL_082",
+      "asset_id": "KOL_T3_INF_03",
+      "historical_position": [
+        -360,
+        0,
+        555
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_INFORMALRESIDENTIAL_083",
+      "asset_id": "KOL_T3_INF_01",
+      "historical_position": [
+        -430,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_INFORMALRESIDENTIAL_084",
+      "asset_id": "KOL_T3_INF_02",
+      "historical_position": [
+        -395,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_INFORMALRESIDENTIAL_085",
+      "asset_id": "KOL_T3_INF_03",
+      "historical_position": [
+        -360,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_086",
+      "asset_id": "KOL_T25_BANK",
+      "historical_position": [
+        -150,
+        0,
+        105
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "legacy_commercial_plot_requires_integration_review"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_087",
+      "asset_id": "KOL_T25_JEWELLERY",
+      "historical_position": [
+        10,
+        0,
+        105
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "legacy_commercial_plot_requires_integration_review"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_088",
+      "asset_id": "KOL_T25_FASHION",
+      "historical_position": [
+        200,
+        0,
+        105
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "legacy_commercial_plot_requires_integration_review"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_089",
+      "asset_id": "KOL_T25_RETAIL",
+      "historical_position": [
+        -150,
+        0,
+        300
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "legacy_commercial_plot_requires_integration_review"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_090",
+      "asset_id": "KOL_T25_ELECTRONICS",
+      "historical_position": [
+        10,
+        0,
+        300
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "legacy_commercial_plot_requires_integration_review"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_091",
+      "asset_id": "KOL_T3_OLD_02",
+      "historical_position": [
+        -338,
+        0,
+        -629
+      ],
+      "historical_yaw": -90,
+      "proposal_status": "retained_as_historical_external_context"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_092",
+      "asset_id": "KOL_T3_OLD_04",
+      "historical_position": [
+        -338,
+        0,
+        -662
+      ],
+      "historical_yaw": -90,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_093",
+      "asset_id": "KOL_T3_OLD_01",
+      "historical_position": [
+        -338,
+        0,
+        -695
+      ],
+      "historical_yaw": -90,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_094",
+      "asset_id": "KOL_T3_OLD_03",
+      "historical_position": [
+        -100,
+        0,
+        -629
+      ],
+      "historical_yaw": 90,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_095",
+      "asset_id": "KOL_T3_OLD_08",
+      "historical_position": [
+        -100,
+        0,
+        -662
+      ],
+      "historical_yaw": 90,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_NORTHKOLKATA_096",
+      "asset_id": "KOL_T3_OLD_04",
+      "historical_position": [
+        -100,
+        0,
+        -695
+      ],
+      "historical_yaw": 90,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_097",
+      "asset_id": "KOL_T3_MOD_01",
+      "historical_position": [
+        125,
+        0,
+        480
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_098",
+      "asset_id": "KOL_T3_MOD_02",
+      "historical_position": [
+        180,
+        0,
+        480
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_099",
+      "asset_id": "KOL_T3_MOD_03",
+      "historical_position": [
+        235,
+        0,
+        480
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_100",
+      "asset_id": "KOL_T3_MOD_04",
+      "historical_position": [
+        290,
+        0,
+        480
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_101",
+      "asset_id": "KOL_T3_MOD_05",
+      "historical_position": [
+        345,
+        0,
+        480
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_102",
+      "asset_id": "KOL_T3_MOD_06",
+      "historical_position": [
+        125,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_103",
+      "asset_id": "KOL_T3_MOD_07",
+      "historical_position": [
+        180,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_104",
+      "asset_id": "KOL_T3_MOD_08",
+      "historical_position": [
+        235,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_105",
+      "asset_id": "KOL_T3_MOD_09",
+      "historical_position": [
+        290,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_MODERNRESIDENTIAL_106",
+      "asset_id": "KOL_T3_MOD_01",
+      "historical_position": [
+        345,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_107",
+      "asset_id": "KOL_T3_MIX_01",
+      "historical_position": [
+        -175,
+        0,
+        500
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_108",
+      "asset_id": "KOL_T3_MIX_02",
+      "historical_position": [
+        -115,
+        0,
+        500
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_109",
+      "asset_id": "KOL_T3_MIX_03",
+      "historical_position": [
+        -55,
+        0,
+        500
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_110",
+      "asset_id": "KOL_T3_MIX_04",
+      "historical_position": [
+        5,
+        0,
+        500
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_111",
+      "asset_id": "KOL_T3_MIX_05",
+      "historical_position": [
+        -175,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_112",
+      "asset_id": "KOL_T3_MIX_01",
+      "historical_position": [
+        -115,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_113",
+      "asset_id": "KOL_T3_MIX_02",
+      "historical_position": [
+        -55,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_COMMERCIAL_114",
+      "asset_id": "KOL_T3_MIX_03",
+      "historical_position": [
+        5,
+        0,
+        610
+      ],
+      "historical_yaw": 0,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_115",
+      "asset_id": "KOL_T3_MIX_01",
+      "historical_position": [
+        -430,
+        0,
+        -260
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_116",
+      "asset_id": "KOL_T3_MIX_02",
+      "historical_position": [
+        -370,
+        0,
+        -260
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_117",
+      "asset_id": "KOL_T3_MIX_03",
+      "historical_position": [
+        -310,
+        0,
+        -260
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_118",
+      "asset_id": "KOL_T3_MOD_01",
+      "historical_position": [
+        125,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_119",
+      "asset_id": "KOL_T3_MOD_02",
+      "historical_position": [
+        180,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_120",
+      "asset_id": "KOL_T3_MOD_03",
+      "historical_position": [
+        240,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_121",
+      "asset_id": "KOL_T3_MOD_04",
+      "historical_position": [
+        310,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    },
+    {
+      "placement_id": "KOL_CIVIC_122",
+      "asset_id": "KOL_T3_MOD_05",
+      "historical_position": [
+        355,
+        0,
+        -70
+      ],
+      "historical_yaw": 180,
+      "proposal_status": "not_in_premium_proposal_preserve_or_relocate_only_after_approval"
+    }
+  ]
+}

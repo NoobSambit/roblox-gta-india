@@ -1,0 +1,20 @@
+asset_id,district,world_x,world_y,world_z,yaw_degrees_Y,world_size_x,world_height_y,world_size_z,uniform_scale,source,anchor_status
+VICTORIA,Victoria Memorial,820,0,0,90,620.0,156.6,600.0,1,assets/victoria-memorial/VictoriaMemorial.blend,historical_record_anchor
+HOWRAH,Existing World Anchors,-1092,-13.5,-180,90,902.0,117.4097,92.28,1,assets/kolkata/howrah_bridge/bridge/KOL_HBR_HOWRAH/KOL_HBR_HOWRAH.blend,historical_record_anchor
+GHAT,Existing World Anchors,-620,-13.5,380,90,128.0,39.25,149.0,1,assets/kolkata/howrah_bridge/ghat/KOL_HBR_GHAT/KOL_HBR_GHAT.blend,historical_record_anchor
+KOL_T1_WRITERS,Colonial Heritage,100,0,-930,180,326.0,85.49,102.0,1,assets/kolkata/heritage_batch2/writers/KOL_T1_WRITERS.blend,stage_a_proposal
+KOL_T1_GPO,Colonial Heritage,590,0,-930,180,160.25,99.2,149.0,1,assets/kolkata/heritage_batch2/gpo/KOL_T1_GPO.blend,stage_a_proposal
+KOL_T1_TOWN_HALL,Colonial Heritage,80,0,-530,180,124.0,49.75,110.0,1,assets/kolkata/heritage_batch2/town_hall/KOL_T1_TOWN_HALL.blend,stage_a_proposal
+KOL_T1_METROPOLITAN,Colonial Heritage,600,0,-540,180,160.0,91.6,116.0,1,assets/kolkata/heritage_batch2/metropolitan/KOL_T1_METROPOLITAN.blend,stage_a_proposal
+KOL_T1_ATMOSPHERE,Modern Skyline,1040,0,-850,180,292.0,390.2581,156.0,1,assets/kolkata/tier1/atmosphere/KOL_T1_ATMOSPHERE.blend,stage_a_proposal
+KOL_T1_URBANA,Modern Skyline,1550,0,-800,180,416.0,379.0,304.0,1,assets/kolkata/tier1/urbana/KOL_T1_URBANA.blend,stage_a_proposal
+KOL_T1_JW,Modern Skyline,1080,0,-570,180,316.0,251.9,236.0,1,assets/kolkata/tier1/jw/KOL_T1_JW.blend,stage_a_proposal
+KOL_T1_TRUMP,Modern Skyline,1400,0,-480,180,142.0,351.0,132.0,1,assets/kolkata/tier1/trump/KOL_T1_TRUMP.blend,stage_a_proposal
+KOL_T1_ROYAL,Modern Skyline,1370,0,-190,0,240.0,297.5997,210.0,1,assets/kolkata/tier1/royal/KOL_T1_ROYAL.blend,stage_a_proposal
+KOL_T1_SONAR,Modern Skyline,1660,0,-190,0,258.0,81.9,228.0,1,assets/kolkata/tier1/sonar/KOL_T1_SONAR.blend,stage_a_proposal
+KOL_T1_RAJBARI,Bengali Cultural District,70,0,620,180,202.0,66.0,220.0,1,assets/kolkata/cultural_batch/rajbari/KOL_T1_RAJBARI.blend,stage_a_proposal
+KOL_T1_JORASANKO,Bengali Cultural District,590,0,780,0,196.0,51.9,282.0,1,assets/kolkata/cultural_batch/jorasanko/KOL_T1_JORASANKO.blend,stage_a_proposal
+KOL_T1_INDIAN_MUSEUM,Commercial Cultural District,1400,0,570,180,282.0,64.475,218.0,1,assets/kolkata/landmarks_batch4/indian_museum/KOL_T1_INDIAN_MUSEUM.blend,stage_a_proposal
+KOL_T1_NEW_MARKET,Commercial Cultural District,1400,0,930,0,310.0,97.0,184.0,1,assets/kolkata/landmarks_batch4/new_market/KOL_T1_NEW_MARKET.blend,stage_a_proposal
+KOL_T1_ST_PAULS,Commercial Cultural District,1730,0,600,0,156.0,114.1,252.0,1,assets/kolkata/landmarks_batch4/st_pauls/KOL_T1_ST_PAULS.blend,stage_a_proposal
+KOL_T1_DAKSHINESHWAR,Dakshineshwar Riverfront,-542,-8.5,-910,90,219.8531,159.6,418.0,1,assets/kolkata/dakshineshwar/KOL_T1_DAKSHINESHWAR.blend,stage_a_proposal

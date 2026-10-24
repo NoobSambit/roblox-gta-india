@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "KOL_T1_ATMOSPHERE",
+    "source": "assets/kolkata/tier1/atmosphere/KOL_T1_ATMOSPHERE.blend",
+    "sha256": "0a5c1acf61d7900e450e71ae4566607b6480c9d80ea20709aaf29b1c442d7b8e",
+    "scene": "KOL_T1_ATMOSPHERE",
+    "collections": [
+      {
+        "name": "KOL_T1_ATMOSPHERE__SOURCE",
+        "hidden": false,
+        "meshes": 362,
+        "bounds_blender": [
+          [
+            -146.0,
+            -78.0,
+            0.0
+          ],
+          [
+            146.0,
+            78.0,
+            390.2581
+          ]
+        ],
+        "children": [
+          "KOL_T1_ATMOSPHERE__Foundation",
+          "KOL_T1_ATMOSPHERE__Landscape",
+          "KOL_T1_ATMOSPHERE__Tower_1",
+          "KOL_T1_ATMOSPHERE__Tower_2",
+          "KOL_T1_ATMOSPHERE__Deya_Skybridge",
+          "KOL_T1_ATMOSPHERE__Podium"
+        ]
+      },
+      {
+        "name": "PREVIEW_ONLY__not_exported",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 366
+  },
+  {
+    "id": "KOL_T1_JW",
+    "source": "assets/kolkata/tier1/jw/KOL_T1_JW.blend",
+    "sha256": "1ac81a683185d2d495ee09cacafe9014229d84f0ed875c0c42ea069f64b1df84",
+    "scene": "KOL_T1_JW",
+    "collections": [
+      {
+        "name": "KOL_T1_JW__SOURCE.004",
+        "hidden": false,
+        "meshes": 343,
+        "bounds_blender": [
+          [
+            -158.0,
+            -118.0,
+            0.0
+          ],
+          [
+            158.0,
+            118.0,
+            251.9
+          ]
+        ],
+        "children": [
+          "KOL_T1_JW__Foundation.004",
+          "KOL_T1_JW__Landscape.004",
+          "KOL_T1_JW__Podium_Base.002",
+          "KOL_T1_JW__Hotel_Tower.004",
+          "KOL_T1_JW__Companion_Tower.004",
+          "KOL_T1_JW__Hero_Diagrid.002",
+          "KOL_T1_JW__Roof_Terrace.002",
+          "KOL_T1_JW__Arrival.004"
+        ]
+      },
+      {
+        "name": "PREVIEW_ONLY__not_exported",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 347
+  },
+  {
+    "id": "KOL_T1_ROYAL",
+    "source": "assets/kolkata/tier1/royal/KOL_T1_ROYAL.blend",
+    "sha256": "598fdaaa1fef7c41a618f9e2cad1ac850789cd941bb7fbbbecb02e842fab02d5",
+    "scene": "KOL_T1_ROYAL",
+    "collections": [
+      {
+        "name": "KOL_T1_ROYAL__SOURCE.003",
+        "hidden": false,
+        "meshes": 3924,
+        "bounds_blender": [
+          [
+            -120.0,
+            -105.0,
+            0.0
+          ],
+          [
+            120.0,
+            105.0,
+            297.5997
+          ]
+        ],
+        "children": [
+          "KOL_T1_ROYAL__Foundation.003",
+          "KOL_T1_ROYAL__Landscape.003",
+          "KOL_T1_ROYAL__01_Massing.001",
+          "KOL_T1_ROYAL__02_Window_Bays.001",
+          "KOL_T1_ROYAL__03_Arcades.001",
+          "KOL_T1_ROYAL__04_Columns_Loggias.001",
+          "KOL_T1_ROYAL__05_Crown_Cornices.001",
+          "KOL_T1_ROYAL__06_Arrival.001"
+        ]
+      },
+      {
+        "name": "PREVIEW_ONLY__not_exported",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "PREVIEW_ONLY__not_exported.001",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 3932
+  },
+  {
+    "id": "KOL_T1_SONAR",
+    "source": "assets/kolkata/tier1/sonar/KOL_T1_SONAR.blend",
+    "sha256": "5d66e56e1bc146dcea23b4e8066dfaca4e6706dcc194b1b77e007761b042cc1f",
+    "scene": "KOL_T1_SONAR",
+    "collections": [
+      {
+        "name": "KOL_T1_SONAR__SOURCE.003",
+        "hidden": false,
+        "meshes": 115,
+        "bounds_blender": [
+          [
+            -129.0,
+            -114.0,
+            0.0
+          ],
+          [
+            129.0,
+            114.0,
+            81.9
+          ]
+        ],
+        "children": [
+          "KOL_T1_SONAR__Foundation.003",
+          "KOL_T1_SONAR__Landscape.003",
+          "KOL_T1_SONAR__Guest_Wing_1.003",
+          "KOL_T1_SONAR__Internal_Shell.003",
+          "KOL_T1_SONAR__Guest_Wing_2.003",
+          "KOL_T1_SONAR__Guest_Wing_3.003",
+          "KOL_T1_SONAR__Water_Gardens.003",
+          "KOL_T1_SONAR__Tea_Pavilions.003",
+          "KOL_T1_SONAR__Arrival.003"
+        ]
+      },
+      {
+        "name": "PREVIEW_ONLY__not_exported",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 119
+  },
+  {
+    "id": "KOL_T1_TRUMP",
+    "source": "assets/kolkata/tier1/trump/KOL_T1_TRUMP.blend",
+    "sha256": "a989c6e1bf51624dcf63290133dc90d74afb7b2407c5bd7b79ba3b869060f760",
+    "scene": "KOL_T1_TRUMP",
+    "collections": [
+      {
+        "name": "KOL_T1_TRUMP__SOURCE",
+        "hidden": false,
+        "meshes": 141,
+        "bounds_blender": [
+          [
+            -71.0,
+            -66.0,
+            0.0
+          ],
+          [
+            71.0,
+            66.0,
+            351.0
+          ]
+        ],
+        "children": [
+          "KOL_T1_TRUMP__Foundation",
+          "KOL_T1_TRUMP__Landscape",
+          "KOL_T1_TRUMP__Tower",
+          "KOL_T1_TRUMP__Crown",
+          "KOL_T1_TRUMP__Podium"
+        ]
+      },
+      {
+        "name": "PREVIEW_ONLY__not_exported",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 145
+  },
+  {
+    "id": "KOL_T1_URBANA",
+    "source": "assets/kolkata/tier1/urbana/KOL_T1_URBANA.blend",
+    "sha256": "94b157a8055658565e7649d4f97811884b77aa0b61841d148df39b5c5e7738b0",
+    "scene": "KOL_T1_URBANA",
+    "collections": [
+      {
+        "name": "KOL_T1_URBANA__SOURCE.003",
+        "hidden": false,
+        "meshes": 334,
+        "bounds_blender": [
+          [
+            -208.0,
+            -152.0,
+            -0.75
+          ],
+          [
+            208.0,
+            152.0,
+            378.25
+          ]
+        ],
+        "children": [
+          "KOL_T1_URBANA__Foundation.003",
+          "KOL_T1_URBANA__Landscape.003",
+          "KOL_T1_URBANA__Tower_01.003",
+          "KOL_T1_URBANA__Tower_02.003",
+          "KOL_T1_URBANA__Tower_03.003",
+          "KOL_T1_URBANA__Tower_04.003",
+          "KOL_T1_URBANA__Tower_05.003",
+          "KOL_T1_URBANA__Tower_06.003",
+          "KOL_T1_URBANA__Tower_07.003",
+          "KOL_T1_URBANA__Clubhouse.003"
+        ]
+      },
+      {
+        "name": "PREVIEW_ONLY__not_exported",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 338
+  },
+  {
+    "id": "KOL_T1_GPO",
+    "source": "assets/kolkata/heritage_batch2/gpo/KOL_T1_GPO.blend",
+    "sha256": "945ec18a4d25df6cc1850a71f27fec1cf56ccb86200a88c526fd00bfc7f6e183",
+    "scene": "KOL_T1_GPO",
+    "collections": [
+      {
+        "name": "KOL_T1_GPO__SOURCE.005",
+        "hidden": false,
+        "meshes": 264,
+        "bounds_blender": [
+          [
+            -76.25,
+            -79.0,
+            0.0
+          ],
+          [
+            84.0,
+            70.0,
+            99.2
+          ]
+        ],
+        "children": [
+          "KOL_T1_GPO__00_Foundation.005",
+          "KOL_T1_GPO__01_Shell.005",
+          "KOL_T1_GPO__03_Colonnades.005",
+          "KOL_T1_GPO__02_Entablature.005",
+          "KOL_T1_GPO__04_Recesses.005",
+          "KOL_T1_GPO__05_Dome_Drum.005",
+          "KOL_T1_GPO__06_Dome.005",
+          "KOL_T1_GPO__07_Civic_Details.005",
+          "KOL_T1_GPO__08_Secondary.005",
+          "KOL_T1_GPO__09_Foundation_Detail.002",
+          "KOL_T1_GPO__10_Rear_Architecture.002"
+        ]
+      },
+      {
+        "name": "INSTALLED_NIGHT_LIGHTS__NOT_FBX.008",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "COLLISION_GUIDES__NOT_EXPORTED.017",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "REVIEW_LIGHTS_CAMERA__NOT_EXPORTED",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 312
+  },
+  {
+    "id": "KOL_T1_METROPOLITAN",
+    "source": "assets/kolkata/heritage_batch2/metropolitan/KOL_T1_METROPOLITAN.blend",
+    "sha256": "d1ce1d1f31ac3099c4eb01be455d4688a82a1ae7f9331ab38a0fc79bb4431637",
+    "scene": "KOL_T1_METROPOLITAN",
+    "collections": [
+      {
+        "name": "KOL_T1_METROPOLITAN__SOURCE.003",
+        "hidden": false,
+        "meshes": 278,
+        "bounds_blender": [
+          [
+            -80.0,
+            -53.0,
+            -0.2
+          ],
+          [
+            80.0,
+            63.0,
+            91.4
+          ]
+        ],
+        "children": [
+          "KOL_T1_METROPOLITAN__00_Foundation.003",
+          "KOL_T1_METROPOLITAN__01_Shell.003",
+          "KOL_T1_METROPOLITAN__02_Cornices.003",
+          "KOL_T1_METROPOLITAN__03_Facades.003",
+          "KOL_T1_METROPOLITAN__04_Returns.003",
+          "KOL_T1_METROPOLITAN__05_Clock_Corner.003",
+          "KOL_T1_METROPOLITAN__06_Cupolas.003",
+          "KOL_T1_METROPOLITAN__07_Street_Crowns.002",
+          "KOL_T1_METROPOLITAN__09_Foundation_Detail",
+          "KOL_T1_METROPOLITAN__10_Rear_Architecture"
+        ]
+      },
+      {
+        "name": "INSTALLED_NIGHT_LIGHTS__NOT_FBX.001",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "COLLISION_GUIDES__NOT_EXPORTED.010",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "REVIEW_LIGHTS_CAMERA__NOT_EXPORTED",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 302
+  },
+  {
+    "id": "KOL_T1_TOWN_HALL",
+    "source": "assets/kolkata/heritage_batch2/town_hall/KOL_T1_TOWN_HALL.blend",
+    "sha256": "341c2821e687be3f5cd726429abe6d4dd9c0513da2f166592d3bc95647bce0a0",
+    "scene": "KOL_T1_TOWN_HALL",
+    "collections": [
+      {
+        "name": "KOL_T1_TOWN_HALL__SOURCE.001",
+        "hidden": false,
+        "meshes": 190,
+        "bounds_blender": [
+          [
+            -62.0,
+            -40.0,
+            -0.2
+          ],
+          [
+            62.0,
+            70.0,
+            49.55
+          ]
+        ],
+        "children": [
+          "KOL_T1_TOWN_HALL__00_Foundation.001",
+          "KOL_T1_TOWN_HALL__01_Shell.001",
+          "KOL_T1_TOWN_HALL__02_Cornices.001",
+          "KOL_T1_TOWN_HALL__03_Portico.001",
+          "KOL_T1_TOWN_HALL__04_Facades.001",
+          "KOL_T1_TOWN_HALL__05_Rear.001",
+          "KOL_T1_TOWN_HALL__06_Roofline.001",
+          "KOL_T1_TOWN_HALL__09_Foundation_Detail",
+          "KOL_T1_TOWN_HALL__10_Rear_Architecture"
+        ]
+      },
+      {
+        "name": "INSTALLED_NIGHT_LIGHTS__NOT_FBX.003",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "COLLISION_GUIDES__NOT_EXPORTED.012",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "REVIEW_LIGHTS_CAMERA__NOT_EXPORTED",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 221
+  },
+  {
+    "id": "KOL_T1_WRITERS",
+    "source": "assets/kolkata/heritage_batch2/writers/KOL_T1_WRITERS.blend",
+    "sha256": "c48fdcf716425c8a59cd4c6e6a2831fda53193179575761f846dea6a55708574",
+    "scene": "KOL_T1_WRITERS",
+    "collections": [
+      {
+        "name": "KOL_T1_WRITERS__SOURCE.005",
+        "hidden": false,
+        "meshes": 386,
+        "bounds_blender": [
+          [
+            -163.0,
+            -43.0,
+            -0.2
+          ],
+          [
+            163.0,
+            59.0,
+            85.29
+          ]
+        ],
+        "children": [
+          "KOL_T1_WRITERS__00_Foundation.005",
+          "KOL_T1_WRITERS__01_Shell.005",
+          "KOL_T1_WRITERS__02_Cornices.005",
+          "KOL_T1_WRITERS__03_Facades.005",
+          "KOL_T1_WRITERS__04_Returns.005",
+          "KOL_T1_WRITERS__05_Central_Portico.005",
+          "KOL_T1_WRITERS__06_Roofs.005",
+          "KOL_T1_WRITERS__07_Roof_Ornaments.005",
+          "KOL_T1_WRITERS__09_Foundation_Detail.003",
+          "KOL_T1_WRITERS__10_Rear_Architecture.003"
+        ]
+      },
+      {
+        "name": "INSTALLED_NIGHT_LIGHTS__NOT_FBX.007",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "COLLISION_GUIDES__NOT_EXPORTED.016",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "REVIEW_LIGHTS_CAMERA__NOT_EXPORTED",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 427
+  },
+  {
+    "id": "KOL_T1_JORASANKO",
+    "source": "assets/kolkata/cultural_batch/jorasanko/KOL_T1_JORASANKO.blend",
+    "sha256": "cfd4a3a707d7dfbd51aab4a863251bd39b660402ba30918af74dfac6b33e89ca",
+    "scene": "KOL_T1_JORASANKO",
+    "collections": [
+      {
+        "name": "KOL_T1_JORASANKO__SOURCE.007",
+        "hidden": false,
+        "meshes": 1223,
+        "bounds_blender": [
+          [
+            -98.0,
+            -141.0,
+            -0.4
+          ],
+          [
+            98.0,
+            141.0,
+            51.5
+          ]
+        ],
+        "children": [
+          "KOL_T1_JORASANKO__00_Grounds.007",
+          "KOL_T1_JORASANKO__01_Bahir_Mahal.007",
+          "KOL_T1_JORASANKO__02_Andar_Mahal.007",
+          "KOL_T1_JORASANKO__03_Thakur_Dalan_Link.007"
+        ]
+      },
+      {
+        "name": "NIGHT_LIGHTS__NOT_FBX.017",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "COLLISION_GUIDES__NOT_FBX.017",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "REVIEW_CAMERA_SUN__NOT_FBX",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 1389
+  },
+  {
+    "id": "KOL_T1_RAJBARI",
+    "source": "assets/kolkata/cultural_batch/rajbari/KOL_T1_RAJBARI.blend",
+    "sha256": "a78d6a1a99a86210381d4b6d1a3caf2cadc417c512e9d4f473a99766d817e1b7",
+    "scene": "KOL_T1_RAJBARI",
+    "collections": [
+      {
+        "name": "KOL_T1_RAJBARI__SOURCE.009",
+        "hidden": false,
+        "meshes": 704,
+        "bounds_blender": [
+          [
+            -101.0,
+            -110.0,
+            -0.4
+          ],
+          [
+            101.0,
+            110.0,
+            65.6
+          ]
+        ],
+        "children": [
+          "KOL_T1_RAJBARI__00_Grounds.009",
+          "KOL_T1_RAJBARI__01_Rear_Mansion.009",
+          "KOL_T1_RAJBARI__02_Side_Wings.009",
+          "KOL_T1_RAJBARI__03_Street_Front.009",
+          "KOL_T1_RAJBARI__04_Roofline.009",
+          "KOL_T1_RAJBARI__05_Puja_Mandap.009"
+        ]
+      },
+      {
+        "name": "NIGHT_LIGHTS__NOT_FBX.015",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "COLLISION_GUIDES__NOT_FBX.015",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "REVIEW_CAMERA_SUN__NOT_FBX",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 780
+  },
+  {
+    "id": "KOL_T1_INDIAN_MUSEUM",
+    "source": "assets/kolkata/landmarks_batch4/indian_museum/KOL_T1_INDIAN_MUSEUM.blend",
+    "sha256": "57c7acbabbc6ca73a3f11c2e55fe2048977ea21776c9d657f2acd7ebb1c3816c",
+    "scene": "KOL_T1_INDIAN_MUSEUM",
+    "collections": [
+      {
+        "name": "KOL_T1_INDIAN_MUSEUM__SOURCE",
+        "hidden": false,
+        "meshes": 440,
+        "bounds_blender": [
+          [
+            -141.0,
+            -109.0,
+            -1.0
+          ],
+          [
+            141.0,
+            109.0,
+            63.475
+          ]
+        ],
+        "children": [
+          "KOL_T1_INDIAN_MUSEUM__00_FoundationGrounds",
+          "KOL_T1_INDIAN_MUSEUM__01_PrimaryStructure",
+          "KOL_T1_INDIAN_MUSEUM__04_RoofsCrown",
+          "KOL_T1_INDIAN_MUSEUM__02_EntrancePortico",
+          "KOL_T1_INDIAN_MUSEUM__05_FacadeDetails",
+          "KOL_T1_INDIAN_MUSEUM__03_ModularArchitecture",
+          "KOL_T1_INDIAN_MUSEUM__06_LightingFixtures",
+          "KOL_T1_INDIAN_MUSEUM__90_PreviewLights_NOT_FBX"
+        ]
+      },
+      {
+        "name": "80_ExportReady__baked_sections.001",
+        "hidden": true,
+        "meshes": 33,
+        "bounds_blender": [
+          [
+            -141.0,
+            -109.0,
+            -1.0
+          ],
+          [
+            141.0,
+            109.0,
+            63.475
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "99_ReviewRig_NOT_FBX",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 493
+  },
+  {
+    "id": "KOL_T1_NEW_MARKET",
+    "source": "assets/kolkata/landmarks_batch4/new_market/KOL_T1_NEW_MARKET.blend",
+    "sha256": "2cdda956880e66615abb8ce11f761868f39a3eeb1117ca459afbc7916b2a3066",
+    "scene": "KOL_T1_NEW_MARKET",
+    "collections": [
+      {
+        "name": "KOL_T1_NEW_MARKET__SOURCE",
+        "hidden": false,
+        "meshes": 261,
+        "bounds_blender": [
+          [
+            -155.0,
+            -92.0,
+            -1.0
+          ],
+          [
+            155.0,
+            92.0,
+            96.0
+          ]
+        ],
+        "children": [
+          "KOL_T1_NEW_MARKET__00_FoundationGrounds",
+          "KOL_T1_NEW_MARKET__01_PrimaryStructure",
+          "KOL_T1_NEW_MARKET__04_RoofsTower",
+          "KOL_T1_NEW_MARKET__02_Frontage",
+          "KOL_T1_NEW_MARKET__03_ModularArchitecture",
+          "KOL_T1_NEW_MARKET__05_FacadeDetails",
+          "KOL_T1_NEW_MARKET__06_LightingFixtures",
+          "KOL_T1_NEW_MARKET__90_PreviewLights_NOT_FBX"
+        ]
+      },
+      {
+        "name": "80_ExportReady__baked_sections",
+        "hidden": true,
+        "meshes": 31,
+        "bounds_blender": [
+          [
+            -155.0,
+            -92.0,
+            -1.0
+          ],
+          [
+            155.0,
+            92.0,
+            96.0
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "99_ReviewRig_NOT_FBX",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 315
+  },
+  {
+    "id": "KOL_T1_ST_PAULS",
+    "source": "assets/kolkata/landmarks_batch4/st_pauls/KOL_T1_ST_PAULS.blend",
+    "sha256": "32b1513c408177df909e460653d9775896ba14db8a60da402accef1c11e0646f",
+    "scene": "KOL_T1_ST_PAULS",
+    "collections": [
+      {
+        "name": "KOL_T1_ST_PAULS__SOURCE",
+        "hidden": false,
+        "meshes": 302,
+        "bounds_blender": [
+          [
+            -78.0,
+            -126.0,
+            -1.0
+          ],
+          [
+            78.0,
+            126.0,
+            113.1
+          ]
+        ],
+        "children": [
+          "KOL_T1_ST_PAULS__00_FoundationGrounds",
+          "KOL_T1_ST_PAULS__01_PrimaryStructure",
+          "KOL_T1_ST_PAULS__04_RoofsTower",
+          "KOL_T1_ST_PAULS__03_ModularArchitecture",
+          "KOL_T1_ST_PAULS__05_FacadeDetails",
+          "KOL_T1_ST_PAULS__02_EntrancePorches",
+          "KOL_T1_ST_PAULS__06_LightingFixtures",
+          "KOL_T1_ST_PAULS__90_PreviewLights_NOT_FBX"
+        ]
+      },
+      {
+        "name": "80_ExportReady__baked_sections.002",
+        "hidden": true,
+        "meshes": 32,
+        "bounds_blender": [
+          [
+            -78.0,
+            -126.0,
+            -1.0
+          ],
+          [
+            78.0,
+            126.0,
+            113.1
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "99_ReviewRig_NOT_FBX",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 350
+  },
+  {
+    "id": "VICTORIA",
+    "source": "assets/victoria-memorial/VictoriaMemorial.blend",
+    "sha256": "de7494ff0b613f1cb937d553686668157f2d05b312fa582e2b5cc3a794a2fe1f",
+    "scene": "Scene",
+    "collections": [
+      {
+        "name": "Collection",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "VM_Library_Export",
+        "hidden": true,
+        "meshes": 54,
+        "bounds_blender": [
+          [
+            -87.79,
+            -79.7258,
+            0.0
+          ],
+          [
+            125.7506,
+            79.7258,
+            142.6
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "VM_Architecture",
+        "hidden": false,
+        "meshes": 172,
+        "bounds_blender": [
+          [
+            -125.7506,
+            -99.3746,
+            6.0
+          ],
+          [
+            125.7506,
+            99.3746,
+            142.6
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "VM_Structure_Collision",
+        "hidden": false,
+        "meshes": 113,
+        "bounds_blender": [
+          [
+            -147.65,
+            -121.7,
+            0.0
+          ],
+          [
+            147.65,
+            121.7,
+            66.0
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "VM_Interior",
+        "hidden": false,
+        "meshes": 39,
+        "bounds_blender": [
+          [
+            -87.79,
+            -42.99,
+            6.0025
+          ],
+          [
+            87.79,
+            50.59,
+            112.0395
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "VM_Grounds",
+        "hidden": false,
+        "meshes": 466,
+        "bounds_blender": [
+          [
+            -300.0,
+            -310.0,
+            -2.0
+          ],
+          [
+            300.0,
+            310.0,
+            21.1
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "VM_Metadata",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "VM_CollisionOnly",
+        "hidden": false,
+        "meshes": 58,
+        "bounds_blender": [
+          [
+            -16.0,
+            -15.0,
+            -26.0
+          ],
+          [
+            16.0,
+            15.0,
+            26.0
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "VM_Presentation",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "VM009_TwoStoreyInterior",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "VM009_Landscaping",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "VM009_ExhibitArt",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "VM009_NativeArchitecture",
+        "hidden": false,
+        "meshes": 358,
+        "bounds_blender": [
+          [
+            -108.0,
+            -122.5,
+            -14.0
+          ],
+          [
+            108.0,
+            122.5,
+            88.15
+          ]
+        ],
+        "children": []
+      },
+      {
+        "name": "VM009_Lighting",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "VM009_GameplayMarkers",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 1700
+  },
+  {
+    "id": "HOWRAH",
+    "source": "assets/kolkata/howrah_bridge/bridge/KOL_HBR_HOWRAH/KOL_HBR_HOWRAH.blend",
+    "sha256": "1a980620da8b472d85fdcdce9934ddb8d4bef51b11c17c1826ec3d51ba5a54d3",
+    "scene": "KOL_HBR_HOWRAH",
+    "collections": [
+      {
+        "name": "KOL_HBR_HOWRAH__Geometry.002",
+        "hidden": false,
+        "meshes": 91,
+        "bounds_blender": [
+          [
+            -46.14,
+            -451.0,
+            27.9
+          ],
+          [
+            46.14,
+            451.0,
+            145.3097
+          ]
+        ],
+        "children": []
+      }
+    ],
+    "objects": 91
+  },
+  {
+    "id": "GHAT",
+    "source": "assets/kolkata/howrah_bridge/ghat/KOL_HBR_GHAT/KOL_HBR_GHAT.blend",
+    "sha256": "bb6b20f28c8aaaf4c5f6e5120e4431d09f902c2dd48836e58c7be35438c2baf4",
+    "scene": "KOL_HBR_GHAT",
+    "collections": [
+      {
+        "name": "KOL_HBR_GHAT__Geometry.005",
+        "hidden": false,
+        "meshes": 51,
+        "bounds_blender": [
+          [
+            -74.5,
+            -66.0,
+            -1.6
+          ],
+          [
+            74.5,
+            62.0,
+            37.65
+          ]
+        ],
+        "children": []
+      }
+    ],
+    "objects": 51
+  },
+  {
+    "id": "KOL_T1_DAKSHINESHWAR",
+    "source": "assets/kolkata/dakshineshwar/KOL_T1_DAKSHINESHWAR.blend",
+    "sha256": "bc4563b8bec00881c92f20880d55dd45d46c2b978b577b7f1e37a2593ae97048",
+    "scene": "KOL_T1_DAKSHINESHWAR",
+    "collections": [
+      {
+        "name": "KOL_T1_DAKSHINESHWAR__SOURCE.002",
+        "hidden": false,
+        "meshes": 294,
+        "bounds_blender": [
+          [
+            -209.0,
+            -86.0,
+            -10.6
+          ],
+          [
+            209.0,
+            133.8531,
+            149.0
+          ]
+        ],
+        "children": [
+          "KOL_T1_DAKSHINESHWAR__01_Campus.002",
+          "KOL_T1_DAKSHINESHWAR__02_Main_Platform.002",
+          "KOL_T1_DAKSHINESHWAR__03_Main_Envelope.002",
+          "KOL_T1_DAKSHINESHWAR__04_Main_Arcades.002",
+          "KOL_T1_DAKSHINESHWAR__05_Curved_Roofs.002",
+          "KOL_T1_DAKSHINESHWAR__06_Nine_Spires.002",
+          "KOL_T1_DAKSHINESHWAR__07_Shrine_Chamber.001",
+          "KOL_T1_DAKSHINESHWAR__08_Kali_Murti.001",
+          "KOL_T1_DAKSHINESHWAR__09_Shrine_Frame.001",
+          "KOL_T1_DAKSHINESHWAR__10_Shiva_Temples.001",
+          "KOL_T1_DAKSHINESHWAR__AUTHORING_GUIDES__NOT_EXPORTED.001",
+          "KOL_T1_DAKSHINESHWAR__11_Ghat.001",
+          "KOL_T1_DAKSHINESHWAR__12_River_Gateway.001",
+          "KOL_T1_DAKSHINESHWAR__13_Boundary_Support.001",
+          "KOL_T1_DAKSHINESHWAR__14_Landscape_Fixtures.001"
+        ]
+      },
+      {
+        "name": "NIGHT_LIGHTS__native_Roblox_install_plan",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      },
+      {
+        "name": "PREVIEW_ONLY__NOT_EXPORTED",
+        "hidden": false,
+        "meshes": 0,
+        "bounds_blender": null,
+        "children": []
+      }
+    ],
+    "objects": 317
+  }
+]

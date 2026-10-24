@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "linked_library_count": 25,
+  "missing_libraries": [],
+  "landmark_instances": 19,
+  "infrastructure_objects_checked": 2030,
+  "bookmarked_cameras": 8,
+  "scene": "Kolkata_Masterplan_Stage_A",
+  "note": "Actual saved-scene object bounding boxes only; not collision simulation or structural analysis."
+}
